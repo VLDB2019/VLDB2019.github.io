@@ -32,8 +32,10 @@
             */
 
             mainBody.innerHTML = content + '<div class="spinner"></div>';
-
             mainBody.classList.remove('loading');
+            history.replaceState({}, doc.title, "/" + page);
+
+            doc.documentElement.setAttribute('data-page', page);
         });
         xhr.open('GET', '/pages/' + page + '.html');
         xhr.send();
