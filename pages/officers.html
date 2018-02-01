@@ -6,26 +6,26 @@
 
     <h4>Program Committee Chairs</h4>
     <div><strong>Lei Chen</strong>, HKUST</div>
-    <div><strong>Fatma Ozcan</strong>, IBM Almaden</div>
+    <div><strong>Fatma Özcan</strong>, IBM Research - Almaden</div>
 
     <h4>Associate Editors</h4>
-    <div><strong>Selcuk Candan</strong>, USA</div>
-    <div><strong>M. Tamer Ozsu</strong>, Canada</div>
-    <div><strong>Surajit Chaudhuri</strong>, USA</div>
-    <div><strong>Alkis Polyzotis</strong>, USA</div>
-    <div><strong>Georgia Koutrika</strong>, Greece</div>
     <div><strong>Azza Abouzied</strong>, UAE</div>
-    <div><strong>Meihui Zhang</strong>, China</div>
-    <div><strong>Rainer Gemulla</strong>, Germany</div>
-    <div><strong>Alexandra Meliou</strong>, USA</div>
-    <div><strong>Nick Koudas</strong>, Canada</div>
-    <div><strong>Themis Palpanas</strong>, France</div>
-    <div><strong>Kyuseok Shim</strong>, South Korea</div>
-    <div><strong>Yunyao Li</strong>, USA</div>
-    <div><strong>Johann-Christoph Freytag</strong>, Germany</div>
-    <div><strong>Xiaokui Xiao</strong>, Singapore</div>
-    <div><strong>Arnab Nandi</strong>, USA</div>
+    <div><strong>Selcuk Candan</strong>, USA</div>
+    <div><strong>Surajit Chaudhuri</strong>, USA</div>
     <div><strong>Amol Desphande</strong>, USA</div>
+    <div><strong>Johann-Christoph Freytag</strong>, Germany</div>
+    <div><strong>Rainer Gemulla</strong>, Germany</div>
+    <div><strong>Nick Koudas</strong>, Canada</div>
+    <div><strong>Georgia Koutrika</strong>, Greece</div>
+    <div><strong>Yunyao Li</strong>, USA</div>
+    <div><strong>Alexandra Meliou</strong>, USA</div>
+    <div><strong>Arnab Nandi</strong>, USA</div>
+    <div><strong>M. Tamer Özsu</strong>, Canada</div>
+    <div><strong>Themis Palpanas</strong>, France</div>
+    <div><strong>Alkis Polyzotis</strong>, USA</div>
+    <div><strong>Kyuseok Shim</strong>, South Korea</div>
+    <div><strong>Xiaokui Xiao</strong>, Singapore</div>
+    <div><strong>Meihui Zhang</strong>, China</div>
 
     <h4>Treasury Chairs</h4>
     <div><strong>A. Selçuk Candan</strong>, ASU</div>
