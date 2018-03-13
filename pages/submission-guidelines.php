@@ -53,3 +53,17 @@
         <a href="http://vldb.org/pvldb/pvldb-faq.html">http://vldb.org/pvldb/pvldb-faq.html</a>
     </p>
 </section>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "http://vldb.org/2019/?submission-guidelines",
+      "name": "Submission Guidelines",
+    }
+  }]
+}
+</script>

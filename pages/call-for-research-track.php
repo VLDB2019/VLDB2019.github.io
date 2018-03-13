@@ -54,3 +54,17 @@
     <p>Errata Notes may be submitted by the authors of the original paper, or by others who have found bugs in earlier papers. Errata Notes that are accepted for publication will appear in PVLDB, but will not be part of the VLDB conference program. In PVLDB, Errata Notes will be identified by including the keywords “Errata for” in the title.</p>
     <p>Errata notes should be submitted through CMT, using the same submission process as research papers. <strong>S​ubmitted Errata Notes must be identifed as such by a title of the form “Errata for: X”, where X is the title of the earlier PVLDB paper that is being corrected.</strong> Errata Notes will be subjected to a basic level of reviewing if submitted by original authors, and to more detailed reviewing plus feedback/rebuttal from original authors if submitted by someone other than the original authors.</p>
 </section>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "http://vldb.org/2019/?call-for-research-track",
+      "name": "Call for Contributions - Research Track",
+    }
+  }]
+}
+</script>

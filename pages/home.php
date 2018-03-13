@@ -27,3 +27,29 @@
        data-link-color="#444" data-chrome="noborders transparent"
        href="https://twitter.com/vldb2018?ref_src=twsrc%5Etfw">Tweets by vldb2018</a>
 </aside>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
+  "sameAs": "http://vldb.org/2019",
+  "startDate": "2019-08-26T10:00-08:00",
+  "location": {
+    "@type": "Place",
+    "name": "The Westin Bonaventure Hotel",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "404 S Figueroa St.",
+      "addressLocality": "Los Angeles",
+      "postalCode": "90071",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    }
+  },
+  "image": [
+    "http://vldb.org/2019/img/logo.png"
+   ],
+  "description": "VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users. The VLDB 2019 conference will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research, since they are the technological cornerstones of the emerging applications of the 21st century.",
+  "endDate": "2019-08-30T18:00-08:00"
+}
+</script>

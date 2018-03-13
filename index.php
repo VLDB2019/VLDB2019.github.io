@@ -25,7 +25,7 @@ if (empty($q)) {
 <header>
     <div class="small-menu"><a class="hamburger"></a></div>
     <div class="small-header"><figure class="logo"><img src="./img/logo.svg"></figure></div>
-    <nav>
+    <nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
         <figure class="logo"><img src="./img/logo.svg"></figure>
         <div>
             General Information
@@ -52,18 +52,18 @@ if (empty($q)) {
         <div>
             Dates &amp; Guidelines
             <div class="menu">
-                <a href="./?important-dates">Important dates</a>
+                <a href="./?important-dates" itemprop="url"><span itemprop="name">Important dates</span></a>
                 <hr />
                 <a href="./?formatting-guidelines">Formatting guidelines</a>
-                <a href="./?submission-guidelines">Submission guidelines</a>
+                <a href="./?submission-guidelines" itemprop="url"><span itemprop="name">Submission guidelines</span></a>
             </div>
         </div>
         <div class="no-sub"><a href="./?sponsorship">Sponsorship</a></div>
         <div>
             Participant Information
             <div class="menu">
-                <a href="./?registration">Registration</a>
-                <a href="./?info-conference-venue">Conference venue</a>
+                <a href="./?registration" itemprop="url"><span itemprop="name">Registration</span></a>
+                <a href="./?info-conference-venue" itemprop="url"><span itemprop="name">Conference venue</span></a>
                 <a href="./?info-lodging">Lodging</a>
                 <a href="./?info-travel-fellowship">Travel fellowship</a>
                 <a href="./?info-visa">Visa information</a>
@@ -106,29 +106,19 @@ if (empty($q)) {
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "Event",
-  "name": "VLDB2019: 45th International Conference on Very Large Data Bases",
-  "sameAs": "http://vldb.org/2019",
-  "startDate": "2019-08-26T10:00-08:00",
-  "location": {
-    "@type": "Place",
-    "name": "The Westin Bonaventure Hotel",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "404 S Figueroa St.",
-      "addressLocality": "Los Angeles",
-      "postalCode": "90071",
-      "addressRegion": "CA",
-      "addressCountry": "US"
-    }
-  },
-  "image": [
-    "http://vldb.org/2019/img/logo.png"
-   ],
-  "description": "VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users. The VLDB 2019 conference will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research, since they are the technological cornerstones of the emerging applications of the 21st century.",
-  "endDate": "2019-08-30T18:00-08:00"
+  "@type": "Organization",
+  "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
+  "url": "http://vldb.org/2019",
+  "logo": "http://vldb.org/2019/img/logo.png"
 }
 </script>
-
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://vldb.org/2019",
+  "name": "VLDB 2019"
+}
+</script>
 </body>
 </html>
