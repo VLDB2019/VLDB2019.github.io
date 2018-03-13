@@ -25,9 +25,53 @@ h2:first-child {
     margin-top: 10px;
 }
 
+h3 {
+    margin: 20px 0 10px;
+}
+
+h3:first-child {
+    margin-top: 10px;
+}
+
+a {
+    color: #3a84df;
+    text-decoration: none;
+}
+
+p {
+    line-height: 1.75em;
+    margin: 10px 0 15px;
+}
+
+sup, sub {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+sub {
+    top: 0.4em;
+}
+
+ul {
+    line-height: 1.75em;
+}
+
+.small-header {
+    background: linear-gradient(to bottom, #f3f3f3 0%, #e9e9e9 50%, #e4e4e4 51%, #e2e2e2 100%);
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    z-index: 101;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: -11px 12px 23px rgba(0, 0, 0, 0.1);
+    display: none;
+}
+
 header {
     background: #fff;
     margin-bottom: 20px;
+    position: relative;
 }
 
 header > nav {
@@ -82,6 +126,68 @@ header > nav > div.no-sub:hover {
     border-bottom: 1px solid #999;
 }
 
+header > nav a {
+    color: inherit;
+}
+
+header .small-menu {
+    display: none;
+    position: fixed;
+    left: calc(100vw - 60px);
+    top: 5px;
+    z-index: 102;
+    height: 40px;
+    width: 40px;
+}
+
+header .hamburger {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -2px 0 0 -10px;
+}
+
+header .hamburger,
+header .hamburger:before,
+header .hamburger:after {
+    height: 3px;
+    width: 20px;
+    background: #444;
+}
+
+header .hamburger:before,
+header .hamburger:after {
+    content: '';
+    transform-origin: center center;
+    transition: transform .3s, background .3s;
+}
+
+header .hamburger:before {
+    position: absolute;
+    top: -6px;
+    left: 0;
+}
+
+header .hamburger:after {
+    position: absolute;
+    top: 6px;
+    left: 0;
+}
+
+header[data-open] .hamburger {
+    background: transparent;
+}
+
+header[data-open] .hamburger:before {
+    transform: translateY(6px) rotate(-45deg);
+    background: #8b0000;
+}
+
+header[data-open] .hamburger:after {
+    transform: translateY(-6px) rotate(45deg);
+    background: #8b0000;
+}
+
 header .menu {
     padding: 0;
     margin: 0;
@@ -123,6 +229,7 @@ header > nav > div:hover .menu {
     border-width: 1px 0 0 0;
 }
 
+.small-header .logo,
 header > nav > .logo {
     flex-grow: 1;
     flex-shrink: 1;
@@ -133,6 +240,10 @@ header > nav > .logo {
 header > nav > .logo > img {
     min-width: 120px;
     max-width: 240px;
+}
+
+.small-header .logo > img {
+    max-width: 160px;
 }
 
 .carousel {
@@ -253,6 +364,107 @@ section > h2 {
 
     .menu > a {
         padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    main.body {
+        display: block;
+    }
+
+    main.body > section.intro {
+        width: 100%;
+        padding: 0;
+    }
+
+    main.body > aside {
+        width: auto;
+    }
+
+    header > nav > div {
+        display: none;
+    }
+
+    header .small-menu {
+        display: inline-block;
+    }
+
+    header > .small-menu ~ nav > div:after {
+        display: none;
+    }
+
+    header[data-open] ~ * {
+        display: none;
+    }
+
+    header[data-open] .carousel {
+        visibility: hidden;
+    }
+
+    header[data-open] .small-header {
+        display: flex;
+        align-items: center;
+        flex-flow: row nowrap;
+    }
+
+    header[data-open] > nav .logo {
+        visibility: hidden;
+    }
+
+    header[data-open] > nav {
+        flex-flow: column nowrap;
+        width: 100%;
+        align-items: left;
+        position: static;
+        background: transparent;
+    }
+
+    header[data-open] .menu,
+    header[data-open] > nav > div {
+        display: block;
+        position: static;
+        background: white;
+        border-width: 0;
+        width: 100%;
+        box-shadow: none;
+        font-weight: bold;
+    }
+
+    header[data-open] .menu {
+        border-radius: 0;
+        border-width: 0 0 0 5px;
+        font-weight: 400;
+        font-size: 14px;
+        padding: 0;
+    }
+
+    header[data-open] .menu > a:hover {
+        border-color: transparent;
+        background: transparent;
+    }
+
+    header[data-open] .menu > hr {
+        display: none;
+    }
+
+    header[data-open] > nav > div.no-sub:hover {
+        border: 0;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .carousel > span {
+        font-size: 14px;
+        height: 26px;
+        line-height: 26px;
+        top: 124px;
+    }
+
+    .carousel > span + span {
+        font-size: 13px;
+        line-height: 18px;
+        height: 18px;
+        top: 150px;
     }
 }
 
