@@ -11,17 +11,22 @@ html, body {
     position: relative;
 }
 
+body {
+    overflow-y: scroll;
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
 
-h2 {
+h1, h2 {
     margin: 40px 0 20px;
+    font-size: 21px;
 }
 
-h2:first-child {
+h1 {
     margin-top: 10px;
 }
 
@@ -106,7 +111,7 @@ header > nav > div {
 header > nav > div:after {
     content: '';
     display: inline-block;
-    background: url("img/caret.svg") 0 0/10px 10px;
+    background: url("../img/caret.svg") 0 0/10px 10px;
     height: 10px;
     width: 10px;
     margin-left: 10px;
@@ -174,16 +179,16 @@ header .hamburger:after {
     left: 0;
 }
 
-header[data-open] .hamburger {
+header[aria-expanded="true"] .hamburger {
     background: transparent;
 }
 
-header[data-open] .hamburger:before {
+header[aria-expanded="true"] .hamburger:before {
     transform: translateY(6px) rotate(-45deg);
     background: #8b0000;
 }
 
-header[data-open] .hamburger:after {
+header[aria-expanded="true"] .hamburger:after {
     transform: translateY(-6px) rotate(45deg);
     background: #8b0000;
 }
@@ -205,9 +210,10 @@ header .menu {
     display: none;
 }
 
-header > nav > div:hover .menu {
+header:not([aria-disabled="true"]) > nav > div:hover .menu {
     display: block;
 }
+
 
 .menu > a {
     display: block;
@@ -322,6 +328,7 @@ main.body > section.intro {
     text-align: justify;
 }
 
+section > h1,
 section > h2 {
     color: #888;
 }
@@ -393,25 +400,25 @@ section > h2 {
         display: none;
     }
 
-    header[data-open] ~ * {
+    header[aria-expanded="true"] ~ * {
         display: none;
     }
 
-    header[data-open] .carousel {
+    header[aria-expanded="true"] .carousel {
         visibility: hidden;
     }
 
-    header[data-open] .small-header {
+    header[aria-expanded="true"] .small-header {
         display: flex;
         align-items: center;
         flex-flow: row nowrap;
     }
 
-    header[data-open] > nav .logo {
+    header[aria-expanded="true"] > nav .logo {
         visibility: hidden;
     }
 
-    header[data-open] > nav {
+    header[aria-expanded="true"] > nav {
         flex-flow: column nowrap;
         width: 100%;
         align-items: left;
@@ -419,8 +426,8 @@ section > h2 {
         background: transparent;
     }
 
-    header[data-open] .menu,
-    header[data-open] > nav > div {
+    header[aria-expanded="true"] .menu,
+    header[aria-expanded="true"] > nav > div {
         display: block;
         position: static;
         background: white;
@@ -430,7 +437,7 @@ section > h2 {
         font-weight: bold;
     }
 
-    header[data-open] .menu {
+    header[aria-expanded="true"] .menu {
         border-radius: 0;
         border-width: 0 0 0 5px;
         font-weight: 400;
@@ -438,16 +445,16 @@ section > h2 {
         padding: 0;
     }
 
-    header[data-open] .menu > a:hover {
+    header[aria-expanded="true"] .menu > a:hover {
         border-color: transparent;
         background: transparent;
     }
 
-    header[data-open] .menu > hr {
+    header[aria-expanded="true"] .menu > hr {
         display: none;
     }
 
-    header[data-open] > nav > div.no-sub:hover {
+    header[aria-expanded="true"] > nav > div.no-sub:hover {
         border: 0;
     }
 }
@@ -484,7 +491,7 @@ section > h2 {
     width: 96px;
     height: 96px;
     border-radius: 100px;
-    background: url("img/westin.png") no-repeat;
+    background: url("../img/westin.png") no-repeat;
     float: left;
     background-size: contain;
     margin-right: 30px;
@@ -509,13 +516,13 @@ address > * {
     display: block;
     width: 20px;
     height: 20px;
-    background: url("img/loc.svg") no-repeat 0 1px/15px 15px;
+    background: url("../img/loc.svg") no-repeat 0 1px/15px 15px;
     position: absolute;
     left: 0;
 }
 
 .phone-icon:before {
-    background: url("img/phone.svg") no-repeat 0 1px/15px 15px;
+    background: url("../img/phone.svg") no-repeat 0 1px/15px 15px;
 }
 
 footer {

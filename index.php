@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 define("Root", preg_replace("@\\\\@", '/', dirname(__FILE__)));
 
 list($q,$s) = explode("=", array_shift(preg_split("/(?<!\|)(&|;)/i", $_SERVER['QUERY_STRING'])),2);
@@ -7,6 +8,21 @@ $s = preg_replace(array("/<.*script>/i", "/%3C.*ScRiPt%3E/i", "/<\?/", "/\?>/", 
 if (empty($q)) {
     $q = 'home';
 }
+$page = Root.'/pages/'.$q.'.php';
+
+ob_start();
+if (file_exists($page)) {
+    include(Root . '/pages/' . $q . '.php');
+    $lastModified = gmdate('D, d M Y H:i:s ', filemtime(Root . '/pages/' . $q . '.php')) . 'GMT';
+    if (isset($_SERVER['HTTP_IF_MODIFIED_SINCE']) && $_SERVER['HTTP_IF_MODIFIED_SINCE'] == $lastModified) {
+        header('HTTP/1.1 304 Not Modified');
+        exit();
+    }
+    header("Last-Modified: ".$lastModified);
+} else {
+    include(Root . '/pages/coming-soon.php');
+}
+$content = ob_get_clean();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -14,23 +30,33 @@ if (empty($q)) {
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./main.css">
-    <link rel="stylesheet" href="./font/font.css">
+    <?php
+    if ($_COOKIE['env'] == 'dev') {
+        ?>
+        <link rel="stylesheet" href="./font/font.css">
+        <link rel="stylesheet" href="./css/main.css">
+        <?php
+    } else {
+        ?>
+        <link rel="stylesheet" href="./css/prod.min.css">
+        <?php
+    }
+    ?>
     <link rel="icon" type="image/png" href="./img/favicon.png">
-    <title>VLDB 2019 - 45th International Conference on Very Large Data Bases</title>
-    <script src="./js/router.js"></script>
+    <title>VLDB 2019 - <?= defined('PageTitle') && PageTitle ? PageTitle : "45th International Conference on Very Large Data Bases"; ?></title>
+    <meta name="description" content="The VLDB 2019 conference, will take place in Los Angeles, California, 26-30 August 2019, and will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research. VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users." />
 </head>
 <body>
 
 <header>
     <div class="small-menu"><a class="hamburger"></a></div>
-    <div class="small-header"><figure class="logo"><img src="./img/logo.svg"></figure></div>
-    <nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-        <figure class="logo"><img src="./img/logo.svg"></figure>
+    <div class="small-header"><figure class="logo"><img src="./img/logo.svg" alt="VLDB 2019"></figure></div>
+    <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+        <figure class="logo"><img src="./img/logo.svg" alt="VLDB 2019"></figure>
         <div>
             General Information
             <div class="menu">
-                <a href="./index.php">Conference overview</a>
+                <a href="./">Conference overview</a>
                 <a href="./?officers">Conference officers</a>
                 <a href="./?review-board">PVLDB review board</a>
                 <a href="./?contacts">Contacts</a>
@@ -81,14 +107,7 @@ if (empty($q)) {
 </header>
 
 <main class="body">
-    <?php
-    $page = Root.'/pages/'.$q.'.php';
-    if (file_exists($page)) {
-        include(Root . '/pages/' . $q . '.php');
-    } else {
-        include(Root . '/pages/coming-soon.php');
-    }
-    ?>
+    <?= $content; ?>
     <div class="spinner"></div>
 </main>
 
@@ -99,26 +118,21 @@ if (empty($q)) {
     </a>
 </footer>
 
+<?php
+if ($_COOKIE['env'] == 'dev') {
+    ?>
+    <script src="./js/polyfills.js"></script>
+    <script src="./js/carousel.js"></script>
+    <script src="./js/menu.js"></script>
+    <script src="./js/router.js"></script>
+<?php
+} else {
+?>
+    <script src="./js/prod.min.js"></script>
+    <?php
+}
+?>
 
-<script src="./js/carousel.js"></script>
-<script src="./js/menu.js"></script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
-  "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
-  "url": "http://vldb.org/2019",
-  "logo": "http://vldb.org/2019/img/logo.png"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "http://vldb.org/2019",
-  "name": "VLDB 2019"
-}
-</script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
 </body>
 </html>

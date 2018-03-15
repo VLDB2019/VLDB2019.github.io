@@ -1,9 +1,9 @@
 <section class="submission-guidelines">
-    <h2>VLDB 2019: Submission Guidelines</h2>
+    <h1>VLDB 2019: Submission Guidelines</h1>
 
     <h3>Generation Information</h3>
     <p>
-        Papers are to be formatted according to the conference’s <a href="./?formatting-guidelines">camera-ready format</a>, as embodied in the document templates.
+        Papers are to be formatted according to the conference's <a href="./?formatting-guidelines">camera-ready format</a>, as embodied in the document templates.
         <strong><span style="color: red">Same as PVLDB 2018:</span> The maximum research paper length is 12 pages, not including references whose pages could extend paper length to beyond the 12 pages limit. There is no limit on the number of pages used for references.</strong>
         The conference management tool for the submission of abstracts and papers is accessible at:<br>
         <a href="https://cmt3.research.microsoft.com/VLDB2019/">https://cmt3.research.microsoft.com/VLDB2019/</a>
@@ -53,17 +53,48 @@
         <a href="http://vldb.org/pvldb/pvldb-faq.html">http://vldb.org/pvldb/pvldb-faq.html</a>
     </p>
 </section>
+<?php
+define('PageTitle', "Submission Guidelines");
+?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
-    "item": {
-      "@id": "http://vldb.org/2019/?submission-guidelines",
-      "name": "Submission Guidelines",
-    }
-  }]
+  "@type": "WebPage",
+  "name": "Submission Guidelines",
+  "url": "http://vldb.org/2019/?submission-guidelines",
+  "description": "Papers are to be formatted according to the conference's camera-ready format, as embodied in the document templates.",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "VLDB 2019",
+      }
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "http://vldb.org/2019/?submission-guidelines",
+        "name": "Submission Guidelines",
+      }
+    }]
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LiteraryEvent",
+  "name": "First submission deadline for PVLDB Volume 12",
+  "sameAs": "http://vldb.org/2019/?submission-guidelines",
+  "startDate": "2018-03-01T17:00-08:00",
+  "endDate": "2018-04-01T17:00-08:00",
+  "potentialAction": {
+    "@type": "TransferAction",
+    "url": "http://vldb.org/2019/?submission-guidelines",
+    "name": "Submit paper"
+  }
 }
 </script>

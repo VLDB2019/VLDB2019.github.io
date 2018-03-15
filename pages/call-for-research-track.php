@@ -1,5 +1,5 @@
 <section class="call-for-research-track">
-    <h2>VLDB 2019: Call for Contributions - Research Track</h2>
+    <h1>VLDB 2019: Call for Contributions - Research Track</h1>
 
     <p>We invite submissions of original research papers to Volume 12 of the Proceedings of the VLDB Endowment (PVLDB). Papers accepted by June 15, 2019 will form the Research Track of the 2019 VLDB conference, together with any rollover papers from Volume 11. Papers accepted to Volume 12 after June 15, 2019 will be rolled over to the 2020 VLDB conference.</p>
     <p>The annual VLDB conference is a premier annual international forum for database researchers, vendors, practitioners, application developers, and users. PVLDB, established in 2008, is a scholarly journal for short and timely research papers, with a journal-style review and quality assurance process. PVLDB is distinguished by a monthly submission process with rapid reviews. PVLDB issues are published regularly throughout the year. Your paper will appear in PVLDB soon after acceptance, and possibly in advance of the VLDB conference. All papers accepted in time will be published in PVLDB Vol. 12 and also presented at the VLDB 2019 conference. At least one author of every accepted paper is expected to attend the VLDB 2019 conference.</p>
@@ -44,7 +44,7 @@
     <h3>Vision Papers</h3>
     <p>Vision papers outline futuristic information systems and architectures or anticipate new challenges. Submissions would describe novel projects that are in an early stage but hold out the strong promise of eventual high impact. The focus should be on the key insight behind the project (e.g., a new set of ground rules or a novel technology), as well as explaining how the key insight can be leveraged in building a system. The paper must describe what the success criteria are for the vision project.</p>
     <p><strong>VLDB is a single-blind conference. Therefore, authors MUST include their names and affiliations on the manuscript cover page. In addition, for research track papers that belong to a special category authors MUST append the category tag as a SUFFIX to the title of the paper. For example, "Comparison of Top-K algorithms (Experimental Track)". This must be done both in the paper file and in the CMT submission title.</strong></p>
-    <p>For instructions on how to format and submit a research paper to PVLDB Volume 12 (VLDB’19), please see the <a href="./?submission-guidelines">s​ubmission guidelines</a>.​</p>
+    <p>For instructions on how to format and submit a research paper to PVLDB Volume 12 (VLDB'19), please see the <a href="./?submission-guidelines">s​ubmission guidelines</a>.​</p>
 
     <h3>Errata Notes</h3>
     <p>
@@ -54,6 +54,9 @@
     <p>Errata Notes may be submitted by the authors of the original paper, or by others who have found bugs in earlier papers. Errata Notes that are accepted for publication will appear in PVLDB, but will not be part of the VLDB conference program. In PVLDB, Errata Notes will be identified by including the keywords “Errata for” in the title.</p>
     <p>Errata notes should be submitted through CMT, using the same submission process as research papers. <strong>S​ubmitted Errata Notes must be identifed as such by a title of the form “Errata for: X”, where X is the title of the earlier PVLDB paper that is being corrected.</strong> Errata Notes will be subjected to a basic level of reviewing if submitted by original authors, and to more detailed reviewing plus feedback/rebuttal from original authors if submitted by someone other than the original authors.</p>
 </section>
+<?php
+define('PageTitle', "Call for Contributions - Research Track");
+?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -66,5 +69,32 @@
       "name": "Call for Contributions - Research Track",
     }
   }]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Call for Contributions - Research Track",
+  "url": "http://vldb.org/2019/?call-for-research-track",
+  "description": "We invite submissions of original research papers to Volume 12 of the Proceedings of the VLDB Endowment (PVLDB). Papers accepted by June 15, 2019 will form the Research Track of the 2019 VLDB conference, together with any rollover papers from Volume 11. Papers accepted to Volume 12 after June 15, 2019 will be rolled over to the 2020 VLDB conference.",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "VLDB 2019",
+      }
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "http://vldb.org/2019/?call-for-research-track",
+        "name": "Call for Contributions - Research Track"
+      }
+    }]
+  }
 }
 </script>

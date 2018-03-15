@@ -1,5 +1,5 @@
 <section class="officers">
-    <h2>VLDB 2019: Conference officers</h2>
+    <h1>VLDB 2019: Conference Officers</h1>
 
     <h4>General Conference Chairs</h4>
     <div><strong>Shahram Ghandeharizadeh</strong>, USC</div>
@@ -73,3 +73,6 @@
     <div><strong>Tyson Condie</strong>, UCLA</div>
     <div><strong>Beth Trushkowsky</strong>, HMC</div>
 </section>
+<?php
+define('PageTitle', "Conference Officers");
+?>

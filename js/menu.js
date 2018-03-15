@@ -4,13 +4,13 @@ if (smallMenu) {
     smallMenu.addEventListener('click', function(e) {
         e.preventDefault();
         var parent = smallMenu.parentElement;
-        if (parent.getAttribute('data-open') === 'true') {
-            parent.removeAttribute('data-open');
+        if (parent.getAttribute('aria-expanded') === 'true') {
+            parent.removeAttribute('aria-expanded');
             window.scrollTo(0, lastScrollY);
         } else {
             lastScrollY = window.scrollY;
             window.scrollTo(0, 0);
-            parent.setAttribute('data-open', 'true');
+            parent.setAttribute('aria-expanded', 'true');
         }
     });
 }

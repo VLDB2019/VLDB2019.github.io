@@ -1,5 +1,5 @@
 <section class="intro">
-    <h2>VLDB 2019: Overview</h2>
+    <h1>VLDB 2019: Overview</h1>
     <p>VLDB is a premier annual international forum for data management and database researchers, vendors,
         practitioners, application developers, and users. The VLDB 2019 conference will feature research talks,
         tutorials, demonstrations, and workshops. It will cover issues in data management, database and information
@@ -25,8 +25,32 @@
 <aside class="tweets">
     <a class="twitter-timeline" data-lang="en" data-dnt="true"
        data-link-color="#444" data-chrome="noborders transparent"
-       href="https://twitter.com/vldb2018?ref_src=twsrc%5Etfw">Tweets by vldb2018</a>
+       href="https://twitter.com/vldb2019?ref_src=twsrc%5Etfw">Tweets by vldb2019</a>
 </aside>
+<?php
+define('PageTitle', "45th International Conference on Very Large Data Bases");
+?>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
+  "url": "http://vldb.org/2019",
+  "logo": "http://vldb.org/2019/img/logo.png"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://vldb.org/2019",
+  "name": "VLDB 2019",
+  "sameAs": [
+    "https://twitter.com/vldb2019",
+    "https://facebook.com/VLDB2019/"
+  ]
+}
+</script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -49,7 +73,7 @@
   "image": [
     "http://vldb.org/2019/img/logo.png"
    ],
-  "description": "VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users. The VLDB 2019 conference will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research, since they are the technological cornerstones of the emerging applications of the 21st century.",
+  "description": "The VLDB 2019 conference, will take place in Los Angeles, California, 26-30 August 2019, and will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research. VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users.",
   "endDate": "2019-08-30T18:00-08:00"
 }
 </script>

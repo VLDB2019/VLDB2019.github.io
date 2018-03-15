@@ -1,0 +1,14 @@
+ExpiresActive On
+
+<IfModule mod_mime.c>
+    AddType font/woff            .woff
+    AddType font/woff2           .woff2
+</IfModule>
+
+<FilesMatch "\.(js|css)$">
+    ExpiresDefault "access plus 3 months"
+</FilesMatch>
+
+<FilesMatch "\.(ico|flv|jpg|jpeg|png|gif|svg|swf|woff|woff2)$">
+    ExpiresDefault "access plus 6 months"
+</FilesMatch>

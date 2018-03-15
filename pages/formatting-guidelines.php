@@ -1,5 +1,5 @@
 <section class="formatting-guidelines">
-    <h2>VLDB 2019: Formatting Guidelines</h2>
+    <h1>VLDB 2019: Formatting Guidelines</h1>
 
     <h3>Generation Information</h3>
     <p>All papers submitted to PVLDB and the VLDB Conference, irrespective of track, must adhere strictly to the PVLDB format detailed here. Any deviation will be liable to summary rejection of the paper. The paper should:</p>
@@ -68,3 +68,6 @@
     <h3>Publication Process</h3>
     <p>Accepted VLDB papers are continuously published in monthly issues. You can expect a couple of months (from the time you complete the Camera Ready submission process) for your paper to appear in the Proceedings. PVLDB is an archival journal with monthly issues that is published online on vldb.org, in the ACM Digital Library, on DBLP and, since 2011, also in the Computing Research Repository (CoRR) on arxiv.org.</p>
 </section>
+<?php
+define('PageTitle', "Formatting Guidelines");
+?>
