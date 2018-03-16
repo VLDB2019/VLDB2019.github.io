@@ -44,6 +44,7 @@ $content = ob_get_clean();
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="http://vldb.org/2019/<?= $q == 'home' ? '' : "?{$q}"; ?>">
     <style>
         body{visibility:visible}
     </style>
