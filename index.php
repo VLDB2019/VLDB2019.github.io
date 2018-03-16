@@ -44,18 +44,15 @@ $content = ob_get_clean();
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <?php
-    if ($_COOKIE['env'] == 'dev') {
-        ?>
+    <style>
+        body{visibility:visible}
+    </style>
+    <?php if ($_COOKIE['env'] == 'dev') { ?>
         <link rel="stylesheet" href="./font/font.css">
         <link rel="stylesheet" href="./css/main.css">
-        <?php
-    } else {
-        ?>
+    <?php } else { ?>
         <link rel="stylesheet" href="./css/prod.min.css">
-        <?php
-    }
-    ?>
+    <?php } ?>
     <link rel="icon" type="image/png" href="./img/favicon.png">
     <title>VLDB 2019 - <?= defined('PageTitle') && PageTitle ? PageTitle : "45th International Conference on Very Large Data Bases"; ?></title>
     <meta name="description" content="The VLDB 2019 conference, will take place in Los Angeles, California, 26-30 August 2019, and will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research. VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users." />
@@ -113,8 +110,7 @@ $content = ob_get_clean();
             </div>
         </div>
     </nav>
-    <section class="carousel<?= $q == 'home' ? '' : ' small'; ?>"
-             data-images="./img/1.png|./img/2.png|./img/3.png|./img/4.png|./img/5.png|./img/6.png|./img/7.png">
+    <section class="carousel<?= $q == 'home' ? '' : ' small'; ?>" data-images="./img/1.png|./img/2.png|./img/3.png|./img/4.png|./img/5.png|./img/6.png|./img/7.png">
         <span>45<sup>th</sup> International Conference on Very Large Data Bases</span>
         <span>Los Angeles, California - August 26-30, 2019</span>
     </section>
@@ -138,7 +134,7 @@ $content = ob_get_clean();
     <script src="./js/menu.js"></script>
     <script src="./js/router.js"></script>
 <?php } else { ?>
-    <script src="./js/prod.min.js"></script>
+    <script async src="./js/prod.min.js"></script>
 <?php } ?>
 
 <script async src="https://platform.twitter.com/widgets.js"></script>

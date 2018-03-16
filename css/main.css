@@ -13,6 +13,7 @@ html, body {
 
 body {
     overflow-y: scroll;
+    visibility: visible;
 }
 
 * {
