@@ -26,20 +26,16 @@
         xhr = new XMLHttpRequest();
         xhr.addEventListener('load', function() {
             var content = this.responseText,
-                title = 'VLDB 2019 - ' + this.getResponseHeader('X-Page-Title');
+                title = 'VLDB 2019 - ' + this.getResponseHeader('X-Page-Title'),
+                loc = (page && page !== 'home') ? '?' + page : '';
 
-            /*
-            [].forEach.call(mainBody.querySelectorAll('>*:not(.spinner)'), function(el) {
-                console.log('removed', el);
-                mainBody.removeChild(el);
-            });
-            */
-
-            if (addToHistory !== false) history.pushState(null, '', "./" + ((page && page !== 'home') ? '?' + page : ''));
+            if (addToHistory !== false) history.pushState(null, '', './' + loc);
 
             mainBody.innerHTML = content + '<div class="spinner"></div>';
             mainBody.classList.remove('loading');
             document.title = title;
+
+            if (gtag) gtag('config', 'UA-115776710-1', {'page_path': '/2019/' + loc});
 
             doc.documentElement.setAttribute('data-page', page);
             if (header) {
@@ -48,6 +44,7 @@
                 }, 200);
             }
         });
+
         xhr.open('GET', './include.php?' + page);
         xhr.send();
     };

@@ -86,7 +86,7 @@ define('PageTitle', "Submission Guidelines");
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "LiteraryEvent",
+  "@type": "Event",
   "name": "First submission deadline for PVLDB Volume 12",
   "sameAs": "http://vldb.org/2019/?submission-guidelines",
   "startDate": "2018-03-01T17:00-08:00",

@@ -25,7 +25,7 @@
 <aside class="tweets">
     <a class="twitter-timeline" data-lang="en" data-dnt="true"
        data-link-color="#444" data-chrome="noborders transparent"
-       href="https://twitter.com/vldb2019?ref_src=twsrc%5Etfw">Tweets by vldb2019</a>
+       href="https://twitter.com/vldb2019">Tweets by vldb2019</a>
 </aside>
 <?php
 define('PageTitle', "45th International Conference on Very Large Data Bases");

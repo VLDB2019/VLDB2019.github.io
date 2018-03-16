@@ -76,3 +76,30 @@
 <?php
 define('PageTitle', "Conference Officers");
 ?>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Conference Officers",
+  "url": "http://vldb.org/2019/?officers",
+  "description": "Conference Officers",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "VLDB 2019",
+      }
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "http://vldb.org/2019/?officers",
+        "name": "Conference Officers",
+      }
+    }]
+  }
+}
+</script>

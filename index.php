@@ -2,13 +2,13 @@
 error_reporting(0);
 define("Root", preg_replace("@\\\\@", '/', dirname(__FILE__)));
 
-list($q,$s) = explode("=", array_shift(preg_split("/(?<!\|)(&|;)/i", $_SERVER['QUERY_STRING'])),2);
+list($q, $s) = explode("=", array_shift(preg_split("/(?<!\|)(&|;)/i", $_SERVER['QUERY_STRING'])), 2);
 $q = preg_replace(array("/<.*script>/i", "/%3C.*ScRiPt%3E/i", "/<\?/", "/\?>/", "/<%/", "/%>/"), array('', '', '', '', '', ''), rawurldecode($q));
 $s = preg_replace(array("/<.*script>/i", "/%3C.*ScRiPt%3E/i", "/<\?/", "/\?>/", "/<%/", "/%>/"), array('', '', '', '', '', ''), $s);
 if (empty($q)) {
     $q = 'home';
 }
-$page = Root.'/pages/'.$q.'.php';
+$page = Root . '/pages/' . $q . '.php';
 
 ob_start();
 if (file_exists($page)) {
@@ -18,7 +18,7 @@ if (file_exists($page)) {
         header('HTTP/1.1 304 Not Modified');
         exit();
     }
-    header("Last-Modified: ".$lastModified);
+    header("Last-Modified: " . $lastModified);
 } else {
     include(Root . '/pages/coming-soon.php');
 }
@@ -27,6 +27,20 @@ $content = ob_get_clean();
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115776710-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-115776710-1');
+    </script>
+    <!-- // Google Analytics -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -56,46 +70,46 @@ $content = ob_get_clean();
         <div>
             General Information
             <div class="menu">
-                <a href="./">Conference overview</a>
-                <a href="./?officers">Conference officers</a>
-                <a href="./?review-board">PVLDB review board</a>
-                <a href="./?contacts">Contacts</a>
+                <a href="./" itemprop="url"><span itemprop="name">Conference overview</span></a>
+                <a href="./?officers" itemprop="url">Conference officers</a>
+                <a href="./?review-board" itemprop="url">PVLDB review board</a>
+                <a href="./?contacts" itemprop="url">Contacts</a>
             </div>
         </div>
         <div>
             Call for Contributions
             <div class="menu">
-                <a href="./?call-for-research-track">Research track</a>
-                <a href="./?call-for-industrial-track">Industrial track</a>
-                <a href="./?call-for-phd-workshop">PhD workshop</a>
-                <hr />
-                <a href="./?demonstrations">Demonstrations</a>
-                <a href="./?tutorials">Tutorials</a>
-                <a href="./?panels">Panels</a>
-                <a href="./?workshops">Workshops</a>
+                <a href="./?call-for-research-track" itemprop="url"><span itemprop="name">Research track</span></a>
+                <a href="./?call-for-industrial-track" itemprop="url">Industrial track</a>
+                <a href="./?call-for-phd-workshop" itemprop="url">PhD workshop</a>
+                <hr/>
+                <a href="./?demonstrations" itemprop="url">Demonstrations</a>
+                <a href="./?tutorials" itemprop="url">Tutorials</a>
+                <a href="./?panels" itemprop="url">Panels</a>
+                <a href="./?workshops" itemprop="url">Workshops</a>
             </div>
         </div>
         <div>
             Dates &amp; Guidelines
             <div class="menu">
                 <a href="./?important-dates" itemprop="url"><span itemprop="name">Important dates</span></a>
-                <hr />
-                <a href="./?formatting-guidelines">Formatting guidelines</a>
+                <hr/>
+                <a href="./?formatting-guidelines" itemprop="url">Formatting guidelines</a>
                 <a href="./?submission-guidelines" itemprop="url"><span itemprop="name">Submission guidelines</span></a>
             </div>
         </div>
-        <div class="no-sub"><a href="./?sponsorship">Sponsorship</a></div>
+        <div class="no-sub"><a href="./?sponsorship" itemprop="url">Sponsorship</a></div>
         <div>
             Participant Information
             <div class="menu">
                 <a href="./?registration" itemprop="url"><span itemprop="name">Registration</span></a>
                 <a href="./?info-conference-venue" itemprop="url"><span itemprop="name">Conference venue</span></a>
-                <a href="./?info-lodging">Lodging</a>
-                <a href="./?info-travel-fellowship">Travel fellowship</a>
-                <a href="./?info-visa">Visa information</a>
-                <a href="./?info-public-transport">Public transport</a>
-                <a href="./?info-local-attractions">Local attractions</a>
-                <a href="./?info-public-safety">Public safety</a>
+                <a href="./?info-lodging" itemprop="url">Lodging</a>
+                <a href="./?info-travel-fellowship" itemprop="url">Travel fellowship</a>
+                <a href="./?info-visa" itemprop="url">Visa information</a>
+                <a href="./?info-public-transport" itemprop="url">Public transport</a>
+                <a href="./?info-local-attractions" itemprop="url">Local attractions</a>
+                <a href="./?info-public-safety" itemprop="url">Public safety</a>
             </div>
         </div>
     </nav>
@@ -118,20 +132,14 @@ $content = ob_get_clean();
     </a>
 </footer>
 
-<?php
-if ($_COOKIE['env'] == 'dev') {
-    ?>
+<?php if ($_COOKIE['env'] == 'dev') { ?>
     <script src="./js/polyfills.js"></script>
     <script src="./js/carousel.js"></script>
     <script src="./js/menu.js"></script>
     <script src="./js/router.js"></script>
-<?php
-} else {
-?>
+<?php } else { ?>
     <script src="./js/prod.min.js"></script>
-    <?php
-}
-?>
+<?php } ?>
 
 <script async src="https://platform.twitter.com/widgets.js"></script>
 </body>
