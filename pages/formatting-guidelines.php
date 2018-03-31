@@ -11,9 +11,9 @@
             <strong>Note: those are templates for submissions only, templates for camera ready can be found in the Camera
                 Ready instruction below.</strong>
             <ul>
-                <li><a href="./files/vldb.cls">vldb.cls</a>: LaTeX document class</li>
-                <li>vldb_style_sample.zip: LaTeX example</li>
-                <li><a href="./files/vldb_sample.doc">vldb_sample.doc</a>: Microsoft Word Template</li>
+                <li><a href="./files/vldb.cls" rel="nofollow">vldb.cls</a>: LaTeX document class</li>
+                <li><a href="./files/vldb_style_sample.zip" rel="nofollow">vldb_style_sample.zip</a>: LaTeX example</li>
+                <li><a href="./files/vldb_sample.doc" rel="nofollow">vldb_sample.doc</a>: Microsoft Word Template</li>
             </ul>
         </li>
         <li>show no headers or footers;</li>
@@ -70,4 +70,53 @@
 </section>
 <?php
 define('PageTitle', "Formatting Guidelines");
+define('PageDescription', "All papers submitted to PVLDB and the VLDB 2019 Conference, irrespective of track, must adhere strictly to the PVLDB format detailed here.");
 ?>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Formatting Guidelines",
+  "url": "http://vldb.org/2019/?formatting-guidelines",
+  "description": "All papers submitted to PVLDB and the VLDB 2019 Conference, irrespective of track, must adhere strictly to the PVLDB format detailed here.",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "http://vldb.org/",
+        "name": "VLDB"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "http://vldb.org/conference.html",
+        "name": "Conferences"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "2019"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "http://vldb.org/2019/?dates-and-guidelines",
+        "name": "Dates & Guidelines"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@id": "http://vldb.org/2019/?formatting-guidelines",
+        "name": "Formatting Guidelines"
+      }
+    }]
+  }
+}
+</script>

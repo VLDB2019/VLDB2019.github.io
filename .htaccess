@@ -1,8 +1,9 @@
 ExpiresActive On
 
 <IfModule mod_mime.c>
-    AddType font/woff            .woff
-    AddType font/woff2           .woff2
+    AddType font/woff           .woff
+    AddType font/woff2          .woff2
+    AddType text/x-tex          .cls
 </IfModule>
 
 <FilesMatch "\.(js|css)$">

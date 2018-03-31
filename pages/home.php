@@ -12,7 +12,7 @@
         <div class="westin"></div>
         <strong>The Westin Bonaventure Hotel</strong>
         <div class="address-icon">404 S Figueroa St.<br />Los Angeles, CA 90071</div>
-        <a class="phone-icon">+1 (213) 624-1000</a>
+        <a class="phone-icon" href="tel:+12136241000" rel="nofollow">+1 (213) 624-1000</a>
     </address>
     <br />
     <iframe
@@ -29,22 +29,15 @@
 </aside>
 <?php
 define('PageTitle', "45th International Conference on Very Large Data Bases");
+define('PageDescription', "The VLDB 2019 conference, will take place in Los Angeles, California, 26-30 August 2019, and will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research. VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users.");
 ?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",
   "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
-  "url": "http://vldb.org/2019",
-  "logo": "http://vldb.org/2019/img/logo.png"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "http://vldb.org/2019",
-  "name": "VLDB 2019",
+  "url": "http://vldb.org/2019/",
+  "logo": "http://vldb.org/2019/img/logo.png",
   "sameAs": [
     "https://twitter.com/vldb2019",
     "https://facebook.com/VLDB2019/"
@@ -54,9 +47,17 @@ define('PageTitle', "45th International Conference on Very Large Data Bases");
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://vldb.org/2019/",
+  "name": "VLDB 2019: 45th International Conference on Very Large Data Bases"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
   "@type": "Event",
   "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
-  "sameAs": "http://vldb.org/2019",
+  "sameAs": "http://vldb.org/2019/",
   "startDate": "2019-08-26T10:00-08:00",
   "location": {
     "@type": "Place",
@@ -76,4 +77,46 @@ define('PageTitle', "45th International Conference on Very Large Data Bases");
   "description": "The VLDB 2019 conference, will take place in Los Angeles, California, 26-30 August 2019, and will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research. VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users.",
   "endDate": "2019-08-30T18:00-08:00"
 }
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
+  "url": "http://vldb.org/2019/",
+  "description": "The VLDB 2019 conference, will take place in Los Angeles, California, 26-30 August 2019, and will feature research talks, tutorials, demonstrations, and workshops. It will cover issues in data management, database and information systems research. VLDB is a premier annual international forum for data management and database researchers, vendors, practitioners, application developers, and users.",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "http://vldb.org/",
+        "name": "VLDB"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "http://vldb.org/conference.html",
+        "name": "Conferences"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "2019"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "http://vldb.org/2019/?conference-overview",
+        "name": "Conference Overview"
+      }
+    }]
+  }
+}
+
 </script>

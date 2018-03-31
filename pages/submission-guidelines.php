@@ -55,6 +55,7 @@
 </section>
 <?php
 define('PageTitle', "Submission Guidelines");
+define('PageDescription', "VLDB 2019 papers are to be formatted according to the conference's camera-ready format, as embodied in the document templates. PVLDB uses a novel review process designed to promote timely submission, review, and revision of scholarly results. The process will be carried out over 12 submission deadlines during the year preceding the VLDB 2019 conference.");
 ?>
 <script type="application/ld+json">
 {
@@ -69,32 +70,38 @@ define('PageTitle', "Submission Guidelines");
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/2019/",
-        "name": "VLDB 2019",
+        "@id": "http://vldb.org/",
+        "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
+        "@id": "http://vldb.org/conference.html",
+        "name": "Conferences"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "2019"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "http://vldb.org/2019/?dates-and-guidelines",
+        "name": "Dates & Guidelines"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
         "@id": "http://vldb.org/2019/?submission-guidelines",
-        "name": "Submission Guidelines",
+        "name": "Submission Guidelines"
       }
     }]
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Event",
-  "name": "First submission deadline for PVLDB Volume 12",
-  "sameAs": "http://vldb.org/2019/?submission-guidelines",
-  "startDate": "2018-03-01T17:00-08:00",
-  "endDate": "2018-04-01T17:00-08:00",
-  "potentialAction": {
-    "@type": "TransferAction",
-    "url": "http://vldb.org/2019/?submission-guidelines",
-    "name": "Submit paper"
   }
 }
 </script>

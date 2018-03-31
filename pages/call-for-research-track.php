@@ -56,43 +56,51 @@
 </section>
 <?php
 define('PageTitle', "Call for Contributions - Research Track");
+define('PageDescription', "VLDB 2019 invites submissions of original research papers to Volume 12 of the Proceedings of the VLDB Endowment (PVLDB). Papers accepted by June 15, 2019 will form the Research Track of the 2019 VLDB conference, together with any rollover papers from Volume 11. Papers accepted to Volume 12 after June 15, 2019 will be rolled over to the 2020 VLDB conference.");
 ?>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
-    "item": {
-      "@id": "http://vldb.org/2019/?call-for-research-track",
-      "name": "Call for Contributions - Research Track",
-    }
-  }]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Call for Contributions - Research Track",
   "url": "http://vldb.org/2019/?call-for-research-track",
-  "description": "We invite submissions of original research papers to Volume 12 of the Proceedings of the VLDB Endowment (PVLDB). Papers accepted by June 15, 2019 will form the Research Track of the 2019 VLDB conference, together with any rollover papers from Volume 11. Papers accepted to Volume 12 after June 15, 2019 will be rolled over to the 2020 VLDB conference.",
+  "description": "VLDB 2019 invites submissions of original research papers to Volume 12 of the Proceedings of the VLDB Endowment (PVLDB). Papers accepted by June 15, 2019 will form the Research Track of the 2019 VLDB conference, together with any rollover papers from Volume 11. Papers accepted to Volume 12 after June 15, 2019 will be rolled over to the 2020 VLDB conference.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/2019/",
-        "name": "VLDB 2019",
+        "@id": "http://vldb.org/",
+        "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
+        "@id": "http://vldb.org/conference.html",
+        "name": "Conferences"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "2019"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "http://vldb.org/2019/?call-for-contributions",
+        "name": "Call for Contributions"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
         "@id": "http://vldb.org/2019/?call-for-research-track",
-        "name": "Call for Contributions - Research Track"
+        "name": "Research Track"
       }
     }]
   }

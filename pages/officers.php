@@ -75,6 +75,7 @@
 </section>
 <?php
 define('PageTitle', "Conference Officers");
+define('PageDescription', "A list of the officers for the VLDB 2019, the 45th International Conference on Very Large Data Bases.");
 ?>
 <script type="application/ld+json">
 {
@@ -89,15 +90,36 @@ define('PageTitle', "Conference Officers");
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/2019/",
-        "name": "VLDB 2019",
+        "@id": "http://vldb.org/",
+        "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
+        "@id": "http://vldb.org/conference.html",
+        "name": "Conferences"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "http://vldb.org/2019/",
+        "name": "2019"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "http://vldb.org/2019/?general-information",
+        "name": "General Information"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
         "@id": "http://vldb.org/2019/?officers",
-        "name": "Conference Officers",
+        "name": "Conference Officers"
       }
     }]
   }

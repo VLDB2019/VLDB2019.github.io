@@ -215,7 +215,6 @@ header:not([aria-disabled="true"]) > nav > div:hover .menu {
     display: block;
 }
 
-
 .menu > a {
     display: block;
     padding: 2px 15px 0;
@@ -334,7 +333,7 @@ section > h2 {
     color: #888;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1180px) {
     header > nav {
         font-size: 14px;
         height: 50px;
@@ -500,6 +499,12 @@ section > h2 {
     box-shadow: 0 0 5px #444, 0 0 5px #000 inset;
 }
 
+address:after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
 address > * {
     margin-bottom: 5px;
     display: block;
@@ -510,6 +515,7 @@ address > * {
     padding-left: 25px;
     overflow: hidden;
     position: relative;
+    color: inherit;
 }
 
 .address-icon:before, .phone-icon:before {
@@ -615,10 +621,203 @@ footer > div {
     }
 }
 
-.officers h4 {
+.officers h4, .review-board h4 {
     margin: 30px 0 10px 0;
     padding: 2px 0 0 10px;
     line-height: 1em;
     font-size: 18px;
     border-left: 5px solid #999;
+}
+
+.important-dates table {
+    border-collapse: collapse;
+}
+
+.important-dates table th {
+    font-size: 13px;
+    font-weight: 400;
+    color: #999;
+    text-align: left;
+    padding: 0 10px 5px 10px;
+    vertical-align: bottom;
+}
+
+.important-dates table td {
+    vertical-align: top;
+    padding: 10px 12px;
+    border-top: 1px solid #ddd;
+}
+
+.important-dates table td:first-child {
+    font-weight: 600;
+    padding-left: 0;
+}
+
+.important-dates table th:last-child,
+.important-dates table td:last-child {
+    padding-right: 0;
+}
+
+.important-dates table small {
+    display: block;
+    font-size: 12px;
+    color: #999;
+    line-height: 12px;
+    padding-bottom: 7px;
+}
+
+.important-dates table em {
+    color: #999;
+    font-style: italic;
+}
+@media screen and (min-width: 501px) {
+    .important-dates table tbody tr:nth-of-type(2n+1) {
+        background: #f2f2f2;
+    }
+    .important-dates table th:last-child,
+    .important-dates table td:last-child {
+        padding-right: 5px;
+    }
+
+    .important-dates table td:first-child {
+        padding-left: 5px;
+    }
+}
+@media screen and (max-width: 710px) and (min-width: 501px) {
+    .important-dates table td:nth-of-type(1), .important-dates table th:nth-of-type(1) {
+        width: 125px;
+        min-width: 125px;
+    }
+    .important-dates table td:nth-of-type(2), .important-dates table th:nth-of-type(2) {
+        position: relative;
+        display: inline-block;
+        left: -137px;
+        margin-right: -155px;
+        border-top: 0;
+        top: 25px;
+        margin-bottom: 25px;
+        width: 125px;
+        min-width: 125px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .important-dates table thead {
+        display: none;
+    }
+
+    .important-dates table,
+    .important-dates tbody,
+    .important-dates tr,
+    .important-dates table td {
+        display: block;
+        border: 0;
+        padding: 0;
+    }
+
+    .important-dates table td:first-child {
+        margin: 30px 0 10px 0;
+        padding: 2px 0 0 10px;
+        line-height: 1em;
+        font-size: 18px;
+        border-left: 5px solid #999;
+    }
+
+    .important-dates table td:nth-of-type(2) {
+        font-weight: bold;
+    }
+
+    .important-dates table td:not(:first-child):before {
+        content: '';
+        display: block;
+        font-weight: 400;
+        color: #666;
+        margin-top: 10px;
+    }
+
+    .important-dates table small {
+        display: inline;
+        padding: 0 0 0 5px;
+        font-style: inherit;
+        font-size: inherit;
+        font-weight: 400;
+        color: inherit;
+    }
+
+    .important-dates table small:before {
+        content: ',';
+        position: relative;
+        left: -5px;
+    }
+
+    .important-dates table small:after {
+        content: '';
+        display: block;
+    }
+
+    .important-dates table td:nth-of-type(2):before {
+        content: 'Chairs:';
+    }
+    .important-dates table td:nth-of-type(3):before {
+        content: 'Submission Open:';
+    }
+    .important-dates table td:nth-of-type(4):before {
+        content: 'Submission Deadline:';
+    }
+    .important-dates table td:nth-of-type(5):before {
+        content: 'Notification:';
+    }
+    .important-dates table td:nth-of-type(6):before {
+        content: 'Camera-ready Copy:';
+    }
+}
+
+.program-chairs small {
+    font-size: 12px;
+    color: #999;
+}
+
+.info-conference-venue .images {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 20px 0;
+}
+
+.info-conference-venue .images img {
+    width: 11.6%;
+    border-radius: 10px;
+    margin: 0 1% 1% 0;
+    height: auto;
+}
+
+@media screen and (max-width: 500px) {
+    .info-conference-venue .images {
+        flex-wrap: wrap;
+    }
+
+    .info-conference-venue .images img {
+        width: 24%;
+        border-radius: 4px;
+    }
+}
+
+.mail-sep {
+    margin-left: -22px;
+    margin-right: 2px;
+    color: rgba(0, 0, 0, 0);
+}
+
+.mail-sep::selection {
+    color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.mail-sep::-moz-selection {
+    color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.mail-sep:after {
+    content: '@';
+    color: initial;
 }
