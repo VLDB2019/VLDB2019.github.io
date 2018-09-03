@@ -8,7 +8,7 @@
     <div><strong>Alan Fekete</strong>, University of Sydney</div>
     <div><strong>Alkis Simitsis</strong>, Microfocus</div>
     <div><strong>Ambuj Singh</strong>, UCSB</div>
-    <div><strong>Andy Pavlo</strong>, CMU</div>
+    <div><strong>Andrew Pavlo</strong>, CMU</div>
     <div><strong>Angela Bonifati</strong>, University of Lyon - France</div>
     <div><strong>Arijit Khan</strong>, Nanyang Technological University</div>
     <div><strong>Arnab Bhattacharya</strong>, IIT Kanpur</div>
@@ -23,14 +23,17 @@
     <div><strong>Beng Chin OOI</strong>, NUS - Singapore</div>
     <div><strong>Berthold Reinwald</strong>, IBM Research - Almaden</div>
     <div><strong>Bin Cui</strong>, Peiking University - China</div>
+    <div><strong>Bobbie Cochrane</strong>, IBM</div>
     <div><strong>Bolin Ding</strong>, Alibaba</div>
     <div><strong>Boris Glavic</strong>, Illinois Institute of Technology</div>
     <div><strong>Bugra Gedik</strong>, Bilkent University - Turkey</div>
-    <div><strong>Byron Coi</strong>, Hong Kong Baptist University</div>
+    <div><strong>Byron Choi</strong>, Hong Kong Baptist University</div>
+    <div><strong>Carlo Curino</strong>, Microsoft Research</div>
     <div><strong>Chee-Yong Chan</strong>, National University of Singapore (NUS) - Singapore</div>
     <div><strong>Chen Li</strong>, UC - Irvine</div>
     <div><strong>Chengkai Li</strong>, UT Arlington</div>
     <div><strong>Chuan Lei</strong>, IBM Research - Almaden</div>
+    <div><strong>Cong Yu</strong>, Google</div>
     <div><strong>Curtis Dyreson</strong>, Utah State University</div>
     <div><strong>Danica Probic</strong>, Oracle</div>
     <div><strong>Daniel Kifer</strong>, Penn State University</div>
@@ -64,6 +67,8 @@
     <div><strong>Ilaria Bartolini</strong>, University of Bologna</div>
     <div><strong>Ilkay Altintas</strong>, San Diego Supercomputing Center</div>
     <div><strong>Immanuel Trummer</strong>, Cornell University</div>
+    <div><strong>Ioana Manulescu</strong>, French Institute for Research in Computer Science and Automation (INRIA)</div>
+    <div><strong>Ismail Sengor Altingovde</strong>, METU - Turkey</div>
     <div><strong>James Cheng</strong>, Chinese University of Hong Kong</div>
     <div><strong>Jens Dittrich</strong>, University of Saarland - Germany</div>
     <div><strong>Jens Teubner</strong>, TU Dortmund</div>
@@ -86,6 +91,7 @@
     <div><strong>Maria Luisa Sapino</strong>, U. Torino - Italy</div>
     <div><strong>Mario Nascimento</strong>, U. Alberta - Canada</div>
     <div><strong>Martin Theobald</strong>, University of Luxemburg</div>
+    <div><strong>Mary Roth</strong>, IBM Research - Almaden</div>
     <div><strong>Matthias Boehm</strong>, IBM Research - Almaden</div>
     <div><strong>Matthias Renz</strong>, George Masion University</div>
     <div><strong>Maya Ramanath</strong>, IIT Delhi</div>
@@ -94,9 +100,10 @@
     <div><strong>Michael Hay</strong>, Colgate University</div>
     <div><strong>Michael Mathioudakis</strong>, University of Helsinki</div>
     <div><strong>Min Li</strong>, IBM Research - Almaden</div>
+    <div><strong>Mirek Riedewald</strong>, Northeastern University</div>
     <div><strong>Mirella Moro</strong>, Universidade Federal de Minas Gerais</div>
     <div><strong>Mohamed Eltabakh</strong>, WPI</div>
-    <div><strong>Mohamed Mokbel</strong>, U. Minesotta</div>
+    <div><strong>Mohamed Mokbel</strong>, Qatar Computing Research Institute</div>
     <div><strong>Mohamed Sarwat</strong>, ASU</div>
     <div><strong>Murat Kantarcioglu</strong>, University of Texas at Dallas</div>
     <div><strong>Nan Tang</strong>, QCRI</div>
@@ -104,10 +111,9 @@
     <div><strong>Nikolaus Augsten</strong>, University of Salzburg</div>
     <div><strong>Oktie Hassanzadeh</strong>, IBM Research - Yorktown</div>
     <div><strong>Olga Papaemmanouil </strong>, Brandeis University</div>
-    <div><strong>Paolo Papotti</strong>, Eurocom - France</div>
+    <div><strong>Paolo Papotti</strong>, EURECOM - France</div>
     <div><strong>Parth Nagarkar</strong>, NMSU</div>
     <div><strong>Pelin Angin</strong>, METU - Turkey</div>
-    <div><strong>Peter Bailis</strong>, Stanford</div>
     <div><strong>Philip Bernstein</strong>, Microsoft Research</div>
     <div><strong>Philippe Bonnet</strong>, ITU - Copenhagen</div>
     <div><strong>Pinar Karagoz</strong>, METU - Turkey</div>
@@ -125,6 +131,7 @@
     <div><strong>Stefan Mangeold</strong>, CWI Amsterdam</div>
     <div><strong>Stefano Paraboschi</strong>, Università degli Studi di Bergamo</div>
     <div><strong>Steffen Zeuch</strong>, DFKI Berlin</div>
+    <div><strong>Stratis Viglas</strong>, University of Edinburgh</div>
     <div><strong>Sudip Roy</strong>, Google</div>
     <div><strong>Tingjian Ge</strong>, University of Massachusetts - Lowell</div>
     <div><strong>Tyson Condie</strong>, Microsoft</div>
@@ -139,7 +146,7 @@
     <div><strong>Xiangmin Zhou</strong>, RMIT</div>
     <div><strong>Xiaochun Yang</strong>, Northeastern University</div>
     <div><strong>Xiaofang Zhou</strong>, University of Queensland</div>
-    <div><strong>Xiong Li</strong>, Emory University</div>
+    <div><strong>Li Xiong</strong>, Emory University</div>
     <div><strong>Xu Chu</strong>, Georgia Tech</div>
     <div><strong>Xuemin Lin</strong>, University of New Southwales</div>
     <div><strong>Yael Amsterdamer</strong>, Bar-Ilan University</div>
@@ -152,7 +159,7 @@
     <div><strong>Yingxia Shao</strong>, Peking University</div>
     <div><strong>Yongxin Tong</strong>, Beihang University</div>
     <div><strong>Yoshiharu Ishikawa</strong>, Nagoay University</div>
-    <div><strong>Yuan Ye</strong>, NEU - China</div>
+    <div><strong>Ye Yuan</strong>, NEU - China</div>
     <div><strong>Yuanyuan Tian</strong>, IBM Research - Almaden</div>
     <div><strong>Yucel Saygin</strong>, Sabanci Uni. Turkey</div>
     <div><strong>Yunjun Gao</strong>, Zhejiang University</div>
@@ -163,7 +170,7 @@
 </section>
 <?php
 define('PageTitle', "PVLDB Review Board");
-define('PageDescription', "A list of the officers for the VLDB 2019, the 45th International Conference on Very Large Data Bases.");
+define('PageDescription', "Members of the review board committee for the VLDB 2019, the 45th International Conference on Very Large Data Bases.");
 ?>
 <script type="application/ld+json">
 {

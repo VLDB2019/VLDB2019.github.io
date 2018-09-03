@@ -4,7 +4,7 @@
     <h3>Generation Information</h3>
     <p>
         Papers are to be formatted according to the conference's <a href="./?formatting-guidelines">camera-ready format</a>, as embodied in the document templates.
-        <strong><span style="color: red">Same as PVLDB 2018:</span> The maximum research paper length is 12 pages, not including references whose pages could extend paper length to beyond the 12 pages limit. There is no limit on the number of pages used for references.</strong>
+        <strong><span style="color: red">Same as PVLDB 2018:</span> The maximum research paper length is 12 pages; all the content, including any appendices but excluding the references, must fit on 12 pages. Only the references can extend a paper beyond the 12 page limit, and there is no limit on the number of pages used for them.</strong>
         The conference management tool for the submission of abstracts and papers is accessible at:<br>
         <a href="https://cmt3.research.microsoft.com/VLDB2019/">https://cmt3.research.microsoft.com/VLDB2019/</a>
     </p>

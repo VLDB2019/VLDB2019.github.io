@@ -1,16 +1,16 @@
 <section class="contacts">
     <h1>VLDB 2019: Contacts</h1>
 
-    <h3>General Information</h3>
+    <h4>General Information</h4>
     <p>vldb2019<span class="mail-sep">(AT)</span>vldb.org</p>
 
-    <h3>Scientific Host</h3>
+    <h4>Scientific Host</h4>
     <p>
         Very Large Data Base Endowment Inc.<br />
         <a href="http://www.vldb.org/">vldb.org</a>
     </p>
 
-    <h3>Venue</h3>
+    <h4>Venue</h4>
     <p>
         The Westin Bonaventure Hotel & Suites, Los Angeles<br />
         404 South Figueroa Street, Los Angeles, CA, 90071<br />

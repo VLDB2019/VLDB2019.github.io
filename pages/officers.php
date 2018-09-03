@@ -69,9 +69,12 @@
     <h4>Website</h4>
     <div><strong>Mehran Barahmand</strong>, Amazon</div>
 
-    <h4>Local Arrangements Chair</h4>
+    <h4>Local Arrangements Chairs</h4>
     <div><strong>Tyson Condie</strong>, UCLA</div>
     <div><strong>Beth Trushkowsky</strong>, HMC</div>
+
+    <h4>Volunteer Coordinators</h4>
+    <div><strong>Xiang Ren</strong>, USC</div>
 </section>
 <?php
 define('PageTitle', "Conference Officers");
