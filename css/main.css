@@ -39,6 +39,25 @@ h3:first-child {
     margin-top: 10px;
 }
 
+h4 {
+    margin: 30px 0 10px 0;
+    padding: 2px 0 0 10px;
+    line-height: 1em;
+    font-size: 18px;
+    border-left: 5px solid #999;
+}
+
+h4 > span {
+    font-weight: 400;
+    color: #888;
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 15px;
+    margin: 16px 0;
+}
+
 a {
     color: #3a84df;
     text-decoration: none;
@@ -61,6 +80,10 @@ sub {
 
 ul {
     line-height: 1.75em;
+}
+
+.hl-blue {
+    color: #3a84df;
 }
 
 .small-header {
@@ -641,14 +664,6 @@ footer > div {
     }
 }
 
-h4 {
-    margin: 30px 0 10px 0;
-    padding: 2px 0 0 10px;
-    line-height: 1em;
-    font-size: 18px;
-    border-left: 5px solid #999;
-}
-
 .important-dates table {
     border-collapse: collapse;
 }
@@ -850,6 +865,10 @@ h4 {
     color: initial;
 }
 
+.hl-blue .mail-sep:after {
+    color: #3a84df;
+}
+
 .schedule-wrap {
     display: flex;
     flex-flow: row wrap;
@@ -1046,4 +1065,68 @@ h4 {
 
 .tag.awards:after {
     border-color: #ac3a31;
+}
+
+.sponsorship-wrap {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
+
+.sponsorship-wrap>div:first-child {
+    flex-grow: 1;
+    width: calc(100% - 300px);
+    min-width: 330px;
+    margin-right: 50px;
+}
+
+.sponsorship-wrap>div:last-child {
+    flex-grow: 0;
+    width: 200px;
+    text-align: center;
+    padding-left: 49px;
+    border-left: 1px solid #ddd;
+    margin-top: 65px;
+}
+
+.sponsorship-wrap>div:last-child>h5 {
+    margin-top: -2px;
+}
+
+.sponsorship-wrap>div:last-child a {
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.sponsorship-wrap>div:last-child img {
+    width: 100%;
+}
+
+@media screen and (max-width: 1180px) {
+    .sponsorship-wrap>div:last-child {
+        padding: 0 14px 0 35px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .sponsorship-wrap>div:first-child {
+        width: calc(100% - 200px);
+        margin-right: 25px;
+    }
+    .sponsorship-wrap>div:last-child {
+        padding: 0 0 0 24px;
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .sponsorship-wrap>div:first-child {
+        width: 100%;
+        margin-right: 0;
+    }
+    .sponsorship-wrap>div:last-child {
+        display: none;
+    }
 }

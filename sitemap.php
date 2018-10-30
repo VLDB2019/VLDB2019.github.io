@@ -11,7 +11,7 @@ echo '<' . '?xml version = "1.0" encoding = "UTF-8"?' . '>';
     $files = array_map(function ($name) {
         return substr($name, 0, -4);
     }, array_filter(scandir(Root . '/pages'), function ($file) {
-        return preg_match('@\.php$@', $file) && !in_array($file, array('home.php', 'coming-soon.php'));
+        return preg_match('@\.php$@', $file) && !in_array($file, array('home.php', 'coming-soon.php', 'sponsorship-temp.php', 'call-for-industrial-track-temp', 'program-schedule.php'));
     }));
     ?>
     <url>

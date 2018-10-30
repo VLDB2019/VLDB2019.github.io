@@ -20,16 +20,16 @@
                 Lei Chen<small>HKUST</small>
             </td>
             <td>20<sup>th</sup> of each month</td>
-            <td>1<sup>st</sup> of every month,<br>until March 2019</td>
-            <td>1.5 months from submission</td>
-            <td>1 month from acceptance</td>
+            <td>1<sup>st</sup> of every month, <br>until March 2019</td>
+            <td>15<sup>th</sup> of the next month <br>following the deadline</td>
+            <td>5<sup>th</sup> of the month following <br>the acceptance</td>
         </tr>
         <tr>
             <td>Industrial Track</td>
             <td>
                 Pat Helland<small>Salesforce</small>
-                Wolfgang Lehner<small>Dresden</small>
-                Beng Chin Ooi<small>NUS Singapore</small>
+                Wolfgang Lehner<small>TU Dresden</small>
+                Beng Chin Ooi<small>NUS - Singapore</small>
             </td>
             <td>1 January 2019</td>
             <td>1 March 2019</td>
@@ -39,12 +39,12 @@
         <tr>
             <td>Demonstrations</td>
             <td>
-                Nesime Tatbul<small>MIT/Intel</small>
+                Nesime Tatbul<small>Intel Labs and MIT</small>
                 Alin Deutsch<small>UCSD</small>
             </td>
             <td>1 January 2019</td>
-            <td>1 March 2019<br>5 p.m. PST</td>
-            <td>3 May 2019</td>
+            <td>15 March 2019<br>5 p.m. PST</td>
+            <td>10 May 2019</td>
             <td>31 May 2019</td>
         </tr>
         <tr>
@@ -61,7 +61,7 @@
         <tr>
             <td>Panels</td>
             <td>
-                Renee Miller<small>University of Toronto</small>
+                <!-- Renee Miller<small>University of Toronto</small> -->
                 Sang Kyun Cha<small>National Seoul University</small>
             </td>
             <td>N/A</td>

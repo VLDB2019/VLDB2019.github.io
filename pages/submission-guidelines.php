@@ -15,7 +15,7 @@
         <li>A Rolling Deadline occurs on the 1st of each month, 5:00 PM Pacific Time (Daylight Savings observed according to US calendar). This deadline is strict and no extensions will be granted.</li>
         <li>The first monthly submission deadline for PVLDB Volume 12 is 1 April 2018. The final deadline is 1 March 2019.</li>
         <li>For each submission cycle, the <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a> site will be open for submissions from the 20th of the previous month. For example, the submissions for June 2019 will be accepted from May 20 onwards.</li>
-        <li>Initial reviews will usually be available in 1.5 months after the submission deadline, and they will include notice of acceptance, rejection, or revision requests.</li>
+        <li>Initial reviews will usually be available on the 15<sup>th</sup> of the next month following the submission deadline, and they will include notice of acceptance, rejection, or revision requests.</li>
         <li>For revision requests, the reviews will be specific with regard to the expectations from the revision, and only one revision is permitted.</li>
         <li>Authors may take up to three months to produce a revised submission.</li>
         <li>The final reviews of revised papers will usually be available by the 15th of the month following the revision submission.</li>
@@ -38,7 +38,7 @@
         <li>If you are the PhD thesis advisor of X or vice versa, irrespective of how long ago this was.</li>
         <li>If X is a relative or close personal friend.</li>
     </ul>
-    <p><strong>Submissions with undeclared conflicts or spurious conflicts will be SUMMARILY REJECTED. There will be NO exceptions to this rule.</strong></p>
+    <p><strong>Submissions with undeclared conflicts or spurious conflicts will be DESK REJECTED. There will be NO exceptions to this rule.</strong></p>
 
     <h3>Resubmission, Originality and Duplicate Submissions</h3>
     <p>Authors are not allowed to resubmit work that was previously rejected from the research tracks of PVLDB, within one year of the original submission date. A paper withdrawn by the authors after a revision decision will be considered as rejected and the 12-month resubmission ban applies to such papers as well. A submission rejected from the research track may not be resubmitted within 12 months to the research track.</p>

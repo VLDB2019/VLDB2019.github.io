@@ -2,7 +2,7 @@
     <h1>VLDB 2019: Contacts</h1>
 
     <h4>General Information</h4>
-    <p>vldb2019<span class="mail-sep">(AT)</span>vldb.org</p>
+    <p><span class="hl-blue">vldb2019<span class="mail-sep">(AT)</span>vldb.org</span></p>
 
     <h4>Scientific Host</h4>
     <p>

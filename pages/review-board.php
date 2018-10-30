@@ -29,7 +29,7 @@
     <div><strong>Bugra Gedik</strong>, Bilkent University - Turkey</div>
     <div><strong>Byron Choi</strong>, Hong Kong Baptist University</div>
     <div><strong>Carlo Curino</strong>, Microsoft Research</div>
-    <div><strong>Chee-Yong Chan</strong>, National University of Singapore (NUS) - Singapore</div>
+    <div><strong>Chee-Yong Chan</strong>, NUS - Singapore</div>
     <div><strong>Chen Li</strong>, UC - Irvine</div>
     <div><strong>Chengkai Li</strong>, UT Arlington</div>
     <div><strong>Chuan Lei</strong>, IBM Research - Almaden</div>
@@ -41,7 +41,7 @@
     <div><strong>Demetrios Zeinalipour-Yazti</strong>, University of Cyprus</div>
     <div><strong>Dimitris Papadias</strong>, HKUST</div>
     <div><strong>Diptikalyan Saha</strong>, IBM Research - India</div>
-    <div><strong>Divyakant Agrawal </strong>, University of California at Santa Barbara</div>
+    <div><strong>Divyakant Agrawal </strong>, UCSB</div>
     <div><strong>Donald Kossmann</strong>, Microsoft Research</div>
     <div><strong>Egemen Tanin</strong>, U. Melbourne - Australia</div>
     <div><strong>Eser Kandogan</strong>, IBM Research - Almaden</div>
@@ -74,7 +74,7 @@
     <div><strong>Jens Teubner</strong>, TU Dortmund</div>
     <div><strong>Jianliang Xu</strong>, HKBU</div>
     <div><strong>Jignesh Patel</strong>, University of Wisconsin - Madison</div>
-    <div><strong>Jinyang Gao</strong>, National University of Singapore (NUS) - Singapore</div>
+    <div><strong>Jinyang Gao</strong>, NUS - Singapore</div>
     <div><strong>Johann Gamper</strong>, Free University of Bolzano - Italy</div>
     <div><strong>Jun Yang</strong>, Duke University</div>
     <div><strong>Junjie Yao</strong>, East China Normal University</div>
@@ -130,7 +130,7 @@
     <div><strong>Spyros Blanas</strong>, Ohio State University</div>
     <div><strong>Stefan Mangeold</strong>, CWI Amsterdam</div>
     <div><strong>Stefano Paraboschi</strong>, Università degli Studi di Bergamo</div>
-    <div><strong>Steffen Zeuch</strong>, DFKI Berlin</div>
+    <div><strong>Steffen Zeuch</strong>, DFKI - TU Berlin</div>
     <div><strong>Stratis Viglas</strong>, University of Edinburgh</div>
     <div><strong>Sudip Roy</strong>, Google</div>
     <div><strong>Tingjian Ge</strong>, University of Massachusetts - Lowell</div>

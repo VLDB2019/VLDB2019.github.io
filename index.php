@@ -80,7 +80,7 @@ $content = ob_get_clean();
                 <a href="./?call-for-industrial-track" itemprop="url"><span itemprop="name">Industrial track</span></a>
                 <a href="./?call-for-phd-workshop" itemprop="url"><span itemprop="name">PhD workshop</span></a>
                 <hr/>
-                <a href="./?demonstrations" itemprop="url"><span itemprop="name">Demonstrations</span></a>
+                <a href="./?call-for-demonstrations" itemprop="url"><span itemprop="name">Demonstrations</span></a>
                 <a href="./?tutorials" itemprop="url"><span itemprop="name">Tutorials</span></a>
                 <a href="./?panels" itemprop="url"><span itemprop="name">Panels</span></a>
                 <a href="./?call-for-workshops" itemprop="url"><span itemprop="name">Workshops</span></a>
