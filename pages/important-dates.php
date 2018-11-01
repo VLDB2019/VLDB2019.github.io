@@ -32,9 +32,9 @@
                 Beng Chin Ooi<small>NUS - Singapore</small>
             </td>
             <td>1 January 2019</td>
-            <td>1 March 2019</td>
-            <td><em>TBA</em></td>
-            <td><em>TBA</em></td>
+            <td>18 February 2019<br>5 p.m. PST</td>
+            <td>15 April 2019</td>
+            <td>31 May 2019</td>
         </tr>
         <tr>
             <td>Demonstrations</td>
@@ -63,6 +63,7 @@
             <td>
                 <!-- Renee Miller<small>University of Toronto</small> -->
                 Sang Kyun Cha<small>National Seoul University</small>
+                M. Tamer Özsu<small>University of Waterloo</small>
             </td>
             <td>N/A</td>
             <td>9 March 2019</td>

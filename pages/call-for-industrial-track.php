@@ -8,6 +8,7 @@
     <ul>
         <li>Submission deadline: 18 February 2019 (5 p.m. PST)</li>
         <li>Notification: 15 April 2019</li>
+        <li>Camera-ready copy due: 31 May 2019</li>
     </ul>
 
     <h3>Topics of Interest</h3>
