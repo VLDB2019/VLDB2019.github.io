@@ -34,6 +34,7 @@
     <div><strong>Chen Li</strong>, UC - Irvine</div>
 
     <h4>Sponsorship Committee Chairs</h4>
+    <div><strong>Anand Deshpande</strong>, Persistent Systems</div>
     <div><strong>Xiaoyong Du</strong>, Renmin University</div>
     <div><strong>Volker Markl</strong>, TU Berlin</div>
     <div><strong>Renee Miller</strong>, Northeastern</div>
@@ -67,7 +68,7 @@
     <div><strong>Yuanyuan Tian</strong>, IBM Research</div>
 
     <h4>PhD Workshop Chairs</h4>
-    <div><strong>IIlaria Bartolini</strong>, University of Bologna</div>
+    <div><strong>Ilaria Bartolini</strong>, University of Bologna</div>
     <div><strong>Feifei Li</strong>, University of Utah</div>
 
     <h4>Proceedings Chairs</h4>

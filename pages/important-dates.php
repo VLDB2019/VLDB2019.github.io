@@ -20,9 +20,9 @@
                 Lei Chen<small>HKUST</small>
             </td>
             <td>20<sup>th</sup> of each month</td>
-            <td>1<sup>st</sup> of every month, <br>until March 2019</td>
+            <td>1<sup>st</sup> of every month<br>5 p.m. PST, <br>until March 2019</td>
             <td>15<sup>th</sup> of the next month <br>following the deadline</td>
-            <td>5<sup>th</sup> of the month following <br>the acceptance</td>
+            <td>Proceeding chairs will contact <br>the authors by the 5<sup>th</sup> of the next <br>month with CR instructions</td>
         </tr>
         <tr>
             <td>Industrial Track</td>
@@ -54,14 +54,13 @@
                 Xin Luna Dong<small>Amazon</small>
             </td>
             <td>1 January 2019</td>
-            <td>8 March 2019<br>5 p.m. PST</td>
-            <td><em>TBA</em></td>
-            <td><em>TBA</em></td>
+            <td>12 March 2019<br>5 p.m. PST</td>
+            <td>16 April 2019</td>
+            <td>4 June 2019</td>
         </tr>
         <tr>
             <td>Panels</td>
             <td>
-                <!-- Renee Miller<small>University of Toronto</small> -->
                 Sang Kyun Cha<small>National Seoul University</small>
                 M. Tamer Özsu<small>University of Waterloo</small>
             </td>
@@ -77,18 +76,18 @@
                 Yuanyuan Tian<small>IBM Research</small>
             </td>
             <td>N/A</td>
-            <td>6 January 2019<br>11:59 p.m. PST</td>
-            <td>27 January 2019</td>
+            <td><em class="extended-date">6 January 2019</em><br>11 January 2019<br>11:59 p.m. PST</td>
+            <td><em class="extended-date">27 January 2019</em><br>3 February 2019</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>PhD Workshop Track</td>
             <td>
-                IIlaria Bartolini<small>University of Bologna</small>
+                Ilaria Bartolini<small>University of Bologna</small>
                 Feifei Li<small>University of Utah</small>
             </td>
             <td>1 January 2019</td>
-            <td>15 April 2019</td>
+            <td>15 April 2019<br>5 p.m. PST</td>
             <td>20 May 2019</td>
             <td>10 June 2019</td>
         </tr>

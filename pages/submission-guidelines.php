@@ -12,13 +12,13 @@
     <h3>Submission Process</h3>
     <p>PVLDB uses a novel review process designed to promote timely submission, review, and revision of scholarly results. The process will be carried out over 12 submission deadlines during the year preceding the VLDB 2019 conference. The basic cycle will operate as follows:</p>
     <ul>
-        <li>A Rolling Deadline occurs on the 1st of each month, 5:00 PM Pacific Time (Daylight Savings observed according to US calendar). This deadline is strict and no extensions will be granted.</li>
+        <li>A Rolling Deadline occurs on the 1<sup>st</sup> of each month, 5:00 PM Pacific Time (Daylight Savings observed according to US calendar). This deadline is strict and no extensions will be granted.</li>
         <li>The first monthly submission deadline for PVLDB Volume 12 is 1 April 2018. The final deadline is 1 March 2019.</li>
-        <li>For each submission cycle, the <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a> site will be open for submissions from the 20th of the previous month. For example, the submissions for June 2019 will be accepted from May 20 onwards.</li>
+        <li>For each submission cycle, the <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a> site will be open for submissions from the 20th of the previous month. For example, the submissions for February 2019 will be accepted from January 20<sup>th</sup> onwards.</li>
         <li>Initial reviews will usually be available on the 15<sup>th</sup> of the next month following the submission deadline, and they will include notice of acceptance, rejection, or revision requests.</li>
         <li>For revision requests, the reviews will be specific with regard to the expectations from the revision, and only one revision is permitted.</li>
-        <li>Authors may take up to three months to produce a revised submission.</li>
-        <li>The final reviews of revised papers will usually be available by the 15th of the month following the revision submission.</li>
+        <li>Authors may take up to three months to produce a revised submission. The last three revisions deadlines will be May 15<sup>th</sup>, <strong>June 1<sup>st</sup></strong>, and July 15<sup>th</sup>. <strong>Note that the June 15<sup>th</sup> deadline for revisions has been moved to June 1<sup>st</sup>. June 1, 2019 is the final revision deadline for consideration to present at VLDB 2019; submissions received after this deadline will roll over to VLDB 2020.</strong></li>
+        <li>The final reviews of revised papers will usually be available by the 15<sup>th</sup> of the month following the revision submission.</li>
         <li>While all attempts will be made to adhere to the schedule mentioned above, authors are advised that reviewing turnaround times may be subject to fluctuations.</li>
     </ul>
 

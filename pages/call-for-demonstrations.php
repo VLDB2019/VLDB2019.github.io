@@ -35,12 +35,72 @@
 
     <h3>Demo Track Chairs</h3>
     <p class="program-chairs">
-        Alin Deutsch<small>, UCSD</small><br />
-        Nesime Tatbul<small>, Intel Labs and MIT</small>
+        Alin Deutsch<small>, UCSD - USA</small><br />
+        Nesime Tatbul<small>, Intel Labs and MIT - USA</small>
     </p>
 
     <h3>Demo Track PC Members</h3>
-    <p>TBD</p>
+    <p class="program-chairs">
+        Nesreen Ahmed<small>, Intel Labs - USA</small><br />
+        Lyublena Antova<small>, Datometry - USA</small><br />
+        Manos Athanassoulis<small>, Boston University - USA</small><br />
+        Cagri Balkesen<small>, Oracle Labs - Switzerland</small><br />
+        Leilani Battle<small>, University of Maryland - USA</small><br />
+        Carsten Binnig<small>, TU Darmstadt - Germany</small><br />
+        Angela Bonifati<small>, University of Lyon - France</small><br />
+        Renata Borovica-Gajic<small>, University of Melbourne - Australia</small><br />
+        Vanessa Braganholo<small>, Fluminense Federal University - Brazil</small><br />
+        Lei Cao<small>, MIT - USA</small><br />
+        Alvin Cheung<small>, University of Washington - USA</small><br />
+        Laura Chiticariu<small>, IBM Research - USA</small><br />
+        Sudipto Das<small>, Microsoft Research - USA</small><br />
+        Cagatay Demiralp<small>, Megagon Labs - USA</small><br />
+        Dong Deng<small>, Rutgers University - USA</small><br />
+        Jens Dittrich<small>, Saarland University - Germany</small><br />
+        Iman Elghandour<small>, University of Copenhagen - Denmark</small><br />
+        Kyumars Esmaili<small>, TomTom - Belgium</small><br />
+        David Eyers<small>, University of Otago - New Zealand</small><br />
+        Peter Fischer<small>, University of Augsburg - Germany</small><br />
+        Vijay Gadepally<small>, MIT Lincoln Laboratory - USA</small><br />
+        Avigdor Gal<small>, Technion - Israel</small><br />
+        Wolfgang Gatterbauer<small>, Northeastern University - USA</small><br />
+        Bugra Gedik<small>, Bilkent University - Turkey</small><br />
+        Ioana Giurgiu<small>, IBM Research - Switzerland</small><br />
+        Boris Glavic<small>, Illinois Tech - USA</small><br />
+        Michael Grossniklaus<small>, University of Konstanz - Germany</small><br />
+        Annika Hinze<small>, University of Waikato - New Zealand</small><br />
+        Katja Hose<small>, Aalborg University - Denmark</small><br />
+        Alekh Jindal<small>, Microsoft - USA</small><br />
+        Pinar Karagoz<small>, METU - Turkey</small><br />
+        Eamonn Keogh<small>, UC Riverside - USA</small><br />
+        Flip Korn<small>, Google Research - USA</small><br />
+        Georgia Koutrika<small>, Athena Research Center - Greece</small><br />
+        Justin Levandoski<small>, Amazon - USA</small><br />
+        Feifei Li<small>, University of Utah - USA</small><br />
+        Eric Lo<small>, CUHK - Hong Kong</small><br />
+        Qiong Luo<small>, HKUST - Hong Kong</small><br />
+        Alex Moga<small>, ABB Research - Switzerland</small><br />
+        Daniela Nicklas<small>, University of Bamberg - Germany</small><br />
+        Silvia Nittel<small>, University of Maine - USA</small><br />
+        John Paparrizos<small>, University of Chicago - USA</small><br />
+        Themis Palpanas<small>, Paris Descartes University - France</small><br />
+        Aditya Parameswaran<small>, UIUC - USA</small><br />
+        Peter Pietzuch<small>, Imperial College London - UK</small><br />
+        Karthik Ramasamy<small>, Streamlio - USA</small><br />
+        Alexander Rasin<small>, DePaul University - USA</small><br />
+        Semih Salihoglu<small>, University of Waterloo - Canada</small><br />
+        Nadathur Satish<small>, Facebook - USA</small><br />
+        Marco Serafini<small>, UMass Amherst - USA</small><br />
+        Ben Sowell<small>, Amazon - USA</small><br />
+        Rebecca Taft<small>, Cockroach Labs - USA</small><br />
+        Nan Tang<small>, QCRI - Qatar</small><br />
+        Richard Tibbetts<small>, Tableau - USA</small><br />
+        Srikanta Tirthapura<small>, Iowa State University - USA</small><br />
+        Kristin Tufte<small>, Portland State University - USA</small><br />
+        Marcos Antonio Vaz Salles<small>, University of Copenhagen - Denmark</small><br />
+        Matthias Weidlich<small>, Humboldt University of Berlin - Germany</small><br />
+        Xiangyao Yu<small>, MIT - USA</small><br />
+    </p>
 
 </section>
 <?php

@@ -6,8 +6,8 @@
 
     <h3>Important Dates</h3>
     <ul>
-        <li>Submission deadline: 6 January 2019 (11:59 p.m. PST)</li>
-        <li>Notification: 27 January 2019</li>
+        <li>Submission deadline: <em class="extended-date">6 January 2019</em> 11 January 2019 (11:59 p.m. PST)</li>
+        <li>Notification: <em class="extended-date">27 January 2019</em> 3 February 2019</li>
     </ul>
 
     <h3>Submission Guidelines</h3>

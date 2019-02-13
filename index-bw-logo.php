@@ -61,9 +61,9 @@ $content = ob_get_clean();
 
 <header>
     <div class="small-menu"><a class="hamburger"></a></div>
-    <div class="small-header"><figure class="logo"><img src="./img/new-logo-2.png" alt="VLDB 2019 LA CA USA"></figure></div>
+    <div class="small-header"><figure class="logo"><img src="./img/new-logo.png" alt="VLDB 2019 LA CA USA"></figure></div>
     <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
-        <figure class="logo"><img src="./img/new-logo.png" alt="VLDB 2019 LA CA USA"><img src="./img/new-logo-2.png" alt="VLDB 2019 LA CA USA"></figure>
+        <figure class="logo"><div><img src="./img/new-logo.png" alt="VLDB 2019 LA CA USA"></div></figure>
         <div>
             General Information
             <div class="menu">
@@ -141,41 +141,5 @@ $content = ob_get_clean();
 <?php } ?>
 
 <script async src="https://platform.twitter.com/widgets.js"></script>
-<script>
-    (function() {
-        var last = 0,
-            docBody = document.body,
-            header = document.querySelector('body>header'),
-            nav = header && header.querySelector('nav'),
-            requestAnimationFrame = window.requestAnimationFrame || function(callback, element) {
-                var now = Date.now(),
-                    next = Math.max(0, 16 - (now - last)),
-                    id = window.setTimeout(function() {
-                        callback(now + next);
-                    }, next);
-                last = now + next;
-                return id;
-            },
-            cancelAnimationFrame = window.cancelAnimationFrame || function(id) {
-                clearTimeout(id);
-            },
-            update = function () {
-                if (!nav) return;
-
-                var isStatic = docBody.classList.contains('static');
-                if (header.getBoundingClientRect().bottom > 70) {
-                    if (isStatic) docBody.classList.remove('static');
-                } else if (!isStatic) docBody.classList.add('static');
-            },
-            lid;
-
-        window.addEventListener('scroll', function(e) {
-            if (lid) cancelAnimationFrame(lid);
-            lid = requestAnimationFrame(update);
-        });
-
-        update();
-    }());
-</script>
 </body>
 </html>

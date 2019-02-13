@@ -56,7 +56,7 @@
     </ul>
 
     <h3>Copyright and Camera Ready Information</h3>
-    <p>All papers accepted for the VLDB 2019 Conference will be published in the Proceedings of the VLDB Endowment (PVLDB) Volume 12. It is the authors' responsibility to ensure that their submissions adhere strictly to the VLDB format detailed above. Please follow the process below to submit the final camera-ready copy of your accepted paper. You must complete this process by the 5th of the month following the acceptance notification date.</p>
+    <p>All papers accepted for the VLDB 2019 Conference will be published in the Proceedings of the VLDB Endowment (PVLDB) Volume 12. It is the authors' responsibility to ensure that their submissions adhere strictly to the VLDB format detailed above. Please follow the process below to submit the final camera-ready copy of your accepted paper. You must complete this process by the 5<sup>th</sup> of the month following the acceptance notification date.</p>
     <ol>
         <li>Prepare the final version of your paper using the current camera-ready style files (available for LaTex and Word formats). You must download and use the latest style files since each month the issue number changes.</li>
         <li>Submit the final version of your paper as PDF using the VLDB 2019 conference management tool that is accessible at https://cmt3.research.microsoft.com/VLDB2019/.</li>
