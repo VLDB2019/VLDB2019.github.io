@@ -110,7 +110,7 @@ $content = ob_get_clean();
             </div>
         </div>
     </nav>
-    <section class="carousel<?= $q == 'home' ? '' : ' small'; ?>" data-images="https://vldb2019.github.io/img/1.png|https://vldb2019.github.io/img/2.png|https://vldb2019.github.io/img/3.png|https://vldb2019.github.io/img/4.png|https://vldb2019.github.io/img/5.png|https://vldb2019.github.io/img/6.png|https://vldb2019.github.io/img/7.png">
+    <section class="carousel<?= $q == 'home' ? '' : ' small'; ?>" data-images='[{"i":"https://vldb2019.github.io/img/1.png","t":"<a href=\"https://www.flickr.com/photos/richo-fan/12582164774\">Photo</a> by Richo.Fan / <a href=\"https://creativecommons.org/licenses/by/2.0/\" class=\"cc-lic\">CC BY 2.0</a> / Modified"},{"i":"https://vldb2019.github.io/img/2.png","t":"<a href=\"https://commons.wikimedia.org/wiki/File:Hollywood_Sign.jpg\">Photo</a> by Thomas Wolf, <a href=\"http://www.foto-tw.de\">www.foto-tw.de</a> / <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"cc-lic\">CC BY-SA 3.0</a> / Modified"},{"i":"https://vldb2019.github.io/img/3.png","t":"<a href=\"https://www.flickr.com/photos/giuseppemilo/25822037213\">Photo</a> by Giuseppe Milo / <a href=\"https://creativecommons.org/licenses/by/2.0/\" class=\"cc-lic\">CC BY 2.0</a> / Cropped"},{"i":"https://vldb2019.github.io/img/4.png","t":"<a href=\"https://www.flickr.com/photos/demxx/9481976931\">Photo</a> by demxx / <a href=\"https://creativecommons.org/licenses/by/2.0/\" class=\"cc-lic\">CC BY 2.0</a> / Cropped"},{"i":"https://vldb2019.github.io/img/5.png","t":"<a href=\"http://mainelighthousesandbeyond.blogspot.com/2012/04/los-angles-harbor-angeles-gate.html\">Photo</a> by John Shaw / Permission obtained / Cropped"},{"i":"https://vldb2019.github.io/img/6.png","t":"<a href=\"https://www.flickr.com/photos/158652122@N02/26632628017\">Photo</a> by Mike McBey / <a href=\"https://creativecommons.org/licenses/by/2.0/\" class=\"cc-lic\">CC BY 2.0</a> / Modified"},{"i":"https://vldb2019.github.io/img/7.png","t":"<a href=\"https://commons.wikimedia.org/wiki/File:SleepingBeautyCastle.JPG\">Photo</a> by Cd637 / <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"cc-lic\">CC BY-SA 3.0</a> / Modified"}]'>
         <span>45<sup>th</sup> International Conference on Very Large Data Bases</span>
         <span>Los Angeles, California - August 26-30, 2019</span>
     </section>
@@ -123,7 +123,7 @@ $content = ob_get_clean();
 
 <footer>
     <div>45<sup>th</sup> International Conference on Very Large Data Bases<br />Los Angeles, California - August 26-30, 2019</div>
-    <a class="github" href="https://github.com/VLDB2019/VLDB2019.github.io/pulls" title="Collaborate on GitHub">
+    <a class="github no-ext-icon" href="https://github.com/VLDB2019/VLDB2019.github.io/pulls" title="Collaborate on GitHub">
         <svg height="32" version="1.1" viewBox="0 0 16 16" width="32"><path fill="#fff" fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
     </a>
 </footer>
@@ -131,6 +131,8 @@ $content = ob_get_clean();
 <?php if ($_COOKIE['env'] == 'dev') { ?>
     <link rel="stylesheet" href="./font/font.css">
     <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/carousel.css">
+    <link rel="stylesheet" href="./css/sponsors.css">
     <script src="./js/polyfills.js"></script>
     <script src="./js/carousel.js"></script>
     <script src="./js/menu.js"></script>
