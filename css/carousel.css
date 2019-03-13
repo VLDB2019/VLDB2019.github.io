@@ -1,0 +1,109 @@
+.carousel {
+    width: calc(100vw - (100vw - 100%));
+    height: 0;
+    padding-bottom: calc((100vw - (100vw - 100%)) / 2);
+    display: block;
+    position: relative;
+    background: #eee;
+}
+
+.carousel.small {
+    padding-bottom: calc((100vw - (100vw - 100%)) / 4);
+}
+
+.carousel > span {
+    display: block;
+    position: absolute;
+    z-index: 2;
+    background: #444;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 0 10px;
+    top: 200px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.carousel > span + span {
+    background: #888;
+    top: 250px;
+    font-size: 28px;
+    line-height: 40px;
+    height: 40px;
+}
+
+.carousel > div {
+    transition: opacity .5s ease-in;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    opacity: 0;
+}
+
+.carousel-credit {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    padding: 0 3px;
+    font-size: 10px;
+    background: rgba(255, 255, 255, .8);
+}
+
+@media screen and (max-width: 1180px) {
+    .carousel {
+        min-height: 175px;
+    }
+
+    .carousel > span {
+        font-size: 24px;
+        top: 100px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .carousel > span + span {
+        top: 140px;
+        font-size: 20px;
+        line-height: 28px;
+        height: 28px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .carousel > span {
+        font-size: 14px;
+        height: 26px;
+        line-height: 26px;
+        top: 124px;
+    }
+
+    .carousel > span + span {
+        font-size: 13px;
+        line-height: 18px;
+        height: 18px;
+        top: 150px;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .carousel > span {
+        font-size: 11px;
+        height: 23px;
+        line-height: 23px;
+        top: 130px;
+    }
+
+    .carousel > span + span {
+        font-size: 10px;
+        line-height: 15px;
+        height: 15px;
+        top: 153px;
+    }
+
+    .carousel-credit {
+        font-size: 8px;
+    }
+}

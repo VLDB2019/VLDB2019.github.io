@@ -63,6 +63,13 @@ a {
     text-decoration: none;
 }
 
+a[href^="http://"]:not(.no-ext-icon),
+a[href^="https://"]:not(.no-ext-icon) {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12'%3E%3Cg fill='%233A84DF' opacity='.8'%3E%3Cpath d='M2 3h3v1H3v6h6V8h1v3H2V3z'/%3E%3Cpath d='M6.8 2H11v4.2L9.2 4.5 5.7 8 5 7.3l3.5-3.5L6.8 2z'/%3E%3C/g%3E%3C/svg%3E");    background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 14px;
+}
+
 p {
     line-height: 1.75em;
     margin: 10px 0 15px;
@@ -330,6 +337,7 @@ body.static header > nav > .logo > img:last-child {
     opacity: 1;
 }
 
+/*
 .carousel {
     width: calc(100vw - (100vw - 100%));
     height: 0;
@@ -374,6 +382,7 @@ body.static header > nav > .logo > img:last-child {
     background-position: center center;
     opacity: 0;
 }
+*/
 
 main.body {
     display: flex;
@@ -415,83 +424,6 @@ section > h2 {
     color: #888;
 }
 
-.sponsor-logos {
-    flex-grow: 0;
-    flex-shrink: 0;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: flex-start;
-    align-items: stretch;
-    width: 100%;
-    margin: 30px 0 50px -8px;
-}
-
-.sponsor-logos img {
-    max-height: 100%;
-    max-width: 100%;
-    position: absolute;
-    top: 50%;
-    left: 0;
-    transform: translateY(-50%);
-}
-
-.sponsor-logos a {
-    margin: 0 0 38px 8px;
-    display: block;
-    text-decoration: none;
-    position: relative;
-}
-
-/*
-1	208	8	200	150
-2	360	8	172	129
-3	420	8	132	99
-4	480	8	112	84
-5	480	8	88	66
----------------
-2	320	8	152	114
-3	360	8	112	84
-4	400	8	92	69
-5	480	8	88	66
-6	480	8	72	54
- */
-
-/* 3 */
-.sponsor-logos.sponsor-1 > a {
-    width: calc((100% / 3) - 8px); /* 328px; */
-    height: 150px;
-}
-
-/* 4 */
-.sponsor-logos.sponsor-2 > a {
-    width: calc((100% / 4) - 8px); /* 244px; */
-    height: 110px;
-}
-
-/* 5 */
-.sponsor-logos.sponsor-3 > a {
-    width: calc((100% / 5) - 8px); /* 194px; */
-    height: 90px;
-}
-
-/* 6 */
-.sponsor-logos.sponsor-4 > a {
-    width: calc((100% / 6) - 8px); /* 160px; */
-    height: 75px;
-}
-
-/* 7 */
-.sponsor-logos.sponsor-5 > a {
-    width: calc((100% / 7) - 8px); /* 136px; */
-    height: 65px;
-}
-
-.sponsor-spacer {
-    /*flex-grow: 1;*/
-    flex-shrink: 1;
-    /*height: 100%;*/
-    width: 100%;
-}
 
 @media screen and (max-width: 1180px) {
     body.static header > nav,
@@ -523,6 +455,7 @@ section > h2 {
         margin-top: 0;
     }
 
+    /*
     .carousel {
         min-height: 175px;
     }
@@ -540,6 +473,7 @@ section > h2 {
         line-height: 28px;
         height: 28px;
     }
+    */
 
     header .menu {
         font-size: 12px;
@@ -649,44 +583,9 @@ section > h2 {
     header[aria-expanded="true"] > .small-header figure {
         padding: 0 10px;
     }
-
-    .sponsor-logos {
-        justify-content: flex-start;
-        align-content: space-between;
-        margin: 10px 0 50px -8px;
-    }
-
-    /* 2 */
-    .sponsor-logos.sponsor-1 > a {
-        width: calc((100% / 2) - 8px);
-        height: 140px;
-    }
-
-    /* 3 */
-    .sponsor-logos.sponsor-2 > a {
-        width: calc((100% / 3) - 8px);
-        height: 95px;
-    }
-
-    /* 4 */
-    .sponsor-logos.sponsor-3 > a {
-        width: calc((100% / 4) - 8px);
-        height: 65px;
-    }
-
-    /* 5 */
-    .sponsor-logos.sponsor-4 > a {
-        width: calc((100% / 5) - 8px);
-        height: 55px;
-    }
-
-    /* 6 */
-    .sponsor-logos.sponsor-5 > a {
-        width: calc((100% / 6) - 8px);
-        height: 45px;
-    }
 }
 
+/*
 @media screen and (max-width: 780px) {
     .carousel > span {
         font-size: 14px;
@@ -702,8 +601,10 @@ section > h2 {
         top: 150px;
     }
 }
+*/
 
 @media screen and (max-width: 370px) {
+    /*
     .carousel > span {
         font-size: 11px;
         height: 23px;
@@ -717,6 +618,7 @@ section > h2 {
         height: 15px;
         top: 153px;
     }
+    */
 }
 
 .caret {
@@ -1202,6 +1104,10 @@ footer > div {
     .schedule-wrap abbr:after {
         content: attr(short);
     }
+
+    footer {
+        font-size: 11px;
+    }
 }
 
 .tag.social,
@@ -1274,79 +1180,52 @@ footer > div {
     border-color: #ac3a31;
 }
 
-.sponsorship-wrap {
-    display: flex;
-    flex-flow: row wrap;
-    align-items: stretch;
+.info-reception figure {
+    float: right;
+    clear: both;
+    margin: 0 0 20px 20px;
 }
 
-.sponsorship-wrap > div:first-child {
-    flex-grow: 1;
-    /*
-    width: calc(100% - 300px);
-    min-width: 330px;
-    margin-right: 50px;
-    */
-    width: 100%;
+.info-reception figure img {
+    width: 310px;
 }
 
-/*
-.sponsorship-wrap > div:last-child {
-    flex-grow: 0;
-    width: 200px;
-    text-align: center;
-    padding-left: 49px;
-    border-left: 1px solid #ddd;
-    margin-top: 65px;
+.info-reception figcaption {
+    font-size: 11px;
+    font-weight: 400;
+    text-align: right;
+    line-height: 1em;
 }
 
-.sponsorship-wrap > div:last-child > h5 {
-    margin-top: -2px;
+.info-reception figure a {
+    background-size: 10px 10px !important;
+    padding-right: 11px !important;
 }
 
-.sponsorship-wrap > div:last-child a {
-    text-decoration: none;
-    display: block;
-    width: 100%;
-    margin-top: 50px;
-}
-
-.sponsorship-wrap > div:last-child img {
-    width: 100%;
-}
-*/
-
-@media screen and (max-width: 1180px) {
-    /*
-    .sponsorship-wrap > div:last-child {
-        padding: 0 14px 0 35px;
+@media screen and (max-width: 780px) {
+    .info-reception figure img {
+        width: 200px;
     }
-    */
 }
 
-@media screen and (max-width: 960px) {
-    /*
-    .sponsorship-wrap > div:first-child {
-        width: calc(100% - 200px);
-        margin-right: 25px;
+.only-450 {
+    display: none;
+}
+@media screen and (max-width: 450px) {
+    .only-450 {
+        display: unset;
     }
 
-    .sponsorship-wrap > div:last-child {
-        padding: 0 0 0 24px;
-        width: 150px;
-    }
-    */
-}
-
-@media screen and (max-width: 640px) {
-    /*
-    .sponsorship-wrap > div:first-child {
-        width: 100%;
-        margin-right: 0;
-    }
-
-    .sponsorship-wrap > div:last-child {
+    .non-450 {
         display: none;
     }
-    */
+
+    .info-reception figure {
+        float: none;
+        margin: 20px auto;
+    }
+
+    .info-reception figure img {
+        width: 100%;
+    }
 }
