@@ -55,9 +55,16 @@
     };
 
     doc.delegateEventListener('click', 'a[href^="./\\?"], a[href="./"]', function(e) {
+        if (e.which === 3 || e.button === 2) return;
         e.preventDefault();
         var page = this.getAttribute('href').replace(/^\.\/\??/, '');
         loadPage(page);
+    });
 
+    doc.delegateEventListener('click', 'a[href^="http://"], a[href^="https://"]', function(e) {
+        if (e.which === 3 || e.button === 2) return;
+        e.preventDefault();
+        var loc = this.getAttribute('href');
+        window.open(loc);
     });
 })(window, document);
