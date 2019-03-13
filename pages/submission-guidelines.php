@@ -50,7 +50,7 @@
     <p>
         Because PVLDB accepts conference-length papers, authors are encouraged to develop longer versions of PVLDB papers and submit them to traditional journal venues. The Editors-in-Chief of the VLDB Journal (VLDBJ) have formally agreed that extended versions of papers published in PVLDB may be considered for publication in VLDBJ.
         Other journals have informally encouraged this as well. More information on this topic is available in the PVLDB FAQ at:<br>
-        <a href="http://vldb.org/pvldb/pvldb-faq.html">http://vldb.org/pvldb/pvldb-faq.html</a>
+        <a href="http://vldb.org/pvldb/pvldb-faq.html" class="no-ext-icon">http://vldb.org/pvldb/pvldb-faq.html</a>
     </p>
 </section>
 <?php

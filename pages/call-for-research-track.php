@@ -7,7 +7,7 @@
 
     <p>
         <strong>Please refer to the link below for details on the PVLDB publication policy:</strong><br>
-        <a href="http://www.vldb.org/pvldb/policies/PVLDB%20Publication%20Policies.pdf">http://www.vldb.org/pvldb/policies/PVLDB Publication Policies.pdf</a>
+        <a href="http://www.vldb.org/pvldb/policies/PVLDB%20Publication%20Policies.pdf" class="no-ext-icon">http://www.vldb.org/pvldb/policies/PVLDB Publication Policies.pdf</a>
     </p>
 
     <p>PVLDB welcomes original research papers on a broad range of topics related to all aspects of data management. The themes and topics listed below are intended to serve primarily as indicators of the kinds of data-centric subjects that are of interest to PVLDB - they do not represent an exhaustive list.</p>
@@ -49,10 +49,10 @@
     <h3>Errata Notes</h3>
     <p>
         It is the policy of PVLDB to accept submission of Errata Notes for publication. Errata Notes are short (1-2 pages) papers that report and correct errors in papers published earlier in PVLDB/VLDB, as defined in section 4 of the PVLDB Publication Policies, see:<br>
-        <a href="http://www.vldb.org/pvldb/policies/PVLDB%20Publication%20Policies.pdf">http://www.vldb.org/pvldb/policies/PVLDB Publication Policies.pdf</a>
+        <a href="http://www.vldb.org/pvldb/policies/PVLDB%20Publication%20Policies.pdf" class="no-ext-icon">http://www.vldb.org/pvldb/policies/PVLDB Publication Policies.pdf</a>
     </p>
-    <p>Errata Notes may be submitted by the authors of the original paper, or by others who have found bugs in earlier papers. Errata Notes that are accepted for publication will appear in PVLDB, but will not be part of the VLDB conference program. In PVLDB, Errata Notes will be identified by including the keywords “Errata for” in the title.</p>
-    <p>Errata notes should be submitted through <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>, using the same submission process as research papers. <strong>S​ubmitted Errata Notes must be identifed as such by a title of the form “Errata for: X”, where X is the title of the earlier PVLDB paper that is being corrected.</strong> Errata Notes will be subjected to a basic level of reviewing if submitted by original authors, and to more detailed reviewing plus feedback/rebuttal from original authors if submitted by someone other than the original authors.</p>
+    <p>Errata Notes may be submitted by the authors of the original paper, or by others who have found bugs in earlier papers. Errata Notes that are accepted for publication will appear in PVLDB, but will not be part of the VLDB conference program. In PVLDB, Errata Notes will be identified by including the keywords "Errata for" in the title.</p>
+    <p>Errata notes should be submitted through <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>, using the same submission process as research papers. <strong>S​ubmitted Errata Notes must be identifed as such by a title of the form "Errata for: X", where X is the title of the earlier PVLDB paper that is being corrected.</strong> Errata Notes will be subjected to a basic level of reviewing if submitted by original authors, and to more detailed reviewing plus feedback/rebuttal from original authors if submitted by someone other than the original authors.</p>
 </section>
 <?php
 define('PageTitle', "Call for Contributions - Research Track");

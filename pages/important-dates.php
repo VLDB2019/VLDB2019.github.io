@@ -32,7 +32,7 @@
                 Beng Chin Ooi<small>NUS - Singapore</small>
             </td>
             <td>1 January 2019</td>
-            <td>18 February 2019<br>5 p.m. PST</td>
+            <td>20 February 2019<br>5 p.m. PST</td>
             <td>15 April 2019</td>
             <td>31 May 2019</td>
         </tr>

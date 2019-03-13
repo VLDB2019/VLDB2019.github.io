@@ -1,7 +1,7 @@
 <section class="call-for-demonstrations">
     <h1>VLDB 2019: Call for Contributions - Demonstrations</h1>
 
-    <p>VLDB 2019 invites submissions for demo proposals on any topic of interest, broadly defined, to the data management community. Accepted demonstration papers will appear in the PVLDB proceedings.</p>
+    <p>VLDB 2019 invites submissions for demo proposals on any topic of interest, broadly defined, to the data management community. Accepted demonstration papers will appear in the PVLDB proceedings. One of the demonstrations presented at the conference will be selected to receive a Best Demo Award.</p>
 
     <h3>Important Dates</h3>
     <ul>
@@ -14,7 +14,7 @@
     <p>The proposal must describe the demonstrated system, and state the novelty and significance of the contribution to data management research, technologies, and/or its applications. The proposal should pay special attention to describing the exact demonstration scenarios for the given system. This should include how the audience will experience the demo, what kind of functionality is supported, user scenarios, interface and interaction options, etc. Proposals must be submitted in <a href="./?formatting-guidelines">camera-ready format</a> and limited to 4 pages, inclusive of ALL material.</p>
 
     <h3>Video Submissions</h3>
-    <p>We specifically encourage the submission of a demonstration video (of up to 5 minutes, 50MB max. file size) together with your demonstration proposal via <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>. Both the demonstration proposal and the video will then be accessible by the reviewers. Your video should summarize your demonstration and also audio-visually highlight its most important aspects, such as the user interface, options for user interactions, the system setup, etc. The video should be submitted in MPEG/AVI format and be playable by the common media players. Please note that you will need to first finish your demo proposal submission and then edit it to add the video as a supplementary file.</p>
+    <p>We specifically encourage the submission of a demonstration video (of up to 5 minutes, 50MB max. file size) together with your demonstration proposal via <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>. Both the demonstration proposal and the video will then be accessible by the reviewers. Your video should summarize your demonstration and also audio-visually highlight its most important aspects, such as the user interface, options for user interactions, the system setup, etc. The video should be submitted in MPEG/AVI/MP4 format and be playable by the common media players. Please note that you will need to first finish your demo proposal submission and then edit it to add the video as a supplementary file.</p>
 
     <h3>Conflicts</h3>
     <p>To minimize biases in the evaluation process, we use <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>'s conflict management system, through which authors should flag conflicts with the Demo Program Committee members. All authors of a submission must declare conflicts on <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a> prior to the submission deadline.</p>
@@ -57,8 +57,8 @@
         Cagatay Demiralp<small>, Megagon Labs - USA</small><br />
         Dong Deng<small>, Rutgers University - USA</small><br />
         Jens Dittrich<small>, Saarland University - Germany</small><br />
+        Jiang Du<small>, University of Toronto - Canada</small><br />
         Iman Elghandour<small>, University of Copenhagen - Denmark</small><br />
-        Kyumars Esmaili<small>, TomTom - Belgium</small><br />
         David Eyers<small>, University of Otago - New Zealand</small><br />
         Peter Fischer<small>, University of Augsburg - Germany</small><br />
         Vijay Gadepally<small>, MIT Lincoln Laboratory - USA</small><br />
@@ -72,7 +72,6 @@
         Katja Hose<small>, Aalborg University - Denmark</small><br />
         Alekh Jindal<small>, Microsoft - USA</small><br />
         Pinar Karagoz<small>, METU - Turkey</small><br />
-        Eamonn Keogh<small>, UC Riverside - USA</small><br />
         Flip Korn<small>, Google Research - USA</small><br />
         Georgia Koutrika<small>, Athena Research Center - Greece</small><br />
         Justin Levandoski<small>, Amazon - USA</small><br />
@@ -82,8 +81,8 @@
         Alex Moga<small>, ABB Research - Switzerland</small><br />
         Daniela Nicklas<small>, University of Bamberg - Germany</small><br />
         Silvia Nittel<small>, University of Maine - USA</small><br />
-        John Paparrizos<small>, University of Chicago - USA</small><br />
         Themis Palpanas<small>, Paris Descartes University - France</small><br />
+        John Paparrizos<small>, University of Chicago - USA</small><br />
         Aditya Parameswaran<small>, UIUC - USA</small><br />
         Peter Pietzuch<small>, Imperial College London - UK</small><br />
         Karthik Ramasamy<small>, Streamlio - USA</small><br />
@@ -91,6 +90,7 @@
         Semih Salihoglu<small>, University of Waterloo - Canada</small><br />
         Nadathur Satish<small>, Facebook - USA</small><br />
         Marco Serafini<small>, UMass Amherst - USA</small><br />
+        Kyumars Sheykh Esmaili<small>, TomTom - Belgium</small><br />
         Ben Sowell<small>, Amazon - USA</small><br />
         Rebecca Taft<small>, Cockroach Labs - USA</small><br />
         Nan Tang<small>, QCRI - Qatar</small><br />

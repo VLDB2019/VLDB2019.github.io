@@ -75,7 +75,7 @@
             <a href="http://google.com"><img src="img/sponsor/google.png" /></a>
             <a href="http://aws.amazon.com"><img src="img/sponsor/aws.png" /></a>
             <a href="http://cisco.com"><img src="img/sponsor/cisco.png" /></a>
-            <a href="http://http://research.ibm.com/ai/"><img src="img/sponsor/ibm-research-ai.png" /></a>
+            <a href="http://research.ibm.com/ai/"><img src="img/sponsor/ibm-research-ai.png" /></a>
             <a href="http://mongodb.com"><img src="img/sponsor/mongodb.png" /></a>
         </div>
     </div>

@@ -7,7 +7,7 @@
     <h4>Scientific Host</h4>
     <p>
         Very Large Data Base Endowment Inc.<br />
-        <a href="http://www.vldb.org/">vldb.org</a>
+        <a href="http://www.vldb.org/" class="no-ext-icon">vldb.org</a>
     </p>
 
     <h4>Venue</h4>

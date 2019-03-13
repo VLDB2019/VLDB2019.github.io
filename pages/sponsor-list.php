@@ -6,43 +6,79 @@
 
             <h4>Diamond Sponsors</h4>
             <div class="sponsor-logos sponsor-1">
-                <a href="https://www.nsf.gov/" target="_blank" title="National Science Foundation - Diamond Sponsor"><img src="./img/sponsor/NSF.png"></a>
-                <div class="sponsor-spacer"></div>
+                <a href="https://www.amazon.com/" class="no-ext-icon" title="Amazon - Diamond Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Amazon.png"></a>
+                <a href="https://www.nsf.gov/" class="no-ext-icon" title="National Science Foundation - Diamond Sponsor"><img src="https://vldb2019.github.io/img/sponsor/NSF.png"></a>
+                <a href="https://www.oracle.com/" class="no-ext-icon" title="Oracle - Diamond Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Oracle.png"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
             </div>
 
 
             <h4>Platinum Sponsors</h4>
             <div class="sponsor-logos sponsor-2">
-                <a href="https://www.huawei.com/" target="_blank" title="Huawei - Platinum Sponsor"><img src="./img/sponsor/Huawei.png"></a>
-                <a href="https://www.tableau.com/" target="_blank" title="Tableau Software - Platinum Sponsor"><img src="./img/sponsor/Tableau.png"></a>
-                <a href="https://www.facebook.com/" target="_blank" title="Facebook - Platinum Sponsor"><img src="./img/sponsor/Facebook.png"></a>
-                <a href="https://www.couchbase.com/" target="_blank" title="Couchbase - Platinum Sponsor"><img src="./img/sponsor/Couchbase.png"></a>
-                <a href="https://www.tencent.com/" target="_blank" title="Tencent - Platinum Sponsor"><img src="./img/sponsor/Tencent.png"></a>
-                <a href="https://www.alibabagroup.com/" target="_blank" title="Alibaba - Platinum Sponsor"><img src="./img/sponsor/Alibaba.png"></a>
-                <div class="sponsor-spacer"></div>
+                <a href="https://www.alibabagroup.com/" class="no-ext-icon" title="Alibaba - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Alibaba.png"></a>
+                <a href="https://www.couchbase.com/" class="no-ext-icon" title="Couchbase - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Couchbase.png"></a>
+                <a href="https://www.facebook.com/" class="no-ext-icon" title="Facebook - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Facebook.png"></a>
+                <a href="https://www.huawei.com/" class="no-ext-icon" title="Huawei - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Huawei.png"></a>
+                <a href="https://www.microsoft.com/research" class="no-ext-icon" title="Microsoft - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Microsoft.png"></a>
+                <a href="https://www.snowflake.com/" class="no-ext-icon" title="Snowflake - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Snowflake.png"></a>
+                <a href="https://www.tableau.com/" class="no-ext-icon" title="Tableau Software - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Tableau.png"></a>
+                <a href="https://www.tencent.com/" class="no-ext-icon" title="Tencent - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Tencent.png"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
             </div>
 
 
             <h4>Gold Sponsors</h4>
             <div class="sponsor-logos sponsor-3">
-                <a href="https://www.sap.com/" target="_blank" title="SAP - Gold Sponsor"><img src="./img/sponsor/SAP.png"></a>
-                <a href="https://www.cisco.com/" target="_blank" title="Cisco - Gold Sponsor"><img src="./img/sponsor/Cisco.png"></a>
-                <a href="https://www.megagon.ai/" target="_blank" title="Megagon - Gold Sponsor"><img src="./img/sponsor/Megagon.png"></a>
-                <div class="sponsor-spacer"></div>
+                <a href="https://www.baidu.com/" class="no-ext-icon" title="Baidu - Gold Sponsor" style="transform: scale(.9)"><img src="https://vldb2019.github.io/img/sponsor/Baidu.png"></a>
+                <a href="https://www.cisco.com/" class="no-ext-icon" title="Cisco - Gold Sponsor" style="transform: scale(.8)"><img src="https://vldb2019.github.io/img/sponsor/Cisco.png"></a>
+                <a href="https://www.ebay.com/" class="no-ext-icon" title="eBay - Gold Sponsor" style="transform: scale(.75)"><img src="https://vldb2019.github.io/img/sponsor/eBay.png"></a>
+                <a href="https://www.megagon.ai/" class="no-ext-icon" title="Megagon - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Megagon.png"></a>
+                <a href="https://www.mongodb.com/" class="no-ext-icon" title="MongoDB - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/MongoDB.png"></a>
+                <a href="https://www.persistent.com/" class="no-ext-icon" title="Persistent Systems - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Persistent.png"></a>
+                <a href="https://www.sap.com/" class="no-ext-icon" title="SAP - Gold Sponsor" style="transform: scale(.8)"><img src="https://vldb2019.github.io/img/sponsor/SAP.png"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
             </div>
 
 
             <h4>Silver Sponsors</h4>
             <div class="sponsor-logos sponsor-4">
-                <a href="https://www.thoughtspot.com/" target="_blank" title="Thoughtspot - Silver Sponsor"><img src="./img/sponsor/Thoughtspot.png"></a>
-                <div class="sponsor-spacer"></div>
+                <a href="https://www.thoughtspot.com/" class="no-ext-icon" title="Thoughtspot - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Thoughtspot.png"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
             </div>
 
 
             <h4>Bronze Sponsors</h4>
             <div class="sponsor-logos sponsor-5">
-                <a href="https://www.tpc.org/" target="_blank" title="TPC - Bronze Sponsor"><img src="./img/sponsor/TPC.png"></a>
-                <div class="sponsor-spacer"></div>
+                <a href="https://www.tpc.org/" class="no-ext-icon" title="TPC - Bronze Sponsor"><img src="https://vldb2019.github.io/img/sponsor/TPC.png"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+            </div>
+
+
+            <h4>Exhibitors</h4>
+            <div class="sponsor-logos sponsor-6">
+                <a href="https://www.cambridge.org/" class="no-ext-icon" title="Cambridge University Press - Exhibitor"><img src="https://vldb2019.github.io/img/sponsor/CambridgeUniversityPress.png"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
+                <a class="sponsor-spacer"></a>
             </div>
         </div>
         <div style="display: none"></div>
@@ -51,15 +87,15 @@
 
 </section>
 <?php
-define('PageTitle', "Sponsorship");
+define('PageTitle', "Our Sponsors");
 define('PageDescription', "Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students. At VLDB 2019 we plan to deploy an excellent venue for visibility and recruiting.");
 ?>
 <script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "WebPage",
-        "name": "Sponsorship",
-        "url": "http://vldb.org/2019/?sponsorship",
+        "name": "Our Sponsors",
+        "url": "http://vldb.org/2019/?sponsor-list",
         "description": "Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students. At VLDB 2019 we plan to deploy an excellent venue for visibility and recruiting.",
         "breadcrumb": {
             "@type": "BreadcrumbList",
@@ -93,7 +129,15 @@ define('PageDescription', "Many of our sponsors & exhibitors use VLDB to meet & 
                     "position": 4,
                     "item": {
                         "@id": "http://vldb.org/2019/?sponsorship",
-                        "name": "Sponsorship"
+                        "name": "Sponsors"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@id": "http://vldb.org/2019/?sponsor-list",
+                        "name": "List"
                     }
                 }
             ]

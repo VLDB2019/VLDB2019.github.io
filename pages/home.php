@@ -37,7 +37,7 @@ define('PageDescription', "The VLDB 2019 conference, will take place in Los Ange
   "@type": "Organization",
   "name": "VLDB 2019: 45th International Conference on Very Large Data Bases",
   "url": "http://vldb.org/2019/",
-  "logo": "http://vldb.org/2019/img/logo.png",
+  "logo": "http://vldb.org/2019/img/new-logo.png",
   "sameAs": [
     "https://twitter.com/vldb2019",
     "https://facebook.com/VLDB2019/"
@@ -73,7 +73,7 @@ define('PageDescription', "The VLDB 2019 conference, will take place in Los Ange
     }
   },
   "image": [
-    "http://vldb.org/2019/img/logo.png"
+    "http://vldb.org/2019/img/new-logo.png"
    ],
   "endDate": "2019-08-30T18:00-08:00"
 }

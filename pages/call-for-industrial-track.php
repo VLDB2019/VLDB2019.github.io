@@ -6,7 +6,7 @@
 
     <h3>Important Dates</h3>
     <ul>
-        <li>Submission deadline: 18 February 2019 (5 p.m. PST)</li>
+        <li>Submission deadline: 20 February 2019 (5 p.m. PST)</li>
         <li>Notification: 15 April 2019</li>
         <li>Camera-ready copy due: 31 May 2019</li>
     </ul>
@@ -44,7 +44,7 @@
     </ul>
 
     <h3>Submission Guidelines</h3>
-    <p>Industrial track submissions must be submitted electronically, in PDF format, using <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>. Submissions must be in <a href="./?formatting-guidelines">camera-ready format</a>, and limited either to 6 pages (short papers) or to 12 pages (long papers), inclusive of ALL material.</p>
+    <p>Industrial track submissions must be submitted electronically, in PDF format, using <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>. Submissions must follow <a href="./?formatting-guidelines">VLDB 2019 formatting guidelines</a>, and be limited either to 6 pages (short papers) or to 12 pages (long papers), inclusive of ALL material.</p>
     <p>Please see the <a href="./?submission-guidelines">submission guidelines</a> for more information about formatting, the submission process, handling conflict of interest, and originality requirements.</p>
 
     <h3>Industrial Track Chairs</h3>
@@ -55,7 +55,50 @@
     </p>
 
     <h3>Industrial Track PC Members</h3>
-    <p>TBD</p>
+    <p class="program-chairs">
+        Divy Agrawal<small>, University of California, Santa Barbara</small><br />
+        Pedro Bizarro<small>, Feedzai</small><br />
+        Alexander Boehm<small>, SAP SE</small><br />
+        Ben Busjaeger<small>, Salesforce</small><br />
+        Mark Callaghan<small>, Facebook</small><br />
+        Michael Carey<small>, UC Irvine</small><br />
+        Angelo Ciarlini<small>, McKinsey</small><br />
+        Anh Dinh<small>, SUTD</small><br />
+        Thomas Fanghaenel<small>, Salesforce</small><br />
+        Avrilia Floratou<small>, Microsoft</small><br />
+        Anil Goel<small>, SAP</small><br />
+        Alon Halevy<small>, Recruit</small><br />
+        Stavros Harizopoulos<small>, Facebook</small><br />
+        Lars Hofhansl<small>, Salesforce</small><br />
+        Theodore Johnson<small>, AT&amp;T Labs - Research</small><br />
+        Yannis Katsis<small>, IBM Research - Almaden</small><br />
+        Martin Kersten<small>, CWI</small><br />
+        Kihong Kim<small>, SAP Labs - Korea</small><br />
+        Dustin Lange<small>, Amazon - USA</small><br />
+        Feifei Li<small>, Alibaba</small><br />
+        Yongzhu (Eric) Li<small>, Huawei</small><br />
+        Yunyao Li<small>, IBM Research - Almaden</small><br />
+        Qian Lin<small>, National University of Singapore</small><br />
+        Wei Liu<small>, Tencent</small><br />
+        Wei Lu<small>, Renmin university of China</small><br />
+        Rui Mao<small>, Shenzhen University</small><br />
+        Jamie Martin<small>, Salesforce</small><br />
+        Neoklis Polyzotis<small>, Google</small><br />
+        Danica Porobic<small>, Oracle</small><br />
+        Berthold Reinwald<small>, IBM Research</small><br />
+        Amit Rustagi<small>, Western Digital</small><br />
+        Benjamin Schlegel<small>, Oracle Labs</small><br />
+        Pinar Tozun<small>, ITU</small><br />
+        Dimitris Tsirogiannis<small>, Cloudera</small><br />
+        Hannes Voigt<small>, Neo4j</small><br />
+        Guoren Wang<small>, Beijing Institute of Technology</small><br />
+        Wei Wang<small>, NUS</small><br />
+        Reynold Xin<small>, Databricks</small><br />
+        Yang Yang<small>, University of Electronic Science and Technology of China</small><br />
+        Kai Zeng<small>, Alibaba - China</small><br />
+        Feida Zhu<small>, Singapore Management University</small><br />
+        Arthur Zwiegincew<small>, Oculus/Facebook</small><br />
+    </p>
 
 </section>
 <?php
