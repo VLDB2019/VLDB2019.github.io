@@ -443,6 +443,7 @@ section > h2 {
 
     header > nav > .logo > img:last-child {
         max-width: 150px;
+        min-width: 100px;
         opacity: 1;
         top: calc(50% - 2px);
     }

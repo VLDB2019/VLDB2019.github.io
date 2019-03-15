@@ -95,7 +95,14 @@ $content = ob_get_clean();
                 <a href="./?submission-guidelines" itemprop="url"><span itemprop="name">Submission guidelines</span></a>
             </div>
         </div>
-        <div class="no-sub"><a href="./?sponsorship" itemprop="url"><span itemprop="name">Sponsorship</span></a></div>
+        <div>
+            Sponsorship
+            <div class="menu">
+                <a href="./?sponsorship" itemprop="url"><span itemprop="name">Opportunities</span></a>
+                <hr/>
+                <a href="./?sponsor-list" itemprop="url"><span itemprop="name">Our sponsors</span></a>
+            </div>
+        </div>
         <div>
             Participant Information
             <div class="menu">
