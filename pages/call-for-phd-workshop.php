@@ -12,7 +12,7 @@
     </ul>
 
     <h3>Submission Guidelines</h3>
-    <p>PhD workshop submissions must be submitted electronically, in PDF format, using <a href="https://cmt3.research.microsoft.com/VLDBPhDW2019/">the PhD Workshop CMT</a>. Submissions must be single-author and any supervisors must be explicitly identified with "supervised by" on the paper and below the author's name.</p>
+    <p>PhD workshop submissions must be submitted electronically, in PDF format, using <a href="https://cmt3.research.microsoft.com/VLDB2019/Submission/Index">the PhD Workshop CMT</a>. Submissions must be single-author and any supervisors must be explicitly identified with "supervised by" on the paper and below the author's name.</p>
     <p>Papers must be submitted in <a href="./?formatting-guidelines">camera-ready format</a> and be limited to 4 pages, inclusive of ALL material. It is acceptable if specific portions of the thesis work have been published or submitted for publication; being limited to 4 pages, this does not constitute a duplicate submission to VLDB.</p>
 
     <h3>Review Process</h3>

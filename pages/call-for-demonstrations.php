@@ -5,7 +5,7 @@
 
     <h3>Important Dates</h3>
     <ul>
-        <li>Proposal submission deadline: 15 March 2019 (5 p.m. PST)</li>
+        <li>Proposal submission deadline: <em class="extended-date">15 March 2019</em> 18 March 2019 (5 p.m. PST)</li>
         <li>Notification of acceptance: 10 May 2019</li>
         <li>Camera-ready copy due: 31 May 2019</li>
     </ul>
@@ -58,7 +58,7 @@
         Dong Deng<small>, Rutgers University - USA</small><br />
         Jens Dittrich<small>, Saarland University - Germany</small><br />
         Jiang Du<small>, University of Toronto - Canada</small><br />
-        Iman Elghandour<small>, University of Copenhagen - Denmark</small><br />
+        Iman Elghandour<small>, IT University of Copenhagen - Denmark</small><br />
         David Eyers<small>, University of Otago - New Zealand</small><br />
         Peter Fischer<small>, University of Augsburg - Germany</small><br />
         Vijay Gadepally<small>, MIT Lincoln Laboratory - USA</small><br />

@@ -67,4 +67,10 @@
         var loc = this.getAttribute('href');
         window.open(loc);
     });
+
+    doc.delegateEventListener('click', 'a[href^="mailto:"][data-uz][data-at]', function(e) {
+        e.preventDefault();
+        var loc = 'mailto:' + this.getAttribute('data-uz') + '@' + this.getAttribute('data-at');
+        document.location.href = loc;
+    });
 })(window, document);

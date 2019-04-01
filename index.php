@@ -74,6 +74,14 @@ $content = ob_get_clean();
             </div>
         </div>
         <div>
+            Conference Program
+            <div class="menu">
+                <a href="./?program-schedule-workshops" itemprop="url"><span itemprop="name">Workshops</span></a>
+                <a href="./?program-schedule-phd-workshop" itemprop="url"><span itemprop="name">PhD Workshop</span></a>
+                <a href="./?program-schedule-technical" itemprop="url"><span itemprop="name">Technical Program</span></a>
+            </div>
+        </div>
+        <div>
             Call for Contributions
             <div class="menu">
                 <a href="./?call-for-research-track" itemprop="url"><span itemprop="name">Research track</span></a>

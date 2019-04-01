@@ -86,6 +86,9 @@
     <div><strong>Ahmed Eldawy</strong>, UCR</div>
     <div><strong>Faisal Nawab</strong>, UC Santa Cruz</div>
 
+    <h4>System Chair</h4>
+    <div><strong>Mohammad Sadoghi</strong>, UC Davis</div>
+
     <h4>Volunteer Coordinators</h4>
     <div><strong>Xiang Ren</strong>, USC</div>
 </section>

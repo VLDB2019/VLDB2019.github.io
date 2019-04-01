@@ -43,7 +43,7 @@
                 Alin Deutsch<small>UCSD</small>
             </td>
             <td>1 January 2019</td>
-            <td>15 March 2019<br>5 p.m. PST</td>
+            <td><em class="extended-date">15 March 2019</em><br>18 March 2019<br>5 p.m. PST</td>
             <td>10 May 2019</td>
             <td>31 May 2019</td>
         </tr>

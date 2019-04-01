@@ -9,6 +9,7 @@
                 <a href="https://www.amazon.com/" class="no-ext-icon" title="Amazon - Diamond Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Amazon.png"></a>
                 <a href="https://www.nsf.gov/" class="no-ext-icon" title="National Science Foundation - Diamond Sponsor"><img src="https://vldb2019.github.io/img/sponsor/NSF.png"></a>
                 <a href="https://www.oracle.com/" class="no-ext-icon" title="Oracle - Diamond Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Oracle.png"></a>
+                <a href="https://www.salesforce.com/" class="no-ext-icon" title="Salesforce - Diamond Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Salesforce.png"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>
             </div>
@@ -19,6 +20,7 @@
                 <a href="https://www.alibabagroup.com/" class="no-ext-icon" title="Alibaba - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Alibaba.png"></a>
                 <a href="https://www.couchbase.com/" class="no-ext-icon" title="Couchbase - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Couchbase.png"></a>
                 <a href="https://www.facebook.com/" class="no-ext-icon" title="Facebook - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Facebook.png"></a>
+                <a href="https://www.google.com/" class="no-ext-icon" title="Google - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Google.png"></a>
                 <a href="https://www.huawei.com/" class="no-ext-icon" title="Huawei - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Huawei.png"></a>
                 <a href="https://www.microsoft.com/research" class="no-ext-icon" title="Microsoft - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Microsoft.png"></a>
                 <a href="https://www.snowflake.com/" class="no-ext-icon" title="Snowflake - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Snowflake.png"></a>
@@ -88,7 +90,7 @@
 </section>
 <?php
 define('PageTitle', "Our Sponsors");
-define('PageDescription', "Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students. At VLDB 2019 we plan to deploy an excellent venue for visibility and recruiting.");
+define('PageDescription', "VLDB 2019 is excited to have the following as sponsors. Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students.");
 ?>
 <script type="application/ld+json">
     {
@@ -96,7 +98,7 @@ define('PageDescription', "Many of our sponsors & exhibitors use VLDB to meet & 
         "@type": "WebPage",
         "name": "Our Sponsors",
         "url": "http://vldb.org/2019/?sponsor-list",
-        "description": "Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students. At VLDB 2019 we plan to deploy an excellent venue for visibility and recruiting.",
+        "description": "VLDB 2019 is excited to have the following as sponsors. Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students.",
         "breadcrumb": {
             "@type": "BreadcrumbList",
             "itemListElement": [
