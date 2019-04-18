@@ -165,8 +165,50 @@
     <div><strong>Yunjun Gao</strong>, Zhejiang University</div>
     <div><strong>Zhiguo Gong</strong>, University of Macau</div>
 
+
     <h4>Industrial Track Program Committee</h4>
-    <div><em>Coming soon</em></div>
+    <div><strong>Divy Agrawal</strong>, University of California, Santa Barbara</div>
+    <div><strong>Pedro Bizarro</strong>, Feedzai</div>
+    <div><strong>Alexander Boehm</strong>, SAP SE</div>
+    <div><strong>Ben Busjaeger</strong>, Salesforce</div>
+    <div><strong>Mark Callaghan</strong>, Facebook</div>
+    <div><strong>Michael Carey</strong>, UC Irvine</div>
+    <div><strong>Angelo Ciarlini</strong>, McKinsey</div>
+    <div><strong>Anh Dinh</strong>, SUTD</div>
+    <div><strong>Thomas Fanghaenel</strong>, Salesforce</div>
+    <div><strong>Avrilia Floratou</strong>, Microsoft</div>
+    <div><strong>Anil Goel</strong>, SAP</div>
+    <div><strong>Alon Halevy</strong>, Recruit</div>
+    <div><strong>Stavros Harizopoulos</strong>, Facebook</div>
+    <div><strong>Lars Hofhansl</strong>, Salesforce</div>
+    <div><strong>Theodore Johnson</strong>, AT&amp;T Labs - Research</div>
+    <div><strong>Yannis Katsis</strong>, IBM Research - Almaden</div>
+    <div><strong>Martin Kersten</strong>, CWI</div>
+    <div><strong>Kihong Kim</strong>, SAP Labs - Korea</div>
+    <div><strong>Dustin Lange</strong>, Amazon - USA</div>
+    <div><strong>Feifei Li</strong>, Alibaba</div>
+    <div><strong>Yongzhu (Eric) Li</strong>, Huawei</div>
+    <div><strong>Yunyao Li</strong>, IBM Research - Almaden</div>
+    <div><strong>Qian Lin</strong>, National University of Singapore</div>
+    <div><strong>Wei Liu</strong>, Tencent</div>
+    <div><strong>Wei Lu</strong>, Renmin university of China</div>
+    <div><strong>Rui Mao</strong>, Shenzhen University</div>
+    <div><strong>Jamie Martin</strong>, Salesforce</div>
+    <div><strong>Neoklis Polyzotis</strong>, Google</div>
+    <div><strong>Danica Porobic</strong>, Oracle</div>
+    <div><strong>Berthold Reinwald</strong>, IBM Research</div>
+    <div><strong>Amit Rustagi</strong>, Western Digital</div>
+    <div><strong>Benjamin Schlegel</strong>, Oracle Labs</div>
+    <div><strong>Pinar Tozun</strong>, ITU</div>
+    <div><strong>Dimitris Tsirogiannis</strong>, Cloudera</div>
+    <div><strong>Hannes Voigt</strong>, Neo4j</div>
+    <div><strong>Guoren Wang</strong>, Beijing Institute of Technology</div>
+    <div><strong>Wei Wang</strong>, NUS</div>
+    <div><strong>Reynold Xin</strong>, Databricks</div>
+    <div><strong>Yang Yang</strong>, University of Electronic Science and Technology of China</div>
+    <div><strong>Kai Zeng</strong>, Alibaba - China</div>
+    <div><strong>Feida Zhu</strong>, Singapore Management University</div>
+    <div><strong>Arthur Zwiegincew</strong>, Oculus/Facebook</div>
 </section>
 <?php
 define('PageTitle', "PVLDB Review Board");

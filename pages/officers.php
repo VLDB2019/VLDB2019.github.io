@@ -89,7 +89,10 @@
     <h4>System Chair</h4>
     <div><strong>Mohammad Sadoghi</strong>, UC Davis</div>
 
-    <h4>Volunteer Coordinators</h4>
+    <h4>Booklet Chair</h4>
+    <div><strong>Mariam Salloum</strong>, UCR</div>
+
+    <h4>Volunteer Coordinator</h4>
     <div><strong>Xiang Ren</strong>, USC</div>
 </section>
 <?php

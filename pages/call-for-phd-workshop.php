@@ -26,7 +26,16 @@
     </p>
 
     <h3>PhD Workshop PC Members</h3>
-    <p>TBD</p>
+    <p class="program-chairs">
+        Selcuk Candan<small>, Arizona State University</small><br />
+        Vincent Oria<small>, New Jersey Institute of Technology</small><br />
+        M. Tamer Özsu<small>, University of Waterloo</small><br />
+        Dimitris Papadias<small>, Hong Kong University of Science and Technology</small><br />
+        Marco Patella<small>, University of Bologna</small><br />
+        Maria Luisa Sapino<small>, University of Torino</small><br />
+        Divesh Srivastava<small>, AT&T Labs-Research</small><br />
+        Yufei Tao<small>, Chinese University of Hong Kong</small><br />
+    </p>
 
 </section>
 <?php

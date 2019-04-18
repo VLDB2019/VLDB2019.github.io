@@ -17,7 +17,7 @@
         <li>workshop title</li>
         <li>chairs and organizers</li>
         <li>contact information</li>
-        <li>a description of the workshop’s topic and its goals</li>
+        <li>a description of the workshop's topic and its goals</li>
         <li>a statement on how the workshop complements or relates to other events</li>
         <li>desired workshop format, including preferred date and duration</li>
         <li>a description of the submission review process, including key dates and coverage of how conflicts of interest are handled</li>

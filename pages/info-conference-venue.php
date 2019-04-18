@@ -24,6 +24,17 @@
     <p>We're located at the epicenter of the city's financial district, less than two blocks from the Union Bank and US Bank towers, with a skyway connecting us to downtown's World Trade Center. Leisure is equally within reach: we're the closest upscale hotel to LA's famed Dodger Stadium. Also right in our vicinity is the Figueroa Corridor/University Park area, home to University of Southern California (USC). This area encompasses the Los Angeles Memorial Coliseum, Exposition Park and Shrine Auditorium, the National History Museum, California African American Museum, and the California Science Center & IMAX theater. Stop by the city's newly-built Cathedral of Our Lady of the Angels, less than a mile from the hotel.</p>
     <p>As the entertainment capital of the world, LA is one of the country's most glamorous cities—only one component of which is its thriving film industry. Among LA's foremost addresses, we are a short stroll to the Music Center, the Museum of Contemporary Art, and Frank Gehry's Walt Disney Concert Hall. We're also only eight short blocks to the Los Angeles Convention Center, LA Live, and the celebrated Staples Center, and just 20 minutes from Los Angeles International Airport (LAX).</p>
 
+    <h3>Location</h3>
+    <p><strong>Downtown Los Angeles (DTLA)</strong> is the central business district of Los Angeles, California, as well as a diverse residential neighborhood of some 58,000 people. The Westin Bonaventure Hotel is located in the Financial District of DTLA.</p>
+    <p>Please visit the <a href="./?info-airports-guide">Airports Guide</a> for specific directions.</p>
+
+    <iframe
+            width="100%"
+            height="400"
+            frameborder="0" style="border:0; margin-bottom: 30px"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBDK_trkHIriYNp3yDBnrbL243Mfk2irKc&q=The+Westin+Bonaventure+Hotel+Los+Angeles+CA+90071&zoom=13" allowfullscreen>
+    </iframe>
+
     <h3>Parking</h3>
     <ul>
         <li>On-site parking, fee: 15 USD hourly, 49 USD daily</li>
@@ -37,12 +48,17 @@
         <li><strong>Train Station:</strong> Union Station, is 1.6 miles (2.6 km) northeast from the hotel.</li>
     </ul>
 
-    <iframe
-            width="100%"
-            height="400"
-            frameborder="0" style="border:0; margin-top: 50px"
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBDK_trkHIriYNp3yDBnrbL243Mfk2irKc&q=The+Westin+Bonaventure+Hotel+Los+Angeles+CA+90071&zoom=13" allowfullscreen>
-    </iframe>
+    <h3>Convenient Lunch and Dining Options near the Conference Venue</h3>
+    <p><strong>LA Prime</strong>&nbsp;&nbsp;&nbsp;<em class="tag">Steakhouse</em><br />Savor mouthwatering steak and fresh seafood as you take in spectacular 360-degree views of LA from LA Prime, the award-winning steakhouse on the 35th floor of downtown's The Westin Bonaventure Hotel & Suites, Los Angeles. Open for dinner. Dress code: Casual.<br /><a class="phone-icon" href="tel:+12136124743" rel="nofollow">+1 (213) 612-4743</a>; ext: 4743</p>
+    <p><strong>BonaVista Lounge</strong>&nbsp;&nbsp;&nbsp;<em class="tag">American</em><br />Sip classic cocktails made with an innovative twist at the dazzling BonaVista Lounge. Tempting libations, light restaurant entrees and small plates are on the menu, as are terrific views of Los Angeles from the 34th floor of this revolving hotel venue. Open for lunch and dinner. Dress code: Casual.<br /><a class="phone-icon" href="tel:+12136124743" rel="nofollow">+1 (213) 612-4743</a>; ext: 4743</p>
+    <p><strong>Lakeview Bistro</strong>&nbsp;&nbsp;&nbsp;<em class="tag">American</em><br />Enjoy breakfasts and lunch favorites at Lakeview Bistro. This popular downtown LA restaurant offers healthy American classics, and an impressive list of fine wines. Our Westin's Super Foods program will support you commitment to becoming a healthier you. Open for breakfast and lunch. Dress code: Casual.<br /><a class="phone-icon" href="tel:+12136124897" rel="nofollow">+1 (213) 612-4897</a>; ext: 4897</p>
+    <p><strong>Lobby Court</strong>&nbsp;&nbsp;&nbsp;<em class="tag">American</em><br />Stop in for your favorite beverage at Lobby Court. Grab a Starbucks® coffee to start your day or sip cocktails and sample appetizers after a long day of meetings or exploring Los Angeles. Open for breakfast, lunch, and dinner. Dress code: Casual.<br /><a class="phone-icon" href="tel:+12136241000;4897" rel="nofollow">+1 (213) 624-1000</a>; ext: 4897</p>
+    <p><strong>Border Grill, Downtown LA</strong>&nbsp;&nbsp;&nbsp;0.1 miles&nbsp;&nbsp;&nbsp;<em class="tag">Mexican</em><br />Border Grill is a contemporary Mexican restaurant in Downtown LA, offering fresh, handmade margaritas and bold flavors of modern Mexican fare. Open for lunch and dinner. Dress code: Casual.</p>
+    <p><strong>Drago Centro</strong>&nbsp;&nbsp;&nbsp;0.1 miles&nbsp;&nbsp;&nbsp;<em class="tag">Italian</em><br />Drago Centre is an upscale Italian dining experience, combining classic Italian recipes and techniques with a more modern panache. Open for lunch and dinner. Dress code: Smart Casual.</p>
+    <p><strong>George's Greek Grill</strong>&nbsp;&nbsp;&nbsp;0.2 miles&nbsp;&nbsp;&nbsp;<em class="tag">Mediterranean</em><br />George's Greek Grill specializes in providing fresh, tasty sandwiches, super-wraps and other Mediterranean favorites. Open for lunch and dinner. Dress code: Casual.</p>
+    <p><strong>71Above Restaurant and Skylounge</strong>&nbsp;&nbsp;&nbsp;0.2 miles&nbsp;&nbsp;&nbsp;<em class="tag">American</em><br />Enjoy beautiful panoramic views of LA and high-end American cuisine while dining in a lap of luxury. Open for lunch and dinner. Dress code: Smart Casual.</p>
+
+
 </section>
 <?php
 define('PageTitle', "Conference Venue");

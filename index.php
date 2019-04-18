@@ -117,7 +117,7 @@ $content = ob_get_clean();
                 <a href="./?registration" itemprop="url"><span itemprop="name">Registration</span></a>
                 <a href="./?info-conference-venue" itemprop="url"><span itemprop="name">Conference venue</span></a>
                 <a href="./?info-lodging" itemprop="url"><span itemprop="name">Lodging</span></a>
-                <a href="./?info-travel-fellowship" itemprop="url"><span itemprop="name">Travel fellowship</span></a>
+                <a href="./?info-travel-support" itemprop="url"><span itemprop="name">Travel support</span></a>
                 <a href="./?info-visa" itemprop="url"><span itemprop="name">Visa information</span></a>
                 <a href="./?info-public-transport" itemprop="url"><span itemprop="name">Public transport</span></a>
                 <a href="./?info-local-attractions" itemprop="url"><span itemprop="name">Local attractions</span></a>
@@ -147,6 +147,7 @@ $content = ob_get_clean();
     <link rel="stylesheet" href="./font/font.css">
     <link rel="stylesheet" href="./css/main.css">
     <link rel="stylesheet" href="./css/carousel.css">
+    <link rel="stylesheet" href="./css/gallery.css">
     <link rel="stylesheet" href="./css/sponsors.css">
     <script src="./js/polyfills.js"></script>
     <script src="./js/carousel.js"></script>
