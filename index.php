@@ -6,7 +6,7 @@ list($q, $s) = explode("=", array_shift(preg_split("/(?<!\|)(&|;)/i", $_SERVER['
 $q = preg_replace(array("/<.*script>/i", "/%3C.*ScRiPt%3E/i", "/<\?/", "/\?>/", "/<%/", "/%>/"), array('', '', '', '', '', ''), rawurldecode($q));
 $s = preg_replace(array("/<.*script>/i", "/%3C.*ScRiPt%3E/i", "/<\?/", "/\?>/", "/<%/", "/%>/"), array('', '', '', '', '', ''), $s);
 $q = trim($q);
-if (empty($q)) {
+if (empty($q) || $q == 'conference-overview') {
     $q = 'home';
 }
 $page = Root . '/pages/' . $q . '.php';
@@ -21,6 +21,7 @@ if (file_exists($page)) {
     }
     header("Last-Modified: " . $lastModified);
 } else {
+    header("HTTP/1.1 404 Not Found");
     include(Root . '/pages/coming-soon.php');
 }
 $content = ob_get_clean();
@@ -76,6 +77,7 @@ $content = ob_get_clean();
         <div>
             Conference Program
             <div class="menu">
+                <a href="./?program-schedule-tutorials" itemprop="url"><span itemprop="name">Tutorials</span></a>
                 <a href="./?program-schedule-workshops" itemprop="url"><span itemprop="name">Workshops</span></a>
                 <a href="./?program-schedule-phd-workshop" itemprop="url"><span itemprop="name">PhD Workshop</span></a>
                 <a href="./?program-schedule-technical" itemprop="url"><span itemprop="name">Technical Program</span></a>
@@ -114,6 +116,7 @@ $content = ob_get_clean();
         <div>
             Participant Information
             <div class="menu">
+                <a href="./?info-reception" itemprop="url"><span itemprop="name">Reception</span></a>
                 <a href="./?registration" itemprop="url"><span itemprop="name">Registration</span></a>
                 <a href="./?info-conference-venue" itemprop="url"><span itemprop="name">Conference venue</span></a>
                 <a href="./?info-lodging" itemprop="url"><span itemprop="name">Lodging</span></a>
@@ -153,6 +156,7 @@ $content = ob_get_clean();
     <script src="./js/carousel.js"></script>
     <script src="./js/menu.js"></script>
     <script src="./js/router.js"></script>
+    <script src="./js/accepted.js"></script>
 <?php } else { ?>
     <link rel="stylesheet" href="./css/prod.min.css">
     <script async src="./js/prod.min.js"></script>

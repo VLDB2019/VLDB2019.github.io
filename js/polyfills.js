@@ -75,7 +75,7 @@
         stopPropagationOriginal.apply(this, arguments);
     };
     var stopImmediatePropagationOriginal = Event.prototype.stopImmediatePropagation;
-    Event.prototype.stopPropagation = function() {
+    Event.prototype.stopImmediatePropagation = function() {
         this.immediatePropagationStopped = true;
         this.propagationStopped = true;
         stopImmediatePropagationOriginal.apply(this, arguments);

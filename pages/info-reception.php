@@ -3,6 +3,14 @@
 
     <p>Join us for an evening of scientific exhibits at the California Science Center.</p>
 
+    <address>
+        <div class="calsc"></div>
+        <strong>The California Science Center</strong>, The Oschin Space Shuttle Endeavour Pavilion
+        <div>27 August 2019, 7 p.m. to 10 p.m. PST</div>
+        <div class="address-icon">700 Exposition Park Dr.<br />Los Angeles, CA 90037</div>
+        <a class="phone-icon" href="tel:+13237243623" rel="nofollow">+1 (323) 724-3623</a>
+    </address>
+
     <figure class="non-450">
         <img src="img/space-shuttle.jpg" />
         <figcaption><a href="https://www.flickr.com/photos/aloha75/10108336525">Photo</a> by Sam Howzit / <a href="https://creativecommons.org/licenses/by/2.0/" class="cc-lic">CC BY</a></figcaption>
@@ -30,11 +38,44 @@
     <h3>Additional Information</h3>
     <p>More information on the Ecosystems exhibits can be found on <a href="https://californiasciencecenter.org/exhibits/ecosystems">the California Science Center website</a>.</p>
     <p>Curious about how a huge space shuttle makes it into the middle of Los Angeles? Check out the LA Times' <a href="https://www.youtube.com/watch?v=JdqZyACCYZc">time-lapse video of the Endeavor's trek through Los Angeles from LAX airport to the California Science Center</a>.</p>
+
+    <iframe
+            width="100%"
+            height="400"
+            frameborder="0" style="border:0; margin-bottom: 30px"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBDK_trkHIriYNp3yDBnrbL243Mfk2irKc&q=The+California+Science+Center+Los+Angeles+CA+90037&zoom=13" allowfullscreen>
+    </iframe>
 </section>
 <?php
 define('PageTitle', "Reception at the California Science Center");
-define('PageDescription', "VLDB 2019 invites you to join us for an evening of scientific exhibits at the California Science Center.");
+define('PageDescription', "The VLDB 2019 reception will be held on 27 August 2019, 7 p.m. to 10 p.m. PST, at the Oschin Space Shuttle Endeavour Pavilion, home to the historic space shuttle Endeavor. The Endeavor is the fifth orbiter space shuttle built for NASA's space shuttle program. The spacecraft went on 25 missions from 1992-2011; it is now on display at the California Science Center.");
 ?>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Event",
+        "name": "VLDB 2019: Reception at the California Science Center",
+        "description": "The VLDB 2019 reception will be held on 27 August 2019, 7 p.m. to 10 p.m. PST, at the Oschin Space Shuttle Endeavour Pavilion, home to the historic space shuttle Endeavor. The Endeavor is the fifth orbiter space shuttle built for NASA's space shuttle program. The spacecraft went on 25 missions from 1992-2011; it is now on display at the California Science Center.",
+        "sameAs": "http://vldb.org/2019/?info-reception",
+        "startDate": "2019-08-27T19:00-08:00",
+        "endDate": "2019-08-27T22:00-08:00",
+        "location": {
+            "@type": "Place",
+            "name": "The California Science Center",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "700 Exposition Park Dr.",
+                "addressLocality": "Los Angeles",
+                "postalCode": "90037",
+                "addressRegion": "CA",
+                "addressCountry": "US"
+            }
+        },
+        "image": [
+            "http://vldb.org/2019/img/new-logo.png"
+        ]
+    }
+</script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
