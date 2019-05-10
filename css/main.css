@@ -1263,6 +1263,7 @@ footer > div {
 .only-450 {
     display: none;
 }
+
 @media screen and (max-width: 450px) {
     .only-450 {
         display: unset;
@@ -1286,17 +1287,20 @@ footer > div {
     color: #999;
     font-size: 13px;
 }
-.workshop-title>strong {
+
+.workshop-title > strong {
     color: #444;
     font-size: 14px;
     margin-right: 2px;
 }
+
 .workshop-organizers {
     display: block;
     font-size: 12px;
     line-height: 1.75;
     color: #999;
 }
+
 .workshop-organizers a {
     color: #777;
 }
@@ -1313,6 +1317,7 @@ footer > div {
     line-height: 1.75;
     color: #999;
 }
+
 .accepted-authors a {
     color: #777;
 }
@@ -1354,4 +1359,50 @@ footer > div {
 
 .accepted-expanded .accepted-abstract-action {
     transform: rotate(-180deg);
+}
+
+.hotel-rates-narrow {
+    display: none;
+}
+
+@media screen and (max-width: 500px) {
+    .hotel-rates-wide {
+        display: none;
+    }
+
+    .hotel-rates-narrow {
+        display: table;
+    }
+}
+
+.hotel-rates-wide th {
+    font-size: 13px;
+    font-weight: 300;
+    font-style: italic;
+}
+.hotel-rates-wide tbody tr:nth-of-type(odd) {
+    background: #f0f0f0;
+}
+
+.hotel-rates-narrow tbody tr:nth-of-type(even) {
+    background: #f0f0f0;
+}
+
+.hotel-rates-wide td {
+    white-space: nowrap;
+    padding: 5px;
+}
+
+.hotel-rates-narrow td {
+    white-space: nowrap;
+    padding: 2px 5px;
+}
+
+.hotel-rates-wide td:first-child {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.hotel-rates-wide td:first-child ~ td {
+    text-align: center;
 }

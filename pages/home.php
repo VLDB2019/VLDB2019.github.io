@@ -10,7 +10,7 @@
     <h2>VLDB 2019: Venue</h2>
     <address>
         <div class="westin"></div>
-        <strong>The Westin Bonaventure Hotel</strong>
+        <strong>The Westin Bonaventure Hotel & Suites</strong>
         <div class="address-icon">404 S Figueroa St.<br />Los Angeles, CA 90071</div>
         <a class="phone-icon" href="tel:+12136241000" rel="nofollow">+1 (213) 624-1000</a>
     </address>
@@ -62,7 +62,7 @@ define('PageDescription', "The VLDB 2019 conference, will take place in Los Ange
   "startDate": "2019-08-26T10:00-08:00",
   "location": {
     "@type": "Place",
-    "name": "The Westin Bonaventure Hotel",
+    "name": "The Westin Bonaventure Hotel & Suites",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "404 S Figueroa St.",

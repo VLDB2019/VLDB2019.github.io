@@ -3,7 +3,7 @@
 
     <address>
         <div class="westin"></div>
-        <strong>The Westin Bonaventure Hotel</strong>
+        <strong>The Westin Bonaventure Hotel & Suites</strong>
         <div class="address-icon">404 S Figueroa St.<br />Los Angeles, CA 90071</div>
         <a class="phone-icon" href="tel:+12136241000" rel="nofollow">+1 (213) 624-1000</a>
     </address>
@@ -25,7 +25,7 @@
     <p>As the entertainment capital of the world, LA is one of the country's most glamorous cities—only one component of which is its thriving film industry. Among LA's foremost addresses, we are a short stroll to the Music Center, the Museum of Contemporary Art, and Frank Gehry's Walt Disney Concert Hall. We're also only eight short blocks to the Los Angeles Convention Center, LA Live, and the celebrated Staples Center, and just 20 minutes from Los Angeles International Airport (LAX).</p>
 
     <h3>Location</h3>
-    <p><strong>Downtown Los Angeles (DTLA)</strong> is the central business district of Los Angeles, California, as well as a diverse residential neighborhood of some 58,000 people. The Westin Bonaventure Hotel is located in the Financial District of DTLA.</p>
+    <p><strong>Downtown Los Angeles (DTLA)</strong> is the central business district of Los Angeles, California, as well as a diverse residential neighborhood of some 58,000 people. The Westin Bonaventure Hotel & Suites is located in the Financial District of DTLA.</p>
     <p>Please visit the <a href="./?info-airports-guide">Airports Guide</a> for specific directions.</p>
 
     <iframe
@@ -62,7 +62,7 @@
 </section>
 <?php
 define('PageTitle', "Conference Venue");
-define('PageDescription', "VLDB 2019 will be held in Los Angeles, California, at The Westin Bonaventure Hotel, 404 S Figueroa St., Los Angeles, CA 90071.");
+define('PageDescription', "VLDB 2019 will be held in Los Angeles, California, at The Westin Bonaventure Hotel & Suites, 404 S Figueroa St., Los Angeles, CA 90071.");
 ?>
 <script type="application/ld+json">
 {
@@ -70,7 +70,7 @@ define('PageDescription', "VLDB 2019 will be held in Los Angeles, California, at
   "@type": "WebPage",
   "name": "Venue",
   "url": "http://vldb.org/2019/?info-conference-venue",
-  "description": "VLDB 2019 will be held in Los Angeles, California, at The Westin Bonaventure Hotel, 404 S Figueroa St., Los Angeles, CA 90071.",
+  "description": "VLDB 2019 will be held in Los Angeles, California, at The Westin Bonaventure Hotel & Suites, 404 S Figueroa St., Los Angeles, CA 90071.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{

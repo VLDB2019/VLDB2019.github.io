@@ -22,11 +22,13 @@
                 <a href="https://www.facebook.com/" class="no-ext-icon" title="Facebook - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Facebook.png"></a>
                 <a href="https://www.google.com/" class="no-ext-icon" title="Google - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Google.png"></a>
                 <a href="https://www.huawei.com/" class="no-ext-icon" title="Huawei - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Huawei.png"></a>
-                <a href="https://www.ibm.com/" class="no-ext-icon" title="IBM Research AI - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/IBMResearchAI.png"></a>
+                <a href="https://www.research.ibm.com/artificial-intelligence/" class="no-ext-icon" title="IBM Research AI - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/IBMResearchAI.png"></a>
+                <a href="https://www.linkedin.com" class="no-ext-icon" title="LinkedIn - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/LinkedIn.png"></a>
                 <a href="https://www.microsoft.com/research" class="no-ext-icon" title="Microsoft - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Microsoft.png"></a>
                 <a href="https://www.snowflake.com/" class="no-ext-icon" title="Snowflake - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Snowflake.png"></a>
                 <a href="https://www.tableau.com/" class="no-ext-icon" title="Tableau Software - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Tableau.png"></a>
                 <a href="https://www.tencent.com/" class="no-ext-icon" title="Tencent - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Tencent.png"></a>
+                <a href="https://www.tigergraph.com/" class="no-ext-icon" title="TigerGraph - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/TigerGraph.png"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>
