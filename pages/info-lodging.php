@@ -3,6 +3,7 @@
 
     <p>VLDB 2019 has secured extremely reduced prices for your stay at The Westin Bonaventure Hotel & Suites located at downtown Los Angeles to attend the conference. At these low rates, we strongly encourage you to book your stay with this hotel which has numerous on-prem amenities for meetings and off-hour activities e.g., gym and dining options.</p>
     <p>To book your stay, please visit the <a href="https://book.passkey.com/event/49883967/owner/3390/home">reservation page</a>.</p>
+    <p>After completing their <a href="./?info-registration">registration</a>, student registrants will be e-mailed an access code to use on the <a href="https://book.passkey.com/event/49883967/owner/3390/home">reservation page</a> to obtain the further discounted room rates in the student block.</p>
 
     <div class="hotel-rates-wide">
         <table>
@@ -52,16 +53,16 @@
     </address>
 </section>
 <?php
-define('PageTitle', "Travel Support");
-define('PageDescription', "We are very happy to announce travel support opportunities for students and faculty to attend VLDB 2019 in Los Angeles. The travel grants provide financial support to students and faculty affiliated with universities with limited funding opportunities.");
+define('PageTitle', "Lodging");
+define('PageDescription', "VLDB 2019 has secured extremely reduced prices for your stay at The Westin Bonaventure Hotel & Suites located at downtown Los Angeles to attend the conference.");
 ?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "name": "Travel Support",
-  "url": "http://vldb.org/2019/?info-travel-support",
-  "description": "We are very happy to announce travel support opportunities for students and faculty to attend VLDB 2019 in Los Angeles. The travel grants provide financial support to students and faculty affiliated with universities with limited funding opportunities.",
+  "name": "Lodging",
+  "url": "http://vldb.org/2019/?info-lodging",
+  "description": "VLDB 2019 has secured extremely reduced prices for your stay at The Westin Bonaventure Hotel & Suites located at downtown Los Angeles to attend the conference.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{
@@ -96,8 +97,8 @@ define('PageDescription', "We are very happy to announce travel support opportun
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-travel-support",
-        "name": "Travel Support"
+        "@id": "http://vldb.org/2019/?info-lodging",
+        "name": "Lodging"
       }
     }]
   }

@@ -1305,104 +1305,90 @@ footer > div {
     color: #777;
 }
 
-.accepted-title {
-    color: #444;
-    font-size: 14px;
-    margin-right: 2px;
-}
-
-.accepted-authors {
-    display: block;
-    font-size: 12px;
-    line-height: 1.75;
-    color: #999;
-}
-
-.accepted-authors a {
-    color: #777;
-}
-
-.accepted-abstract {
-    margin: 5px 0 5px 0;
-    display: inline-block;
-    font-size: 13px;
-    height: 18px;
-    line-height: 18px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    width: 100%;
-    padding-left: 20px;
-    position: relative;
-    cursor: pointer;
-}
-
-.accepted-abstract.accepted-expanded {
-    margin-bottom: 25px;
-    overflow: visible;
-    white-space: normal;
-    height: auto;
-    cursor: auto;
-}
-
-.accepted-abstract-action {
-    position: absolute;
-    left: 2px;
-    top: 3px;
-    display: inline-block;
-    background: url("../img/caret.svg") 0 0/10px 10px;
-    height: 10px;
-    width: 10px;
-    cursor: pointer;
-    transition: all .5s;
-}
-
-.accepted-expanded .accepted-abstract-action {
-    transform: rotate(-180deg);
-}
-
-.hotel-rates-narrow {
+.hotel-rates-narrow,
+.registration-fees-narrow {
     display: none;
 }
 
 @media screen and (max-width: 500px) {
-    .hotel-rates-wide {
+    .hotel-rates-wide,
+    .registration-fees-wide {
         display: none;
     }
 
-    .hotel-rates-narrow {
+    .hotel-rates-narrow,
+    .registration-fees-narrow {
         display: table;
     }
 }
 
-.hotel-rates-wide th {
+.hotel-rates-wide th,
+.registration-fees-wide thead tr:nth-of-type(2) th {
     font-size: 13px;
     font-weight: 300;
     font-style: italic;
 }
-.hotel-rates-wide tbody tr:nth-of-type(odd) {
+
+.registration-fees-wide thead:not(:first-child) tr:first-child th {
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+}
+
+.registration-fees-narrow thead:not(:first-child) tr:first-child th {
+    padding-top: 10px;
+}
+
+.hotel-rates-wide tbody tr:nth-of-type(odd),
+.registration-fees-wide tbody tr:nth-of-type(odd) {
     background: #f0f0f0;
 }
 
-.hotel-rates-narrow tbody tr:nth-of-type(even) {
+.hotel-rates-narrow tbody tr:nth-of-type(even),
+.registration-fees-narrow tbody tr:nth-of-type(even),
+.registration-fees-narrow-student tbody tr:nth-of-type(odd) {
     background: #f0f0f0;
 }
 
-.hotel-rates-wide td {
+.registration-fees-narrow-student tbody tr:nth-of-type(even) {
+    background: transparent;
+}
+
+.hotel-rates-wide td,
+.registration-fees-wide td {
     white-space: nowrap;
     padding: 5px;
 }
 
-.hotel-rates-narrow td {
+.hotel-rates-narrow td,
+.registration-fees-narrow td {
     white-space: nowrap;
     padding: 2px 5px;
 }
 
-.hotel-rates-wide td:first-child {
+.hotel-rates-wide td:first-child,
+.registration-fees-wide td:first-child {
     font-size: 13px;
     font-weight: 600;
 }
 
-.hotel-rates-wide td:first-child ~ td {
+.registration-fees-wide td:first-child span {
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.hotel-rates-wide td:first-child ~ td,
+.registration-fees-wide td:first-child ~ td {
     text-align: center;
+}
+
+.registration-fees-wide {
+    margin-bottom: 35px;
+}
+
+.registration-fees-narrow th {
+    text-align: left;
+}
+
+.info-registration .notice {
+    color: #be6560;
 }

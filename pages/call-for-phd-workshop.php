@@ -19,6 +19,14 @@
     <p>The review and decision of acceptance will balance many factors; these include the quality of your proposal and where you are within your doctoral education program. They also include external factors, such as ensuring that, as a group, the accepted candidates exhibit a diversity of backgrounds and topics.</p>
     <p>Candidates who have a clearly developed idea, who are formally considered by their institution to be working on their dissertation, and who still have time to be influenced by participation in the PhD Workshop will receive the strongest consideration.</p>
 
+    <h3>Camera-ready Version of Accepted Papers</h3>
+    <p>Authors of accepted papers should incorporate the changes suggested by the reviewers and add the following copyright notice to the final version of the paper:</p>
+    <p style="margin-left: 20px; font-style: italic">"Proceedings of the VLDB 2019 PhD Workshop, August 26th, 2019. Los Angeles, California. Copyright (C) 2019 for this paper by its authors. Copying permitted for private and academic purposes."</p>
+    <p>Also, please fill out and sign the <a href="./files/VLDB_2019_PhD_Workshop_Copyright_License_Form.pdf">copyright form</a> and upload it to the CMT system together with the final version of the paper by 10 June 2019.</p>
+
+    <h3>Further Information</h3>
+    <p>We plan to publish the workshop proceedings with all accepted papers in the CEUR-WS series.</p>
+
     <h3>PhD Workshop Chairs</h3>
     <p class="program-chairs">
         Ilaria Bartolini<small>, University of Bologna</small><br />
@@ -27,14 +35,22 @@
 
     <h3>PhD Workshop PC Members</h3>
     <p class="program-chairs">
-        Selcuk Candan<small>, Arizona State University</small><br />
-        Vincent Oria<small>, New Jersey Institute of Technology</small><br />
+        Sourav S. Bhowmick<small>, Nanyang Technological University</small><br />
+        A. Selçuk Candan<small>, ASU</small><br />
+        Reynold Cheng<small>, University of Hong Kong</small><br />
+        Guoliang Li<small>, Tsinghua University</small><br />
+        Faisal Nawab<small>, UC Santa Cruz</small><br />
+        Vincent Oria<small>, NJIT</small><br />
         M. Tamer Özsu<small>, University of Waterloo</small><br />
-        Dimitris Papadias<small>, Hong Kong University of Science and Technology</small><br />
+        Dimitris Papadias<small>, HKUST</small><br />
         Marco Patella<small>, University of Bologna</small><br />
+        Jeff Phillips<small>, University of Utah</small><br />
         Maria Luisa Sapino<small>, University of Torino</small><br />
+        Mohamed Sarwat<small>, ASU</small><br />
         Divesh Srivastava<small>, AT&T Labs-Research</small><br />
         Yufei Tao<small>, Chinese University of Hong Kong</small><br />
+        Yingjun Wu<small>, IBM Research - Almaden</small><br />
+        Ke Yi<small>, HKUST</small><br />
     </p>
 
 </section>

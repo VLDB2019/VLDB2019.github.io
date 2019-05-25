@@ -88,7 +88,7 @@
     <div><strong>Lucian Popa</strong>, IBM Research - Almaden</div>
     <div><strong>Luna Dong</strong>, Amazon</div>
     <div><strong>Manos Karpathiotakis</strong>, EPFL</div>
-    <div><strong>Maria Luisa Sapino</strong>, U. Torino - Italy</div>
+    <div><strong>Maria Luisa Sapino</strong>, University of Torino - Italy</div>
     <div><strong>Mario Nascimento</strong>, U. Alberta - Canada</div>
     <div><strong>Martin Theobald</strong>, University of Luxemburg</div>
     <div><strong>Mary Roth</strong>, IBM Research - Almaden</div>

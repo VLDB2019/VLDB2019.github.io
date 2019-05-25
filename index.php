@@ -80,7 +80,9 @@ $content = ob_get_clean();
                 <a href="./?program-schedule-tutorials" itemprop="url"><span itemprop="name">Tutorials</span></a>
                 <a href="./?program-schedule-workshops" itemprop="url"><span itemprop="name">Workshops</span></a>
                 <a href="./?program-schedule-phd-workshop" itemprop="url"><span itemprop="name">PhD Workshop</span></a>
-                <a href="./?program-schedule-technical" itemprop="url"><span itemprop="name">Technical Program</span></a>
+                <a href="./?program-schedule-demonstrations" itemprop="url"><span itemprop="name">Demonstrations</span></a>
+                <a href="./?program-schedule-technical" itemprop="url"><span itemprop="name">Technical program</span></a>
+                <a href="./?papers-industrial" itemprop="url"><span itemprop="name">Industrial track papers</span></a>
             </div>
         </div>
         <div>
@@ -117,7 +119,7 @@ $content = ob_get_clean();
             Participant Information
             <div class="menu">
                 <a href="./?info-reception" itemprop="url"><span itemprop="name">Reception</span></a>
-                <a href="./?registration" itemprop="url"><span itemprop="name">Registration</span></a>
+                <a href="./?info-registration" itemprop="url"><span itemprop="name">Registration</span></a>
                 <a href="./?info-conference-venue" itemprop="url"><span itemprop="name">Conference venue</span></a>
                 <a href="./?info-lodging" itemprop="url"><span itemprop="name">Lodging</span></a>
                 <a href="./?info-travel-support" itemprop="url"><span itemprop="name">Travel support</span></a>
@@ -152,11 +154,14 @@ $content = ob_get_clean();
     <link rel="stylesheet" href="./css/carousel.css">
     <link rel="stylesheet" href="./css/gallery.css">
     <link rel="stylesheet" href="./css/sponsors.css">
+    <link rel="stylesheet" href="./css/accepted.css">
+    <link rel="stylesheet" href="./css/talks.css">
     <script src="./js/polyfills.js"></script>
     <script src="./js/carousel.js"></script>
     <script src="./js/menu.js"></script>
     <script src="./js/router.js"></script>
     <script src="./js/accepted.js"></script>
+    <script src="./js/talks.js"></script>
 <?php } else { ?>
     <link rel="stylesheet" href="./css/prod.min.css">
     <script async src="./js/prod.min.js"></script>

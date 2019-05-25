@@ -1,0 +1,131 @@
+.industry-talk:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.talk-photo {
+    float: right;
+    width: 100px;
+    margin: 0 0 20px 20px;
+}
+
+.talk-title {
+    display: block;
+}
+
+.talk-person {
+    display: block;
+    font-size: 12px;
+    line-height: 1.75;
+    color: #999;
+}
+
+.talk-person a,
+.talk-person .author {
+    color: #777;
+}
+
+.talk-abstract,
+.talk-bio,
+.talk-abstract-simple,
+.talk-bio-simple {
+    margin: 5px 0 5px 0;
+    display: block;
+    font-size: 13px;
+    height: 18px;
+    line-height: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: calc(100% - 125px);
+    padding-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+
+.talk-abstract-simple,
+.talk-bio-simple {
+    cursor: default;
+}
+
+.talk-abstract strong,
+.talk-bio strong,
+.talk-abstract-simple strong,
+.talk-bio-simple strong {
+    font-weight: 600;
+    color: #777;
+    width: 5em;
+    display: inline-block;
+}
+
+.talk-abstract.talk-expanded,
+.talk-bio.bio-expanded{
+    margin-bottom: 25px;
+    overflow: visible;
+    white-space: normal;
+    height: auto;
+    cursor: auto;
+}
+
+.talk-abstract-action,
+.talk-bio-action,
+.talk-bio-bullet,
+.talk-abstract-bullet{
+    position: absolute;
+    left: 2px;
+    top: 3px;
+    display: inline-block;
+    background: url("../img/caret.svg") 0 0/10px 10px;
+    height: 10px;
+    width: 10px;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.talk-expanded .talk-abstract-action,
+.bio-expanded .talk-bio-action {
+    transform: rotate(-180deg);
+}
+
+.talk-abstract-bullet,
+.talk-bio-bullet {
+    transform: rotate(-90deg);
+    transition: none;
+    cursor: default;
+    pointer-events: none;
+}
+
+.talk-abstract br,
+.talk-bio br {
+    margin-bottom: 10px;
+}
+
+.talk-bio:not(.bio-expanded) .hl-blue,
+.talk-bio-simple:not(.bio-expanded) .hl-blue {
+    color: inherit;
+}
+
+@media screen and (max-width: 500px) {
+    .talk-person:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    .talk-photo {
+        width: 75px;
+        margin: 0 0 10px 10px;
+    }
+
+    .industry-talk + .industry-talk {
+        margin-top: 30px;
+    }
+
+    .talk-abstract,
+    .talk-bio,
+    .talk-abstract-simple,
+    .talk-bio-simple {
+        width: 100%;
+    }
+}

@@ -45,7 +45,7 @@
         <strong class="accepted-title">Machine Learning Meets Big Spatial Data</strong>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="sabek" data-at="cs.umn.edu">Ibrahim Sabek</a>&nbsp;(University of Minnesota, Twin Cities) and
-            <a href="mailto:" data-uz="mokbel" data-at="umn.edu">Mohamed Mokbel</a>&nbsp;(University of Minnesota, Twin Cities)
+            <a href="mailto:" data-uz="mokbel" data-at="umn.edu">Mohamed Mokbel</a>&nbsp;(Qatar Computing Research Institute)
         </span>
         <span class="accepted-abstract">
             <a class="accepted-abstract-action"></a>

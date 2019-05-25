@@ -77,6 +77,7 @@
             <h4>Exhibitors</h4>
             <div class="sponsor-logos sponsor-6">
                 <a href="https://www.cambridge.org/" class="no-ext-icon" title="Cambridge University Press - Exhibitor"><img src="https://vldb2019.github.io/img/sponsor/CambridgeUniversityPress.png"></a>
+                <a href="https://www.morganclaypool.com/" class="no-ext-icon" title="Morgan &amp; Claypool Publishers - Exhibitor"><img src="https://vldb2019.github.io/img/sponsor/MorganClaypool.png"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>
