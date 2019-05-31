@@ -72,12 +72,19 @@
             <ul>
                 <li>A table & chairs in the Exhibition Area.</li>
             </ul>
-
-            <h3>Specific Events <span>(Varies)</span></h3>
-            <p>Companies interested in sponsoring a specific event within the conference are asked to contact the General Chair about the possibilities and associated costs/logistics.</p>
-
+            
             <h3>Student Travel Sponsorship</h3>
             <p>In addition to one of the VLDB sponsorship packages organizations may sponsor individually selected students to participate in VLDB 2019 at a cost of $2,500 per student.</p>
+
+            <h3>Additional Sponsorship Opportunities</h3>
+            <p>Companies interested in sponsoring a specific event within the conference are asked to contact the General Chair about the possibilities and associated costs/logistics.</p>
+            <ul>
+                <li>Coffee break — $4,000</li>
+                <li>Lunch — $40,000</li>
+                <li>Welcome Reception on Monday, August 26 — $40,000</li>
+                <li>California Science Reception on Tuesday, August 27 — $50,000</li>
+                <li>Banquet on Wednesday, August 28 — $65,000</li>
+            </ul>
 
         </div>
         <div style="display: none"></div>

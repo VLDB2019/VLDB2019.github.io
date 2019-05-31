@@ -7,7 +7,7 @@
     <ul>
         <li>Proposal submission deadline: <em class="extended-date">15 March 2019</em> 18 March 2019 (5 p.m. PST)</li>
         <li>Notification of acceptance: 10 May 2019</li>
-        <li>Camera-ready copy due: 31 May 2019</li>
+        <li>Camera-ready copy due: <em class="extended-date">31 May 2019</em> 15 June 2019</li>
     </ul>
 
     <h3>Demo Proposals</h3>
@@ -75,7 +75,7 @@
         Flip Korn<small>, Google Research - USA</small><br />
         Georgia Koutrika<small>, Athena Research Center - Greece</small><br />
         Justin Levandoski<small>, Amazon - USA</small><br />
-        Feifei Li<small>, University of Utah - USA</small><br />
+        Feifei Li<small>, Alibaba</small><br />
         Eric Lo<small>, CUHK - Hong Kong</small><br />
         Qiong Luo<small>, HKUST - Hong Kong</small><br />
         Alex Moga<small>, ABB Research - Switzerland</small><br />

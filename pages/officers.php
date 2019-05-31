@@ -69,7 +69,7 @@
 
     <h4>PhD Workshop Chairs</h4>
     <div><strong>Ilaria Bartolini</strong>, University of Bologna</div>
-    <div><strong>Feifei Li</strong>, University of Utah</div>
+    <div><strong>Feifei Li</strong>, Alibaba</div>
 
     <h4>Proceedings Chairs</h4>
     <div><strong>Abdul Quamar</strong>, IBM Research</div>

@@ -4,17 +4,17 @@
     <p class="industry-talk">
         <img class="talk-photo" src="./img/people/FeifeiLi.jpg" />
         <strong class="talk-title">Cloud native database systems at Alibaba: Opportunities and Challenges</strong>
-        <span class="talk-person"><a href="mailto:" data-uz="lifeifei" data-at="alibaba-inc.com">FeiFei Li</a> (Alibaba)</span>
+        <span class="talk-person"><a href="mailto:" data-uz="lifeifei" data-at="alibaba-inc.com">Feifei Li</a> (Alibaba)</span>
         <span class="talk-abstract">
             <a class="talk-abstract-action"></a>
             <strong>Abstract:</strong>
             Cloud native databases become increasingly important for the era of cloud computing, due to the needs for elasticity and on-demand usage by various applications. These challenges from cloud applications present new opportunities for cloud native databases that cannot be fully addressed by traditional on-premise enterprise database systems. A cloud native database leverages software-hardware co-design to explore accelerations offered by new hardware such as RDMA, NVM, kernel bypassing protocols such as SDPK and DPDK, etc. Meanwhile, new design architectures such as shared-storage and shared-everything enable a cloud-native database to decouple computation from storage and provide excellent elasticity. For highly concurrent workloads that require horizontal scalability, a cloud native database can also leverage a shared-nothing layer to provide distributed query and transaction processing. Applications also require that cloud native databases to offer high availability through distributed consensus protocols.<br />
             At Alibaba, we have explored a suite of technologies to design cloud-native database systems. Our storage engine, X-engine and PolarFS, improves both write and read throughputs by using a LSM-tree design and self-adapted separation of hot and cold data records. Based on these efforts, we have designed and implemented PolarDB and its distributed version PolarDB-X, which has successfully supported the extreme transaction workloads during the 2018 Global Shopping Festival on November 11, 2018, and achieved commercial success on Alibaba cloud. In addition, we have explored a self-driving database platform to achieve autoscaling and intelligent database management. We will report key technologies and lessons learned to highlight the technical challenges and opportunities for cloud native database systems at Alibaba.
         </span>
-        <span class="talk-bio-simple">
-            <a class="talk-bio-bullet"></a>
+        <span class="talk-bio">
+            <a class="talk-bio-action"></a>
             <strong>Bio:</strong>
-            Coming soon
+            Feifei Li is currently a Vice President of Alibaba Group, ACM Distinguished Scientist, Director of the Database Products Business Unit of Alibaba Cloud and the Database and Storage Lab of DAMO academy. He is also a full professor at the School of Computing, University of Utah (on leave). He has won multiple awards from NSF, ACM, IEEE, Visa, Google, and others. In particular, he is a recipient of the IEEE ICDE 2014 10 Years Most Influential Paper Award, ACM SIGMOD 2016 Best Paper Award, ACM SIGMOD 2015 Best System Demonstration Award, IEEE ICDE 2004 Best Paper Award, NSF Career Award, Google Faculty award, and Visa Faculty award. He has been an associate editor, co-chairs, and core committee members for many prestigious research journals and conferences.
         </span>
     </p>
 
@@ -55,10 +55,10 @@
         <img class="talk-photo" src="./img/people/MikeCarey.jpg" />
         <strong class="talk-title">Couchbase Analytics: NoETL for Scalable NoSQL Data Analysis</strong>
         <span class="talk-person"><a href="mailto:" data-uz="mjcarey" data-at="ics.uci.edu">Mike Carey</a> (Couchbase, Inc. and UC Irvine)</span>
-        <span class="talk-abstract-simple">
-            <a class="talk-abstract-bullet"></a>
+        <span class="talk-abstract">
+            <a class="talk-abstract-action"></a>
             <strong>Abstract:</strong>
-            Coming soon
+            Couchbase Server is a highly scalable document-oriented database management system. With a shared-nothing architecture, it exposes a fast key-value store with a managed cache for sub-millisecond data operations, indexing for fast queries, and a powerful query engine for executing declarative SQL-like queries. Its Query Service debuted several years ago and supports high volumes of low-latency queries and updates for JSON documents. Its recently introduced Analytics Service complements the Query Service. Couchbase Analytics, the focus of this talk, supports complex analytical queries (e.g., ad hoc joins and aggregations) over large collections of JSON documents. This talk will describes the Analytics service from the outside in, including its user model, its SQL++ based query language, and its MPP-based storage and query processing architecture. It will also touch on the relationship of Couchbase Analytics to Apache AsterixDB, the open source Big Data management system at the core of Couchbase Analytics.
         </span>
         <span class="talk-bio">
             <a class="talk-bio-action"></a>
@@ -101,7 +101,7 @@
 </section>
 <?php
 define('PageTitle', "Industry Talks");
-define('PageDescription', "For an invitation letter to attend VLDB 2019 for visa purposes ...");
+define('PageDescription', "List of invited industry talks.");
 ?>
 <script type="application/ld+json">
 {
@@ -109,7 +109,7 @@ define('PageDescription', "For an invitation letter to attend VLDB 2019 for visa
   "@type": "WebPage",
   "name": "Industry Talks",
   "url": "http://vldb.org/2019/?program-schedule-industry-talks",
-  "description": "For an invitation letter to attend VLDB 2019 for visa purposes ...",
+  "description": "List of invited industry talks.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{

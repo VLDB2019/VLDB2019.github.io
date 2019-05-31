@@ -1,7 +1,7 @@
 <section class="info-visa">
     <h1>VLDB 2019: Visa Information</h1>
 
-    <p>For an invitation letter to attend VLDB 2019 for visa purposes, please send an email to Mr. Michael Archuleta of USC at <span class="hl-blue">marchule<span class="mail-sep">(AT)</span>usc.edu</span> with the following details:</p>
+    <p>For an invitation letter to attend VLDB 2019 for visa purposes, please send an email to Mr. Michael Archuleta of USC at <span class="hl-blue">frntdesk<span class="mail-sep">(AT)</span>usc.edu</span> with the following details:</p>
     <ul>
         <li>first and last name as they appear on your passport,</li>
         <li>job position,</li>

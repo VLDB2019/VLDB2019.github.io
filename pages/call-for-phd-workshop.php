@@ -30,7 +30,7 @@
     <h3>PhD Workshop Chairs</h3>
     <p class="program-chairs">
         Ilaria Bartolini<small>, University of Bologna</small><br />
-        Feifei Li<small>, University of Utah</small>
+        Feifei Li<small>, Alibaba</small>
     </p>
 
     <h3>PhD Workshop PC Members</h3>

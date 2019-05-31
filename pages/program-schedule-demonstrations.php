@@ -177,7 +177,7 @@
             <span class="author">Hiren Patel</span> (Microsoft),
             <span class="author">Ashit Gosalia</span> (Microsoft), and
             <span class="author">Subru Krishnan</span> (Microsoft),
-            Carlo Curino ()
+            <span class="author">Carlo Curino</span> (Microsoft)
 
     </span>
     </p>

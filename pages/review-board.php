@@ -48,7 +48,7 @@
     <div><strong>Essam M. Mansour</strong>, QCRI</div>
     <div><strong>Fabio Porto</strong>, LNCC - Brazil</div>
     <div><strong>Fei Chiang</strong>, McMaster University</div>
-    <div><strong>Feifei Li</strong>, University of Utah</div>
+    <div><strong>Feifei Li</strong>, Alibaba</div>
     <div><strong>Florin Rusu</strong>, UC Merced</div>
     <div><strong>Floris Geerts</strong>, University of Antwerp</div>
     <div><strong>George Papadakis</strong>, University of Athens</div>

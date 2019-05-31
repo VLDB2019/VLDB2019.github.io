@@ -45,7 +45,7 @@
             <td>1 January 2019</td>
             <td><em class="extended-date">15 March 2019</em><br>18 March 2019<br>5 p.m. PST</td>
             <td>10 May 2019</td>
-            <td>31 May 2019</td>
+            <td><em class="extended-date">31 May 2019</em><br>15 June 2019</td>
         </tr>
         <tr>
             <td>Tutorials</td>
@@ -67,7 +67,7 @@
             <td>N/A</td>
             <td>9 March 2019</td>
             <td>30 April 2019</td>
-            <td><em>TBA</em></td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Workshop Proposals</td>
@@ -84,7 +84,7 @@
             <td>PhD Workshop Track</td>
             <td>
                 Ilaria Bartolini<small>University of Bologna</small>
-                Feifei Li<small>University of Utah</small>
+                Feifei Li<small>Alibaba</small>
             </td>
             <td>1 January 2019</td>
             <td>15 April 2019<br>5 p.m. PST</td>
