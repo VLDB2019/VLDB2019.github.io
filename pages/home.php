@@ -21,6 +21,10 @@
         frameborder="0" style="border:0"
         src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBDK_trkHIriYNp3yDBnrbL243Mfk2irKc&q=The+Westin+Bonaventure+Hotel+Los+Angeles+CA+90071&zoom=13" allowfullscreen>
     </iframe>
+    <br />
+    <br />
+    <h1>VLDB 2019: Anti-Harassment Policy</h1>
+    <p style="text-align: start">VLDB 2019 adheres to the <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment">ACM Policy Against Harassment</a>. Any participant who experiences abuse, discrimination, or harassment may contact any current member of the <a href="https://www.vldb.org/trustees.html">VLDB Executive Committee</a> or <a href="http://www.vldb.org/vldb_cares.html">DBCares</a>. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.</p>
 </section>
 <aside class="tweets">
     <a class="twitter-timeline" data-lang="en" data-dnt="true"

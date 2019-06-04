@@ -92,7 +92,8 @@
     <h4>Booklet Chair</h4>
     <div><strong>Mariam Salloum</strong>, UCR</div>
 
-    <h4>Volunteer Coordinator</h4>
+    <h4>Volunteer Coordinators</h4>
+    <div><strong>Shobeir Fakhraei</strong>, USC</div>
     <div><strong>Xiang Ren</strong>, USC</div>
 </section>
 <?php
