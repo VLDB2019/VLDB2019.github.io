@@ -34,7 +34,7 @@ define('PageDescription', "In a sprawling metropolis as diverse as Los Angeles, 
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Local Attractions",
-  "url": "http://vldb.org/2019/?info-local-attractions",
+  "url": "https://vldb.org/2019/?info-local-attractions",
   "description": "In a sprawling metropolis as diverse as Los Angeles, boasting of everything from Hollywood glamour to cotton candy sands, there are more than enough treasures to keep you occupied during your visit.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -42,35 +42,35 @@ define('PageDescription', "In a sprawling metropolis as diverse as Los Angeles, 
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?participant-information",
+        "@id": "https://vldb.org/2019/?participant-information",
         "name": "Participant Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-local-attractions",
+        "@id": "https://vldb.org/2019/?info-local-attractions",
         "name": "Local Attractions"
       }
     }]

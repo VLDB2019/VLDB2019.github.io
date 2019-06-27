@@ -105,7 +105,7 @@ define('PageDescription', "Important dates for contributions to VLDB 2019, the 4
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Important Dates",
-  "url": "http://vldb.org/2019/?important-dates",
+  "url": "https://vldb.org/2019/?important-dates",
   "description": "Important dates for contributions.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -113,35 +113,35 @@ define('PageDescription', "Important dates for contributions to VLDB 2019, the 4
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?dates-and-guidelines",
+        "@id": "https://vldb.org/2019/?dates-and-guidelines",
         "name": "Dates & Guidelines"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?important-dates",
+        "@id": "https://vldb.org/2019/?important-dates",
         "name": "Important Dates"
       }
     }]

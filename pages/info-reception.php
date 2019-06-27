@@ -51,37 +51,115 @@ define('PageTitle', "Reception at the California Science Center");
 define('PageDescription', "The VLDB 2019 reception will be held on 27 August 2019, 7 p.m. to 10 p.m. PST, at the Oschin Space Shuttle Endeavour Pavilion, home to the historic space shuttle Endeavor. The Endeavor is the fifth orbiter space shuttle built for NASA's space shuttle program. The spacecraft went on 25 missions from 1992-2011; it is now on display at the California Science Center.");
 ?>
 <script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "Event",
-        "name": "VLDB 2019: Reception at the California Science Center",
-        "description": "The VLDB 2019 reception will be held on 27 August 2019, 7 p.m. to 10 p.m. PST, at the Oschin Space Shuttle Endeavour Pavilion, home to the historic space shuttle Endeavor. The Endeavor is the fifth orbiter space shuttle built for NASA's space shuttle program. The spacecraft went on 25 missions from 1992-2011; it is now on display at the California Science Center.",
-        "sameAs": "http://vldb.org/2019/?info-reception",
-        "startDate": "2019-08-27T19:00-08:00",
-        "endDate": "2019-08-27T22:00-08:00",
-        "location": {
-            "@type": "Place",
-            "name": "The California Science Center",
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "700 Exposition Park Dr.",
-                "addressLocality": "Los Angeles",
-                "postalCode": "90037",
-                "addressRegion": "CA",
-                "addressCountry": "US"
-            }
-        },
-        "image": [
-            "http://vldb.org/2019/img/new-logo.png"
-        ]
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "VLDB 2019: Reception at the California Science Center",
+  "description": "The VLDB 2019 reception will be held on 27 August 2019, 7 p.m. to 10 p.m. PST, at the Oschin Space Shuttle Endeavour Pavilion, home to the historic space shuttle Endeavor. The Endeavor is the fifth orbiter space shuttle built for NASA's space shuttle program. The spacecraft went on 25 missions from 1992-2011; it is now on display at the California Science Center.",
+  "sameAs": "https://vldb.org/2019/?info-reception",
+  "startDate": "2019-08-27T19:00-08:00",
+  "endDate": "2019-08-27T22:00-08:00",
+  "location": {
+    "@type": "Place",
+    "name": "The California Science Center",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "700 Exposition Park Dr.",
+      "addressLocality": "Los Angeles",
+      "postalCode": "90037",
+      "addressRegion": "CA",
+      "addressCountry": "US"
     }
+  },
+  "image": [
+    "https://vldb.org/2019/img/new-logo.png"
+  ],
+  "offers": [
+    {
+      "@type": "Offer",
+      "name" : "Regular/Professional Early Registration Full Conference",
+      "priceCurrency": "USD",
+      "price": "790",
+      "validFrom" : "2019-05-15T00:00-08:00",
+      "validThrough" : "2019-07-15T23:59-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
+      "availability": "InStock"
+    },
+    {
+      "@type": "Offer",
+      "name" : "Regular/Professional Early Registration Conference and Workshops",
+      "priceCurrency": "USD",
+      "price": "990",
+      "validFrom" : "2019-05-15T00:00-08:00",
+      "validThrough" : "2019-07-15T23:59-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
+      "availability": "InStock"
+    },
+    {
+      "@type": "Offer",
+      "name" : "Student Early Registration Full Conference",
+      "priceCurrency": "USD",
+      "price": "385",
+      "validFrom" : "2019-05-15T00:00-08:00",
+      "validThrough" : "2019-07-15T23:59-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Student",
+      "availability": "InStock"
+    },
+    {
+      "@type": "Offer",
+      "name" : "Student Early Registration Conference and Workshops",
+      "priceCurrency": "USD",
+      "price": "550",
+      "validFrom" : "2019-05-15T00:00-08:00",
+      "validThrough" : "2019-07-15T23:59-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Student",
+      "availability": "InStock"
+    },
+    {
+      "@type": "Offer",
+      "name" : "Regular/Professional Late Registration Full Conference",
+      "priceCurrency": "USD",
+      "price": "990",
+      "validFrom" : "2019-07-16T00:00-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
+      "availability": "InStock"
+    },
+    {
+      "@type": "Offer",
+      "name" : "Regular/Professional Late Registration Conference and Workshops",
+      "priceCurrency": "USD",
+      "price": "1240",
+      "validFrom" : "2019-07-16T00:00-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
+      "availability": "InStock"
+    },
+    {
+      "@type": "Offer",
+      "name" : "Student Late Registration Full Conference",
+      "priceCurrency": "USD",
+      "price": "470",
+      "validFrom" : "2019-07-16T00:00-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Student",
+      "availability": "InStock"
+    },
+    {
+      "@type": "Offer",
+      "name" : "Student Late Registration Conference and Workshops",
+      "priceCurrency": "USD",
+      "price": "700",
+      "validFrom" : "2019-07-16T00:00-08:00",
+      "url": "https://www.eventsquid.com/register/6012?profileName=Student",
+      "availability": "InStock"
+    }
+  ]
+}
 </script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Reception at the California Science Center",
-  "url": "http://vldb.org/2019/?info-reception",
+  "url": "https://vldb.org/2019/?info-reception",
   "description": "VLDB 2019 invites you to join us for an evening of scientific exhibits at the California Science Center.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -89,35 +167,35 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?participant-information",
+        "@id": "https://vldb.org/2019/?participant-information",
         "name": "Participant Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-reception",
+        "@id": "https://vldb.org/2019/?info-reception",
         "name": "Reception"
       }
     }]

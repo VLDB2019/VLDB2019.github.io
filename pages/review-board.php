@@ -219,7 +219,7 @@ define('PageDescription', "Members of the review board committee for the VLDB 20
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "PVLDB Review Board",
-  "url": "http://vldb.org/2019/?review-board",
+  "url": "https://vldb.org/2019/?review-board",
   "description": "The members of PVLDB Review Board",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -227,35 +227,35 @@ define('PageDescription', "Members of the review board committee for the VLDB 20
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?general-information",
+        "@id": "https://vldb.org/2019/?general-information",
         "name": "General Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?review-board",
+        "@id": "https://vldb.org/2019/?review-board",
         "name": "PVLDB Review Board"
       }
     }]

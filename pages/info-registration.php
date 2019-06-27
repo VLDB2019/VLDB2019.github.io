@@ -157,7 +157,7 @@ define('PageDescription', "Online registrations for the VLDB 2019 are open now. 
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Registration",
-  "url": "http://vldb.org/2019/?info-registration",
+  "url": "https://vldb.org/2019/?info-registration",
   "description": "Online registrations for the VLDB 2019 are open now. A limited number of seats will be available for on-site registration.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -165,35 +165,35 @@ define('PageDescription', "Online registrations for the VLDB 2019 are open now. 
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?participant-information",
+        "@id": "https://vldb.org/2019/?participant-information",
         "name": "Participant Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-registration",
+        "@id": "https://vldb.org/2019/?info-registration",
         "name": "Registration"
       }
     }]

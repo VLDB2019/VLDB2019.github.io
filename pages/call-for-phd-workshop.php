@@ -63,7 +63,7 @@ define('PageDescription', "VLDB 2019 welcomes submissions from PhD students at a
         "@context": "http://schema.org",
         "@type": "WebPage",
         "name": "Call for Contributions - PhD Workshop",
-        "url": "http://vldb.org/2019/?call-for-phd-workshop",
+        "url": "https://vldb.org/2019/?call-for-phd-workshop",
         "description": "VLDB 2019 welcomes submissions from PhD students at any stage of their PhD work. If you are in the early stages of your studies, the submission should clearly describe the problem focused on, explain why it is important, detail why the existing solutions are not sufficient, and give an outline of the new solutions that are pursued.",
         "breadcrumb": {
             "@type": "BreadcrumbList",
@@ -71,35 +71,35 @@ define('PageDescription', "VLDB 2019 welcomes submissions from PhD students at a
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
-                    "@id": "http://vldb.org/",
+                    "@id": "https://vldb.org/",
                     "name": "VLDB"
                 }
             },{
                 "@type": "ListItem",
                 "position": 2,
                 "item": {
-                    "@id": "http://vldb.org/conference.html",
+                    "@id": "https://vldb.org/conference.html",
                     "name": "Conferences"
                 }
             },{
                 "@type": "ListItem",
                 "position": 3,
                 "item": {
-                    "@id": "http://vldb.org/2019/",
+                    "@id": "https://vldb.org/2019/",
                     "name": "2019"
                 }
             },{
                 "@type": "ListItem",
                 "position": 4,
                 "item": {
-                    "@id": "http://vldb.org/2019/?call-for-contributions",
+                    "@id": "https://vldb.org/2019/?call-for-contributions",
                     "name": "Call for Contributions"
                 }
             },{
                 "@type": "ListItem",
                 "position": 5,
                 "item": {
-                    "@id": "http://vldb.org/2019/?call-for-phd-workshop",
+                    "@id": "https://vldb.org/2019/?call-for-phd-workshop",
                     "name": "PhD Workshop"
                 }
             }]

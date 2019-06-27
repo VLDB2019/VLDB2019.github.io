@@ -101,7 +101,7 @@ define('PageDescription', "Many of our sponsors & exhibitors use VLDB to meet & 
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Sponsorship",
-  "url": "http://vldb.org/2019/?sponsorship",
+  "url": "https://vldb.org/2019/?sponsorship",
   "description": "Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students. At VLDB 2019 we plan to deploy an excellent venue for visibility and recruiting.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -109,28 +109,28 @@ define('PageDescription', "Many of our sponsors & exhibitors use VLDB to meet & 
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?sponsorship",
+        "@id": "https://vldb.org/2019/?sponsorship",
         "name": "Sponsorship"
       }
     }]

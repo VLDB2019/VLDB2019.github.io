@@ -56,7 +56,7 @@ define('PageDescription', "VLDB 2019 invites submissions for workshop proposals 
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Call for Contributions - Workshops",
-  "url": "http://vldb.org/2019/?call-for-workshops",
+  "url": "https://vldb.org/2019/?call-for-workshops",
   "description": "VLDB 2019 invites submissions for workshop proposals on all topics covered by the conference. Workshop proposals that advance the field of data management to new directions are specially encouraged.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -64,35 +64,35 @@ define('PageDescription', "VLDB 2019 invites submissions for workshop proposals 
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?call-for-contributions",
+        "@id": "https://vldb.org/2019/?call-for-contributions",
         "name": "Call for Contributions"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?call-for-workshops",
+        "@id": "https://vldb.org/2019/?call-for-workshops",
         "name": "Workshops"
       }
     }]

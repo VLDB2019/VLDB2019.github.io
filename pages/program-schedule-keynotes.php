@@ -1,4 +1,4 @@
-<section class="program-schedule-industry-talks">
+<section class="program-schedule-Keynotes">
     <h1>VLDB 2019: Industry Talks</h1>
 
     <p class="industry-talk">

@@ -50,7 +50,7 @@
     <p>
         Because PVLDB accepts conference-length papers, authors are encouraged to develop longer versions of PVLDB papers and submit them to traditional journal venues. The Editors-in-Chief of the VLDB Journal (VLDBJ) have formally agreed that extended versions of papers published in PVLDB may be considered for publication in VLDBJ.
         Other journals have informally encouraged this as well. More information on this topic is available in the PVLDB FAQ at:<br>
-        <a href="http://vldb.org/pvldb/pvldb-faq.html" class="no-ext-icon">http://vldb.org/pvldb/pvldb-faq.html</a>
+        <a href="https://vldb.org/pvldb/pvldb-faq.html" class="no-ext-icon">https://vldb.org/pvldb/pvldb-faq.html</a>
     </p>
 </section>
 <?php
@@ -62,7 +62,7 @@ define('PageDescription', "VLDB 2019 papers are to be formatted according to the
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Submission Guidelines",
-  "url": "http://vldb.org/2019/?submission-guidelines",
+  "url": "https://vldb.org/2019/?submission-guidelines",
   "description": "Papers are to be formatted according to the conference's camera-ready format, as embodied in the document templates.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -70,35 +70,35 @@ define('PageDescription', "VLDB 2019 papers are to be formatted according to the
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?dates-and-guidelines",
+        "@id": "https://vldb.org/2019/?dates-and-guidelines",
         "name": "Dates & Guidelines"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?submission-guidelines",
+        "@id": "https://vldb.org/2019/?submission-guidelines",
         "name": "Submission Guidelines"
       }
     }]

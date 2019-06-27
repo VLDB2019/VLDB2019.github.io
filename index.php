@@ -46,7 +46,7 @@ $content = ob_get_clean();
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="http://vldb.org/2019/<?= $q == 'home' ? '' : "?{$q}"; ?>">
+    <link rel="canonical" href="https://vldb.org/2019/<?= $q == 'home' ? '' : "?{$q}"; ?>">
     <style>
         body{visibility:hidden}
     </style>
@@ -84,6 +84,7 @@ $content = ob_get_clean();
                 <a href="./?program-schedule-technical" itemprop="url"><span itemprop="name">Technical program</span></a>
                 <a href="./?papers-industrial" itemprop="url"><span itemprop="name">Industrial track papers</span></a>
                 <a href="./?program-schedule-industry-talks" itemprop="url"><span itemprop="name">Industry talks</span></a>
+                <a href="./?program-schedule-panel" itemprop="url"><span itemprop="name">Panel</span></a>
             </div>
         </div>
         <div>
@@ -125,6 +126,7 @@ $content = ob_get_clean();
                 <a href="./?info-lodging" itemprop="url"><span itemprop="name">Lodging</span></a>
                 <a href="./?info-travel-support" itemprop="url"><span itemprop="name">Travel support</span></a>
                 <a href="./?info-visa" itemprop="url"><span itemprop="name">Visa information</span></a>
+                <a href="./?info-airports-guide" itemprop="url"><span itemprop="name">Airports guide</span></a>
                 <a href="./?info-public-transport" itemprop="url"><span itemprop="name">Public transport</span></a>
                 <a href="./?info-local-attractions" itemprop="url"><span itemprop="name">Local attractions</span></a>
                 <a href="./?info-public-safety" itemprop="url"><span itemprop="name">Public safety</span></a>

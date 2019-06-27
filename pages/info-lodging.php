@@ -41,6 +41,7 @@
         </table>
     </div>
 
+    <p>Suites with a maximum occupancy of 5 are also available at 299 USD/night and may be of interest to VLDB 2019 attendees with families.</p>
     <p><em><strong>Note:</strong> Hotel room rates are subject to applicable state and local taxes (currently at 15.695%) in effect at the time of check-out.</em></p>
 
     <h3>Location</h3>
@@ -61,7 +62,7 @@ define('PageDescription', "VLDB 2019 has secured extremely reduced prices for yo
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Lodging",
-  "url": "http://vldb.org/2019/?info-lodging",
+  "url": "https://vldb.org/2019/?info-lodging",
   "description": "VLDB 2019 has secured extremely reduced prices for your stay at The Westin Bonaventure Hotel & Suites located at downtown Los Angeles to attend the conference.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -69,35 +70,35 @@ define('PageDescription', "VLDB 2019 has secured extremely reduced prices for yo
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?participant-information",
+        "@id": "https://vldb.org/2019/?participant-information",
         "name": "Participant Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-lodging",
+        "@id": "https://vldb.org/2019/?info-lodging",
         "name": "Lodging"
       }
     }]

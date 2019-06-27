@@ -335,9 +335,9 @@
     <p>
         <strong class="accepted-title">PSynDB: Accurate and Accessible Private Data Generation</strong>
         <span class="accepted-authors">
-            <span class="author">Zhiqi Huang</span> (University of Massachusetts Amherst),
+            <span class="author">Zhiqi Huang</span> (University of Massachusetts, Amherst),
             <span class="author">Ryan McKenna</span> (University of Massachusetts, Amherst),
-            <span class="author">Gerome Miklau</span> (University of Massachusetts Amherst),
+            <span class="author">Gerome Miklau</span> (University of Massachusetts, Amherst),
             <span class="author">Michael Hay</span> (Colgate University), and
             <span class="author">Ashwin Machanavajjhala</span> (Duke)
         </span>
@@ -373,9 +373,9 @@
         <span class="accepted-authors">
             <span class="author">Khaled Zaouk</span> (Ecole Polytechnique),
             <span class="author">Fei Song</span> (Ecole Polytechnique),
-            <span class="author">Chenghao Lyu</span> (University of Massachusetts Amherst),
-            <span class="author">Yanlei Diao</span> (University of Massachusetts Amherst), and
-            <span class="author">Prashant Shenoy</span> (University of Massachusetts Amherst)
+            <span class="author">Chenghao Lyu</span> (University of Massachusetts, Amherst),
+            <span class="author">Yanlei Diao</span> (University of Massachusetts, Amherst), and
+            <span class="author">Prashant Shenoy</span> (University of Massachusetts, Amherst)
         </span>
     </p>
     <p>
@@ -471,7 +471,7 @@ define('PageDescription', "List of accepted demonstrations.");
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Program Schedule - Demonstrations",
-  "url": "http://vldb.org/2019/?program-schedule-demonstrations",
+  "url": "https://vldb.org/2019/?program-schedule-demonstrations",
   "description": "List of accepted demonstrations.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -479,35 +479,35 @@ define('PageDescription', "List of accepted demonstrations.");
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?program",
+        "@id": "https://vldb.org/2019/?program",
         "name": "Conference Program"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?program-schedule-demonstrations",
+        "@id": "https://vldb.org/2019/?program-schedule-demonstrations",
         "name": "Demonstrations"
       }
     }]

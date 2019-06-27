@@ -109,7 +109,7 @@ define('PageDescription', "List of accepted tutorials.");
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Program Schedule - Tutorials",
-  "url": "http://vldb.org/2019/?program-schedule-tutorials",
+  "url": "https://vldb.org/2019/?program-schedule-tutorials",
   "description": "List of accepted tutorials.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -117,35 +117,35 @@ define('PageDescription', "List of accepted tutorials.");
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?program",
+        "@id": "https://vldb.org/2019/?program",
         "name": "Conference Program"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?program-schedule-tutorials",
+        "@id": "https://vldb.org/2019/?program-schedule-tutorials",
         "name": "Tutorials"
       }
     }]

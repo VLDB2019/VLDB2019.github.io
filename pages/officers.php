@@ -9,23 +9,23 @@
     <div><strong>Fatma Özcan</strong>, IBM Research - Almaden</div>
 
     <h4>Associate Editors</h4>
-    <div><strong>Azza Abouzied</strong>, UAE</div>
-    <div><strong>Selcuk Candan</strong>, USA</div>
-    <div><strong>Surajit Chaudhuri</strong>, USA</div>
-    <div><strong>Amol Desphande</strong>, USA</div>
-    <div><strong>Johann-Christoph Freytag</strong>, Germany</div>
-    <div><strong>Rainer Gemulla</strong>, Germany</div>
-    <div><strong>Nick Koudas</strong>, Canada</div>
-    <div><strong>Georgia Koutrika</strong>, Greece</div>
-    <div><strong>Yunyao Li</strong>, USA</div>
-    <div><strong>Alexandra Meliou</strong>, USA</div>
-    <div><strong>Arnab Nandi</strong>, USA</div>
-    <div><strong>M. Tamer Özsu</strong>, University of Waterloo</div>
-    <div><strong>Themis Palpanas</strong>, France</div>
-    <div><strong>Alkis Polyzotis</strong>, USA</div>
-    <div><strong>Kyuseok Shim</strong>, South Korea</div>
-    <div><strong>Xiaokui Xiao</strong>, Singapore</div>
-    <div><strong>Meihui Zhang</strong>, China</div>
+    <div><strong>Azza Abouzied</strong>, NYU Abu Dhabi, UAE</div>
+    <div><strong>Selcuk Candan</strong>, Arizona State University, USA </div>
+    <div><strong>Surajit Chaudhuri</strong>, Microsoft Research, USA</div>
+    <div><strong>Amol Desphande</strong>, University of Maryland, USA</div>
+    <div><strong>Johann-Christoph Freytag</strong>, Humboldt-Universität zu Berlin, Germany</div>
+    <div><strong>Rainer Gemulla</strong>, University of Mannheim, Germany</div>
+    <div><strong>Nick Koudas</strong>, University of Toronto, Canada</div>
+    <div><strong>Georgia Koutrika</strong>, Athena Research Center, Greece</div>
+    <div><strong>Yunyao Li</strong>, IBM Research - Almaden, USA</div>
+    <div><strong>Alexandra Meliou</strong>, University of Massachusetts, USA</div>
+    <div><strong>Arnab Nandi</strong>, Ohio State University, USA</div>
+    <div><strong>M. Tamer Özsu</strong>, University of Waterloo, Canada</div>
+    <div><strong>Themis Palpanas</strong>, University of Paris, France</div>
+    <div><strong>Neoklis Polyzotis</strong>, Google Research, USA</div>
+    <div><strong>Kyuseok Shim</strong>, Seoul National University, South Korea </div>
+    <div><strong>Xiaokui Xiao</strong>, National University of Singapore, Singapore</div>
+    <div><strong>Meihui Zhang</strong>, Beijing Institute of Technology, China</div>
 
     <h4>Treasury Chair</h4>
     <div><strong>A. Selçuk Candan</strong>, ASU</div>
@@ -105,7 +105,7 @@ define('PageDescription', "A list of the officers for the VLDB 2019, the 45th In
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Conference Officers",
-  "url": "http://vldb.org/2019/?officers",
+  "url": "https://vldb.org/2019/?officers",
   "description": "Conference Officers",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -113,35 +113,35 @@ define('PageDescription', "A list of the officers for the VLDB 2019, the 45th In
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?general-information",
+        "@id": "https://vldb.org/2019/?general-information",
         "name": "General Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?officers",
+        "@id": "https://vldb.org/2019/?officers",
         "name": "Conference Officers"
       }
     }]

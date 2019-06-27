@@ -15,13 +15,13 @@ echo '<' . '?xml version = "1.0" encoding = "UTF-8"?' . '>';
     }));
     ?>
     <url>
-        <loc>http://vldb.org/2019/</loc>
+        <loc>https://vldb.org/2019/</loc>
         <lastmod><?= date('c', filemtime(Root . '/pages/home.php')); ?></lastmod>
         <priority>1.00</priority>
     </url>
     <?php foreach ($files as $file) { ?>
         <url>
-            <loc>http://vldb.org/2019/?<?= $file; ?></loc>
+            <loc>https://vldb.org/2019/?<?= $file; ?></loc>
             <lastmod><?= date('c', filemtime(Root . '/pages/' . $file . '.php')); ?></lastmod>
             <priority>0.80</priority>
         </url>

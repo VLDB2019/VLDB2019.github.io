@@ -49,7 +49,7 @@ define('PageDescription', "VLDB 2019 invites submissions for tutorial proposals 
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Call for Contributions - Tutorials",
-  "url": "http://vldb.org/2019/?call-for-tutorials",
+  "url": "https://vldb.org/2019/?call-for-tutorials",
   "description": "VLDB 2019 invites submissions for tutorial proposals on all topics of potential interest to the conference attendees, covering state-of-the-art research, development, and applications in specific data management related areas that stimulate and facilitate future work.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -57,35 +57,35 @@ define('PageDescription', "VLDB 2019 invites submissions for tutorial proposals 
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?call-for-contributions",
+        "@id": "https://vldb.org/2019/?call-for-contributions",
         "name": "Call for Contributions"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?call-for-tutorials",
+        "@id": "https://vldb.org/2019/?call-for-tutorials",
         "name": "Tutorials"
       }
     }]

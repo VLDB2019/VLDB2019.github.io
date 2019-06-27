@@ -63,7 +63,7 @@ define('PageDescription', "VLDB 2019 invites submissions of original research pa
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Call for Contributions - Research Track",
-  "url": "http://vldb.org/2019/?call-for-research-track",
+  "url": "https://vldb.org/2019/?call-for-research-track",
   "description": "VLDB 2019 invites submissions of original research papers to Volume 12 of the Proceedings of the VLDB Endowment (PVLDB). Papers accepted by June 15, 2019 will form the Research Track of the 2019 VLDB conference, together with any rollover papers from Volume 11. Papers accepted to Volume 12 after June 15, 2019 will be rolled over to the 2020 VLDB conference.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -71,35 +71,35 @@ define('PageDescription', "VLDB 2019 invites submissions of original research pa
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?call-for-contributions",
+        "@id": "https://vldb.org/2019/?call-for-contributions",
         "name": "Call for Contributions"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?call-for-research-track",
+        "@id": "https://vldb.org/2019/?call-for-research-track",
         "name": "Research Track"
       }
     }]

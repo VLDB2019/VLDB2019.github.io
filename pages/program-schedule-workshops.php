@@ -45,6 +45,7 @@
                     <a href="mailto:" data-uz="meikel.poess" data-at="oracle.com">Meikel Poess</a>
                 </span>
             </p>
+            <!--
             <p>
                 <a href="http://sites.google.com/view/bidu2019/" class="workshop-title"><strong>Workshop on Big Social Data and Urban Computing</strong> (BiDU)</a>
                 <span class="workshop-organizers">
@@ -54,6 +55,7 @@
                     <a href="mailto:" data-uz="nazim.agoulmine" data-at="univ-evry.fr">Nazim Agoulmine</a>
                 </span>
             </p>
+            -->
         </div>
 
         <div>
@@ -122,7 +124,7 @@ define('PageDescription', "List of accepted and scheduled workshops.");
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Program Schedule - Workshops",
-  "url": "http://vldb.org/2019/?program-schedule-workshops",
+  "url": "https://vldb.org/2019/?program-schedule-workshops",
   "description": "List of accepted and scheduled workshops.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -130,35 +132,35 @@ define('PageDescription', "List of accepted and scheduled workshops.");
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?program",
+        "@id": "https://vldb.org/2019/?program",
         "name": "Conference Program"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?program-schedule-workshops",
+        "@id": "https://vldb.org/2019/?program-schedule-workshops",
         "name": "Workshops"
       }
     }]

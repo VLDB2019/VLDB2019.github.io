@@ -49,7 +49,7 @@ define('PageDescription', "We are very happy to announce travel support opportun
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Travel Support",
-  "url": "http://vldb.org/2019/?info-travel-support",
+  "url": "https://vldb.org/2019/?info-travel-support",
   "description": "We are very happy to announce travel support opportunities for students and faculty to attend VLDB 2019 in Los Angeles. The travel grants provide financial support to students and faculty affiliated with universities with limited funding opportunities.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -57,35 +57,35 @@ define('PageDescription', "We are very happy to announce travel support opportun
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?participant-information",
+        "@id": "https://vldb.org/2019/?participant-information",
         "name": "Participant Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-travel-support",
+        "@id": "https://vldb.org/2019/?info-travel-support",
         "name": "Travel Support"
       }
     }]

@@ -247,7 +247,7 @@
             <span class="author">Thanaa Ghanem</span> (Metropolitan State University, USA),
             <span class="author">Michael Stonebraker</span> (MIT),
             <span class="author">David DeWitt</span> (MIT),
-            <span class="author">Marco Serafini</span> (University of Massachusetts Amherst),
+            <span class="author">Marco Serafini</span> (University of Massachusetts, Amherst),
             <span class="author">Ashraf Aboulnaga</span> (Qatar Computing Research Institute, HBKU), and
             <span class="author">Tim Kraska</span> (MIT)
         </span>
@@ -354,12 +354,29 @@
     </p>
 
     <p>
-        <strong class="accepted-title">Native Store Extension for SAP Hana</strong>
+        <strong class="accepted-title">Native Store Extension for SAP HANA</strong>
         <span class="accepted-authors">
             <span class="author">Reza Sherkat</span> (SAP SE),
             <span class="author">Colin Florendo</span> (SAP),
-            <span class="author">Mihnea Andrei</span> (SAP SE), and
-            <span class="author">Rolando Blanco</span> (SAP SE)
+            <span class="author">Mihnea Andrei</span> (SAP SE),
+            <span class="author">Rolando Blanco</span> (SAP SE),
+            <span class="author">Adrian Dragusanu</span> (SAP SE),
+            <span class="author">Amit Pathak</span> (SAP SE),
+            <span class="author">Pushkar Khadilkar</span> (SAP SE),
+            <span class="author">Neeraj Kulkarni</span> (SAP SE),
+            <span class="author">Christian Lemke</span> (SAP SE),
+            <span class="author">Sebastian Seifert</span> (SAP SE),
+            <span class="author">Sarika Iyer</span> (Microsoft),
+            <span class="author">Sasikanth Gottapu</span> (SAP SE),
+            <span class="author">Robert Schulze</span> (SAP SE),
+            <span class="author">Chaitanya Gottipati</span> (SAP SE),
+            <span class="author">Nirvik Basak</span> (SAP SE),
+            <span class="author">Yanhong Wang</span> (SAP SE),
+            <span class="author">Vivek Kandiyanallur</span> (SAP SE),
+            <span class="author">Santosh Pendap</span> (Salesforce.com Inc),
+            <span class="author">Dheren Gala</span> (SAP SE),
+            <span class="author">Rajesh Almeida</span> (SAP SE), and
+            <span class="author">Prasanta Ghosh</span> (Microsoft)
         </span>
         <span class="accepted-abstract">
             <a class="accepted-abstract-action"></a>
@@ -391,7 +408,7 @@ define('PageDescription', "List of accepted industrial track papers.");
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Industrial Track Papers",
-  "url": "http://vldb.org/2019/?papers-industrial",
+  "url": "https://vldb.org/2019/?papers-industrial",
   "description": "List of accepted industrial track papers.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -399,35 +416,35 @@ define('PageDescription', "List of accepted industrial track papers.");
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?program",
+        "@id": "https://vldb.org/2019/?program",
         "name": "Conference Program"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?papers-industrial",
+        "@id": "https://vldb.org/2019/?papers-industrial",
         "name": "Industrial Track Papers"
       }
     }]

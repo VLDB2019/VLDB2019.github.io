@@ -12,23 +12,6 @@
 
     <p><strong>The hotel does not provide shuttle service.</strong></p>
 
-    <h3>Rental Cars</h3>
-    <p>Rental Car offices are located off airport, away from airline terminals. For more information visit the <a href="https://www.flylax.com/en/lax-traffic-and-ground-transportation">LAX website's Traffic and Ground Transportation page</a>.</p>
-    <p>Hotel direction: 18 miles (29 km) NE<br />Driving directions:</p>
-    <ul>
-        <li>Start east on World Way/Center Way.</li>
-        <li>Merge onto South Sepulveda Boulevard/CA-1 south toward Interstate 105.</li>
-        <li>Take the Imperial Highway West/Interstate 105 East ramp toward Imperial Terminal.</li>
-        <li>Merge onto Interstate 105 East toward Norwalk.</li>
-        <li>Merge onto Interstate 110 North toward Los Angeles which becomes CA-110 North.</li>
-        <li>Take Exit 22B for 3rd Street.</li>
-        <li>Turn left at West 3rd Street/Miramar.</li>
-        <li>Turn left at South Beaudry Avenue.</li>
-        <li>Turn left on West 4th Street.</li>
-        <li>Turn right onto Flower Street.</li>
-        <li>The hotel will be on the right.</li>
-    </ul>
-
     <h3>Public Transportation</h3>
     <p>Not recommended.</p>
 
@@ -45,6 +28,24 @@
     <h3>Ridesharing</h3>
     <p>Lyft, Inc., Opoli, and Rasier-CA, LLC (Uber) are authorized to provide pick-up services at LAX. Passengers can make a request once they are located on the terminal curbside. <strong>Authorized Transportation Network Companies may drop-off and pick-up passengers on the Airport Upper/Departures Level only.</strong> Signs that state "Ride Service Pick-Up" are positioned on the Upper/Departures Level to facilitate the meeting point. <span class="hl-blue">Always confirm that you are getting in the correct vehicle with the designated driver shown on the app.</span></p>
 
+    <h3>Rental Cars</h3>
+    <p>Parking in downtown Los Angeles may be expensive; it costs 49 USD per day at the Westin Bonaventure. Travelers may consider alternatives to parking at the Westin Bonaventure by visiting sites such as <a href="https://spothero.com/search?search_string=465 South Flower Street%2C Los Angeles%2C CA 90071%2C USA">SpotHero.com</a> and <a href="https://www.parkingpanda.com/Search/?location=465+South+Flower+Street%2c+Los+Angeles%2c+CA+90071">ParkingPanda.com</a> using the address of the Westin Bonaventure: <em>465 South Flower Street, Los Angeles, CA 90071</em>.</p>
+    <p>Rental Car offices are located off airport, away from airline terminals. For more information visit the <a href="https://www.flylax.com/en/lax-traffic-and-ground-transportation">LAX website's Traffic and Ground Transportation page</a>.</p>
+    <p>Hotel direction: 18 miles (29 km) NE<br />Driving directions:</p>
+    <ul>
+        <li>Start east on World Way/Center Way.</li>
+        <li>Merge onto South Sepulveda Boulevard/CA-1 south toward Interstate 105.</li>
+        <li>Take the Imperial Highway West/Interstate 105 East ramp toward Imperial Terminal.</li>
+        <li>Merge onto Interstate 105 East toward Norwalk.</li>
+        <li>Merge onto Interstate 110 North toward Los Angeles which becomes CA-110 North.</li>
+        <li>Take Exit 22B for 3rd Street.</li>
+        <li>Turn left at West 3rd Street/Miramar.</li>
+        <li>Turn left at South Beaudry Avenue.</li>
+        <li>Turn left on West 4th Street.</li>
+        <li>Turn right onto Flower Street.</li>
+        <li>The hotel will be on the right.</li>
+    </ul>
+
     <br />
 
     <h4>Hollywood Burbank Airport</h4>
@@ -56,7 +57,21 @@
 
     <p><strong>The hotel does not provide shuttle service.</strong></p>
 
+    <h3>Public Transportation</h3>
+    <p>The train station is a short quarter mile walk from the terminal area, and a free shuttle bus with luggage racks connects the terminals and the train station. From this station, Amtrak's <a href="https://en.wikipedia.org/wiki/Pacific_Surfliner">Pacific Surfliner</a> provides access to downtown Los Angeles.</p>
+    <p>There are two bus stop areas: Hollywood Way-Thornton Ave (a short walk east of Terminal A) and Empire Ave/Intermodal, a short walk south of Terminal B next to the train station; the Metro Local bus route 94 and 794 travel to Downtown Los Angeles.</p>
+
+    <h3>Shuttles and Taxis</h3>
+    <p>Shuttle service and taxi cabs are located on the ground transportation islands immediately in front of the Airport terminal, and several local hotels run their own shuttle buses to and from the Airport. The Airport has provided <a href="https://www.youtube.com/watch?v=QHJwl-NH0D8">a video</a> and <a href="http://hollywoodburbankairport.com/wp-content/uploads/Ground-Transportation-Options-Horizontal-Map.jpg">a map</a> with additional details about the the pick-up locations; maps and flyers are also available at the Airport. If you opt for a shuttle, take one to Union Station (Downtown Los Angeles), which is quite close to the hotel.</p>
+    <ul>
+        <li>Estimated taxi fare: 38 USD (one way)</li>
+    </ul>
+
+    <h3>Ridesharing</h3>
+    <p>The pick-up point for ridesharing companies is located on the ground transportation island across from the Terminal B entrance. The Airport has provided <a href="https://www.youtube.com/watch?v=QHJwl-NH0D8">a video</a> and <a href="http://hollywoodburbankairport.com/wp-content/uploads/Ground-Transportation-Options-Horizontal-Map.jpg">a map</a> for passengers who plan on hailing a rideshare from the Airport; maps and flyers are available at the Airport as well.</p>
+
     <h3>Rental Cars</h3>
+    <p>Parking in downtown Los Angeles may be expensive; it costs 49 USD per day at the Westin Bonaventure. Travelers may consider alternatives to parking at the Westin Bonaventure by visiting sites such as <a href="https://spothero.com/search?search_string=465 South Flower Street%2C Los Angeles%2C CA 90071%2C USA">SpotHero.com</a> and <a href="https://www.parkingpanda.com/Search/?location=465+South+Flower+Street%2c+Los+Angeles%2c+CA+90071">ParkingPanda.com</a> using the address of the Westin Bonaventure: <em>465 South Flower Street, Los Angeles, CA 90071</em>.</p>
     <p>The Regional Intermodal Transit Center at Bob Hope Airport in Burbank (RITC) consolidates 11 rental car brands and over 1,000 rental car parking spaces in one building. For more information, visit <a href="https://hollywoodburbankairport.com/ground-transportation/rental-cars/">the Rental Cars page on the airport's website</a>.</p>
     <p>Hotel direction: 16 miles (26 km) SE<br />Driving directions:</p>
     <ul>
@@ -71,19 +86,6 @@
         <li>Keep left onto South Flower Street.</li>
         <li>The hotel will be on the right.</li>
     </ul>
-
-    <h3>Public Transportation</h3>
-    <p>The train station is a short quarter mile walk from the terminal area, and a free shuttle bus with luggage racks connects the terminals and the train station. From this station, Amtrak's <a href="https://en.wikipedia.org/wiki/Pacific_Surfliner">Pacific Surfliner</a> provides access to downtown Los Angeles.</p>
-    <p>There are two bus stop areas: Hollywood Way-Thornton Ave (a short walk east of Terminal A) and Empire Ave/Intermodal, a short walk south of Terminal B next to the train station; the Metro Local bus route 94 and 794 travel to Downtown Los Angeles.</p>
-
-    <h3>Shuttles and Taxis</h3>
-    <p>Shuttle service and taxi cabs are located on the ground transportation islands immediately in front of the Airport terminal, and several local hotels run their own shuttle buses to and from the Airport. The Airport has provided <a href="https://www.youtube.com/watch?v=QHJwl-NH0D8">a video</a> and <a href="http://hollywoodburbankairport.com/wp-content/uploads/Ground-Transportation-Options-Horizontal-Map.jpg">a map</a> with additional details about the the pick-up locations; maps and flyers are also available at the Airport. If you opt for a shuttle, take one to Union Station (Downtown Los Angeles), which is quite close to the hotel.</p>
-    <ul>
-        <li>Estimated taxi fare: 38 USD (one way)</li>
-    </ul>
-
-    <h3>Ridesharing</h3>
-    <p>The pick-up point for ridesharing companies is located on the ground transportation island across from the Terminal B entrance. The Airport has provided <a href="https://www.youtube.com/watch?v=QHJwl-NH0D8">a video</a> and <a href="http://hollywoodburbankairport.com/wp-content/uploads/Ground-Transportation-Options-Horizontal-Map.jpg">a map</a> for passengers who plan on hailing a rideshare from the Airport; maps and flyers are available at the Airport as well.</p>
 </section>
 <?php
 define('PageTitle', "Airports Guide");
@@ -94,7 +96,7 @@ define('PageDescription', "LAX, the Los Angeles International Airport, is 18 mil
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Airports Guide",
-  "url": "http://vldb.org/2019/?info-airports-guide",
+  "url": "https://vldb.org/2019/?info-airports-guide",
   "description": "LAX, the Los Angeles International Airport, is 18 miles (30 km) southwest of Downtown Los Angeles. The Hollywood Burbank Airport, legally Bob Hope Airport, is the only airport in the area with a direct rail connection to downtown Los Angeles.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -102,35 +104,35 @@ define('PageDescription', "LAX, the Los Angeles International Airport, is 18 mil
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?participant-information",
+        "@id": "https://vldb.org/2019/?participant-information",
         "name": "Participant Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-airports-guide",
+        "@id": "https://vldb.org/2019/?info-airports-guide",
         "name": "Airports Guide"
       }
     }]

@@ -42,6 +42,7 @@
         <li>Parking for vehicles up to 6 feet tall. For oversized vehicles, contact the hotel for parking alternatives</li>
     </ul>
 
+    <div id="public-transport" style="margin-top: -114px; padding-top: 100px"></div>
     <h3>Public Transport</h3>
     <ul>
         <li><strong>Subway Station:</strong> 0.3 miles (500 m) south from the hotel, located at 7th and Flower Street; this is the best way to get to the Santa Monica Beach.</li>
@@ -69,7 +70,7 @@ define('PageDescription', "VLDB 2019 will be held in Los Angeles, California, at
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Venue",
-  "url": "http://vldb.org/2019/?info-conference-venue",
+  "url": "https://vldb.org/2019/?info-conference-venue",
   "description": "VLDB 2019 will be held in Los Angeles, California, at The Westin Bonaventure Hotel & Suites, 404 S Figueroa St., Los Angeles, CA 90071.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -77,35 +78,35 @@ define('PageDescription', "VLDB 2019 will be held in Los Angeles, California, at
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?participant-information",
+        "@id": "https://vldb.org/2019/?participant-information",
         "name": "Participant Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?info-conference-venue",
+        "@id": "https://vldb.org/2019/?info-conference-venue",
         "name": "Conference Venue"
       }
     }]

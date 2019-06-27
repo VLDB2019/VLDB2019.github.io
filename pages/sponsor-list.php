@@ -54,6 +54,7 @@
 
             <h4>Silver Sponsors</h4>
             <div class="sponsor-logos sponsor-4">
+                <a href="https://www.intel.com/" class="no-ext-icon" title="Intel - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Intel.png"></a>
                 <a href="https://www.thoughtspot.com/" class="no-ext-icon" title="Thoughtspot - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Thoughtspot.png"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>
@@ -102,7 +103,7 @@ define('PageDescription', "VLDB 2019 is excited to have the following as sponsor
         "@context": "http://schema.org",
         "@type": "WebPage",
         "name": "Our Sponsors",
-        "url": "http://vldb.org/2019/?sponsor-list",
+        "url": "https://vldb.org/2019/?sponsor-list",
         "description": "VLDB 2019 is excited to have the following as sponsors. Many of our sponsors & exhibitors use VLDB to meet & hire the premier experts and the top graduate students.",
         "breadcrumb": {
             "@type": "BreadcrumbList",
@@ -111,7 +112,7 @@ define('PageDescription', "VLDB 2019 is excited to have the following as sponsor
                     "@type": "ListItem",
                     "position": 1,
                     "item": {
-                        "@id": "http://vldb.org/",
+                        "@id": "https://vldb.org/",
                         "name": "VLDB"
                     }
                 },
@@ -119,7 +120,7 @@ define('PageDescription', "VLDB 2019 is excited to have the following as sponsor
                     "@type": "ListItem",
                     "position": 2,
                     "item": {
-                        "@id": "http://vldb.org/conference.html",
+                        "@id": "https://vldb.org/conference.html",
                         "name": "Conferences"
                     }
                 },
@@ -127,7 +128,7 @@ define('PageDescription', "VLDB 2019 is excited to have the following as sponsor
                     "@type": "ListItem",
                     "position": 3,
                     "item": {
-                        "@id": "http://vldb.org/2019/",
+                        "@id": "https://vldb.org/2019/",
                         "name": "2019"
                     }
                 },
@@ -135,7 +136,7 @@ define('PageDescription', "VLDB 2019 is excited to have the following as sponsor
                     "@type": "ListItem",
                     "position": 4,
                     "item": {
-                        "@id": "http://vldb.org/2019/?sponsorship",
+                        "@id": "https://vldb.org/2019/?sponsorship",
                         "name": "Sponsors"
                     }
                 },
@@ -143,7 +144,7 @@ define('PageDescription', "VLDB 2019 is excited to have the following as sponsor
                     "@type": "ListItem",
                     "position": 5,
                     "item": {
-                        "@id": "http://vldb.org/2019/?sponsor-list",
+                        "@id": "https://vldb.org/2019/?sponsor-list",
                         "name": "List"
                     }
                 }

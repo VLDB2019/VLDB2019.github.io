@@ -26,7 +26,7 @@ define('PageDescription', "General contact information, scientific host and venu
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Contacts",
-  "url": "http://vldb.org/2019/?contacts",
+  "url": "https://vldb.org/2019/?contacts",
   "description": "General contact information, scientific host and venue details.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -34,35 +34,35 @@ define('PageDescription', "General contact information, scientific host and venu
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?general-information",
+        "@id": "https://vldb.org/2019/?general-information",
         "name": "General Information"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?contacts",
+        "@id": "https://vldb.org/2019/?contacts",
         "name": "Contacts"
       }
     }]

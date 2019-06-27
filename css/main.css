@@ -724,6 +724,7 @@ address > * {
 
 .phone-icon:before {
     background: url("../img/phone.svg") no-repeat 0 1px/15px 15px;
+    top: 0
 }
 
 .extended-date {
@@ -1391,4 +1392,21 @@ footer > div {
 
 .info-registration .notice {
     color: #be6560;
+}
+
+.program-schedule-panel .panel-label {
+    color: #777;
+    display: inline-block;
+    width: 80px;
+}
+
+.program-schedule-panel>ul {
+    margin-bottom: 18px;
+    margin-top: 7px;
+}
+
+.program-schedule-panel .affiliation {
+    font-size: 12px;
+    line-height: 1.75;
+    color: #999;
 }

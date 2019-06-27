@@ -58,7 +58,7 @@ define('PageDescription', "Detailed schedule of the program.");
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "Program Schedule",
-  "url": "http://vldb.org/2019/?program-schedule",
+  "url": "https://vldb.org/2019/?program-schedule",
   "description": "Detailed schedule of the program.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -66,35 +66,35 @@ define('PageDescription', "Detailed schedule of the program.");
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "http://vldb.org/",
+        "@id": "https://vldb.org/",
         "name": "VLDB"
       }
     },{
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "http://vldb.org/conference.html",
+        "@id": "https://vldb.org/conference.html",
         "name": "Conferences"
       }
     },{
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "http://vldb.org/2019/",
+        "@id": "https://vldb.org/2019/",
         "name": "2019"
       }
     },{
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "http://vldb.org/2019/?program",
+        "@id": "https://vldb.org/2019/?program",
         "name": "Program"
       }
     },{
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "http://vldb.org/2019/?program-schedule",
+        "@id": "https://vldb.org/2019/?program-schedule",
         "name": "Program Schedule"
       }
     }]
