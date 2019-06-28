@@ -133,6 +133,7 @@
             Graph partitioning is an essential task for scalable data management and analysis. The current partitioning methods utilize the structure of the graph, and the query log if available. Some queries performed on the database may trigger further operations. For example, the query workload of a social network application may contain re-sharing operations in the form of cascades. It is beneficial to include the potential cascades in the graph partitioning objectives. In this paper, we introduce the problem of cascade-aware graph partitioning that aims to minimize the overall cost of communication among parts/servers during cascade processes. We develop a randomized solution that estimates the underlying cascades, and use it as an input for partitioning of large scale graphs. Experiments on 17 real social networks demonstrate the effectiveness of the proposed solution in terms of the partitioning objectives.
         </span>
     </p>
+
     <p>
         <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0528-3"><strong>Summarizing Semantic Graphs: A Survey</strong></a>
         <span class="accepted-authors">
@@ -149,6 +150,7 @@
             The explosion in the amount of the available RDF data has lead to the need to explore, query and understand such data sources. Due to the complex structure of RDF graphs and their heterogeneity, the exploration and understanding tasks are significantly harder than in relational databases, where the schema can serve as a first step toward understanding the structure. Summarization has been applied to RDF data to facilitate these tasks. Its purpose is to extract concise and meaningful information from RDF knowledge bases, representing their content as faithfully as possible. There is no single concept of RDF summary, and not a single but many approaches to build such summaries; each is better suited for some uses, and each presents specific challenges with respect to its construction. This survey is the first to provide a comprehensive survey of summarization method for semantic RDF graphs. We propose a classification taxonomy of existing works in this area, including also some very close works developed prior to the adoption of RDF in the data management community; we present the concepts at the core of each approach and outline their main technical aspects and implementation. We hope the survey will help readers understand this scientifically rich area, and identify the most pertinent summarization method for a variety of usage scenarios.
         </span>
     </p>
+
     <p>
         <strong class="accepted-title">Location Prediction in Large-Scale Social Networks: An In-depth Benchmarking Study</strong>
         <span class="accepted-authors">
@@ -161,6 +163,38 @@
         <span class="accepted-abstract">
             <a class="accepted-abstract-action"></a>
             Location details of social users are important in diverse applications ranging from news recommendation systems to disaster management. However, user location is not easy to obtain from social networks because many users do not bother to provide this information or decline to do so due to privacy concerns. Thus, it is useful to estimate user locations from implicit information in the network. For this purpose, many location prediction models have been proposed that exploit different network features. Unfortunately, these models have not been benchmarked on common datasets using standard metrics. We fill this gap and provide an in-depth empirical comparison of eight representative prediction models using five metrics on four real-world large-scale datasets namely, Twitter, Gowalla, Brightkite, and Foursquare. We formulate a generalized procedure-oriented location prediction framework which allows us to evaluate and compare the prediction models systematically and thoroughly under extensive experimental settings. Based on our results, we perform an in-depth analysis of the merits and limitations of the models providing significant insights into the location prediction problem.
+        </span>
+    </p>
+
+    <p>
+        <strong class="accepted-title">A Survey of Community Search Over Big Graphs</strong>
+        <span class="accepted-authors">
+            <a href="mailto:" data-uz="yixiang.fang" data-at="unsw.edu.au">Yixiang Fang</a> (University of New South Wales),
+            <span class="author">Xin Huang</span> (Hong Kong Baptist University),
+            <span class="author">Lu Qin</span> (University of Technology Sydney),
+            <span class="author">Ying Zhang</span> (University of Technology Sydney),
+            <span class="author">Wenjie Zhang</span> (University of New South Wales),
+            <span class="author">Reynold Cheng</span> (University of Hong Kong), and
+            <span class="author">Xuemin Lin</span> (University of New South Wales)
+        </span>
+        <span class="accepted-abstract">
+            <a class="accepted-abstract-action"></a>
+            With the rapid development of information technologies, various big graphs are prevalent in many real applications (e.g., social media and knowledge bases). An important component of these graphs is the network community. Essentially, a community is a group of vertices which are densely connected internally. Community retrieval can be used in many real applications, such as event organization, friend recommendation, and so on. Consequently, how to efficiently and high quality communities from big graphs is an important research topic in the era of big data. Recently a large group of research works, called community search, have been proposed. They aim to provide efficient solutions for searching high-quality communities from large networks in real-time. Nevertheless, these works focus on different types of graphs and formulate communities in different manners, and thus it is desirable to have a comprehensive review of these works. In this survey, we conduct a thorough review of existing community search works. Moreover, we analyze and compare the quality of communities under their models, and the performance of different solutions. Furthermore, we point out new research directions. This survey does not only help researchers to have better understanding of existing community search solutions, but also provides practitioners a better judgement on choosing the proper solutions.
+        </span>
+    </p>
+
+    <p>
+        <strong class="accepted-title">Microblogs Data Management: A Survey</strong>
+        <span class="accepted-authors">
+            <a href="mailto:" data-uz="amr" data-at="cs.ucr.edu">Amr Magdy</a> (University of California Riverside),
+            <span class="author">Laila Abdelhafeez</span> (University of California, Riverside),
+            <span class="author">Yunfan Kang</span> (University of California Riverside),
+            <span class="author">Eric Ong</span> (University of California Riverside), and
+            <span class="author">Mohamed Mokbel</span> (University of Minnesota)
+        </span>
+        <span class="accepted-abstract">
+            <a class="accepted-abstract-action"></a>
+            Microblogs data is the micro-length user-generated data that is posted on the web, e.g., tweets, online reviews, comments on news and social media. It has gained considerable attention in recent years due to its widespread popularity, rich content, and value in several societal applications. Nowadays, microblogs applications span a wide spectrum of interests including targeted advertising, market reports, news delivery, political campaigns, rescue services, and public health. Consequently, major research efforts have been spent to manage, analyze, and visualize microblogs to support different applications. This paper gives a comprehensive review of major research and system work in microblogs data management. The paper reviews core components that enable large-scale querying and indexing for microblogs data. A dedicated part gives particular focus for discussing system-level issues and on-going effort on supporting microblogs through the rising wave of big data systems. In addition, we review the major research topics that exploit these core data management components to provide innovative and effective analysis and visualization for microblogs, such as event detection, recommendations, automatic geotagging, and user queries. Throughout the different parts, we highlight the challenges, innovations, and future opportunities in microblogs data research.
         </span>
     </p>
 </section>

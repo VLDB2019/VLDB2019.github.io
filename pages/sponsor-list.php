@@ -18,6 +18,7 @@
             <h4>Platinum Sponsors</h4>
             <div class="sponsor-logos sponsor-2">
                 <a href="https://www.alibabagroup.com/" class="no-ext-icon" title="Alibaba - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Alibaba.png"></a>
+                <a href="https://www.apple.com/" class="no-ext-icon" title="Apple - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Apple.png"></a>
                 <a href="https://www.couchbase.com/" class="no-ext-icon" title="Couchbase - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Couchbase.png"></a>
                 <a href="https://databricks.com/" class="no-ext-icon" title="Databricks - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Databricks.png"></a>
                 <a href="https://www.facebook.com/" class="no-ext-icon" title="Facebook - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Facebook.png"></a>
