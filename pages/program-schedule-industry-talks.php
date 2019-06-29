@@ -137,8 +137,8 @@ define('PageDescription', "List of invited industry talks.");
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "https://vldb.org/2019/?participant-information",
-        "name": "Participant Information"
+        "@id": "https://vldb.org/2019/?program",
+        "name": "Conference Program"
       }
     },{
       "@type": "ListItem",
