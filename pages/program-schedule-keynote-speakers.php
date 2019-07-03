@@ -1,5 +1,5 @@
-<section class="program-schedule-keynotes">
-    <h1>VLDB 2019: Keynotes</h1>
+<section class="program-schedule-keynote-speakers">
+    <h1>VLDB 2019: Keynote Speakers</h1>
 
     <p class="industry-talk">
         <img class="talk-photo" src="./img/people/MTamerOzsu.jpg" />
@@ -55,16 +55,16 @@
     </p>
 </section>
 <?php
-define('PageTitle', "Industry Talks");
-define('PageDescription', "List of invited industry talks.");
+define('PageTitle', "Program Schedule - Keynote Speakers");
+define('PageDescription', "List of keynote speakers.");
 ?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "name": "Industry Talks",
-  "url": "https://vldb.org/2019/?program-schedule-keynotes",
-  "description": "List of invited industry talks.",
+  "name": "Keynote Speakers",
+  "url": "https://vldb.org/2019/?program-schedule-keynote-speakers",
+  "description": "List of keynote speakers.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{
@@ -99,8 +99,8 @@ define('PageDescription', "List of invited industry talks.");
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "https://vldb.org/2019/?program-schedule-keynotes",
-        "name": "Industry Talks"
+        "@id": "https://vldb.org/2019/?program-schedule-keynote-speakers",
+        "name": "Keynote Speakers"
       }
     }]
   }
