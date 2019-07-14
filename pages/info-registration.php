@@ -1,6 +1,6 @@
 <section class="info-registration">
     <h1>VLDB 2019: Registration</h1>
-    <p>Online registrations for the VLDB 2019 are open now. <!-- A limited number of seats will be available for on-site registration. --> <a href="https://www.eventsquid.com/event.cfm?event_id=6012">Register online now</a>.</p>
+    <p>Online registrations for the VLDB 2019 are open now and will close on 21 August 2019 at 11:59 p.m. PST. <a href="https://www.eventsquid.com/event.cfm?event_id=6012">Register online now</a>.</p>
 
     <div class="registration-fees-wide">
         <table>
@@ -15,7 +15,7 @@
                 <tr><td>Conference + Workshops</td><td>990.00 USD</td><td>550.00 USD</td></tr>
             </tbody>
             <thead>
-                <tr><th colspan="3">Late Registration (on or after 23 July 2019)</th></tr>
+                <tr><th colspan="3">Late Registration (on or before 21 August 2019)</th></tr>
                 <tr><th></th><th width="150">Regular/Professional</th><th width="150">Student</th></tr>
             </thead>
             <tbody>
@@ -25,7 +25,7 @@
                 <tr><td>Conference + Workshops</td><td>1,240.00 USD</td><td>700.00 USD</td></tr>
             </tbody>
             <thead>
-                <tr><th colspan="3">On-site Registration</th></tr>
+                <tr><th colspan="3">On-site Registration<sup>*</sup></th></tr>
                 <tr><th></th><th width="150">Regular/Professional</th><th width="150">Student</th></tr>
             </thead>
             <tbody>
@@ -65,7 +65,7 @@
                 <tr><td>Conference + Workshops</td><td>990.00 USD</td></tr>
             </tbody>
             <thead>
-                <tr><th colspan="2">Late Registration (on or after 23 July 2019)</th></tr>
+                <tr><th colspan="2">Late Registration (on or before 21 August 2019)</th></tr>
             </thead>
             <tbody>
                 <tr><td>Full Conference <span>(Aug 27-29)</span></td><td>990.00 USD</td></tr>
@@ -74,7 +74,7 @@
                 <tr><td>Conference + Workshops</td><td>1,240.00 USD</td></tr>
             </tbody>
             <thead>
-                <tr><th colspan="3">On-site Registration</th></tr>
+                <tr><th colspan="3">On-site Registration<sup>*</sup></th></tr>
             </thead>
             <tbody>
                 <tr><td>Full Conference <span>(Aug 27-29)</span></td><td>1,240.00 USD</td></tr>
@@ -104,7 +104,7 @@
                 <tr><td>Conference + Workshops</td><td>550.00 USD</td></tr>
             </tbody>
             <thead>
-                <tr><th colspan="2">Late Registration (on or after 23 July 2019)</th></tr>
+                <tr><th colspan="2">Late Registration (on or before 21 August 2019)</th></tr>
             </thead>
             <tbody>
                 <tr><td>Full Conference <span>(Aug 27-29)</span></td><td>470.00 USD</td></tr>
@@ -112,13 +112,14 @@
                 <tr><td>Conference + Workshops</td><td>700.00 USD</td></tr>
             </tbody>
             <thead>
-                <tr><th colspan="2">On-site Registration</th></tr>
+                <tr><th colspan="2">On-site Registration<sup>*</sup></th></tr>
             </thead>
             <tbody>
                 <tr><td>Full Conference <span>(Aug 27-29)</span></td><td>590.00 USD</td></tr>
                 <tr><td>Workshops <span>(Aug 26 & 30)</span></td><td>315.00 USD</td></tr>
                 <tr><td>Conference + Workshops</td><td>875.00 USD</td></tr>
             </tbody>
+            <!--
             <thead>
                 <tr><th colspan="2">Add-ons</th></tr>
             </thead>
@@ -126,8 +127,11 @@
                 <tr><td>Additional Reception Ticket <span>(Aug 27)</span></td><td>120.00 USD</td></tr>
                 <tr><td>Additional Banquet Ticket <span>(Aug 28)</span></td><td>120.00 USD</td></tr>
             </tbody>
+            -->
         </table>
     </div>
+
+    <p><strong>*</strong> We encourage participants to register online, preferably before the late registration deadline of 21 August 2019 (11:59 p.m. PST). For on-site registrants, access to lunches, receptions, and the banquet will be limited based on the availability and capacity of VLDB 2019 caterers.</p>
 
     <p><strong>The registration fees to the conference only include access to:</strong></p>
     <ul>
@@ -150,7 +154,7 @@
 </section>
 <?php
 define('PageTitle', "Registration");
-define('PageDescription', "Online registrations for the VLDB 2019 are open now. A limited number of seats will be available for on-site registration.");
+define('PageDescription', "Online registrations for the VLDB 2019 are open now and will close on 21 August 2019 at 11:59 p.m. PST. A limited number of seats will be available for on-site registration.");
 ?>
 <script type="application/ld+json">
 {
@@ -158,7 +162,7 @@ define('PageDescription', "Online registrations for the VLDB 2019 are open now. 
   "@type": "WebPage",
   "name": "Registration",
   "url": "https://vldb.org/2019/?info-registration",
-  "description": "Online registrations for the VLDB 2019 are open now. A limited number of seats will be available for on-site registration.",
+  "description": "Online registrations for the VLDB 2019 are open now and will close on 21 August 2019 at 11:59 p.m. PST. A limited number of seats will be available for on-site registration.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{

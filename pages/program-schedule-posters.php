@@ -1,5 +1,5 @@
 <section class="program-schedule-posters">
-    <h1>VLDB 2019: Posters of VLDB Journal Papers</h1>
+    <h1>Posters of VLDB Journal Papers from 6/16/2018 to 6/15/2019</h1>
 
     <p>
         <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0521-x"><strong>Accelerating Pairwise SimRank Estimation over Static and Dynamic Graphs</strong></a>
@@ -199,16 +199,16 @@
     </p>
 </section>
 <?php
-define('PageTitle', "Program Schedule - Posters of VLDB Journal Papers");
-define('PageDescription', "List of posters from VLDB Journal Papers.");
+define('PageTitle', "Program Schedule - Posters of VLDB Journal Papers from 6/16/2018 to 6/15/2019");
+define('PageDescription', "List of posters from VLDB Journal Papers from 6/16/2018 to 6/15/2019.");
 ?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "name": "Program Schedule - Posters of VLDB Journal Papers",
+  "name": "Program Schedule - Posters of VLDB Journal Papers from 6/16/2018 to 6/15/2019",
   "url": "https://vldb.org/2019/?program-schedule-posters",
-  "description": "List of Posters from VLDB Journal Papers.",
+  "description": "List of Posters from VLDB Journal Papers from 6/16/2018 to 6/15/2019.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{

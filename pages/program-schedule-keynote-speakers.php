@@ -19,12 +19,12 @@
 
     <p class="industry-talk">
         <img class="talk-photo" src="./img/people/EricIverson.jpg" />
-        <strong class="talk-title">Data Analytics in the Entertainment Industry</strong>
+        <strong class="talk-title">Awesome Data Use Cases from Hollywood: How data is changing everything about the entertainment experience</strong>
         <span class="talk-person"><span class="author">Eric Iverson</span> (CIO, Creative Artists Agency)</span>
-        <span class="talk-abstract-simple">
-            <a class="talk-abstract-bullet"></a>
+        <span class="talk-abstract">
+            <a class="talk-abstract-action"></a>
             <strong>Abstract:</strong>
-            <em>Coming soon</em>
+            For more than 75 years, movies and television have engaged our imagination with gripping stories highlighting the impact of technology on the world and the worlds we create. And while Hollywood has always found the importance of data and technology in storytelling, its role in the business has been persistent, but understated. That has all changed. From music to sports to TV to the movies, data is changing everything about how entertainment works. Data now plays important roles in what content we make, where we show it, how we make it, who sees it, and how we can improve the overall experience when audiences engage with entertainment. In this session we will explore the surprising and fascinating ways data is changing all aspects Hollywood and the entertainment industry both now and into the future.
         </span>
         <span class="talk-bio">
             <a class="talk-bio-action"></a>
@@ -32,7 +32,6 @@
             Eric Iverson is the Chief Information Officer (CIO) at leading entertainment and sports agency Creative Artists Agency (CAA). Iverson is based in the Los Angeles office and oversees the Information Technology department. His responsibilities include IT technology support, cybersecurity, data analytics engineering, application solutions, and digital media solutions.<br />
             Prior to joining CAA in 2016, Iverson spent more than 17 years as CIO at Sony Pictures Television where he was responsible for the global systems portfolio and led strategic technology change initiatives for television production, distribution, and network channels.<br />
             He graduated from Pepperdine University with a degree in music composition.
-
         </span>
     </p>
 
@@ -43,7 +42,7 @@
         <span class="talk-abstract">
             <a class="talk-abstract-action"></a>
             <strong>Abstract:</strong>
-            We are experiencing an amazing data-centered revolution. Incredible amounts of data are collected, integrated and analyzed, leading to key breakthroughs in science and society. This well of knowledge, however, is at a great risk if we do not dispense with some of the data flood. First, the amount of generated data grows exponentially and already at 2020 is expectnd security, as recognized, e.g., by the recent EU Data Protection reform. Data disposal policies must be developed to benefit and protect organizations and individuals.<br />
+            We are experiencing an amazing data-centered revolution. Incredible amounts of data are collected, integrated and analyzed, leading to key breakthroughs in science and society. This well of knowledge, however, is at a great risk if we do not dispense with some of the data flood. First, the amount of generated data grows exponentially and already at 2020 is expected to be more than twice the available storage. Second, even disregarding storage constraints, uncontrolled data retention risks privacy and security, as recognized, e.g., by the recent EU Data Protection reform. Data disposal policies must be developed to benefit and protect organizations and individuals.<br />
             Retaining the knowledge hidden in the data while respecting storage, processing and regulatory constraints is a great challenge. The difficulty stems from the distinct, intricate requirements entailed by each type of constraint, the scale and velocity of data and the constantly evolving needs. While multiple data sketching, summarization and deletion techniques were developed to address specific aspects of the problem, we are still very far from a comprehensive solution. Every organization has to battle the same tough challenges, with ad hoc solutions that are application specific and rarely sharable.<br />
             In this talk I will discuss the logical, algorithmic, and methodological foundations required for the systematic disposal of large-scale data, for constraints enforcement and for the development of applications over the retained information. I will overview relevant related work, highlighting new research challenges and potential reuse of existing techniques, as well as the research performed in this direction in the Tel Aviv Databases group.
         </span>

@@ -1,5 +1,5 @@
 <section class="program-schedule-industry-talks">
-    <h1>VLDB 2019: Industry Talks</h1>
+    <h1>VLDB 2019: Invited Industry Talks</h1>
 
     <p class="industry-talk">
         <img class="talk-photo" src="./img/people/FeifeiLi.jpg" />
@@ -100,14 +100,14 @@
     </p>
 </section>
 <?php
-define('PageTitle', "Industry Talks");
+define('PageTitle', "Program Schedule - Invited Industry Talks");
 define('PageDescription', "List of invited industry talks.");
 ?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "name": "Industry Talks",
+  "name": "Invited Industry Talks",
   "url": "https://vldb.org/2019/?program-schedule-industry-talks",
   "description": "List of invited industry talks.",
   "breadcrumb": {
@@ -145,7 +145,7 @@ define('PageDescription', "List of invited industry talks.");
       "position": 5,
       "item": {
         "@id": "https://vldb.org/2019/?program-schedule-industry-talks",
-        "name": "Industry Talks"
+        "name": "Invited Industry Talks"
       }
     }]
   }

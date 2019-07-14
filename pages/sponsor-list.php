@@ -27,6 +27,7 @@
                 <a href="https://www.research.ibm.com/artificial-intelligence/" class="no-ext-icon" title="IBM Research AI - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/IBMResearchAI.png"></a>
                 <a href="https://www.linkedin.com" class="no-ext-icon" title="LinkedIn - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/LinkedIn.png"></a>
                 <a href="https://www.microsoft.com/research" class="no-ext-icon" title="Microsoft - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Microsoft.png"></a>
+                <a href="https://www.scylladb.com/" class="no-ext-icon" title="Scylla - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Scylla.png"></a>
                 <a href="https://www.snowflake.com/" class="no-ext-icon" title="Snowflake - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Snowflake.png"></a>
                 <a href="https://www.tableau.com/" class="no-ext-icon" title="Tableau Software - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Tableau.png"></a>
                 <a href="https://www.tencent.com/" class="no-ext-icon" title="Tencent - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Tencent.png"></a>

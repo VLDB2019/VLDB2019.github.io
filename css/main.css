@@ -1092,6 +1092,15 @@ footer > div {
     content: attr(long);
 }
 
+.schedule-time {
+    font-size: 13px;
+    font-weight: 400;
+    color: #999;
+    border-left: 4px solid #ddd;
+    padding: 0 15px;
+    font-style: italic;
+}
+
 .tag {
     font-size: 9px;
     line-height: 14px;
@@ -1289,10 +1298,29 @@ footer > div {
     font-size: 13px;
 }
 
+div.workshop-title {
+    margin: 25px 0 5px;
+}
+
+div.workshop-title:first-child {
+    margin-top: 0;
+}
+
 .workshop-title > strong {
     color: #444;
     font-size: 14px;
     margin-right: 2px;
+}
+
+.workshop-title >strong.main-title {
+    color: #000;
+    font-style: italic;
+}
+
+.workshop-title >strong.sub-title {
+    color: #000;
+    font-style: italic;
+    font-weight: 400;
 }
 
 .workshop-organizers {
@@ -1409,4 +1437,25 @@ footer > div {
     font-size: 12px;
     line-height: 1.75;
     color: #999;
+}
+
+.awards-title {
+    color: #444;
+    font-size: 14px;
+    margin-right: 2px;
+}
+
+.awards {
+    display: block;
+    font-size: 13px;
+}
+
+.awards .author {
+    color: #777;
+}
+
+.awards>em {
+    font-size: 12px;
+    color: #999;
+    font-style: normal;
 }

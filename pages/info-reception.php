@@ -81,7 +81,7 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "priceCurrency": "USD",
       "price": "790",
       "validFrom" : "2019-05-15T00:00-08:00",
-      "validThrough" : "2019-07-15T23:59-08:00",
+      "validThrough" : "2019-07-22T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
       "availability": "InStock"
     },
@@ -91,7 +91,7 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "priceCurrency": "USD",
       "price": "990",
       "validFrom" : "2019-05-15T00:00-08:00",
-      "validThrough" : "2019-07-15T23:59-08:00",
+      "validThrough" : "2019-07-22T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
       "availability": "InStock"
     },
@@ -101,7 +101,7 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "priceCurrency": "USD",
       "price": "385",
       "validFrom" : "2019-05-15T00:00-08:00",
-      "validThrough" : "2019-07-15T23:59-08:00",
+      "validThrough" : "2019-07-22T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Student",
       "availability": "InStock"
     },
@@ -111,7 +111,7 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "priceCurrency": "USD",
       "price": "550",
       "validFrom" : "2019-05-15T00:00-08:00",
-      "validThrough" : "2019-07-15T23:59-08:00",
+      "validThrough" : "2019-07-22T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Student",
       "availability": "InStock"
     },
@@ -120,7 +120,8 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "name" : "Regular/Professional Late Registration Full Conference",
       "priceCurrency": "USD",
       "price": "990",
-      "validFrom" : "2019-07-16T00:00-08:00",
+      "validFrom" : "2019-07-23T00:00-08:00",
+      "validThrough" : "2019-08-21T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
       "availability": "InStock"
     },
@@ -129,7 +130,8 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "name" : "Regular/Professional Late Registration Conference and Workshops",
       "priceCurrency": "USD",
       "price": "1240",
-      "validFrom" : "2019-07-16T00:00-08:00",
+      "validFrom" : "2019-07-23T00:00-08:00",
+      "validThrough" : "2019-08-21T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional",
       "availability": "InStock"
     },
@@ -138,7 +140,8 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "name" : "Student Late Registration Full Conference",
       "priceCurrency": "USD",
       "price": "470",
-      "validFrom" : "2019-07-16T00:00-08:00",
+      "validFrom" : "2019-07-23T00:00-08:00",
+      "validThrough" : "2019-08-21T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Student",
       "availability": "InStock"
     },
@@ -147,7 +150,8 @@ define('PageDescription', "The VLDB 2019 reception will be held on 27 August 201
       "name" : "Student Late Registration Conference and Workshops",
       "priceCurrency": "USD",
       "price": "700",
-      "validFrom" : "2019-07-16T00:00-08:00",
+      "validFrom" : "2019-07-23T00:00-08:00",
+      "validThrough" : "2019-08-21T23:59-08:00",
       "url": "https://www.eventsquid.com/register/6012?profileName=Student",
       "availability": "InStock"
     }

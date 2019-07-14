@@ -77,14 +77,18 @@ $content = ob_get_clean();
         <div>
             Conference Program
             <div class="menu">
+                <a href="./?program-schedule-keynote-speakers" itemprop="url"><span itemprop="name">Keynote speakers</span></a>
                 <a href="./?program-schedule-tutorials" itemprop="url"><span itemprop="name">Tutorials</span></a>
                 <a href="./?program-schedule-workshops" itemprop="url"><span itemprop="name">Workshops</span></a>
                 <a href="./?program-schedule-phd-workshop" itemprop="url"><span itemprop="name">PhD Workshop</span></a>
                 <a href="./?program-schedule-demonstrations" itemprop="url"><span itemprop="name">Demonstrations</span></a>
                 <a href="./?program-schedule-technical" itemprop="url"><span itemprop="name">Technical program</span></a>
                 <a href="./?papers-industrial" itemprop="url"><span itemprop="name">Industrial track papers</span></a>
-                <a href="./?program-schedule-industry-talks" itemprop="url"><span itemprop="name">Industry talks</span></a>
+                <a href="./?program-schedule-industry-talks" itemprop="url"><span itemprop="name">Invited industry talks</span></a>
                 <a href="./?program-schedule-panel" itemprop="url"><span itemprop="name">Panel</span></a>
+                <hr/>
+                <a href="./?program-schedule-posters" itemprop="url"><span itemprop="name">Posters of VLDBJ papers</span></a>
+                <a href="./?2019-vldb-endowment-awards" itemprop="url"><span itemprop="name">VLDB Endowment Awards</span></a>
             </div>
         </div>
         <div>
@@ -96,7 +100,6 @@ $content = ob_get_clean();
                 <hr/>
                 <a href="./?call-for-demonstrations" itemprop="url"><span itemprop="name">Demonstrations</span></a>
                 <a href="./?call-for-tutorials" itemprop="url"><span itemprop="name">Tutorials</span></a>
-                <!--a href="./?panels" itemprop="url"><span itemprop="name">Panels</span></a-->
                 <a href="./?call-for-workshops" itemprop="url"><span itemprop="name">Workshops</span></a>
             </div>
         </div>
