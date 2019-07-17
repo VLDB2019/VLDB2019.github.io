@@ -8,8 +8,8 @@
         <li>
             strictly follow the PVLDB style template w.r.t. line spacing, font size or style of captions. For
             convenience, a sample is provided alongside the LaTeX and MS Word templates:<br>
-            <strong>Note: those are templates for submissions only, templates for camera-ready can be found in the Camera
-                Ready instruction below.</strong>
+            <!-- <strong>Note: those are templates for submissions only, templates for camera-ready can be found in the Camera -->
+                <!-- Ready instruction below.</strong> -->
             <ul>
                 <li><a href="./files/vldb.cls" rel="nofollow">vldb.cls</a>: LaTeX document class</li>
                 <li><a href="./files/vldb_style_sample.zip" rel="nofollow">vldb_style_sample.zip</a>: LaTeX example</li>
@@ -58,11 +58,12 @@
     <h3>Copyright and Camera Ready Information</h3>
     <p>All papers accepted for the VLDB 2019 Conference will be published in the Proceedings of the VLDB Endowment (PVLDB) Volume 12. It is the authors' responsibility to ensure that their submissions adhere strictly to the VLDB format detailed above. Please follow the process below to submit the final camera-ready copy of your accepted paper. You must complete this process by the 5<sup>th</sup> of the month following the acceptance notification date.</p>
     <ol>
-        <li>Prepare the final version of your paper using the current camera-ready style files (available for LaTex and Word formats). You must download and use the latest style files since each month the issue number changes.</li>
+        <li>Prepare the final version of your paper using the current camera-ready style files (available for LaTex and Word formats). Here are the <a href="./files/vldb.cls">LaTex</a> and <a href="./files/vldb_sample.doc">Word</a> format style files.</li>
+        <!-- <li>You must download and use the latest style files since each month the issue number changes.</li> -->
         <li>Submit the final version of your paper as PDF using the VLDB 2019 conference management tool that is accessible at https://cmt3.research.microsoft.com/VLDB2019/.</li>
         <li>In <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>, please check carefully the paper's meta-data such as title, abstract, authors' names, affiliations, and their order, and correct those if necessary; note that this information, once processed, will be final and used for producing the conference booklet.</li>
         <li>Rename your file to pid-contact-author.lastname.pdf and upload it to <a href="https://cmt3.research.microsoft.com/VLDB2019/">CMT</a>; for instance, if your submission was given the id 42 and your name is John Smith, you should name your file p42-smith.pdf.</li>
-        <li>Finally, download the PVLDB Copyright License Form (available in .pdf format) and follow the instructions in the file to send the form to the Proceedings Chairs.</li>
+        <li>Finally, download the PVLDB Copyright License Form (available in <a href="./files/VLDB_Copyright_License_Form.pdf" rel="nofollow">.pdf</a> format) and follow the instructions in the file to send the form to the Proceedings Chairs.</li>
     </ol>
 
     <h3>Publication Process</h3>

@@ -3,11 +3,13 @@
 
     <div class="schedule-wrap">
         <div>
-            Day 1
-            <p><strong>26</strong><em>Aug</em></p>
-            <abbr long="Monday" short="Mon"></abbr>
+            <div data-day="1">
+                <abbr long="Monday" short="Mon"></abbr>
+                <p><strong>26</strong><em>Aug</em></p>
+            </div>
         </div>
         <div>
+            <div class="schedule-head" id="Workshop_1"></div>
             <p>
                 <a href="https://sites.google.com/view/aidb2019/" class="workshop-title"><strong>1<sup>st</sup> International Workshop on Applied AI for Database Systems and Applications</strong> (AIDB)</a>
                 <span class="workshop-organizers">
@@ -59,11 +61,13 @@
         </div>
 
         <div>
-            Day 5
-            <p><strong>30</strong><em>Aug</em></p>
-            <abbr long="Friday" short="Fri"></abbr>
+            <div data-day="5">
+                <abbr long="Friday" short="Fri"></abbr>
+                <p><strong>30</strong><em>Aug</em></p>
+            </div>
         </div>
         <div>
+            <div class="schedule-head" id="Workshop_2"></div>
             <p>
                 <a href="https://cast19.athenarc.gr/" class="workshop-title"><strong>Conversational Access to daTa</strong> (CAST)</a>
                 <span class="workshop-organizers">

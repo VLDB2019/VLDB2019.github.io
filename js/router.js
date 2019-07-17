@@ -1,10 +1,14 @@
 (function(win, doc) {
     var xhr;
 
-    win.loadPage = function(page, addToHistory) {
+    win.loadPage = function(newPage, addToHistory) {
         if (xhr) {
             xhr.abort();
         }
+
+        var parts = newPage.split('#', 2);
+        var page = parts[0];
+        var hash = parts[1];
 
         var mainBody = doc.querySelector('main.body');
         if (!mainBody) return;
@@ -29,11 +33,19 @@
                 title = 'VLDB 2019 - ' + this.getResponseHeader('X-Page-Title'),
                 loc = (page && page !== 'home') ? '?' + page : '';
 
+            if (hash) loc += '#' + hash;
+
             if (addToHistory !== false) history.pushState(null, '', './' + loc);
 
             mainBody.innerHTML = content + '<div class="spinner"></div>';
             mainBody.classList.remove('loading');
             document.title = title;
+
+            if (hash) {
+                setTimeout(function() {
+                    document.location.hash = hash;
+                }, 200);
+            }
 
             if (gtag) gtag('config', 'UA-115776710-1', {'page_path': '/2019/' + loc});
 
@@ -43,6 +55,7 @@
                     header.removeAttribute('aria-disabled');
                 }, 200);
             }
+
         });
 
         xhr.open('GET', './include.php?' + page);
@@ -50,14 +63,14 @@
     };
 
     window.onpopstate = function(e) {
-        var page = document.location.href.replace(/^.*\/\??([^\/]*)$/, '$1');
+        var page = document.location.href.replace(/^.*\/\??([^\/]*)$/, '$1').replace(/^index.*\?/, '');
         loadPage(page, false);
     };
 
     doc.delegateEventListener('click', 'a[href^="./\\?"], a[href="./"]', function(e) {
         if (e.which === 3 || e.button === 2 || e.shiftKey || e.ctrlKey || e.metaKey) return;
         e.preventDefault();
-        var page = this.getAttribute('href').replace(/^\.\/\??/, '');
+        var page = this.getAttribute('href').replace(/^\.\/\??/, '').replace(/^index.*\?/, '');
         loadPage(page);
     });
 

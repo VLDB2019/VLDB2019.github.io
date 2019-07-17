@@ -3,9 +3,10 @@
 
     <div class="schedule-wrap">
         <div>
-            Day 1
-            <p><strong>26</strong><em>Aug</em></p>
-            <abbr long="Monday" short="Mon"></abbr>
+            <div data-day="1">
+                <abbr long="Monday" short="Mon"></abbr>
+                <p><strong>26</strong><em>Aug</em></p>
+            </div>
         </div>
         <div>
             <div class="workshop-title"><span class="schedule-time">9:00 &ndash; 10:30</span><strong class="main-title">Keynote</strong></div>

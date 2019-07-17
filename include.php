@@ -12,8 +12,8 @@ $page = Root.'/pages/'.$q.'.php';
 
 ob_start();
 if (file_exists($page)) {
-    include(Root . '/pages/' . $q . '.php');
-    $lastModified = gmdate('D, d M Y H:i:s ', filemtime(Root . '/pages/' . $q . '.php')) . 'GMT';
+    include($page);
+    $lastModified = gmdate('D, d M Y H:i:s ', filemtime($page)) . 'GMT';
     header('X-Page-Title: '.(defined('PageTitle') && PageTitle ? PageTitle : "45th International Conference on Very Large Data Bases"));
     if (isset($_SERVER['HTTP_IF_MODIFIED_SINCE']) && $_SERVER['HTTP_IF_MODIFIED_SINCE'] == $lastModified) {
         header('HTTP/1.1 304 Not Modified');
