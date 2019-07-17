@@ -158,6 +158,14 @@
     }
 }
 
+.schedule-anchor {
+    margin-top: -100px;
+    padding-top: 100px;
+    width: 0;
+    display: inline;
+    pointer-events: none;
+}
+
 .schedule-head {
     color: #999;
     font-size: 13px;

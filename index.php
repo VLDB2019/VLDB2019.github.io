@@ -84,7 +84,6 @@ $content = ob_get_clean();
                 <a href="./?program-schedule-workshops" itemprop="url"><span itemprop="name">Workshops</span></a>
                 <a href="./?program-schedule-phd-workshop" itemprop="url"><span itemprop="name">PhD Workshop</span></a>
                 <a href="./?program-schedule-demonstrations" itemprop="url"><span itemprop="name">Demonstrations</span></a>
-                <a href="./?program-schedule-technical" itemprop="url"><span itemprop="name">Technical program</span></a>
                 <a href="./?papers-research" itemprop="url"><span itemprop="name">Research track papers</span></a>
                 <a href="./?papers-industrial" itemprop="url"><span itemprop="name">Industrial track papers</span></a>
                 <a href="./?program-schedule-industry-talks" itemprop="url"><span itemprop="name">Invited industry talks</span></a>

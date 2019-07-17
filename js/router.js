@@ -43,8 +43,17 @@
 
             if (hash) {
                 setTimeout(function() {
-                    document.location.hash = hash;
-                }, 200);
+                    document.location.hash = '#' + hash;
+                    setTimeout(function() {
+                        var el = document.querySelector('#' + hash);
+                        if (!el) return;
+                        if (Math.abs(el.getBoundingClientRect().top) > 15) {
+                            el.scrollIntoView(true);
+                        }
+                    }, 100);
+                }, 100);
+            } else {
+                window.scrollTo(0, 0);
             }
 
             if (gtag) gtag('config', 'UA-115776710-1', {'page_path': '/2019/' + loc});
