@@ -20,7 +20,7 @@
                     <a class="author" href="mailto:" data-uz="sebastian.schelter" data-at="nyu.edu">Sebastian&nbsp;Schelter</a>&nbsp;(New York University),
                     <a class="author" href="mailto:" data-uz="sebastian.bress" data-at="dfki.de">Sebastian&nbsp;Breß</a>&nbsp;(DFKI GmbH),
                     <a class="author" href="mailto:" data-uz="tilmann.rabl" data-at="hpi.de">Tilmann&nbsp;Rabl</a>&nbsp;(Hasso Plattner Institute), and
-                    <a class="author" href="mailto:" data-uz="volker.markl" data-at="tu-berlin.de">Volker&nbsp;Markl</a>&nbsp;(Techniche Universität Berlin)
+                    <a class="author" href="mailto:" data-uz="volker.markl" data-at="tu-berlin.de">Volker&nbsp;Markl</a>&nbsp;(TU Berlin)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -33,7 +33,7 @@
                 <strong class="schedule-item-title">An Experimental Evaluation of Large Scale GBDT Systems</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="ccchengff" data-at="pku.edu.cn">Fangcheng&nbsp;Fu</a>&nbsp;(Peking University),
-                    <a class="author" href="mailto:" data-uz="blue.jwjiang" data-at="pku.edu.cn">Jiawei&nbsp;Jiang</a>&nbsp;(Peking University),
+                    <a class="author" href="mailto:" data-uz="blue.jwjiang" data-at="pku.edu.cn">Jiawei&nbsp;Jiang</a>&nbsp;(ETH Zurich and Tencent Inc.),
                     <a class="author" href="mailto:" data-uz="shaoyx" data-at="bupt.edu.cn">Yingxia&nbsp;Shao</a>&nbsp;(BUPT), and
                     <a class="author" href="mailto:" data-uz="bin.cui" data-at="pku.edu.cn">Bin&nbsp;Cui</a>&nbsp;(Peking University)
                 </span>
@@ -65,7 +65,7 @@
                     <a class="author" href="mailto:" data-uz="litianm2" data-at="illinois.edu">Litian&nbsp;Ma</a>&nbsp;(University of Illinois at Urbana-Champaign),
                     <a class="author" href="mailto:" data-uz="jialin2" data-at="illinois.edu">Jialin&nbsp;Liu</a>&nbsp;(University of Illinois at Urbana-Champaign),
                     <a class="author" href="mailto:" data-uz="ssong18" data-at="illinois.edu">Shuchen&nbsp;Song</a>&nbsp;(University of Illinois at Urbana-Champaign), and
-                    <a class="author" href="mailto:" data-uz="adityagp" data-at="illinois.edu">Aditya&nbsp;Parameswaran</a>&nbsp;(University of Illinois)
+                    <a class="author" href="mailto:" data-uz="adityagp" data-at="illinois.edu">Aditya&nbsp;Parameswaran</a>&nbsp;(University of Illinois at Urbana-Champaign)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -77,15 +77,15 @@
             <p class="schedule-item" data-id="302">
                 <strong class="schedule-item-title">Rafiki: Machine Learning as an Analytics Service System</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="wangwei" data-at="comp.nus.edu.sg">Wei&nbsp;Wang</a>&nbsp;(NUS),
-                    <a class="author" href="mailto:" data-uz="jinyang.gao" data-at="comp.nus.edu.sg">Jinyang&nbsp;Gao</a>&nbsp;(Alibaba Group),
-                    <a class="author" href="mailto:" data-uz="meihui_zhang" data-at="bit.edu.cn">Meihui&nbsp;Zhang</a>&nbsp;(Beijing Institute of Technology),
+                    <a class="author" href="mailto:" data-uz="wangwei" data-at="comp.nus.edu.sg">Wei&nbsp;Wang</a>&nbsp;(National University of Singapore),
+                    <a class="author" href="mailto:" data-uz="jinyang.gao" data-at="comp.nus.edu.sg">Jinyang&nbsp;Gao</a>&nbsp;(National University of Singapore),
+                    <a class="author" href="mailto:" data-uz="meihui_zhang" data-at="bit.edu.cn">Meihui&nbsp;Zhang</a>&nbsp;(University of Electronic Science and Technology of China),
                     <a class="author" href="mailto:" data-uz="wangsh" data-at="comp.nus.edu.sg">Sheng&nbsp;Wang</a>&nbsp;(National University of Singapore),
                     <a class="author" href="mailto:" data-uz="cg" data-at="zju.edu.cn">Gang&nbsp;Chen</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="ngtk" data-at="comp.nus.edu.sg">Teck&nbsp;Khim&nbsp;Ng</a>&nbsp;(National University of Singapore),
-                    <a class="author" href="mailto:" data-uz="ooibc" data-at="comp.nus.edu.sg">Beng&nbsp;Chin&nbsp;Ooi</a>&nbsp;(NUS),
-                    <a class="author" href="mailto:" data-uz="shaojie" data-at="uestc.edu.cn">Jie&nbsp;Shao</a>&nbsp;(University of Electronic Science and Technology of China), and
-                    <a class="author" href="mailto:" data-uz="moaz" data-at="comp.nus.edu.sg">Moaz&nbsp;Reyad</a>&nbsp;(NUS)
+                    <a class="author" href="mailto:" data-uz="ooibc" data-at="comp.nus.edu.sg">Beng&nbsp;Chin&nbsp;Ooi</a>&nbsp;(National University of Singapore),
+                    <a class="author" href="mailto:" data-uz="shaojie" data-at="uestc.edu.cn">Jie&nbsp;Shao</a>&nbsp;(Beijing Institute of Technology), and
+                    <a class="author" href="mailto:" data-uz="moaz" data-at="comp.nus.edu.sg">Moaz&nbsp;Reyad</a>&nbsp;(National University of Singapore)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -101,7 +101,7 @@
                 <strong class="schedule-item-title">A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="gill" data-at="cs.utexas.edu">Gurbinder&nbsp;S&nbsp;Gill</a>&nbsp;(The University of Texas at Austin),
-                    <a class="author" href="mailto:" data-uz="roshan" data-at="cs.utexas.edu">Roshan&nbsp;Dathathri</a>&nbsp;(University of Texas at Austin),
+                    <a class="author" href="mailto:" data-uz="roshan" data-at="cs.utexas.edu">Roshan&nbsp;Dathathri</a>&nbsp;(The University of Texas at Austin),
                     <a class="author" href="mailto:" data-uz="loc" data-at="cs.utexas.edu">Loc&nbsp;Hoang</a>&nbsp;(The University of Texas at Austin), and
                     <a class="author" href="mailto:" data-uz="pingali" data-at="cs.utexas.edu">Keshav&nbsp;Pingali</a>&nbsp;(The University of Texas at Austin)
                 </span>
@@ -146,9 +146,9 @@
             <p class="schedule-item" data-id="680">
                 <strong class="schedule-item-title">TopoX: Topology Refactorization for Efficient Graph Partitioning and Processing</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="dsli" data-at="nudt.edu.cn">Dongsheng&nbsp;Li</a>&nbsp;(School of Computer Science, National University of Defense Technology),
-                    <a class="author" href="mailto:" data-uz="sdiris" data-at="gmail.com">Yiming&nbsp;Zhang</a>&nbsp;(NUDT),
-                    <a class="author" href="mailto:" data-uz="wjy0213" data-at="vip.qq.com">Jinyan&nbsp;Wang</a>&nbsp;(NUDT), and
+                    <a class="author" href="mailto:" data-uz="dsli" data-at="nudt.edu.cn">Dongsheng&nbsp;Li</a>&nbsp;(National University of Defense Technology),
+                    <a class="author" href="mailto:" data-uz="sdiris" data-at="gmail.com">Yiming&nbsp;Zhang</a>&nbsp;(National University of Defense Technology),
+                    <a class="author" href="mailto:" data-uz="wjy0213" data-at="vip.qq.com">Jinyan&nbsp;Wang</a>&nbsp;(National University of Defense Technology), and
                     <a class="author" href="mailto:" data-uz="tankl" data-at="comp.nus.edu.sg">Kian-Lee&nbsp;Tan</a>&nbsp;(National University of Singapore)
                 </span>
                 <span class="schedule-item-abstract">
@@ -182,7 +182,7 @@
                 <strong class="schedule-item-title">Interactive Checks for Coordination Avoidance</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="mjwhittaker" data-at="berkeley.edu">Michael&nbsp;J&nbsp;Whittaker</a>&nbsp;(UC Berkeley) and
-                    <a class="author" href="mailto:" data-uz="hellerstein" data-at="cs.berkeley.edu">Joseph&nbsp;M.&nbsp;Hellerstein</a>&nbsp;(U.C. Berkeley)
+                    <a class="author" href="mailto:" data-uz="hellerstein" data-at="cs.berkeley.edu">Joseph&nbsp;M.&nbsp;Hellerstein</a>&nbsp;(UC Berkeley)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -210,8 +210,8 @@
                     <a class="author" href="mailto:" data-uz="dignoes" data-at="inf.unibz.it">Anton&nbsp;Dignös</a>&nbsp;(Free University of Bozen-Bolzano),
                     <a class="author" href="mailto:" data-uz="bglavic" data-at="iit.edu">Boris&nbsp;Glavic</a>&nbsp;(Illinois Institute of Technology),
                     <a class="author" href="mailto:" data-uz="xniu7" data-at="hawk.iit.edu">Xing&nbsp;Niu</a>&nbsp;(Illinois Institute of Technology),
-                    <a class="author" href="mailto:" data-uz="gamper" data-at="inf.unibz.it">Johann&nbsp;Gamper</a>&nbsp;(Free University of Bozen-Bolzano, Italy), and
-                    <a class="author" href="mailto:" data-uz="boehlen" data-at="ifi.uzh.ch">Michael&nbsp;H&nbsp;Böhlen</a>&nbsp;(University of Zurich)
+                    <a class="author" href="mailto:" data-uz="boehlen" data-at="ifi.uzh.ch">Michael&nbsp;H&nbsp;Böhlen</a>&nbsp;(University of Zurich), and
+                    <a class="author" href="mailto:" data-uz="gamper" data-at="inf.unibz.it">Johann&nbsp;Gamper</a>&nbsp;(Free University of Bozen-Bolzano)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -235,7 +235,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1204">
-                <strong class="schedule-item-title">FineLine: log-structured transactional storage and recovery</strong>
+                <strong class="schedule-item-title">FineLine: Log-structured Transactional Storage and Recovery</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="caetanosauer" data-at="gmail.com">Caetano&nbsp;Sauer</a>&nbsp;(TU Kaiserslautern),
                     <a class="author" href="mailto:" data-uz="goetzg" data-at="google.com">Goetz&nbsp;Graefe</a>&nbsp;(Google), and
@@ -249,7 +249,7 @@
             <p class="schedule-item" data-id="351">
                 <strong class="schedule-item-title">On Obtaining Stable Rankings</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="asudeh" data-at="umich.edu">Abolfazl&nbsp;Asudeh</a>&nbsp;(University of Illinois at Chicago),
+                    <a class="author" href="mailto:" data-uz="asudeh" data-at="umich.edu">Abolfazl&nbsp;Asudeh</a>&nbsp;(University of Michigan),
                     <a class="author" href="mailto:" data-uz="jag" data-at="umich.edu">H.&nbsp;V.&nbsp;Jagadish</a>&nbsp;(University of Michigan),
                     <a class="author" href="mailto:" data-uz="miklau" data-at="cs.umass.edu">Gerome&nbsp;Miklau</a>&nbsp;(University of Massachusetts Amherst), and
                     <a class="author" href="mailto:" data-uz="stoyanovich" data-at="nyu.edu">Julia&nbsp;Stoyanovich</a>&nbsp;(New York University)
@@ -267,8 +267,8 @@
                     <a class="author" href="mailto:" data-uz="totemtang" data-at="uchicago.edu">Dixin&nbsp;Tang</a>&nbsp;(University of Chicago),
                     <a class="author" href="mailto:" data-uz="zcshang" data-at="cs.uchicago.edu">Zechao&nbsp;Shang</a>&nbsp;(University of Chicago),
                     <a class="author" href="mailto:" data-uz="aelmore" data-at="cs.uchicago.edu">Aaron&nbsp;J&nbsp;Elmore</a>&nbsp;(University of Chicago),
-                    <a class="author" href="mailto:" data-uz="skr" data-at="cs.uchicago.edu">Sanjay&nbsp;Krishnan</a>&nbsp;(UChicago), and
-                    <a class="author" href="mailto:" data-uz="mjfranklin" data-at="uchicago.edu">Michael&nbsp;Franklin</a>&nbsp;(University of Chicago)
+                    <a class="author" href="mailto:" data-uz="skr" data-at="cs.uchicago.edu">Sanjay&nbsp;Krishnan</a>&nbsp;(University of Chicago), and
+                    <a class="author" href="mailto:" data-uz="mjfranklin" data-at="uchicago.edu">Michael&nbsp;J.&nbsp;Franklin</a>&nbsp;(University of Chicago)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -281,7 +281,7 @@
                 <strong class="schedule-item-title">Automated Verification of Query Equivalence Using Satisfiability Modulo Theories</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="qzhou80" data-at="gatech.edu">Qi&nbsp;Zhou</a>&nbsp;(Georgia Institute of Technology),
-                    <a class="author" href="mailto:" data-uz="arulraj" data-at="gatech.edu">Joy&nbsp;Arulraj</a>&nbsp;(Georgia Tech),
+                    <a class="author" href="mailto:" data-uz="arulraj" data-at="gatech.edu">Joy&nbsp;Arulraj</a>&nbsp;(Georgia Institute of Technology),
                     <a class="author" href="mailto:" data-uz="sham" data-at="cc.gatech.edu">Shamkant&nbsp;Navathe</a>&nbsp;(Georgia Institute of Technology),
                     <a class="author" href="mailto:" data-uz="wrharris" data-at="galois.com">William&nbsp;Harris</a>&nbsp;(Galois Inc), and
                     <a class="author" href="mailto:" data-uz="shaojie" data-at="alibaba-inc.com">Dong&nbsp;Xu</a>&nbsp;(Alibaba Group)
@@ -349,6 +349,7 @@
                     <a class="author" href="mailto:" data-uz="q.zheng" data-at="alibaba-inc.com">Qixing&nbsp;Zheng</a>&nbsp;(Alibaba),
                     <a class="author" href="mailto:" data-uz="chiyuan.zp" data-at="alibaba-inc.com">Ping&nbsp;Zhang</a>&nbsp;(Alibaba),
                     <a class="author" href="mailto:" data-uz="kenny.qhl" data-at="alibaba-inc.com">Honglin&nbsp;Qiao</a>&nbsp;(Alibaba),
+                    <span class="author">Yue&nbsp;Shi</span>&nbsp;(Alibaba),
                     <a class="author" href="mailto:" data-uz="mingsong.cw" data-at="taobao.com">Wei&nbsp;Cao</a>&nbsp;(Alibaba Cloud), and
                     <a class="author" href="mailto:" data-uz="jacky.zhangr" data-at="alibaba-inc.com">Rui&nbsp;Zhang</a>&nbsp;(Alibaba)
                 </span>
@@ -392,7 +393,7 @@
                 <strong class="schedule-item-title">An IDEA: An Ingestion Framework for Data Enrichment in AsterixDB</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="xikuiw" data-at="uci.edu">Xikui&nbsp;Wang</a>&nbsp;(University of California, Irvine) and
-                    <a class="author" href="mailto:" data-uz="mjcarey" data-at="ics.uci.edu">Michael&nbsp;Carey</a>&nbsp;(UC Irvine)
+                    <a class="author" href="mailto:" data-uz="mjcarey" data-at="ics.uci.edu">Michael&nbsp;Carey</a>&nbsp;(University of California, Irvine)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -446,9 +447,9 @@
                 <strong class="schedule-item-title">Fast and Robust Distributed Subgraph Enumeration</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="xuguang.r" data-at="gmail.com">Xuguang&nbsp;Ren</a>&nbsp;(Griffith University),
-                    <a class="author" href="mailto:" data-uz="j.wang" data-at="griffith.edu.au">Junhu&nbsp;Wang</a>&nbsp;(Griffith University, australia),
+                    <a class="author" href="mailto:" data-uz="j.wang" data-at="griffith.edu.au">Junhu&nbsp;Wang</a>&nbsp;(Griffith University),
                     <a class="author" href="mailto:" data-uz="wshan" data-at="dblab.postech.ac.kr">Wook-Shin&nbsp;Han</a>&nbsp;(POSTECH), and
-                    <a class="author" href="mailto:" data-uz="yu" data-at="se.cuhk.edu.hk">Jeffrey&nbsp;Xu&nbsp;Yu</a>&nbsp;(Chinese University of Hong Kong)
+                    <a class="author" href="mailto:" data-uz="yu" data-at="se.cuhk.edu.hk">Jeffrey&nbsp;Xu&nbsp;Yu</a>&nbsp;(The Chinese University of Hong Kong)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -479,7 +480,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="kai.wang" data-at="unsw.edu.au">Kai&nbsp;Wang</a>&nbsp;(University of New South Wales),
                     <a class="author" href="mailto:" data-uz="lxue" data-at="cse.unsw.edu.au">Xuemin&nbsp;Lin</a>&nbsp;(University of New South Wales),
-                    <a class="author" href="mailto:" data-uz="lu.qin" data-at="uts.edu.au">Lu&nbsp;Qin</a>&nbsp;(UTS),
+                    <a class="author" href="mailto:" data-uz="lu.qin" data-at="uts.edu.au">Lu&nbsp;Qin</a>&nbsp;(University of Technology Sydney),
                     <a class="author" href="mailto:" data-uz="zhangw" data-at="cse.unsw.edu.au">Wenjie&nbsp;Zhang</a>&nbsp;(University of New South Wales), and
                     <a class="author" href="mailto:" data-uz="ying.zhang" data-at="uts.edu.au">Ying&nbsp;Zhang</a>&nbsp;(University of Technology Sydney)
                 </span>
@@ -510,7 +511,7 @@
                 <strong class="schedule-item-title">Pigeonring: A Principle for Faster Thresholded Similarity Search</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="jqin" data-at="inf.ed.ac.uk">Jianbin&nbsp;Qin</a>&nbsp;(The University of Edinburgh) and
-                    <a class="author" href="mailto:" data-uz="chuanx" data-at="ist.osaka-u.ac.jp*">Chuan&nbsp;Xiao</a>&nbsp;(Osaka University)
+                    <a class="author" href="mailto:" data-uz="chuanx" data-at="ist.osaka-u.ac.jp*">Chuan&nbsp;Xiao</a>&nbsp;(Nagoya University)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -555,7 +556,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="mjwhittaker" data-at="berkeley.edu">Michael&nbsp;J&nbsp;Whittaker</a>&nbsp;(UC Berkeley),
                     <a class="author" href="mailto:" data-uz="nge" data-at="google.com">Nick&nbsp;Edmonds</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="tata" data-at="google.com">Sandeep&nbsp;Tata</a>&nbsp;("Google, USA"),
+                    <a class="author" href="mailto:" data-uz="tata" data-at="google.com">Sandeep&nbsp;Tata</a>&nbsp;(Google),
                     <a class="author" href="mailto:" data-uz="jwendt" data-at="google.com">James&nbsp;B&nbsp;Wendt</a>&nbsp;(Google), and
                     <a class="author" href="mailto:" data-uz="najork" data-at="gmail.com">Marc&nbsp;Najork</a>&nbsp;(Google)
                 </span>
@@ -589,7 +590,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="steffen.zeuch" data-at="dfki.de">Steffen&nbsp;Zeuch</a>&nbsp;(DFKI Berlin),
                     <a class="author" href="mailto:" data-uz="sebastian.bress" data-at="dfki.de">Sebastian&nbsp;Breß</a>&nbsp;(DFKI GmbH),
-                    <a class="author" href="mailto:" data-uz="tilmann.rabl" data-at="hpi.de">Tilmann&nbsp;Rabl</a>&nbsp;(Hasso Plattner Institute),
+                    <a class="author" href="mailto:" data-uz="tilmann.rabl" data-at="hpi.de">Tilmann&nbsp;Rabl</a>&nbsp;(German Research Center for Artificial Intelligence),
                     <a class="author" href="mailto:" data-uz="bonaventura.delmonte" data-at="dfki.de">Bonaventura&nbsp;Del&nbsp;Monte</a>&nbsp;(DFKI GmbH),
                     <a class="author" href="mailto:" data-uz="jeyhun.karimov" data-at="dfki.de">Jeyhun&nbsp;Karimov</a>&nbsp;(DFKI Berlin),
                     <a class="author" href="mailto:" data-uz="clemens.lutz" data-at="dfki.de">Clemens&nbsp;Lutz</a>&nbsp;(DFKI GmbH),
@@ -608,11 +609,11 @@
                 <strong class="schedule-item-title">Accelerating Generalized Linear Models with MLWeaving: A One-Size-Fits-All System for Any-precision Learning</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="zeke.wang" data-at="inf.ethz.ch">Zeke&nbsp;Wang</a>&nbsp;(ETH Zurich),
-                    <a class="author" href="mailto:" data-uz="kaan.kara" data-at="inf.ethz.ch">Kaan&nbsp;Kara</a>&nbsp;(ETHZ),
+                    <a class="author" href="mailto:" data-uz="kaan.kara" data-at="inf.ethz.ch">Kaan&nbsp;Kara</a>&nbsp;(ETH Zurich),
                     <a class="author" href="mailto:" data-uz="hantian.zhang" data-at="inf.ethz.ch">Hantian&nbsp;Zhang</a>&nbsp;(ETH Zurich),
-                    <a class="author" href="mailto:" data-uz="alonso" data-at="inf.ethz.ch">Gustavo&nbsp;Alonso</a>&nbsp;(ETHZ),
-                    <a class="author" href="mailto:" data-uz="onur.mutlu" data-at="inf.ethz.ch">Onur&nbsp;Mutlu</a>&nbsp;(ETH), and
-                    <a class="author" href="mailto:" data-uz="ce.zhang" data-at="inf.ethz.ch">Ce&nbsp;Zhang</a>&nbsp;(ETH)
+                    <a class="author" href="mailto:" data-uz="alonso" data-at="inf.ethz.ch">Gustavo&nbsp;Alonso</a>&nbsp;(ETH Zurich),
+                    <a class="author" href="mailto:" data-uz="onur.mutlu" data-at="inf.ethz.ch">Onur&nbsp;Mutlu</a>&nbsp;(ETH Zurich), and
+                    <a class="author" href="mailto:" data-uz="ce.zhang" data-at="inf.ethz.ch">Ce&nbsp;Zhang</a>&nbsp;(ETH Zurich)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -628,7 +629,7 @@
                     <a class="author" href="mailto:" data-uz="piwatcha" data-at="microsoft.com">Pijika&nbsp;Watcharapichat</a>&nbsp;(Microsoft Research),
                     <a class="author" href="mailto:" data-uz="matthias.weidlich" data-at="hu-berlin.de">Matthias&nbsp;Weidlich</a>&nbsp;(Humboldt-Universität zu Berlin),
                     <a class="author" href="mailto:" data-uz="luo.mai11" data-at="imperial.ac.uk">Luo&nbsp;Mai</a>&nbsp;(Imperial College London),
-                    <a class="author" href="mailto:" data-uz="paolo.costa" data-at="microsoft.com">Costa&nbsp;Paolo</a>&nbsp;(Microsoft), and
+                    <a class="author" href="mailto:" data-uz="paolo.costa" data-at="microsoft.com">Paolo&nbsp;Costa</a>&nbsp;(Microsoft Research), and
                     <a class="author" href="mailto:" data-uz="prp" data-at="doc.ic.ac.uk">Peter&nbsp;Pietzuch</a>&nbsp;(Imperial College London)
                 </span>
                 <span class="schedule-item-abstract">
@@ -641,10 +642,10 @@
             <p class="schedule-item" data-id="383">
                 <strong class="schedule-item-title">ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="kaan.kara" data-at="inf.ethz.ch">Kaan&nbsp;Kara</a>&nbsp;(ETHZ),
+                    <a class="author" href="mailto:" data-uz="kaan.kara" data-at="inf.ethz.ch">Kaan&nbsp;Kara</a>&nbsp;(ETH Zurich),
                     <a class="author" href="mailto:" data-uz="eguro" data-at="microsoft.com">Ken&nbsp;Eguro</a>&nbsp;(Microsoft),
-                    <a class="author" href="mailto:" data-uz="ce.zhang" data-at="inf.ethz.ch">Ce&nbsp;Zhang</a>&nbsp;(ETH), and
-                    <a class="author" href="mailto:" data-uz="alonso" data-at="inf.ethz.ch">Gustavo&nbsp;Alonso</a>&nbsp;(ETHZ)
+                    <a class="author" href="mailto:" data-uz="ce.zhang" data-at="inf.ethz.ch">Ce&nbsp;Zhang</a>&nbsp;(ETH Zurich), and
+                    <a class="author" href="mailto:" data-uz="alonso" data-at="inf.ethz.ch">Gustavo&nbsp;Alonso</a>&nbsp;(ETH Zurich)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -669,27 +670,28 @@
             <p class="schedule-item" data-id="665">
                 <strong class="schedule-item-title">Procella: Unifying serving and analytical data at YouTube</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="evenro" data-at="google.com">Roee&nbsp;Ebenstein</a>&nbsp;(Google),
                     <a class="author" href="mailto:" data-uz="biswapesh" data-at="google.com">Biswapesh&nbsp;Chattopadhyay</a>&nbsp;(Google),
                     <a class="author" href="mailto:" data-uz="priyam" data-at="google.com">Priyam&nbsp;Dutta</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="otinn" data-at="google.com">Ott&nbsp;Tinn</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="aniketmokashi" data-at="google.com">Aniket&nbsp;Mokashi</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="amccorm" data-at="google.com">Andrew&nbsp;McCormick</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="pharvey" data-at="google.com">Paul&nbsp;Harvey</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="sagarmittal" data-at="google.com">Sagar&nbsp;Mittal</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="hagonzal" data-at="google.com">Hector&nbsp;Gonzalez</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="hungching" data-at="google.com">Hung-ching&nbsp;Lee</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="nautilik" data-at="google.com">Luis&nbsp;Perez</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="nmckay" data-at="google.com">Neil&nbsp;McKay</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="nikitam" data-at="google.com">Nikita&nbsp;Mikhaylin</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="dlomax" data-at="google.com">David&nbsp;Lomax</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="tonyxug" data-at="google.com">Tony&nbsp;Xu</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="farhadsh" data-at="google.com">Farhad&nbsp;Shahmohammadi</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="xyzh" data-at="google.com">Xiaoyan&nbsp;Zhao</a>&nbsp;(Google),
-                    <a class="author" href="mailto:" data-uz="belliott" data-at="google.com">Brett&nbsp;Elliott</a>&nbsp;(Google),
                     <a class="author" href="mailto:" data-uz="wrliu" data-at="google.com">Weiran&nbsp;Liu</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="otinn" data-at="google.com">Ott&nbsp;Tinn</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="amccorm" data-at="google.com">Andrew&nbsp;McCormick</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="aniketmokashi" data-at="google.com">Aniket&nbsp;Mokashi</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="pharvey" data-at="google.com">Paul&nbsp;Harvey</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="hagonzal" data-at="google.com">Hector&nbsp;Gonzalez</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="dlomax" data-at="google.com">David&nbsp;Lomax</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="sagarmittal" data-at="google.com">Sagar&nbsp;Mittal</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="evenro" data-at="google.com">Roee&nbsp;Ebenstein</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="nikitam" data-at="google.com">Nikita&nbsp;Mikhaylin</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="hungching" data-at="google.com">Hung-ching&nbsp;Lee</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="xyzh" data-at="google.com">Xiaoyan&nbsp;Zhao</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="tonyxug" data-at="google.com">Tony&nbsp;Xu</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="nautilik" data-at="google.com">Luis&nbsp;Perez</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="farhadsh" data-at="google.com">Farhad&nbsp;Shahmohammadi</a>&nbsp;(Google),
+                    <span class="author">Tran&nbsp;Bui</span>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="nmckay" data-at="google.com">Neil&nbsp;McKay</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="ayaselcuk" data-at="gmail.com">Selcuk&nbsp;Aya</a>&nbsp;(Google),
                     <a class="author" href="mailto:" data-uz="vlychagina" data-at="google.com">Vera&nbsp;Lychagina</a>&nbsp;(Google), and
-                    <a class="author" href="mailto:" data-uz="ayaselcuk" data-at="gmail.com">Selcuk&nbsp;Aya</a>&nbsp;(Google)
+                    <a class="author" href="mailto:" data-uz="belliott" data-at="google.com">Brett&nbsp;Elliott</a>&nbsp;(Google)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -705,7 +707,7 @@
                     <a class="author" href="mailto:" data-uz="yingjie.shi" data-at="alibaba-inc.com">Yingjie&nbsp;Shi</a>&nbsp;(Alibaba Group),
                     <a class="author" href="mailto:" data-uz="zzhong" data-at="cse.cuhk.edu.hk">Zheng&nbsp;Zhong</a>&nbsp;(The Chinese University of Hong Kong),
                     <a class="author" href="mailto:" data-uz="yihui.feng" data-at="alibaba-inc.com">Yihui&nbsp;Feng</a>&nbsp;(Alibaba Group),
-                    <a class="author" href="mailto:" data-uz="jcheng" data-at="cse.cuhk.edu.hk">James&nbsp;Cheng</a>&nbsp;(CUHK),
+                    <a class="author" href="mailto:" data-uz="jcheng" data-at="cse.cuhk.edu.hk">James&nbsp;Cheng</a>&nbsp;(The Chinese University of Hong Kong),
                     <a class="author" href="mailto:" data-uz="jiwei.ljw" data-at="alibaba-inc.com">Jiwei&nbsp;Li</a>&nbsp;(Alibaba Group),
                     <a class="author" href="mailto:" data-uz="haochuan.fan" data-at="alibaba-inc.com">Haochuan&nbsp;Fan</a>&nbsp;(Alibaba Group),
                     <a class="author" href="mailto:" data-uz="li.chao" data-at="alibaba-inc.com">Chao&nbsp;Li</a>&nbsp;(Alibaba Group),
@@ -761,7 +763,7 @@
                     <a class="author" href="mailto:" data-uz="pgopalan" data-at="vmware.com">Parikshit&nbsp;Gopalan</a>&nbsp;(VMware Research),
                     <a class="author" href="mailto:" data-uz="lsuresh" data-at="vmware.com">Lalith&nbsp;Suresh</a>&nbsp;(VMware Research),
                     <a class="author" href="mailto:" data-uz="uwieder" data-at="vmware.com">Udi&nbsp;Wieder</a>&nbsp;(VMware Research),
-                    <a class="author" href="mailto:" data-uz="hankruiger" data-at="gmail.com">Han&nbsp;Kruiger</a>&nbsp;(University of Groningen), and
+                    <a class="author" href="mailto:" data-uz="hankruiger" data-at="gmail.com">Han&nbsp;Kruiger</a>&nbsp;(University of Utrecht), and
                     <a class="author" href="mailto:" data-uz="maguilera" data-at="vmware.com">Marcos&nbsp;Aguilera</a>&nbsp;(VMware Research)
                 </span>
                 <span class="schedule-item-abstract">
@@ -811,7 +813,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="yixiang.fang" data-at="unsw.edu.au">Yixiang&nbsp;Fang</a>&nbsp;(University of New South Wales),
                     <a class="author" href="mailto:" data-uz="ky" data-at="cs.hku.hk">Kaiqiang&nbsp;Yu</a>&nbsp;(The University of Hong Kong),
-                    <a class="author" href="mailto:" data-uz="ckcheng" data-at="cs.hku.hk">Reynold&nbsp;Cheng</a>&nbsp;("The University of Hong Kong, China"),
+                    <a class="author" href="mailto:" data-uz="ckcheng" data-at="cs.hku.hk">Reynold&nbsp;Cheng</a>&nbsp;(The University of Hong Kong),
                     <a class="author" href="mailto:" data-uz="laks" data-at="cs.ubc.ca">Laks&nbsp;V.S.&nbsp;Lakshmanan</a>&nbsp;(The University of British Columbia), and
                     <a class="author" href="mailto:" data-uz="lxue" data-at="cse.unsw.edu.au">Xuemin&nbsp;Lin</a>&nbsp;(University of New South Wales)
                 </span>
@@ -827,7 +829,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="matteo" data-at="cs.aau.dk">Matteo&nbsp;Lissandrini</a>&nbsp;(Aalborg University),
                     <a class="author" href="mailto:" data-uz="mb" data-at="disi.unitn.eu">Martin&nbsp;MB&nbsp;Brugnara</a>&nbsp;(University of Trento), and
-                    <a class="author" href="mailto:" data-uz="i.velegrakis" data-at="uu.nl">Yannis&nbsp;Velegrakis</a>&nbsp;(Utrecht University)
+                    <a class="author" href="mailto:" data-uz="i.velegrakis" data-at="uu.nl">Yannis&nbsp;Velegrakis</a>&nbsp;(University of Trento)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -855,7 +857,7 @@
             <p class="schedule-item" data-id="389">
                 <strong class="schedule-item-title">Stream Frequency Over Interval Queries</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="sran" data-at="cs.technion.ac.il">Ran&nbsp;Ben&nbsp;Basat</a>&nbsp;(Technion),
+                    <a class="author" href="mailto:" data-uz="sran" data-at="cs.technion.ac.il">Ran&nbsp;Ben&nbsp;Basat</a>&nbsp;(Harvard University),
                     <a class="author" href="mailto:" data-uz="roy" data-at="cs.technion.ac.il">Roy&nbsp;Friedman</a>&nbsp;(Technion), and
                     <a class="author" href="mailto:" data-uz="ranas" data-at="cs.technion.ac.il">Rana&nbsp;Shahout</a>&nbsp;(Technion)
                 </span>
@@ -916,7 +918,7 @@
                 <strong class="schedule-item-title">Real-time Distributed Co-Movement Pattern Detection on Streaming Trajectories</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="luchen" data-at="cs.aau.dk">Lu&nbsp;Chen</a>&nbsp;(Aalborg University, Denmark),
-                    <a class="author" href="mailto:" data-uz="gaoyj" data-at="zju.edu.cn">Yunjun&nbsp;Gao</a>&nbsp;(" Zhejiang University, China"),
+                    <a class="author" href="mailto:" data-uz="gaoyj" data-at="zju.edu.cn">Yunjun&nbsp;Gao</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="zqfang" data-at="zju.edu.cn">Ziquan&nbsp;Fang</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="miaoxy" data-at="zju.edu.cn">Xiaoye&nbsp;Miao</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="csj" data-at="cs.aau.dk">Christian&nbsp;S&nbsp;Jensen</a>&nbsp;(Aalborg University), and
@@ -935,7 +937,7 @@
             <p class="schedule-item" data-id="1149">
                 <strong class="schedule-item-title">Generating Application-specific Data Layouts for In-memory Databases</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="congy" data-at="cs.washington.edu">cong&nbsp;yan</a>&nbsp;(University of Washington) and
+                    <a class="author" href="mailto:" data-uz="congy" data-at="cs.washington.edu">Cong&nbsp;Yan</a>&nbsp;(University of Washington) and
                     <a class="author" href="mailto:" data-uz="akcheung" data-at="cs.washington.edu">Alvin&nbsp;Cheung</a>&nbsp;(University of Washington)
                 </span>
                 <span class="schedule-item-abstract">
@@ -962,8 +964,8 @@
                 <strong class="schedule-item-title">Accelerating Raw Data Analysis with the ACCORDA Software and Hardware Architecture</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="fywkevin" data-at="gmail.com">Yuanwei&nbsp;Fang</a>&nbsp;(University of Chicago),
-                    <a class="author" href="mailto:" data-uz="achien" data-at="cs.uchicago.edu">Andrew&nbsp;Chien</a>&nbsp;(University of Chicago), and
-                    <a class="author" href="mailto:" data-uz="chenzou" data-at="uchicago.edu">Chen&nbsp;Zou</a>&nbsp;(University of Chicago)
+                    <a class="author" href="mailto:" data-uz="chenzou" data-at="uchicago.edu">Chen&nbsp;Zou</a>&nbsp;(University of Chicago), and
+                    <a class="author" href="mailto:" data-uz="achien" data-at="cs.uchicago.edu">Andrew&nbsp;Chien</a>&nbsp;(University of Chicago)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -973,14 +975,14 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1200">
-                <strong class="schedule-item-title">Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask [Experiments and Analyses]</strong>
+                <strong class="schedule-item-title">Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="kersten" data-at="in.tum.de">Timo&nbsp;Kersten</a>&nbsp;(Technical University of Munich),
-                    <span class="author">Viktor&nbsp;Leis</span>&nbsp;(TUM),
-                    <span class="author">Alfons&nbsp;Kemper</span>&nbsp;(TUM),
-                    <span class="author">Andrew&nbsp;Pavlo</span>&nbsp;(Carnegie Mellon University),
-                    <span class="author">Peter&nbsp;Boncz</span>&nbsp;(CWI), and
-                    <span class="author">Thomas&nbsp;Neumann</span>&nbsp;(TU Munich)
+                    <a class="author" href="mailto:" data-uz="kersten" data-at="in.tum.de">Timo&nbsp;Kersten</a>&nbsp;(TU Munich),
+                    <span class="author">Viktor&nbsp;Leis</span>&nbsp;(TU Munich),
+                    <span class="author">Alfons&nbsp;Kemper</span>&nbsp;(TU Munich),
+                    <span class="author">Thomas&nbsp;Neumann</span>&nbsp;(TU Munich),
+                    <span class="author">Andrew&nbsp;Pavlo</span>&nbsp;(Carnegie Mellon University), and
+                    <span class="author">Peter&nbsp;Boncz</span>&nbsp;(CWI)
                 </span>
             </p>
 
@@ -1011,7 +1013,7 @@
                     <a class="author" href="mailto:" data-uz="hirenp" data-at="microsoft.com">Hiren&nbsp;Patel</a>&nbsp;(Microsoft),
                     <a class="author" href="mailto:" data-uz="wanle" data-at="microsoft.com">Wangchao&nbsp;le</a>&nbsp;(Microsoft),
                     <a class="author" href="mailto:" data-uz="shqiao" data-at="microsoft.com">Shi&nbsp;Qiao</a>&nbsp;(Microsoft), and
-                    <a class="author" href="mailto:" data-uz="sriramra" data-at="microsoft.com">Sriram&nbsp;Rao</a>&nbsp;(Microsoft)
+                    <a class="author" href="mailto:" data-uz="sriramra" data-at="microsoft.com">Sriram&nbsp;Rao</a>&nbsp;(Facebook)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1038,8 +1040,8 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="rcmarcus" data-at="brandeis.edu">Ryan&nbsp;C&nbsp;Marcus</a>&nbsp;(Brandeis University),
                     <a class="author" href="mailto:" data-uz="parimarjannegi" data-at="gmail.com">Parimarjan&nbsp;Negi</a>&nbsp;(MIT),
-                    <a class="author" href="mailto:" data-uz="hongzi" data-at="mit.edu">Hongzi&nbsp;Mao</a>&nbsp;(MIT CSAIL),
-                    <a class="author" href="mailto:" data-uz="chizhang" data-at="brandeis.edu">Chi&nbsp;Zhang</a>&nbsp;(Brandeis university),
+                    <a class="author" href="mailto:" data-uz="hongzi" data-at="mit.edu">Hongzi&nbsp;Mao</a>&nbsp;(MIT),
+                    <a class="author" href="mailto:" data-uz="chizhang" data-at="brandeis.edu">Chi&nbsp;Zhang</a>&nbsp;(Brandeis University),
                     <a class="author" href="mailto:" data-uz="alizadeh" data-at="csail.mit.edu">Mohammad&nbsp;Alizadeh</a>&nbsp;(MIT CSAIL),
                     <a class="author" href="mailto:" data-uz="kraska" data-at="mit.edu">Tim&nbsp;Kraska</a>&nbsp;(MIT),
                     <a class="author" href="mailto:" data-uz="olga" data-at="cs.brandeis.edu">Olga&nbsp;Papaemmanouil</a>&nbsp;(Brandeis University), and
@@ -1072,7 +1074,7 @@
             <p class="schedule-item" data-id="429">
                 <strong class="schedule-item-title">Meta-Mappings for Schema Mapping Reuse</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="atzeni" data-at="dia.uniroma3.it">Paolo&nbsp;Atzeni</a>&nbsp;(Univ.of Roma 3),
+                    <a class="author" href="mailto:" data-uz="atzeni" data-at="dia.uniroma3.it">Paolo&nbsp;Atzeni</a>&nbsp;(Roma Tre University),
                     <a class="author" href="mailto:" data-uz="bellomarini" data-at="yahoo.it">Luigi&nbsp;Bellomarini</a>&nbsp;(Banca d'Italia),
                     <a class="author" href="mailto:" data-uz="paolo.papotti" data-at="eurecom.fr">Paolo&nbsp;Papotti</a>&nbsp;(Eurecom), and
                     <a class="author" href="mailto:" data-uz="torlone" data-at="dia.uniroma3.it">Riccardo&nbsp;Torlone</a>&nbsp;(Roma Tre University)
@@ -1100,7 +1102,7 @@
             <p class="schedule-item" data-id="356">
                 <strong class="schedule-item-title">Smurf: Self-Service String Matching Using Random Forests</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="paul.suganthan" data-at="gmail.com">Paul&nbsp;Suganthan&nbsp;G&nbsp;C</a>&nbsp;(Google),
+                    <a class="author" href="mailto:" data-uz="paul.suganthan" data-at="gmail.com">Paul&nbsp;Suganthan&nbsp;G&nbsp;C</a>&nbsp;(University of Wisconsin-Madison),
                     <a class="author" href="mailto:" data-uz="adel" data-at="cs.wisc.edu">Adel&nbsp;Ardalan</a>&nbsp;(University of Wisconsin-Madison),
                     <a class="author" href="mailto:" data-uz="anhai" data-at="cs.wisc.edu">AnHai&nbsp;Doan</a>&nbsp;(University of Wisconsin-Madison), and
                     <a class="author" href="mailto:" data-uz="akella" data-at="cs.wisc.edu">Aditya&nbsp;Akella</a>&nbsp;(University of Wisconsin-Madison)
@@ -1132,10 +1134,10 @@
             <p class="schedule-item" data-id="385">
                 <strong class="schedule-item-title">Cleaning Crowdsourced Labels Using Oracles For Statistical Classification</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="mdolatsh" data-at="sfu.ca">Mohamad&nbsp;Dolatshah</a>&nbsp;(SFU),
-                    <a class="author" href="mailto:" data-uz="mteoh" data-at="sfu.ca">Mathew&nbsp;Teoh</a>&nbsp;(SFU),
+                    <a class="author" href="mailto:" data-uz="mdolatsh" data-at="sfu.ca">Mohamad&nbsp;Dolatshah</a>&nbsp;(Simon Fraser University),
+                    <a class="author" href="mailto:" data-uz="mteoh" data-at="sfu.ca">Mathew&nbsp;Teoh</a>&nbsp;(Simon Fraser University),
                     <a class="author" href="mailto:" data-uz="jnwang" data-at="sfu.ca">Jiannan&nbsp;Wang</a>&nbsp;(Simon Fraser University), and
-                    <a class="author" href="mailto:" data-uz="jpei" data-at="cs.sfu.ca">Jian&nbsp;Pei</a>&nbsp;(Simon Fraser University)
+                    <a class="author" href="mailto:" data-uz="jpei" data-at="cs.sfu.ca">Jian&nbsp;Pei</a>&nbsp;(JD.com)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1151,7 +1153,7 @@
                 <strong class="schedule-item-title">Efficient Data Ingestion and Query Processing for LSM-Based Storage Systems</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="cluo8" data-at="uci.edu">Chen&nbsp;Luo</a>&nbsp;(University of California, Irvine) and
-                    <a class="author" href="mailto:" data-uz="mjcarey" data-at="ics.uci.edu">Michael&nbsp;Carey</a>&nbsp;(UC Irvine)
+                    <a class="author" href="mailto:" data-uz="mjcarey" data-at="ics.uci.edu">Michael&nbsp;Carey</a>&nbsp;(University of California, Irvine)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1164,9 +1166,9 @@
                 <strong class="schedule-item-title">DASH: Database Shadowing for Mobile DBMS</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="ywon" data-at="kaist.ac.kr">Youjip&nbsp;Won</a>&nbsp;(KAIST),
-                    <a class="author" href="mailto:" data-uz="sksioi12" data-at="hanyang.ac.kr">Sundoo&nbsp;Kim</a>&nbsp;(Hanyang),
-                    <a class="author" href="mailto:" data-uz="yjs05" data-at="hanyang.ac.kr">Juseong&nbsp;Yun</a>&nbsp;(Hanyang),
-                    <a class="author" href="mailto:" data-uz="damquangtuan1985" data-at="gmail.com">DamQuang&nbsp;Tuan</a>&nbsp;(Hanyang), and
+                    <a class="author" href="mailto:" data-uz="sksioi12" data-at="hanyang.ac.kr">Sundoo&nbsp;Kim</a>&nbsp;(Hanyang University),
+                    <a class="author" href="mailto:" data-uz="yjs05" data-at="hanyang.ac.kr">Juseong&nbsp;Yun</a>&nbsp;(Hanyang University),
+                    <a class="author" href="mailto:" data-uz="damquangtuan1985" data-at="gmail.com">DamQuang&nbsp;Tuan</a>&nbsp;(Hanyang University), and
                     <a class="author" href="mailto:" data-uz="seojiwon" data-at="gmail.com">Jiwon&nbsp;Seo</a>&nbsp;(Hanyang University)
                 </span>
                 <span class="schedule-item-abstract">
@@ -1211,7 +1213,7 @@
             <p class="schedule-item" data-id="494">
                 <strong class="schedule-item-title">Design, Implementation, and Evaluation of Write-Back Policy with Cache Augmented Data Stores</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="shahram" data-at="usc.edu">Shahram&nbsp;Ghandeharizadeh</a>&nbsp;(USC) and
+                    <a class="author" href="mailto:" data-uz="shahram" data-at="usc.edu">Shahram&nbsp;Ghandeharizadeh</a>&nbsp;(University of Southern California) and
                     <a class="author" href="mailto:" data-uz="hieun" data-at="usc.edu">Hieu&nbsp;T&nbsp;Nguyen</a>&nbsp;(University of Southern California)
                 </span>
                 <span class="schedule-item-abstract">
@@ -1246,9 +1248,9 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="fabuzaid" data-at="cs.stanford.edu">Firas&nbsp;Abuzaid</a>&nbsp;(Stanford University),
                     <a class="author" href="mailto:" data-uz="kraftp" data-at="cs.stanford.edu">Peter&nbsp;Kraft</a>&nbsp;(Stanford University),
-                    <a class="author" href="mailto:" data-uz="sahaana" data-at="stanford.edu">Sahaana&nbsp;Suri</a>&nbsp;(Stanford),
+                    <a class="author" href="mailto:" data-uz="sahaana" data-at="stanford.edu">Sahaana&nbsp;Suri</a>&nbsp;(Stanford University),
                     <a class="author" href="mailto:" data-uz="egan1" data-at="stanford.edu">Edward&nbsp;Gan</a>&nbsp;(Stanford University),
-                    <a class="author" href="mailto:" data-uz="ericxu0" data-at="stanford.edu">Eric&nbsp;Xu</a>&nbsp;(Stanford),
+                    <a class="author" href="mailto:" data-uz="ericxu0" data-at="stanford.edu">Eric&nbsp;Xu</a>&nbsp;(Stanford University),
                     <a class="author" href="mailto:" data-uz="atul.shenoy" data-at="microsoft.com">Atul&nbsp;Shenoy</a>&nbsp;(Microsoft),
                     <a class="author" href="mailto:" data-uz="asvina" data-at="microsoft.com">Asvin&nbsp;Ananthanarayan</a>&nbsp;(Microsoft),
                     <a class="author" href="mailto:" data-uz="jsheu" data-at="microsoft.com">John&nbsp;Sheu</a>&nbsp;(Microsoft),
@@ -1256,7 +1258,7 @@
                     <a class="author" href="mailto:" data-uz="wuxi" data-at="google.com">Xi&nbsp;Wu</a>&nbsp;(Google),
                     <a class="author" href="mailto:" data-uz="naughton" data-at="google.com">Jeff&nbsp;Naughton</a>&nbsp;(Google),
                     <a class="author" href="mailto:" data-uz="pbailis" data-at="cs.stanford.edu">Peter&nbsp;D&nbsp;Bailis</a>&nbsp;(Stanford University), and
-                    <a class="author" href="mailto:" data-uz="matei" data-at="cs.stanford.edu">Matei&nbsp;Zaharia</a>&nbsp;(Stanford and Databricks)
+                    <a class="author" href="mailto:" data-uz="matei" data-at="cs.stanford.edu">Matei&nbsp;Zaharia</a>&nbsp;(Stanford University and Databricks)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1361,8 +1363,8 @@
                 <strong class="schedule-item-title">Performance-Optimal Filtering: Bloom Overtakes Cuckoo at High Throughput</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="harald.lang" data-at="in.tum.de">Harald&nbsp;Lang</a>&nbsp;(TU Munich),
-                    <a class="author" href="mailto:" data-uz="neumann" data-at="in.tum.de">Thomas&nbsp;Neumann</a>&nbsp;(TUM),
-                    <a class="author" href="mailto:" data-uz="kemper" data-at="in.tum.de">Alfons&nbsp;Kemper</a>&nbsp;(TUM), and
+                    <a class="author" href="mailto:" data-uz="neumann" data-at="in.tum.de">Thomas&nbsp;Neumann</a>&nbsp;(TU Munich),
+                    <a class="author" href="mailto:" data-uz="kemper" data-at="in.tum.de">Alfons&nbsp;Kemper</a>&nbsp;(TU Munich), and
                     <a class="author" href="mailto:" data-uz="p.boncz" data-at="cwi.nl">Peter&nbsp;Boncz</a>&nbsp;(CWI)
                 </span>
                 <span class="schedule-item-abstract">
@@ -1380,7 +1382,7 @@
                     <a class="author" href="mailto:" data-uz="zuyu" data-at="cs.wisc.edu">Zuyu&nbsp;Zhang</a>&nbsp;(University of Wisconsin-Madison),
                     <a class="author" href="mailto:" data-uz="aws" data-at="cs.wisc.edu">Aws&nbsp;Albarghouthi</a>&nbsp;(University of Wisconsin-Madison),
                     <a class="author" href="mailto:" data-uz="paris" data-at="cs.wisc.edu">Paraschos&nbsp;Koutris</a>&nbsp;(University of Wisconsin-Madison), and
-                    <a class="author" href="mailto:" data-uz="jignesh" data-at="cs.wisc.edu">Jignesh&nbsp;Patel</a>&nbsp;(UW - Madison)
+                    <a class="author" href="mailto:" data-uz="jignesh" data-at="cs.wisc.edu">Jignesh&nbsp;Patel</a>&nbsp;(University of Wisconsin-Madison)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1443,8 +1445,8 @@
             <p class="schedule-item" data-id="418">
                 <strong class="schedule-item-title">Document Reordering for Faster Intersection</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="qw376" data-at="nyu.edu">Qi&nbsp;Wang</a>&nbsp;(NYU) and
-                    <a class="author" href="mailto:" data-uz="torsten.suel" data-at="nyu.edu">Torsten&nbsp;Suel</a>&nbsp;("New York Univ., USA")
+                    <a class="author" href="mailto:" data-uz="qw376" data-at="nyu.edu">Qi&nbsp;Wang</a>&nbsp;(New York University) and
+                    <a class="author" href="mailto:" data-uz="torsten.suel" data-at="nyu.edu">Torsten&nbsp;Suel</a>&nbsp;(New York University)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1459,7 +1461,7 @@
                     <a class="author" href="mailto:" data-uz="fc731097343" data-at="gmail.com">Cong&nbsp;Fu</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="chaoxiang" data-at="zju.edu.cn">Chao&nbsp;Xiang</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="changxu.mail" data-at="gmail.com">Changxu&nbsp;Wang</a>&nbsp;(Zhejiang University), and
-                    <a class="author" href="mailto:" data-uz="dengcai" data-at="gmail.com">Deng&nbsp;Cai</a>&nbsp;(Zhejiang University, China)
+                    <a class="author" href="mailto:" data-uz="dengcai" data-at="gmail.com">Deng&nbsp;Cai</a>&nbsp;(Zhejiang University)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1505,7 +1507,7 @@
                 <strong class="schedule-item-title">Query Log Compression for Workload Analytics</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="tingxie" data-at="buffalo.edu">Ting&nbsp;Xie</a>&nbsp;(University at Buffalo, SUNY),
-                    <a class="author" href="mailto:" data-uz="chandola" data-at="buffalo.edu">Varun&nbsp;Chandola</a>&nbsp;(UB), and
+                    <a class="author" href="mailto:" data-uz="chandola" data-at="buffalo.edu">Varun&nbsp;Chandola</a>&nbsp;(University at Buffalo, SUNY), and
                     <a class="author" href="mailto:" data-uz="okennedy" data-at="buffalo.edu*">Oliver&nbsp;A&nbsp;Kennedy</a>&nbsp;(University at Buffalo, SUNY)
                 </span>
                 <span class="schedule-item-abstract">
@@ -1518,7 +1520,7 @@
             <p class="schedule-item" data-id="1134">
                 <strong class="schedule-item-title">Subjective Databases</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="yuliang" data-at="megagon.ai">Yuliang&nbsp;Li</a>&nbsp;(UC San Diego),
+                    <a class="author" href="mailto:" data-uz="yuliang" data-at="megagon.ai">Yuliang&nbsp;Li</a>&nbsp;(Megagon Labs),
                     <a class="author" href="mailto:" data-uz="aaron" data-at="megagon.ai">Aaron&nbsp;Feng</a>&nbsp;(Megagon Labs),
                     <a class="author" href="mailto:" data-uz="jinfeng" data-at="megagon.ai">Jinfeng&nbsp;Li</a>&nbsp;(Megagon Labs),
                     <a class="author" href="mailto:" data-uz="saran" data-at="megagon.ai">Saran&nbsp;Mumick</a>&nbsp;(Megagon Labs),
@@ -1536,7 +1538,7 @@
             <p class="schedule-item" data-id="1129">
                 <strong class="schedule-item-title">Example-Driven Query Intent Discovery: Abductive Reasoning using Semantic Similarity</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="afariha" data-at="cs.umass.edu">Anna&nbsp;Fariha</a>&nbsp;(University of Massachusetts, Amherst) and
+                    <a class="author" href="mailto:" data-uz="afariha" data-at="cs.umass.edu">Anna&nbsp;Fariha</a>&nbsp;(University of Massachusetts Amherst) and
                     <a class="author" href="mailto:" data-uz="ameli" data-at="cs.umass.edu">Alexandra&nbsp;Meliou</a>&nbsp;(University of Massachusetts Amherst)
                 </span>
                 <span class="schedule-item-abstract">
@@ -1556,7 +1558,7 @@
                     <a class="author" href="mailto:" data-uz="xlian" data-at="kent.edu">Xiang&nbsp;Lian</a>&nbsp;(Kent State University),
                     <a class="author" href="mailto:" data-uz="wanggrbit" data-at="126.com">Guoren&nbsp;Wang</a>&nbsp;(Beijing Institute of Technology),
                     <a class="author" href="mailto:" data-uz="ylma.neuer" data-at="gmail.com">Yuliang&nbsp;Ma</a>&nbsp;(Northeastern University), and
-                    <a class="author" href="mailto:" data-uz="yishuwang" data-at="stumail.neu.edu.cn">Yishu&nbsp;Wang</a>&nbsp;(School of Computer Science and Engineering of Northeastern University)
+                    <a class="author" href="mailto:" data-uz="yishuwang" data-at="stumail.neu.edu.cn">Yishu&nbsp;Wang</a>&nbsp;(Northeastern University)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1568,8 +1570,8 @@
             <p class="schedule-item" data-id="423">
                 <strong class="schedule-item-title">Correlation Constraint Shortest Path over Large Multi-Relation Graphs</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="xiaofei.zhang" data-at="uwaterloo.ca">Xiaofei&nbsp;Zhang</a>&nbsp;(University of Waterloo) and
-                    <a class="author" href="mailto:" data-uz="tamer.ozsu" data-at="uwaterloo.ca">Tamer&nbsp;Özsu</a>&nbsp;(Waterloo University)
+                    <a class="author" href="mailto:" data-uz="xiaofei.zhang" data-at="uwaterloo.ca">Xiaofei&nbsp;Zhang</a>&nbsp;(University of Memphis) and
+                    <a class="author" href="mailto:" data-uz="tamer.ozsu" data-at="uwaterloo.ca">Tamer&nbsp;Özsu</a>&nbsp;(University of Waterloo)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1593,9 +1595,11 @@
             </p>
 
             <p class="schedule-item" data-id="1161">
-                <strong class="schedule-item-title">Motivo: fast motif counting via succinct color coding and adaptive sampling</strong>
+                <strong class="schedule-item-title">Motivo: Fast Motif Counting via Succinct Color Coding and Adaptive Sampling</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="bressan" data-at="di.uniroma1.it*">Marco&nbsp;Bressan</a>&nbsp;(Sapienza University of Rome)
+                    <a class="author" href="mailto:" data-uz="bressan" data-at="di.uniroma1.it*">Marco&nbsp;Bressan</a>&nbsp;(Sapienza University of Rome),
+                    <span class="author">Stefano&nbsp;Leucci</span>&nbsp;(MPI-INF), and
+                    <span class="author">Alessandro&nbsp;Panconesi</span>&nbsp;(Sapienza University of Rome)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1640,7 +1644,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="peeyushg" data-at="uci.edu">Peeush&nbsp;Gupta</a>&nbsp;(UC Irvine),
                     <a class="author" href="mailto:" data-uz="yunfeiyangli" data-at="gmail.com">Yin&nbsp;Li</a>&nbsp;(Xinyang Normal University),
-                    <a class="author" href="mailto:" data-uz="sharad" data-at="ics.uci.edu">Sharad&nbsp;Mehrotra</a>&nbsp;(U.C. Irvine),
+                    <a class="author" href="mailto:" data-uz="sharad" data-at="ics.uci.edu">Sharad&nbsp;Mehrotra</a>&nbsp;(UC Irvine),
                     <a class="author" href="mailto:" data-uz="npanwar" data-at="uci.edu">Nisha&nbsp;Panwar</a>&nbsp;(UC Irvine),
                     <a class="author" href="mailto:" data-uz="shantanu.sharma" data-at="uci.edu">Shantanu&nbsp;Sharma</a>&nbsp;(UC Irvine), and
                     <a class="author" href="mailto:" data-uz="salmanee" data-at="uci.edu">Sumaya&nbsp;Almanee</a>&nbsp;(UC Irvine)
@@ -1670,10 +1674,10 @@
                 <strong class="schedule-item-title">PrivateSQL: A Differentially Private SQL Query Engine</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="iosk" data-at="cs.duke.edu">Ios&nbsp;Kotsogiannis</a>&nbsp;(Duke University),
-                    <a class="author" href="mailto:" data-uz="hexi88" data-at="cs.duke.edu">Xi&nbsp;He</a>&nbsp;(University of Waterloo),
                     <a class="author" href="mailto:" data-uz="yctao" data-at="cs.duke.edu">Yuchao&nbsp;Tao</a>&nbsp;(Duke University),
+                    <a class="author" href="mailto:" data-uz="hexi88" data-at="cs.duke.edu">Xi&nbsp;He</a>&nbsp;(Duke University),
                     <a class="author" href="mailto:" data-uz="maryam" data-at="cs.duke.edu">Maryam&nbsp;Fanaeepour</a>&nbsp;(Duke University),
-                    <a class="author" href="mailto:" data-uz="ashwin" data-at="cs.duke.edu">Ashwin&nbsp;Machanavajjhala</a>&nbsp;(Duke),
+                    <a class="author" href="mailto:" data-uz="ashwin" data-at="cs.duke.edu">Ashwin&nbsp;Machanavajjhala</a>&nbsp;(Duke University),
                     <a class="author" href="mailto:" data-uz="mhay" data-at="colgate.edu">Michael&nbsp;Hay</a>&nbsp;(Colgate University), and
                     <a class="author" href="mailto:" data-uz="miklau" data-at="cs.umass.edu">Gerome&nbsp;Miklau</a>&nbsp;(University of Massachusetts Amherst)
                 </span>
@@ -1687,7 +1691,8 @@
             <p class="schedule-item" data-id="1162">
                 <strong class="schedule-item-title">Phoenix: An Encrypted Database using Semantically Secure Encryption</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="rishabhp" data-at="berkeley.edu">Rishabh&nbsp;Poddar</a>&nbsp;(UC Berkeley) and
+                    <a class="author" href="mailto:" data-uz="rishabhp" data-at="berkeley.edu">Rishabh&nbsp;Poddar</a>&nbsp;(UC Berkeley),
+                    <span class="author">Tobias&nbsp;Boelter</span>&nbsp;(UC Berkeley), and
                     <a class="author" href="mailto:" data-uz="raluca.popa" data-at="berkeley.edu">Raluca&nbsp;Ada&nbsp;Popa</a>&nbsp;(UC Berkeley)
                 </span>
                 <span class="schedule-item-abstract">
@@ -1707,7 +1712,7 @@
                     <a class="author" href="mailto:" data-uz="yyan2" data-at="wpi.edu">Yizhou&nbsp;Yan</a>&nbsp;(Worcester Polytechnic Institute),
                     <a class="author" href="mailto:" data-uz="madden" data-at="csail.mit.edu">Samuel&nbsp;Madden</a>&nbsp;(MIT),
                     <a class="author" href="mailto:" data-uz="rundenst" data-at="cs.wpi.edu">Elke&nbsp;Rundensteiner</a>&nbsp;(WPI), and
-                    <a class="author" href="mailto:" data-uz="mathankumar.gopalsamy" data-at="signify.com">Mathan&nbsp;Gopalsamy</a>&nbsp;(Philips Research, Cambridge)
+                    <a class="author" href="mailto:" data-uz="mathankumar.gopalsamy" data-at="signify.com">Mathan&nbsp;Gopalsamy</a>&nbsp;(Signify Research, Cambridge, MA USA)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1806,11 +1811,11 @@
             </p>
 
             <p class="schedule-item" data-id="1159">
-                <strong class="schedule-item-title">Distributed Dependency Discovery</strong>
+                <strong class="schedule-item-title">Distributed Implementations of Dependency Discovery Algorithms</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="h2saxena" data-at="uwaterloo.ca">Hemant&nbsp;Saxena</a>&nbsp;(University of Waterloo),
                     <a class="author" href="mailto:" data-uz="lgolab" data-at="uwaterloo.ca">Lukasz&nbsp;Golab</a>&nbsp;(University of Waterloo), and
-                    <a class="author" href="mailto:" data-uz="ilyas" data-at="uwaterloo.ca">Ihab&nbsp;F&nbsp;Ilyas</a>&nbsp;(U. of Waterloo)
+                    <a class="author" href="mailto:" data-uz="ilyas" data-at="uwaterloo.ca">Ihab&nbsp;F&nbsp;Ilyas</a>&nbsp;(University of Waterloo)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1823,11 +1828,11 @@
                 <strong class="schedule-item-title">Efficient Knowledge Graph Accuracy Evaluation</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="jygao" data-at="cs.duke.edu">Junyang&nbsp;Gao</a>&nbsp;(Duke University),
-                    <a class="author" href="mailto:" data-uz="lunadong" data-at="amazon.com">Luna&nbsp;Dong</a>&nbsp;(Amazon.com),
-                    <a class="author" href="mailto:" data-uz="junyang" data-at="cs.duke.edu">Jun&nbsp;Yang</a>&nbsp;(Duke University),
                     <a class="author" href="mailto:" data-uz="xianlee" data-at="amazon.com">Xian&nbsp;Li</a>&nbsp;(Amazon),
-                    <a class="author" href="mailto:" data-uz="bunyamis" data-at="amazon.com">Bunyamin&nbsp;Sisman</a>&nbsp;(Amazon, USA), and
-                    <a class="author" href="mailto:" data-uz="xuyifa" data-at="amazon.com">Yifan&nbsp;Xu</a>&nbsp;(Amazon.com)
+                    <a class="author" href="mailto:" data-uz="xuyifa" data-at="amazon.com">Yifan&nbsp;Ethan&nbsp;Xu</a>&nbsp;(Amazon),
+                    <a class="author" href="mailto:" data-uz="bunyamis" data-at="amazon.com">Bunyamin&nbsp;Sisman</a>&nbsp;(Amazon),
+                    <a class="author" href="mailto:" data-uz="lunadong" data-at="amazon.com">Xin&nbsp;Luna&nbsp;Dong</a>&nbsp;(Amazon), and
+                    <a class="author" href="mailto:" data-uz="junyang" data-at="cs.duke.edu">Jun&nbsp;Yang</a>&nbsp;(Duke University)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1842,7 +1847,7 @@
                     <a class="author" href="mailto:" data-uz="hanchao.ma" data-at="wsu.edu">Hanchao&nbsp;Ma</a>&nbsp;(Washington State University),
                     <a class="author" href="mailto:" data-uz="alipoum" data-at="mcmaster.ca">Morteza&nbsp;Alipourlangouri</a>&nbsp;(McMaster University, Canada),
                     <a class="author" href="mailto:" data-uz="yinghui.wu" data-at="wsu.edu">Yinghui&nbsp;Wu</a>&nbsp;(Washington State University),
-                    <a class="author" href="mailto:" data-uz="fchiang" data-at="mcmaster.ca">Fei&nbsp;Chiang</a>&nbsp;("McMaster University, Canada"), and
+                    <a class="author" href="mailto:" data-uz="fchiang" data-at="mcmaster.ca">Fei&nbsp;Chiang</a>&nbsp;(McMaster University), and
                     <a class="author" href="mailto:" data-uz="jiaxing.pi" data-at="siemens.com">Jiaxing&nbsp;Pi</a>&nbsp;(Siemens Corporate Technology)
                 </span>
                 <span class="schedule-item-abstract">
@@ -1860,7 +1865,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="amiri" data-at="cs.ucsb.edu">Mohammad&nbsp;Javad&nbsp;Amiri</a>&nbsp;(University of California, Santa Barbara),
                     <a class="author" href="mailto:" data-uz="agrawal" data-at="cs.ucsb.edu">Divy&nbsp;Agrawal</a>&nbsp;(University of California, Santa Barbara), and
-                    <a class="author" href="mailto:" data-uz="amr" data-at="cs.ucsb.edu">Amr&nbsp;El&nbsp;Abbadi</a>&nbsp;(UC Santa Barbara)
+                    <a class="author" href="mailto:" data-uz="amr" data-at="cs.ucsb.edu">Amr&nbsp;El&nbsp;Abbadi</a>&nbsp;(University of California, Santa Barbara)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1909,7 +1914,7 @@
                     <a class="author" href="mailto:" data-uz="carsten.binnig" data-at="cs.tu-darmstadt.de">Carsten&nbsp;Binnig</a>&nbsp;(TU Darmstadt),
                     <a class="author" href="mailto:" data-uz="arvinda" data-at="microsoft.com">Arvind&nbsp;Arasu</a>&nbsp;(Microsoft),
                     <a class="author" href="mailto:" data-uz="donaldk" data-at="microsoft.com">Donald&nbsp;Kossmann</a>&nbsp;(Microsoft Research), and
-                    <a class="author" href="mailto:" data-uz="ravirama" data-at="microsoft.com">Ravi&nbsp;Ramamurthy</a>&nbsp;(MICROSOFT)
+                    <a class="author" href="mailto:" data-uz="ravirama" data-at="microsoft.com">Ravi&nbsp;Ramamurthy</a>&nbsp;(Microsoft)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1922,12 +1927,12 @@
             <div class="schedule-head" id="Research_Session_25"><span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Research Session 25: Spatial Data</strong></div>
             
             <p class="schedule-item" data-id="1141">
-                <strong class="schedule-item-title">Finding attribute-aware similar region for data analysis</strong>
+                <strong class="schedule-item-title">Finding Attribute-Aware Similar Region for Data Analysis</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="kfeng002" data-at="e.ntu.edu.sg">Kaiyu&nbsp;Feng</a>&nbsp;(NTU),
-                    <a class="author" href="mailto:" data-uz="gaocong" data-at="ntu.edu.sg">Gao&nbsp;Cong</a>&nbsp;(Nanyang Technological Univesity),
+                    <a class="author" href="mailto:" data-uz="kfeng002" data-at="e.ntu.edu.sg">Kaiyu&nbsp;Feng</a>&nbsp;(Nanyang Technological University),
+                    <a class="author" href="mailto:" data-uz="gaocong" data-at="ntu.edu.sg">Gao&nbsp;Cong</a>&nbsp;(Nanyang Technological University),
                     <a class="author" href="mailto:" data-uz="csj" data-at="cs.aau.dk">Christian&nbsp;S&nbsp;Jensen</a>&nbsp;(Aalborg University), and
-                    <a class="author" href="mailto:" data-uz="isegt" data-at="nus.edu.sg">Tao&nbsp;Guo</a>&nbsp;(NUS)
+                    <a class="author" href="mailto:" data-uz="isegt" data-at="nus.edu.sg">Tao&nbsp;Guo</a>&nbsp;(National University of Singapore)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1975,7 +1980,7 @@
                     <a class="author" href="mailto:" data-uz="farhana.choudhury" data-at="rmit.edu.au">Farhana&nbsp;M&nbsp;Choudhury</a>&nbsp;(RMIT University),
                     <a class="author" href="mailto:" data-uz="sajidhashanpapon" data-at="gmail.com">Sajid&nbsp;Hasan</a>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
                     <a class="author" href="mailto:" data-uz="tsellis" data-at="swin.edu.au">Timos&nbsp;Sellis</a>&nbsp;(Swinburne University of Technology), and
-                    <a class="author" href="mailto:" data-uz="jianxin.li" data-at="deakin.edu.au">Jianxin&nbsp;Li</a>&nbsp;(Deakin University)
+                    <a class="author" href="mailto:" data-uz="jianxin.li" data-at="deakin.edu.au">Jianxin&nbsp;Li</a>&nbsp;(The University of Western Australia)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -2086,13 +2091,13 @@
                 <strong class="schedule-item-title">Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="ruoxijia" data-at="berkeley.edu">Ruoxi&nbsp;Jia</a>&nbsp;(UC Berkeley),
-                    <a class="author" href="mailto:" data-uz="dwddao" data-at="gmail.com">David&nbsp;Dao</a>&nbsp;(ETH),
+                    <a class="author" href="mailto:" data-uz="dwddao" data-at="gmail.com">David&nbsp;Dao</a>&nbsp;(ETH Zurich),
                     <a class="author" href="mailto:" data-uz="boxin.wang" data-at="outlook.com">Boxin&nbsp;Wang</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="hubisf" data-at="student.ethz.ch">Frances&nbsp;Ann&nbsp;Hubis</a>&nbsp;(ETH Zurich),
-                    <a class="author" href="mailto:" data-uz="nezihe.guerel" data-at="inf.ethz.ch">Nezihe&nbsp;Merve&nbsp;Gürel</a>&nbsp;(ETH Zürich),
+                    <a class="author" href="mailto:" data-uz="nezihe.guerel" data-at="inf.ethz.ch">Nezihe&nbsp;Merve&nbsp;Gürel</a>&nbsp;(ETH Zurich),
                     <a class="author" href="mailto:" data-uz="lxbosky" data-at="gmail.com">Bo&nbsp;Li</a>&nbsp;(University of Illinois at Urbana–Champaign),
-                    <a class="author" href="mailto:" data-uz="ce.zhang" data-at="inf.ethz.ch">Ce&nbsp;Zhang</a>&nbsp;(ETH),
-                    <a class="author" href="mailto:" data-uz="spanos" data-at="berkeley.edu">Costas&nbsp;J.&nbsp;Spanos</a>&nbsp;(University of California at Berkeley), and
+                    <a class="author" href="mailto:" data-uz="ce.zhang" data-at="inf.ethz.ch">Ce&nbsp;Zhang</a>&nbsp;(ETH Zurich),
+                    <a class="author" href="mailto:" data-uz="spanos" data-at="berkeley.edu">Costas&nbsp;J.&nbsp;Spanos</a>&nbsp;(UC Berkeley), and
                     <a class="author" href="mailto:" data-uz="dawnsong" data-at="gmail.com">Dawn&nbsp;Song</a>&nbsp;(UC Berkeley)
                 </span>
                 <span class="schedule-item-abstract">
@@ -2105,11 +2110,11 @@
             <p class="schedule-item" data-id="430">
                 <strong class="schedule-item-title">An Experimental Evaluation of Garbage Collectors on Big Data Applications</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="xulijie" data-at="iscas.ac.cn">Lijie&nbsp;Xu</a>&nbsp;(Institute of Software, Chinese Academy of Sciences),
+                    <a class="author" href="mailto:" data-uz="xulijie" data-at="iscas.ac.cn">Lijie&nbsp;Xu</a>&nbsp;(Chinese Academy of Sciences),
                     <a class="author" href="mailto:" data-uz="tian" data-at="cs.wpi.edu">Tian&nbsp;Guo</a>&nbsp;(Worcester Polytechnic Institute),
-                    <a class="author" href="mailto:" data-uz="wsdou" data-at="otcaix.iscas.ac.cn">Wensheng&nbsp;Dou</a>&nbsp;(Institute of Software, Chinese Academy of Sciences),
-                    <a class="author" href="mailto:" data-uz="wangwei" data-at="otcaix.iscas.ac.cn">Wei&nbsp;Wang</a>&nbsp;(Institute of Software, Chinese Academy of Sciences), and
-                    <a class="author" href="mailto:" data-uz="wj" data-at="otcaix.iscas.ac.cn">Jun&nbsp;Wei</a>&nbsp;(Institute of Software, Chinese Academy of Sciences)
+                    <a class="author" href="mailto:" data-uz="wsdou" data-at="otcaix.iscas.ac.cn">Wensheng&nbsp;Dou</a>&nbsp;(Chinese Academy of Sciences),
+                    <a class="author" href="mailto:" data-uz="wangwei" data-at="otcaix.iscas.ac.cn">Wei&nbsp;Wang</a>&nbsp;(Chinese Academy of Sciences), and
+                    <a class="author" href="mailto:" data-uz="wj" data-at="otcaix.iscas.ac.cn">Jun&nbsp;Wei</a>&nbsp;(Chinese Academy of Sciences)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -2119,7 +2124,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1191">
-                <strong class="schedule-item-title">A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics [Experiments and Analyses]</strong>
+                <strong class="schedule-item-title">A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="ahthomas" data-at="eng.ucsd.edu">Anthony&nbsp;Thomas</a>&nbsp;(University of California, San Diego) and
                     <a class="author" href="mailto:" data-uz="arunkk" data-at="eng.ucsd.edu">Arun&nbsp;Kumar</a>&nbsp;(University of California, San Diego)
@@ -2173,7 +2178,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="ywen" data-at="cs.duke.edu">Yuhao&nbsp;Wen</a>&nbsp;(Duke University),
                     <a class="author" href="mailto:" data-uz="xdzhu" data-at="cs.duke.edu">Xiaodan&nbsp;Zhu</a>&nbsp;(Duke University),
-                    <a class="author" href="mailto:" data-uz="sudeepa" data-at="cs.duke.edu">Sudeepa&nbsp;Roy</a>&nbsp;(Duke University, USA), and
+                    <a class="author" href="mailto:" data-uz="sudeepa" data-at="cs.duke.edu">Sudeepa&nbsp;Roy</a>&nbsp;(Duke University), and
                     <a class="author" href="mailto:" data-uz="junyang" data-at="cs.duke.edu">Jun&nbsp;Yang</a>&nbsp;(Duke University)
                 </span>
             </p>
@@ -2182,8 +2187,8 @@
                 <strong class="schedule-item-title">Durable Top-k Queries on Temporal Data</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="jygao" data-at="cs.duke.edu">Junyang&nbsp;Gao</a>&nbsp;(Duke University),
-                    <a class="author" href="mailto:" data-uz="junyang" data-at="cs.duke.edu">Jun&nbsp;Yang</a>&nbsp;(Duke University), and
-                    <a class="author" href="mailto:" data-uz="pankaj" data-at="cs.duke.edu">Pankaj&nbsp;Agarwal</a>&nbsp;(Duke University)
+                    <a class="author" href="mailto:" data-uz="pankaj" data-at="cs.duke.edu">Pankaj&nbsp;Agarwal</a>&nbsp;(Duke University), and
+                    <a class="author" href="mailto:" data-uz="junyang" data-at="cs.duke.edu">Jun&nbsp;Yang</a>&nbsp;(Duke University)
                 </span>
             </p>
 

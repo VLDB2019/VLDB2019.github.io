@@ -11,6 +11,7 @@
         <div>
             <div class="schedule-head" id="Workshop_1"></div>
             <p>
+                <span class="schedule-anchor" id="Workshop_AIDB"></span>
                 <a href="https://sites.google.com/view/aidb2019/" class="workshop-title"><strong>1<sup>st</sup> International Workshop on Applied AI for Database Systems and Applications</strong> (AIDB)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="reinwald" data-at="us.ibm.com">Berthold Reinwald</a>,
@@ -19,6 +20,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_BIRTE"></span>
                 <a href="http://www.carch.ac.cn/~ictdb/birte2019/" class="workshop-title"><strong>13<sup>th</sup> International Workshop on Real-Time Business Intelligence &amp; Analytics</strong> (BIRTE'19)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="mgcv.1216" data-at="gmail.com">Malu Castellanos</a>,
@@ -34,6 +36,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_ADMS"></span>
                 <a href="http://www.adms-conf.org" class="workshop-title"><strong>Tenth International Workshop on Accelerating Analytics and Data Management Systems Using Modern Processor and Storage Architectures</strong> (ADMS'19)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="bordaw" data-at="us.ibm.com">Rajesh Bordawekar</a> and
@@ -41,6 +44,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_TPCTC"></span>
                 <a href="http://www.tpc.org/tpctc/tpctc2019/" class="workshop-title"><strong>TPC Technology Conference 2019</strong> (TPCTC19)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="rnambiar" data-at="cisco.com">Raghunath Nambiar</a> and
@@ -69,6 +73,7 @@
         <div>
             <div class="schedule-head" id="Workshop_2"></div>
             <p>
+                <span class="schedule-anchor" id="Workshop_CAST"></span>
                 <a href="https://cast19.athenarc.gr/" class="workshop-title"><strong>Conversational Access to daTa</strong> (CAST)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="jag" data-at="umich.edu">H.V. Jagadish</a>,
@@ -77,6 +82,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_DMAH"></span>
                 <a href="http://dmah.info/" class="workshop-title"><strong>Fifth International Workshop on Data Management and Analytics for Medicine and Healthcare</strong> (DMAH)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="fusheng.wang" data-at="stonybrook.edu">Fusheng Wang</a>,
@@ -86,6 +92,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_Poly"></span>
                 <a href="https://sites.google.com/view/poly19/" class="workshop-title"><strong>Polystores including Managing Privacy, Security and Policy for Heterogenous Data</strong> (Poly'19)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="vijayg" data-at="mit.edu">Vijay Gadepally</a>,
@@ -94,6 +101,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_BCDL"></span>
                 <a href="http://bcdl.comp.nus.edu.sg/" class="workshop-title"><strong>The first workshop on Blockchain and Distributed Ledger</strong> (BCDL)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="cmohan" data-at="us.ibm.com">C. Mohan</a> and
@@ -101,6 +109,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_VLIoT"></span>
                 <a href="https://www.ifis.uni-luebeck.de/~groppe/vliot/2019" class="workshop-title"><strong>Very Large Internet of Things</strong> (VLIoT)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="groppe" data-at="ifis.uni-luebeck.de">Sven Groppe</a> and
@@ -108,6 +117,7 @@
                 </span>
             </p>
             <p>
+                <span class="schedule-anchor" id="Workshop_VLIoT"></span>
                 <a href="http://boss.dima.tu-berlin.de/" class="workshop-title"><strong>Workshop on Big Data Open Source Systems</strong> (BOSS)</a>
                 <span class="workshop-organizers">
                     <a href="mailto:" data-uz="pito" data-at="itu.dk">Pinar Tozun</a> and

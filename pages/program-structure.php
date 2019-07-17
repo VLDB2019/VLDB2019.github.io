@@ -18,10 +18,10 @@
         <tbody>
         <tr>
             <td>9:00 – 10:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">AIDB</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">BIRTE</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">ADMS</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">TPCTC</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_AIDB">AIDB</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BIRTE">BIRTE</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_ADMS">ADMS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_TPCTC">TPCTC</a></td>
             <td><a href="./?program-schedule-phd-workshop">PhD Workshop</a></td>
         </tr>
         <tr>
@@ -30,10 +30,10 @@
         </tr>
         <tr>
             <td>11:00 – 12:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">AIDB</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">BIRTE</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">ADMS</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">TPCTC</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_AIDB">AIDB</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BIRTE">BIRTE</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_ADMS">ADMS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_TPCTC">TPCTC</a></td>
             <td><a href="./?program-schedule-phd-workshop">PhD Workshop</a></td>
         </tr>
         <tr>
@@ -42,10 +42,10 @@
         </tr>
         <tr>
             <td>14:00 – 15:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">AIDB</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">BIRTE</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">ADMS</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">TPCTC</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_AIDB">AIDB</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BIRTE">BIRTE</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_ADMS">ADMS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_TPCTC">TPCTC</a></td>
             <td><a href="./?program-schedule-phd-workshop">PhD Workshop</a></td>
         </tr>
         <tr>
@@ -54,10 +54,10 @@
         </tr>
         <tr>
             <td>16:00 – 18:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">AIDB</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">BIRTE</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">ADMS</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_1">TPCTC</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_AIDB">AIDB</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BIRTE">BIRTE</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_ADMS">ADMS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_TPCTC">TPCTC</a></td>
             <td><a href="./?program-schedule-phd-workshop">PhD Workshop</a></td>
         </tr>
         <tr>
@@ -288,12 +288,12 @@
         <tbody>
         <tr>
             <td>9:00 – 10:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">CAST</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">DMAH</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">Poly</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BCDL</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">VLIoT</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BOSS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_VLIoT">VLIoT</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BOSS">BOSS</a></td>
         </tr>
         <tr>
             <td>10:30 – 11:00</td>
@@ -301,12 +301,12 @@
         </tr>
         <tr>
             <td>11:00 – 12:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">CAST</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">DMAH</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">Poly</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BCDL</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">VLIoT</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BOSS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_VLIoT">VLIoT</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BOSS">BOSS</a></td>
         </tr>
         <tr>
             <td>12:30 – 14:00</td>
@@ -314,12 +314,12 @@
         </tr>
         <tr>
             <td>14:00 – 15:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">CAST</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">DMAH</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">Poly</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BCDL</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">VLIoT</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BOSS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_VLIoT">VLIoT</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BOSS">BOSS</a></td>
         </tr>
         <tr>
             <td>15:30 – 16:00</td>
@@ -327,12 +327,12 @@
         </tr>
         <tr>
             <td>16:00 – 17:30</td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">CAST</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">DMAH</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">Poly</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BCDL</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">VLIoT</a></td>
-            <td><a href="./?program-schedule-workshops#Workshop_2">BOSS</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_VLIoT">VLIoT</a></td>
+            <td><a href="./?program-schedule-workshops#Workshop_BOSS">BOSS</a></td>
         </tr>
         </tbody>
     </table>
