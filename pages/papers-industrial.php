@@ -10,7 +10,10 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Industry_Session_1"><span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 1: Deep Learning and Graph DBs</strong></div>
+            <div class="schedule-head" id="Industry_Session_1">
+                <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 1: Deep Learning and Graph DBs</strong>
+                <span class="schedule-chair">Chaired by <em>Feifei Li</em> (Alibaba Group, China)</span>
+            </div>
             
             <p class="schedule-item" data-id="694">
                 <strong class="schedule-item-title">QTune: A Query-Aware Database Tuning System with Deep Reinforcement Learning</strong>
@@ -120,7 +123,10 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Industry_Session_2"><span class="schedule-time">10:30 &ndash; 12:00</span><strong class="main-title">Industry Session 2: High Performance DBs: Both General Purpose and Specialized</strong></div>
+            <div class="schedule-head" id="Industry_Session_2">
+                <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 2: High Performance DBs: Both General Purpose and Specialized</strong>
+                <span class="schedule-chair">Chaired by <em>Alex Boehm</em> (SAP SE)</span>
+            </div>
             
             <p class="schedule-item" data-id="668">
                 <strong class="schedule-item-title">A Lightweight and Efficient Temporal Database Management System in TDSQL</strong>
@@ -231,7 +237,10 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Industry_Session_3"><span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 3: Implementing and Measuring High Performance Databases</strong></div>
+            <div class="schedule-head" id="Industry_Session_3">
+                <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 3: Implementing and Measuring High Performance Databases</strong>
+                <span class="schedule-chair">Chaired by <em>Jingren Zhou</em> (Alibaba Group, China)</span>
+            </div>
             
             <p class="schedule-item" data-id="715">
                 <strong class="schedule-item-title">S3: A Scalable In-memory Skip-List Index for Key-Value Store</strong>
@@ -333,7 +342,10 @@
             </p>
 
 
-            <div class="schedule-head" id="Industry_Session_4"><span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Industry Session 4: Pretty Good Answers and Pretty Darned Fast!</strong></div>
+            <div class="schedule-head" id="Industry_Session_4">
+                <span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Industry Session 4: Pretty Good Answers and Pretty Darned Fast!</strong>
+                <span class="schedule-chair">Chaired by <em>Yuanyuan Tian</em> (IBM Research-Almaden, USA)</span>
+            </div>
             
             <p class="schedule-item" data-id="720">
                 <strong class="schedule-item-title">DDSketch: A Fast and Fully-Mergeable Quantile Sketch with Relative-Error Guarantees</strong>
@@ -369,7 +381,7 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="stephan.kessler" data-at="sap.com">Stephan&nbsp;Kessler</a>&nbsp;(SAP),
                     <a class="author" href="mailto:" data-uz="jens.hoff" data-at="sap.com">Jens&nbsp;Hoff</a>&nbsp;(SAP), and
-                    <a class="author" href="mailto:" data-uz="freytag" data-at="informatik.hu-berlin.de">Johann-Christoph&nbsp;Freytag</a>&nbsp;(HU Berlin)
+                    <a class="author" href="mailto:" data-uz="freytag" data-at="informatik.hu-berlin.de">Johann-Christoph&nbsp;Freytag</a>&nbsp;(Humboldt-Universitat zu Berlin)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>

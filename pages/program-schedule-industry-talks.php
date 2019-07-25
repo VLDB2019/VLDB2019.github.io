@@ -10,7 +10,10 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Invited_Industry_Talks_1"><span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Industry Invited Talks 1: Data Standing Tall in the Clouds</strong></div>
+            <div class="schedule-head" id="Invited_Industry_Talks_1">
+                <span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Industry Invited Talks 1: Data Standing Tall in the Clouds</strong>
+                <span class="schedule-chair">Chaired by <em>Beng Chin Ooi</em> (NUS, Singapore)</span>
+            </div>
             
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/FeifeiLi.jpg">
@@ -83,7 +86,10 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Invited_Industry_Talks_2"><span class="schedule-time">15:30 &ndash; 17:00</span><strong class="main-title">Industry Invited Talks 2: Data through the Looking Glass: Performance, In-Mem, & AI</strong></div>
+            <div class="schedule-head" id="Invited_Industry_Talks_2">
+                <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Industry Invited Talks 2: Data through the Looking Glass: Performance, In-Mem, & AI</strong>
+                <span class="schedule-chair">Chaired by <em>Pat Helland</em> (Salesforce, USA)</span>
+            </div>
             
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/AdrianColyer.jpg">

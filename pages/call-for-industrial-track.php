@@ -76,7 +76,7 @@
         Kihong Kim<small>, SAP Labs - Korea</small><br />
         Dustin Lange<small>, Amazon - USA</small><br />
         Feifei Li<small>, Alibaba</small><br />
-        Yongzhu (Eric) Li<small>, Huawei</small><br />
+        Yongzhu (Eric) Li<small>, Futurewei</small><br />
         Yunyao Li<small>, IBM Research - Almaden</small><br />
         Qian Lin<small>, National University of Singapore</small><br />
         Wei Liu<small>, Tencent</small><br />
@@ -89,7 +89,7 @@
         Amit Rustagi<small>, Western Digital</small><br />
         Benjamin Schlegel<small>, Oracle Labs</small><br />
         Pinar Tozun<small>, ITU</small><br />
-        Dimitris Tsirogiannis<small>, Cloudera</small><br />
+        Dimitris Tsirogiannis<small>, Amazon, Inc.</small><br />
         Hannes Voigt<small>, Neo4j</small><br />
         Guoren Wang<small>, Beijing Institute of Technology</small><br />
         Wei Wang<small>, NUS</small><br />

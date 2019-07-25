@@ -101,7 +101,7 @@
                 <p><span class="tag">Avalon</span><br /><a href="./?program-schedule-tutorials#Tutorial_4"><strong>Tutorial 4: </strong><small>The Ever Evolving Online Labor Market &ndash; Overview, Challenges and Opportunities</small></a></p>
                 <p><span class="tag">Santa Anita</span><br /><a href="./?program-schedule-industry-talks#Invited_Industry_Talks_2"><strong>Invited Industry Talks 2: </strong><small>Data through the Looking Glass &ndash; Performance, In-Mem, & AI</small></a></p>
             </div>
-            <div class="schedule-head"><span class="schedule-time">17:00 &ndash; 18:30</span><a class="main-title" href="./?program-schedule-posters">Posters 1:</a> Research papers presented on Tue and Wed&nbsp;&nbsp; <span class="tag">Running Track</span></div>
+            <div class="schedule-head"><span class="schedule-time">17:00 &ndash; 18:30</span><a class="main-title" href="./?program-schedule-posters">Posters 1:</a> Research papers presented on Tue and Wed&nbsp;&nbsp; <span class="tag">Jogging Track</span></div>
             <div class="schedule-head"><span class="schedule-time">19:30 &ndash; 00:30</span><a class="main-title" href="./?info-conference-venue">VLDB Conference Banquet</a></div>
         </div>
 
@@ -146,7 +146,7 @@
                 <p><span class="tag">Avalon</span><br /><a href="./?program-schedule-tutorials#Tutorial_6"><strong>Tutorial 6: </strong><small>TextCube &ndash; Automated Construction and Multidimensional Exploration</small></a></p>
                 <p><span class="tag">Santa Anita</span><br /><a href="./?program-schedule-tutorials#Tutorial_7"><strong>Tutorial 7: </strong><small>Personal Database Security and Trusted Execution Environments &ndash; A Tutorial at the Crossroads</small></a></p>
             </div>
-            <div class="schedule-head"><span class="schedule-time">17:30 &ndash; 18:30</span><a class="main-title" href="./?program-schedule-posters">Posters 2:</a> Research papers presented on Thr&nbsp;&nbsp; <span class="tag">Running Track</span></div>
+            <div class="schedule-head"><span class="schedule-time">17:30 &ndash; 18:30</span><a class="main-title" href="./?program-schedule-posters">Posters 2:</a> Research papers presented on Thr&nbsp;&nbsp; <span class="tag">Jogging Track</span></div>
         </div>
 
         <div>

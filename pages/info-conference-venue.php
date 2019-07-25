@@ -49,6 +49,7 @@
         <li><strong>Train Station:</strong> Union Station, is 1.6 miles (2.6 km) northeast from the hotel.</li>
     </ul>
 
+    <div class="schedule-anchor" id="Dining_Options"></div>
     <h3>Convenient Lunch and Dining Options near the Conference Venue</h3>
     <p><strong>LA Prime</strong>&nbsp;&nbsp;&nbsp;<em class="tag">Steakhouse</em><br />Savor mouthwatering steak and fresh seafood as you take in spectacular 360-degree views of LA from LA Prime, the award-winning steakhouse on the 35th floor of downtown's The Westin Bonaventure Hotel & Suites, Los Angeles. Open for dinner. Dress code: Casual.<br /><a class="phone-icon" href="tel:+12136124743" rel="nofollow">+1 (213) 612-4743</a>; ext: 4743</p>
     <p><strong>BonaVista Lounge</strong>&nbsp;&nbsp;&nbsp;<em class="tag">American</em><br />Sip classic cocktails made with an innovative twist at the dazzling BonaVista Lounge. Tempting libations, light restaurant entrees and small plates are on the menu, as are terrific views of Los Angeles from the 34th floor of this revolving hotel venue. Open for lunch and dinner. Dress code: Casual.<br /><a class="phone-icon" href="tel:+12136124743" rel="nofollow">+1 (213) 612-4743</a>; ext: 4743</p>

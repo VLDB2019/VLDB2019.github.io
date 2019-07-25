@@ -7,7 +7,7 @@ ExpiresActive On
 </IfModule>
 
 <FilesMatch "\.(js|css)$">
-    ExpiresDefault "access plus 3 months"
+    ExpiresDefault "access plus 1 hour"
 </FilesMatch>
 
 <FilesMatch "\.(ico|flv|jpg|jpeg|png|gif|svg|swf|woff|woff2)$">

@@ -63,7 +63,7 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Keynote_3"><span class="schedule-time">8:30 &ndash; 10:00</span></div>
+            <div class="schedule-head" id="Keynote_3"><span class="schedule-time">9:00 &ndash; 10:30</span></div>
 
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/EricIverson.jpg">

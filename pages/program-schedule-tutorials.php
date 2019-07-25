@@ -56,7 +56,7 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Tutorial_3"><span class="schedule-time">10:30 &ndash; 12:00</span><strong class="main-title">Tutorial 3</strong></div>
+            <div class="schedule-head" id="Tutorial_3"><span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Tutorial 3</strong></div>
             
             <p class="schedule-item" data-id="950">
                 <strong class="schedule-item-title">Speedup Your Analytics: Automatic Parameter Tuning for Databases and Big Data Systems</strong>
@@ -74,7 +74,7 @@
             </p>
 
 
-            <div class="schedule-head" id="Tutorial_4"><span class="schedule-time">15:30 &ndash; 17:00</span><strong class="main-title">Tutorial 4</strong></div>
+            <div class="schedule-head" id="Tutorial_4"><span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Tutorial 4</strong></div>
             
             <p class="schedule-item" data-id="955">
                 <strong class="schedule-item-title">The Ever Evolving Online Labor Market: Overview, Challenges and Opportunities</strong>

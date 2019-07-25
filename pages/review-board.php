@@ -1,7 +1,7 @@
 <section class="review-board">
     <h1>VLDB 2019: PVLDB Review Board</h1>
 
-    <h4>Research Track Program Committee</h4>
+    <!--<h4>Research Track Program Committee</h4>-->
     <div><strong>Abdul Quamar</strong>, IBM Research - Almaden</div>
     <div><strong>Ada Waichee Fu</strong>, Chinese University of Hong Kong</div>
     <div><strong>Ahmet Erdem Sariyuce</strong>, University at Buffalo</div>
@@ -82,7 +82,7 @@
     <div><strong>Karthik Sankaranarayanan</strong>, IBM Research - India</div>
     <div><strong>Katja Hose</strong>, Aalborg University</div>
     <div><strong>Khuzaima Daudjee</strong>, University of Waterloo</div>
-    <div><strong>Kostas Stefanidis</strong>, University of Tampere</div>
+    <div><strong>Kostas Stefanidis</strong>, Tampere University</div>
     <div><strong>Kostas Zoumpatianos</strong>, Harvard University</div>
     <div><strong>Letizia Tanca</strong>, Politecnico di Milano</div>
     <div><strong>Lucian Popa</strong>, IBM Research - Almaden</div>
@@ -136,7 +136,7 @@
     <div><strong>Tingjian Ge</strong>, University of Massachusetts - Lowell</div>
     <div><strong>Tyson Condie</strong>, Microsoft</div>
     <div><strong>Umar Farooq Minhas</strong>, Microsoft Research</div>
-    <div><strong>Vijayshankar Raman</strong>, IBM Research - Almaden</div>
+    <div><strong>Vijayshankar Raman</strong>, Google</div>
     <div><strong>Viktor Leis</strong>, TU Munich</div>
     <div><strong>Vincent Oria</strong>, NJIT</div>
     <div><strong>Vivek Narasayya</strong>, Microsoft Research</div>
@@ -150,7 +150,7 @@
     <div><strong>Xu Chu</strong>, Georgia Tech</div>
     <div><strong>Xuemin Lin</strong>, University of New Southwales</div>
     <div><strong>Yael Amsterdamer</strong>, Bar-Ilan University</div>
-    <div><strong>Yannis Velegrakis</strong>, University of Trento - Italy</div>
+    <div><strong>Yannis Velegrakis</strong>, Utrecht University</div>
     <div><strong>Yanyan Shen</strong>, Shanghai Jiao Tong University</div>
     <div><strong>Yi Chen</strong>, NJIT</div>
     <div><strong>Ying Zhang</strong>, UTS</div>
@@ -159,13 +159,13 @@
     <div><strong>Yingxia Shao</strong>, Peking University</div>
     <div><strong>Yongxin Tong</strong>, Beihang University</div>
     <div><strong>Yoshiharu Ishikawa</strong>, Nagoay University</div>
-    <div><strong>Ye Yuan</strong>, NEU - China</div>
+    <div><strong>Ye Yuan</strong>, Northeastern University - China</div>
     <div><strong>Yuanyuan Tian</strong>, IBM Research - Almaden</div>
     <div><strong>Yucel Saygin</strong>, Sabanci Uni. Turkey</div>
     <div><strong>Yunjun Gao</strong>, Zhejiang University</div>
     <div><strong>Zhiguo Gong</strong>, University of Macau</div>
 
-
+    <!--
     <h4>Industrial Track Program Committee</h4>
     <div><strong>Divy Agrawal</strong>, University of California, Santa Barbara</div>
     <div><strong>Pedro Bizarro</strong>, Feedzai</div>
@@ -187,7 +187,7 @@
     <div><strong>Kihong Kim</strong>, SAP Labs - Korea</div>
     <div><strong>Dustin Lange</strong>, Amazon - USA</div>
     <div><strong>Feifei Li</strong>, Alibaba</div>
-    <div><strong>Yongzhu (Eric) Li</strong>, Huawei</div>
+    <div><strong>Yongzhu (Eric) Li</strong>, Futurewei</div>
     <div><strong>Yunyao Li</strong>, IBM Research - Almaden</div>
     <div><strong>Qian Lin</strong>, National University of Singapore</div>
     <div><strong>Wei Liu</strong>, Tencent</div>
@@ -200,7 +200,7 @@
     <div><strong>Amit Rustagi</strong>, Western Digital</div>
     <div><strong>Benjamin Schlegel</strong>, Oracle Labs</div>
     <div><strong>Pinar Tozun</strong>, ITU</div>
-    <div><strong>Dimitris Tsirogiannis</strong>, Cloudera</div>
+    <div><strong>Dimitris Tsirogiannis</strong>, Amazon, Inc.</div>
     <div><strong>Hannes Voigt</strong>, Neo4j</div>
     <div><strong>Guoren Wang</strong>, Beijing Institute of Technology</div>
     <div><strong>Wei Wang</strong>, NUS</div>
@@ -209,6 +209,7 @@
     <div><strong>Kai Zeng</strong>, Alibaba - China</div>
     <div><strong>Feida Zhu</strong>, Singapore Management University</div>
     <div><strong>Arthur Zwiegincew</strong>, Oculus/Facebook</div>
+    -->
 </section>
 <?php
 define('PageTitle', "PVLDB Review Board");

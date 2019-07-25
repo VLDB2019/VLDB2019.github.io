@@ -15,11 +15,16 @@ ob_start();
 if (file_exists($page)) {
     include(Root . '/pages/' . $q . '.php');
     $lastModified = gmdate('D, d M Y H:i:s ', filemtime(Root . '/pages/' . $q . '.php')) . 'GMT';
+    /*
     if (isset($_SERVER['HTTP_IF_MODIFIED_SINCE']) && $_SERVER['HTTP_IF_MODIFIED_SINCE'] == $lastModified) {
         header('HTTP/1.1 304 Not Modified');
         exit();
     }
     header("Last-Modified: " . $lastModified);
+    */
+    header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+    header("Cache-Control: post-check=0, pre-check=0", false);
+    header("Pragma: no-cache");
 } else {
     header("HTTP/1.1 404 Not Found");
     include(Root . '/pages/coming-soon.php');
@@ -174,8 +179,8 @@ $content = ob_get_clean();
     <script src="./js/talks.js"></script>
     <script src="./js/program-schedule.js"></script>
 <?php } else { ?>
-    <link rel="stylesheet" href="./css/prod.min.css">
-    <script async src="./js/prod.min.js"></script>
+    <link rel="stylesheet" href="./css/prod-7.min.css">
+    <script async src="./js/prod-7.min.js"></script>
 <?php } ?>
 
 <script async src="https://platform.twitter.com/widgets.js"></script>

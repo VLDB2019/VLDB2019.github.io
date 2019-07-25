@@ -3,7 +3,7 @@ table.structure {
     border-collapse: collapse;
     border-spacing: 0;
     text-align: center;
-    box-shadow: 0 0 1px #000;
+    min-width: 800px;
 }
 table.structure:after {
     content: '';
@@ -20,15 +20,16 @@ table.structure td {
 table.structure thead td,
 table.structure thead th {
     color: #fff;
-    background: #354dfc;
+    background: #652d90;
     font-weight: bold;
     border-style: solid;
     border-width: 1px 1px 2px;
     border-color: #fff;
+    text-shadow: 0 0 1px rgba(0, 0, 0, .3);
 }
 
 table.structure thead th {
-    background: #00993e;
+    background: #37b34a;
 }
 
 table.structure thead th:first-child {
@@ -54,19 +55,23 @@ table.structure tbody tr:last-child td {
 }
 
 table.structure thead td:first-child {
-    border-left-color: #1a2682;
+    border-left-color: #321658;
 }
 
 table.structure thead td:last-child {
-    border-right-color: #1a2682;
+    border-right-color: #321658;
 }
 
 table.structure thead tr:first-child td {
-    border-top-color: #1a2682;
+    border-top-color: #321658;
 }
 
 table.structure thead th:first-child {
-    border-left-color: #025c26;
+    border-left-color: #1b8d25;
+}
+
+table.structure thead th:last-child {
+    border-right-color: #1b8d25;
 }
 
 table.structure[cols="6"] thead th:not(:first-child) {
@@ -79,10 +84,6 @@ table.structure[cols="7"] thead th:not(:first-child) {
 
 table.structure[cols="8"] thead th:not(:first-child) {
     width: calc(89.6% / 7);
-}
-
-table.structure thead th:last-child {
-    border-right-color: #025c26;
 }
 
 table.structure .hl-row {
@@ -105,4 +106,10 @@ table.structure a:hover,
 table.structure a:focus,
 table.structure a:active {
     text-decoration: underline;
+}
+
+@media screen and (max-width: 820px) {
+    section.program-structure {
+        overflow-x: auto;
+    }
 }

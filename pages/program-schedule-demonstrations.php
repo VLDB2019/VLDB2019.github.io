@@ -18,7 +18,7 @@
                     <abbr long="Wednesday" short="Wed"></abbr>
                     <p><strong>28</strong><em>Aug</em></p>
                 </div>
-                <em class="schedule-time">10:30 &ndash; 12:00</em>
+                <em class="schedule-time">11:00 &ndash; 12:30</em>
             </div>
 
             <div>
@@ -175,7 +175,7 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1053">
                 <strong class="schedule-item-title">Spade: A Modular Framework for Analytical Exploration of RDF Graphs</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(Ecole Polytechnique),
+                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(Ecole Polytechnique and University of Massachusetts Amherst),
                     <span class="author">Pawel&nbsp;Guzewicz</span>&nbsp;(INRIA),
                     <span class="author">Ioana&nbsp;Manolescu</span>&nbsp;(INRIA), and
                     <span class="author">Mirjana&nbsp;Mazuran</span>&nbsp;(INRIA)
@@ -198,7 +198,7 @@
                     <span class="author">Fei&nbsp;Song</span>&nbsp;(Ecole Polytechnique),
                     <span class="author">Chenghao&nbsp;Lyu</span>&nbsp;(University of Massachusetts Amherst),
                     <span class="author">Arnab&nbsp;Sinha</span>&nbsp;(Ecole Polytechnique),
-                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(University of Massachusetts Amherst), and
+                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(Ecole Polytechnique and University of Massachusetts Amherst), and
                     <span class="author">Prashant&nbsp;Shenoy</span>&nbsp;(University of Massachusetts Amherst)
                 </span>
             </p>
@@ -304,7 +304,7 @@
                     <abbr long="Wednesday" short="Wed"></abbr>
                     <p><strong>28</strong><em>Aug</em></p>
                 </div>
-                <em class="schedule-time">15:30 &ndash; 17:00</em>
+                <em class="schedule-time">16:00 &ndash; 17:30</em>
             </div>
 
             <div>

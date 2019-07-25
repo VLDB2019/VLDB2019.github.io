@@ -51,9 +51,9 @@
         Renata Borovica-Gajic<small>, University of Melbourne - Australia</small><br />
         Vanessa Braganholo<small>, Fluminense Federal University - Brazil</small><br />
         Lei Cao<small>, MIT - USA</small><br />
-        Alvin Cheung<small>, University of Washington - USA</small><br />
+        Alvin Cheung<small>, UC Berkeley - USA</small><br />
         Laura Chiticariu<small>, IBM Research - USA</small><br />
-        Sudipto Das<small>, Microsoft Research - USA</small><br />
+        Sudipto Das<small>, Amazon Web Services - USA</small><br />
         Cagatay Demiralp<small>, Megagon Labs - USA</small><br />
         Dong Deng<small>, Rutgers University - USA</small><br />
         Jens Dittrich<small>, Saarland University - Germany</small><br />

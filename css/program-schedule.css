@@ -364,6 +364,19 @@
     color: #999;
 }
 
+.schedule-chair {
+    display: block;
+    border-left: 4px solid #ddd;
+    padding: 2px 15px 0;
+    margin: -2px 0 15px;
+    font-size: 12px;
+}
+
+.schedule-chair em {
+    font-style: normal;
+    color: #777;
+}
+
 @media screen and (max-width: 500px) {
     .schedule-item-has-photo .schedule-item-people:after {
         content: '';
