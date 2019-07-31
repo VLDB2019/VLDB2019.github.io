@@ -74,18 +74,18 @@
         Yannis Katsis<small>, IBM Research - Almaden</small><br />
         Martin Kersten<small>, CWI</small><br />
         Kihong Kim<small>, SAP Labs - Korea</small><br />
-        Dustin Lange<small>, Amazon - USA</small><br />
+        Dustin Lange<small>, Amazon Research</small><br />
         Feifei Li<small>, Alibaba</small><br />
         Yongzhu (Eric) Li<small>, Futurewei</small><br />
         Yunyao Li<small>, IBM Research - Almaden</small><br />
         Qian Lin<small>, National University of Singapore</small><br />
         Wei Liu<small>, Tencent</small><br />
-        Wei Lu<small>, Renmin university of China</small><br />
+        Wei Lu<small>, Renmin University of China</small><br />
         Rui Mao<small>, Shenzhen University</small><br />
         Jamie Martin<small>, Salesforce</small><br />
         Neoklis Polyzotis<small>, Google</small><br />
         Danica Porobic<small>, Oracle</small><br />
-        Berthold Reinwald<small>, IBM Research</small><br />
+        Berthold Reinwald<small>, IBM Research - Almaden</small><br />
         Amit Rustagi<small>, Western Digital</small><br />
         Benjamin Schlegel<small>, Oracle Labs</small><br />
         Pinar Tozun<small>, ITU</small><br />

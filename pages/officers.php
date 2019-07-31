@@ -65,21 +65,21 @@
 
     <h4>Workshop Chairs</h4>
     <div><strong>Sharad Mehrotra</strong>, UCI</div>
-    <div><strong>Yuanyuan Tian</strong>, IBM Research</div>
+    <div><strong>Yuanyuan Tian</strong>, IBM Research - Almaden</div>
 
     <h4>PhD Workshop Chairs</h4>
     <div><strong>Ilaria Bartolini</strong>, University of Bologna</div>
     <div><strong>Feifei Li</strong>, Alibaba</div>
 
     <h4>Proceedings Chairs</h4>
-    <div><strong>Abdul Quamar</strong>, IBM Research</div>
+    <div><strong>Abdul Quamar</strong>, IBM Research - Almaden</div>
     <div><strong>Yongxin Tong</strong>, Beihang University</div>
 
     <h4>Website</h4>
     <div><strong>Mehran Barahmand</strong>, Amazon</div>
 
     <h4>Local Arrangements Chairs</h4>
-    <div><strong>Tyson Condie</strong>, UCLA</div>
+    <div><strong>Tyson Condie</strong>, Microsoft</div>
     <div><strong>Beth Trushkowsky</strong>, HMC</div>
 
     <h4>Registration Chair</h4>

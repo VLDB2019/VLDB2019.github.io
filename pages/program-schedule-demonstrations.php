@@ -1,5 +1,6 @@
 <section class="program-schedule-demonstrations">
     <h1>VLDB 2019: Demonstrations</h1>
+    <p>The number assigned to each demo identifies its table and easel in the Hollywood ballroom. For example, Demo 5 in Group B is assigned to Table and Easel numbered 5.</p>
 
     <div class="schedule-no-wrap">
         <div class="schedule-multi-days" id="Demo_Group_A">
@@ -34,7 +35,7 @@
         <div>
             
             <p class="schedule-item schedule-item-no-abstract" data-id="947">
-                <strong class="schedule-item-title">Synergistic Graph and SQL Analytics Inside IBM Db2</strong>
+                <strong class="schedule-item-title" data-num="1">Synergistic Graph and SQL Analytics Inside IBM Db2</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yuanyuan&nbsp;Tian</span>&nbsp;(IBM Research),
                     <span class="author">Sui&nbsp;Jun&nbsp;Tong</span>&nbsp;(IBM Research),
@@ -46,7 +47,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="954">
-                <strong class="schedule-item-title">ITAA: An Intelligent Trajectory-driven Outdoor Advertising Deployment Assistant</strong>
+                <strong class="schedule-item-title" data-num="2">ITAA: An Intelligent Trajectory-driven Outdoor Advertising Deployment Assistant</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yipeng&nbsp;Zhang</span>&nbsp;(RMIT University),
                     <span class="author">Zhifeng&nbsp;Bao</span>&nbsp;(RMIT University),
@@ -57,7 +58,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="957">
-                <strong class="schedule-item-title">Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases</strong>
+                <strong class="schedule-item-title" data-num="3">Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Viet-Phi&nbsp;Huynh</span>&nbsp;(EURECOM) and
                     <span class="author">Paolo&nbsp;Papotti</span>&nbsp;(EURECOM)
@@ -65,7 +66,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="965">
-                <strong class="schedule-item-title">A Query System for Efficiently Investigating Complex Attack Behaviors for Enterprise Security</strong>
+                <strong class="schedule-item-title" data-num="4">A Query System for Efficiently Investigating Complex Attack Behaviors for Enterprise Security</strong>
                 <span class="schedule-item-people">
                     <span class="author">Peng&nbsp;Gao</span>&nbsp;(University of California, Berkeley),
                     <span class="author">Xusheng&nbsp;Xiao</span>&nbsp;(Case Western Reserve University),
@@ -78,7 +79,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="977">
-                <strong class="schedule-item-title">ProgressiveDB – Progressive Data Analytics as a Middleware</strong>
+                <strong class="schedule-item-title" data-num="5">ProgressiveDB – Progressive Data Analytics as a Middleware</strong>
                 <span class="schedule-item-people">
                     <span class="author">Lukas&nbsp;Berg</span>&nbsp;(TU Darmstadt),
                     <span class="author">Tobias&nbsp;Ziegler</span>&nbsp;(TU Darmstadt),
@@ -88,7 +89,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="979">
-                <strong class="schedule-item-title">doppioDB 2.0: Hardware Techniques for Improved Integration of Machine Learning into Databases</strong>
+                <strong class="schedule-item-title" data-num="6">doppioDB 2.0: Hardware Techniques for Improved Integration of Machine Learning into Databases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kaan&nbsp;Kara</span>&nbsp;(ETH Zurich),
                     <span class="author">Zeke&nbsp;Wang</span>&nbsp;(ETH Zurich),
@@ -98,7 +99,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="989">
-                <strong class="schedule-item-title">NashDB: Fragmentation, Replication, and Provisioning using Economic Methods</strong>
+                <strong class="schedule-item-title" data-num="7">NashDB: Fragmentation, Replication, and Provisioning using Economic Methods</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ryan&nbsp;Marcus</span>&nbsp;(Brandeis University),
                     <span class="author">Chi&nbsp;Zhang</span>&nbsp;(Brandeis university),
@@ -109,7 +110,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1003">
-                <strong class="schedule-item-title">In-database Distributed Machine Learning: Demonstration using Teradata SQL Engine</strong>
+                <strong class="schedule-item-title" data-num="8">In-database Distributed Machine Learning: Demonstration using Teradata SQL Engine</strong>
                 <span class="schedule-item-people">
                     <span class="author">Sandeep&nbsp;Singh&nbsp;Sandha</span>&nbsp;(UCLA),
                     <span class="author">Wellington&nbsp;Cabrera</span>&nbsp;(Teradata Labs),
@@ -120,7 +121,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1004">
-                <strong class="schedule-item-title">SHOAL: Large-scale Hierarchical Taxonomy via Graph-based Query Coalition in E-commerce</strong>
+                <strong class="schedule-item-title" data-num="9">SHOAL: Large-scale Hierarchical Taxonomy via Graph-based Query Coalition in E-commerce</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zhao&nbsp;Li</span>&nbsp;(Alibaba Group),
                     <span class="author">Xia&nbsp;Chen</span>&nbsp;(Alibaba Group),
@@ -132,7 +133,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1012">
-                <strong class="schedule-item-title">ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous Data Release</strong>
+                <strong class="schedule-item-title" data-num="10">ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous Data Release</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yang&nbsp;Cao</span>&nbsp;(Emory University),
                     <span class="author">Li&nbsp;Xiong</span>&nbsp;(Emory University),
@@ -143,7 +144,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1026">
-                <strong class="schedule-item-title">HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration</strong>
+                <strong class="schedule-item-title" data-num="11">HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yingjun&nbsp;Wu</span>&nbsp;(IBM Research),
                     <span class="author">Jia&nbsp;Yu</span>&nbsp;(Arizona State University),
@@ -154,7 +155,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1030">
-                <strong class="schedule-item-title">DISPERS: Securing Highly Distributed Queries on Personal Data Management Systems</strong>
+                <strong class="schedule-item-title" data-num="12">DISPERS: Securing Highly Distributed Queries on Personal Data Management Systems</strong>
                 <span class="schedule-item-people">
                     <span class="author">Julien&nbsp;Loudet</span>&nbsp;(INRIA),
                     <span class="author">Iulian&nbsp;Sandu&nbsp;Popa</span>&nbsp;(INRIA & David Lab., University of Versailles Saint-Quentin, France), and
@@ -163,7 +164,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1040">
-                <strong class="schedule-item-title">Demonstration of Krypton: Optimized CNN Inference for Occlusion-based Deep CNN Explanations</strong>
+                <strong class="schedule-item-title" data-num="13">Demonstration of Krypton: Optimized CNN Inference for Occlusion-based Deep CNN Explanations</strong>
                 <span class="schedule-item-people">
                     <span class="author">Allen&nbsp;Ordookhanians</span>&nbsp;(University of California, San Diego),
                     <span class="author">Xin&nbsp;Li</span>&nbsp;(University of California, San Diego),
@@ -173,7 +174,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1053">
-                <strong class="schedule-item-title">Spade: A Modular Framework for Analytical Exploration of RDF Graphs</strong>
+                <strong class="schedule-item-title" data-num="14">Spade: A Modular Framework for Analytical Exploration of RDF Graphs</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(Ecole Polytechnique and University of Massachusetts Amherst),
                     <span class="author">Pawel&nbsp;Guzewicz</span>&nbsp;(INRIA),
@@ -183,7 +184,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1056">
-                <strong class="schedule-item-title">Making an RDBMS Data Scientist Friendly: Advanced In-database Interactive Analytics with Visualization Support</strong>
+                <strong class="schedule-item-title" data-num="15">Making an RDBMS Data Scientist Friendly: Advanced In-database Interactive Analytics with Visualization Support</strong>
                 <span class="schedule-item-people">
                     <span class="author">Joseph&nbsp;D'silva</span>&nbsp;(McGill University),
                     <span class="author">Florestan&nbsp;De&nbsp;Moor</span>&nbsp;(McGill University), and
@@ -192,7 +193,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1059">
-                <strong class="schedule-item-title">UDAO: A Next-Generation Unified Data Analytics Optimizer</strong>
+                <strong class="schedule-item-title" data-num="16">UDAO: A Next-Generation Unified Data Analytics Optimizer</strong>
                 <span class="schedule-item-people">
                     <span class="author">Khaled&nbsp;Zaouk</span>&nbsp;(Ecole Polytechnique),
                     <span class="author">Fei&nbsp;Song</span>&nbsp;(Ecole Polytechnique),
@@ -204,7 +205,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1063">
-                <strong class="schedule-item-title">Dietcoin: Hardening Bitcoin Transaction Verification Process For Mobile Devices</strong>
+                <strong class="schedule-item-title" data-num="17">Dietcoin: Hardening Bitcoin Transaction Verification Process For Mobile Devices</strong>
                 <span class="schedule-item-people">
                     <span class="author">Davide&nbsp;Frey</span>&nbsp;(University of Rennes),
                     <span class="author">Marc&nbsp;Makkes</span>&nbsp;(Vrije Universiteit),
@@ -215,7 +216,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="981">
-                <strong class="schedule-item-title">COVIZ: A System for Visual Formation and Exploration of Patient Cohorts</strong>
+                <strong class="schedule-item-title" data-num="18">COVIZ: A System for Visual Formation and Exploration of Patient Cohorts</strong>
                 <span class="schedule-item-people">
                     <span class="author">Cìcero&nbsp;A.&nbsp;L.&nbsp;Pahins</span>&nbsp;(UFRGS),
                     <span class="author">Behrooz&nbsp;Omidvar-Tehrani</span>&nbsp;(LIG),
@@ -228,7 +229,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="998">
-                <strong class="schedule-item-title">WiClean: A System for Fixing Wikipedia Interlinks Using Revision History Patterns</strong>
+                <strong class="schedule-item-title" data-num="19">WiClean: A System for Fixing Wikipedia Interlinks Using Revision History Patterns</strong>
                 <span class="schedule-item-people">
                     <span class="author">Stephan&nbsp;Goldberg</span>&nbsp;(Tel Aviv University),
                     <span class="author">Tova&nbsp;Milo</span>&nbsp;(Tel Aviv University),
@@ -238,7 +239,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1019">
-                <strong class="schedule-item-title">Datalignment: Ontology Schema Alignment Through Datalog Containment</strong>
+                <strong class="schedule-item-title" data-num="20">Datalignment: Ontology Schema Alignment Through Datalog Containment</strong>
                 <span class="schedule-item-people">
                     <span class="author">Daniel&nbsp;Deutch</span>&nbsp;(Tel Aviv University),
                     <span class="author">Evgeny&nbsp;Marants</span>&nbsp;(Tel Aviv University), and
@@ -247,7 +248,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1049">
-                <strong class="schedule-item-title">FishStore: Fast Ingestion and Indexing of Raw Data</strong>
+                <strong class="schedule-item-title" data-num="21">FishStore: Fast Ingestion and Indexing of Raw Data</strong>
                 <span class="schedule-item-people">
                     <span class="author">Badrish&nbsp;Chandramouli</span>&nbsp;(Microsoft Research),
                     <span class="author">Dong&nbsp;Xie</span>&nbsp;(University of Utah),
@@ -257,7 +258,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1064">
-                <strong class="schedule-item-title">Raptor: Large Scale Analysis of Big Raster and Vector Data</strong>
+                <strong class="schedule-item-title" data-num="22">Raptor: Large Scale Analysis of Big Raster and Vector Data</strong>
                 <span class="schedule-item-people">
                     <span class="author">Samriddhi&nbsp;Singla</span>&nbsp;(University of California, Riverside),
                     <span class="author">Ahmed&nbsp;Eldawy</span>&nbsp;(University of California, Riverside),
@@ -267,7 +268,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1081">
-                <strong class="schedule-item-title">Tuplex: Robust, Efficient Analytics When Python Rules</strong>
+                <strong class="schedule-item-title" data-num="23">Tuplex: Robust, Efficient Analytics When Python Rules</strong>
                 <span class="schedule-item-people">
                     <span class="author">Leonhard&nbsp;Spiegelberg</span>&nbsp;(Brown University) and
                     <span class="author">Tim&nbsp;Kraska</span>&nbsp;(MIT)
@@ -275,7 +276,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1082">
-                <strong class="schedule-item-title">Ease.ml/ci and Ease.ml/meter in Action: Towards Data Management for Statistical Generalization</strong>
+                <strong class="schedule-item-title" data-num="24">Ease.ml/ci and Ease.ml/meter in Action: Towards Data Management for Statistical Generalization</strong>
                 <span class="schedule-item-people">
                     <span class="author">Cedric&nbsp;Renggli</span>&nbsp;(ETH Zurich),
                     <span class="author">Frances&nbsp;Ann&nbsp;Hubis</span>&nbsp;(ETH Zurich),
@@ -320,7 +321,7 @@
         <div>
             
             <p class="schedule-item schedule-item-no-abstract" data-id="973">
-                <strong class="schedule-item-title">BlackMagic: Automatic Inlining of Scalar UDFs into SQL Queries with Froid</strong>
+                <strong class="schedule-item-title" data-num="1">BlackMagic: Automatic Inlining of Scalar UDFs into SQL Queries with Froid</strong>
                 <span class="schedule-item-people">
                     <span class="author">Karthik&nbsp;Ramachandra</span>&nbsp;(Microsoft Research India) and
                     <span class="author">Kwanghyun&nbsp;Park</span>&nbsp;(Microsoft Gray Systems Lab)
@@ -328,7 +329,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1080">
-                <strong class="schedule-item-title">Data Civilizer 2.0: A Holistic Framework for Data Preparation and Analytics</strong>
+                <strong class="schedule-item-title" data-num="2">Data Civilizer 2.0: A Holistic Framework for Data Preparation and Analytics</strong>
                 <span class="schedule-item-people">
                     <span class="author">El&nbsp;Kindi&nbsp;Rezig</span>&nbsp;(MIT),
                     <span class="author">Lei&nbsp;Cao</span>&nbsp;(MIT),
@@ -343,7 +344,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="995">
-                <strong class="schedule-item-title">VISE: Vehicle Image Search Engine with Traffic Camera</strong>
+                <strong class="schedule-item-title" data-num="3">VISE: Vehicle Image Search Engine with Traffic Camera</strong>
                 <span class="schedule-item-people">
                     <span class="author">Hyewon&nbsp;Choi</span>&nbsp;(University of Toronto),
                     <span class="author">Erkang&nbsp;Zhu</span>&nbsp;(University of Toronto),
@@ -353,7 +354,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1037">
-                <strong class="schedule-item-title">Stateful Functions as a Service in Action</strong>
+                <strong class="schedule-item-title" data-num="4">Stateful Functions as a Service in Action</strong>
                 <span class="schedule-item-people">
                     <span class="author">Adil&nbsp;Akhter</span>&nbsp;(ING),
                     <span class="author">Marios&nbsp;Fragkoulis</span>&nbsp;(TU Delft), and
@@ -362,7 +363,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="880">
-                <strong class="schedule-item-title">GALO: Guided Automated Learning for re-Optimization</strong>
+                <strong class="schedule-item-title" data-num="5">GALO: Guided Automated Learning for re-Optimization</strong>
                 <span class="schedule-item-people">
                     <span class="author">Guilherme&nbsp;Damasio</span>&nbsp;(University of Ontario Institute of Technology),
                     <span class="author">Spencer&nbsp;Bryson</span>&nbsp;(University of Ontario Institute of Technology),
@@ -375,7 +376,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="971">
-                <strong class="schedule-item-title">CAPE: Explaining Outliers by Counterbalancing</strong>
+                <strong class="schedule-item-title" data-num="6">CAPE: Explaining Outliers by Counterbalancing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zhengjie&nbsp;Miao</span>&nbsp;(Duke University),
                     <span class="author">Qitian&nbsp;Zeng</span>&nbsp;(Illinois Institute of Technology),
@@ -387,7 +388,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="949">
-                <strong class="schedule-item-title">Cleanits: A Data Cleaning System for Industrial Time Series</strong>
+                <strong class="schedule-item-title" data-num="7">Cleanits: A Data Cleaning System for Industrial Time Series</strong>
                 <span class="schedule-item-people">
                     <span class="author">Xiaoou&nbsp;Ding</span>&nbsp;(Harbin Institute of Technology),
                     <span class="author">Hongzhi&nbsp;Wang</span>&nbsp;(Harbin Institute of Technology),
@@ -399,7 +400,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="956">
-                <strong class="schedule-item-title">SystemER: A Human-in-the-loop System for Explainable Entity Resolution</strong>
+                <strong class="schedule-item-title" data-num="8">SystemER: A Human-in-the-loop System for Explainable Entity Resolution</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kun&nbsp;Qian</span>&nbsp;(IBM Research - Almaden),
                     <span class="author">Lucian&nbsp;Popa</span>&nbsp;(IBM Research - Almaden), and
@@ -408,7 +409,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="988">
-                <strong class="schedule-item-title">PRIMAT - A Toolbox for Fast Privacy-preserving Matching</strong>
+                <strong class="schedule-item-title" data-num="9">PRIMAT - A Toolbox for Fast Privacy-preserving Matching</strong>
                 <span class="schedule-item-people">
                     <span class="author">Martin&nbsp;Franke</span>&nbsp;(University of Leipzig),
                     <span class="author">Ziad&nbsp;Sehili</span>&nbsp;(University of Leipzig), and
@@ -417,7 +418,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="990">
-                <strong class="schedule-item-title">Flash in Action: Scalable Spatial Data Analysis Using Markov Logic Networks</strong>
+                <strong class="schedule-item-title" data-num="10">Flash in Action: Scalable Spatial Data Analysis Using Markov Logic Networks</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ibrahim&nbsp;Sabek</span>&nbsp;(University of Minnesota),
                     <span class="author">Mashaal&nbsp;Musleh</span>&nbsp;(University of Minnesota), and
@@ -426,7 +427,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="991">
-                <strong class="schedule-item-title">I Can't Believe It's Not (Only) Software! Bionic Distributed Storage for Parquet Files</strong>
+                <strong class="schedule-item-title" data-num="11">I Can't Believe It's Not (Only) Software! Bionic Distributed Storage for Parquet Files</strong>
                 <span class="schedule-item-people">
                     <span class="author">Lucas&nbsp;Kuhring</span>&nbsp;(IMDEA Software) and
                     <span class="author">Zsolt&nbsp;István</span>&nbsp;(IMDEA Software)
@@ -434,7 +435,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="999">
-                <strong class="schedule-item-title">SparkCruise: Handsfree Computation Reuse in Spark</strong>
+                <strong class="schedule-item-title" data-num="12">SparkCruise: Handsfree Computation Reuse in Spark</strong>
                 <span class="schedule-item-people">
                     <span class="author">Abhishek&nbsp;Roy</span>&nbsp;(Microsoft),
                     <span class="author">Alekh&nbsp;Jindal</span>&nbsp;(Microsoft),
@@ -446,7 +447,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1008">
-                <strong class="schedule-item-title">DPSAaS: Multi-Dimensional Data Sharing and Analytics as Services under Local Differential Privacy</strong>
+                <strong class="schedule-item-title" data-num="13">DPSAaS: Multi-Dimensional Data Sharing and Analytics as Services under Local Differential Privacy</strong>
                 <span class="schedule-item-people">
                     <span class="author">Min&nbsp;Xu</span>&nbsp;(University of Chicago),
                     <span class="author">Tianhao&nbsp;Wang</span>&nbsp;(Purdue University),
@@ -458,7 +459,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1024">
-                <strong class="schedule-item-title">IHCS: An Integrated Hybrid Cleaning System</strong>
+                <strong class="schedule-item-title" data-num="14">IHCS: An Integrated Hybrid Cleaning System</strong>
                 <span class="schedule-item-people">
                     <span class="author">Congcong&nbsp;Ge</span>&nbsp;(Zhejiang University),
                     <span class="author">Yunjun&nbsp;Gao</span>&nbsp;(Zhejiang University),
@@ -470,7 +471,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1025">
-                <strong class="schedule-item-title">CAPRIO: Graph-based Integration of Indoor and Outdoor Data for Path Discovery</strong>
+                <strong class="schedule-item-title" data-num="15">CAPRIO: Graph-based Integration of Indoor and Outdoor Data for Path Discovery</strong>
                 <span class="schedule-item-people">
                     <span class="author">Constantinos&nbsp;Costa</span>&nbsp;(University of Pittsburgh),
                     <span class="author">Xiaoyu&nbsp;Ge</span>&nbsp;(University of Pittsburgh), and
@@ -479,7 +480,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1041">
-                <strong class="schedule-item-title">LensXPlain: Visualizing and Explaining Contributing Subsets for Aggregate Query Answers</strong>
+                <strong class="schedule-item-title" data-num="16">LensXPlain: Visualizing and Explaining Contributing Subsets for Aggregate Query Answers</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zhengjie&nbsp;Miao</span>&nbsp;(Duke University),
                     <span class="author">Andrew&nbsp;Lee</span>&nbsp;(Duke University), and
@@ -488,7 +489,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1043">
-                <strong class="schedule-item-title">Juneau: Data Lake Management for Jupyter</strong>
+                <strong class="schedule-item-title" data-num="17">Juneau: Data Lake Management for Jupyter</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yi&nbsp;Zhang</span>&nbsp;(University of Pennsylvania) and
                     <span class="author">Zack&nbsp;Ives</span>&nbsp;(University of Pennsylvania)
@@ -496,7 +497,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1044">
-                <strong class="schedule-item-title">ApproxML: Efficient Approximate Ad-Hoc ML Models Through Materialization and Reuse</strong>
+                <strong class="schedule-item-title" data-num="18">ApproxML: Efficient Approximate Ad-Hoc ML Models Through Materialization and Reuse</strong>
                 <span class="schedule-item-people">
                     <span class="author">Sona&nbsp;Hasani</span>&nbsp;(University of Texas at Arlington),
                     <span class="author">Faezeh&nbsp;Ghaderi</span>&nbsp;(University of Texas at Arlington),
@@ -509,7 +510,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1045">
-                <strong class="schedule-item-title">Flare & Lantern: Efficiently Swapping Horses Midstream</strong>
+                <strong class="schedule-item-title" data-num="19">Flare & Lantern: Efficiently Swapping Horses Midstream</strong>
                 <span class="schedule-item-people">
                     <span class="author">Gregory&nbsp;Essertel</span>&nbsp;(Purdue University),
                     <span class="author">Ruby&nbsp;Tahboub</span>&nbsp;(Purdue University),
@@ -520,7 +521,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1046">
-                <strong class="schedule-item-title">Trinity: An Extensible Synthesis Framework for Data Science</strong>
+                <strong class="schedule-item-title" data-num="20">Trinity: An Extensible Synthesis Framework for Data Science</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ruben&nbsp;Martins</span>&nbsp;(CMU),
                     <span class="author">Jia&nbsp;Chen</span>&nbsp;(UT Austin),
@@ -531,7 +532,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1047">
-                <strong class="schedule-item-title">PSynDB: Accurate and Accessible Private Data Generation</strong>
+                <strong class="schedule-item-title" data-num="21">PSynDB: Accurate and Accessible Private Data Generation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zhiqi&nbsp;Huang</span>&nbsp;(University of Massachusetts Amherst),
                     <span class="author">Ryan&nbsp;McKenna</span>&nbsp;(University of Massachusetts Amherst),
@@ -543,7 +544,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1060">
-                <strong class="schedule-item-title">AggChecker: A Fact-Checking System for Text Summaries of Relational Data Sets</strong>
+                <strong class="schedule-item-title" data-num="22">AggChecker: A Fact-Checking System for Text Summaries of Relational Data Sets</strong>
                 <span class="schedule-item-people">
                     <span class="author">Saehan&nbsp;Jo</span>&nbsp;(Cornell University),
                     <span class="author">Immanuel&nbsp;Trummer</span>&nbsp;(Cornell University),
@@ -556,7 +557,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1062">
-                <strong class="schedule-item-title">GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform</strong>
+                <strong class="schedule-item-title" data-num="23">GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform</strong>
                 <span class="schedule-item-people">
                     <span class="author">Hanzhang&nbsp;Wang</span>&nbsp;(eBay),
                     <span class="author">Phuong&nbsp;Nguyen</span>&nbsp;(eBay),
@@ -569,7 +570,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1087">
-                <strong class="schedule-item-title">PivotE: Revealing and Visualizing the Underlying EntityStructures for Exploration</strong>
+                <strong class="schedule-item-title" data-num="24">PivotE: Revealing and Visualizing the Underlying EntityStructures for Exploration</strong>
                 <span class="schedule-item-people">
                     <span class="author">Han&nbsp;Xueran</span>&nbsp;(Renmin University of China),
                     <span class="author">Jun&nbsp;Chen</span>&nbsp;(Renmin University of China),

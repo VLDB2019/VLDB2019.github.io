@@ -52,7 +52,7 @@
         Vanessa Braganholo<small>, Fluminense Federal University - Brazil</small><br />
         Lei Cao<small>, MIT - USA</small><br />
         Alvin Cheung<small>, UC Berkeley - USA</small><br />
-        Laura Chiticariu<small>, IBM Research - USA</small><br />
+        Laura Chiticariu<small>, IBM Data & AI</small><br />
         Sudipto Das<small>, Amazon Web Services - USA</small><br />
         Cagatay Demiralp<small>, Megagon Labs - USA</small><br />
         Dong Deng<small>, Rutgers University - USA</small><br />
@@ -64,7 +64,7 @@
         Vijay Gadepally<small>, MIT Lincoln Laboratory - USA</small><br />
         Avigdor Gal<small>, Technion - Israel</small><br />
         Wolfgang Gatterbauer<small>, Northeastern University - USA</small><br />
-        Bugra Gedik<small>, Bilkent University - Turkey</small><br />
+        Buğra Gedik<small>, Bilkent University - Turkey</small><br />
         Ioana Giurgiu<small>, IBM Research - Switzerland</small><br />
         Boris Glavic<small>, Illinois Tech - USA</small><br />
         Michael Grossniklaus<small>, University of Konstanz - Germany</small><br />

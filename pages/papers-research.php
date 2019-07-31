@@ -1,5 +1,6 @@
 <section class="papers-research">
     <h1>VLDB 2019: Research Track Papers</h1>
+    <p>The number assigned to each research track paper identifies its poster stand. For example, with research track paper 1.1, look for the stand labeled Res:1.1</p>
 
     <div class="schedule-wrap">
         <div>
@@ -16,7 +17,7 @@
             </div>
             
             <p class="schedule-item" data-id="1152">
-                <strong class="schedule-item-title">Optimizing End-to-End Machine Learning Pipelines for Model Training</strong>
+                <strong class="schedule-item-title" data-num="1.1">Optimizing End-to-End Machine Learning Pipelines for Model Training</strong>
                 <span class="schedule-item-people">
                     <span class="author">Andreas&nbsp;Kunft</span>&nbsp;(TU Berlin),
                     <span class="author">Asterios&nbsp;Katsifodimos</span>&nbsp;(TU Delft),
@@ -33,7 +34,7 @@
             </p>
 
             <p class="schedule-item" data-id="1136">
-                <strong class="schedule-item-title">An Experimental Evaluation of Large Scale GBDT Systems</strong>
+                <strong class="schedule-item-title" data-num="1.2">An Experimental Evaluation of Large Scale GBDT Systems</strong>
                 <span class="schedule-item-people">
                     <span class="author">Fangcheng&nbsp;Fu</span>&nbsp;(Peking University),
                     <span class="author">Jiawei&nbsp;Jiang</span>&nbsp;(Peking University),
@@ -48,7 +49,7 @@
             </p>
 
             <p class="schedule-item" data-id="350">
-                <strong class="schedule-item-title">Snuba: Automating Weak Supervision to Label Training Data</strong>
+                <strong class="schedule-item-title" data-num="1.3">Snuba: Automating Weak Supervision to Label Training Data</strong>
                 <span class="schedule-item-people">
                     <span class="author">Paroma&nbsp;Varma</span>&nbsp;(Stanford University) and
                     <span class="author">Christopher&nbsp;Re</span>&nbsp;(Stanford University)
@@ -61,7 +62,7 @@
             </p>
 
             <p class="schedule-item" data-id="390">
-                <strong class="schedule-item-title">Helix: Holistic Optimization for Accelerating Iterative Machine Learning</strong>
+                <strong class="schedule-item-title" data-num="1.4">Helix: Holistic Optimization for Accelerating Iterative Machine Learning</strong>
                 <span class="schedule-item-people">
                     <span class="author">Doris&nbsp;Xin</span>&nbsp;(University of Illinois at Urbana-Champaign),
                     <span class="author">Stephen&nbsp;Macke</span>&nbsp;(University of Illinois at Urbana-Champaign),
@@ -78,7 +79,7 @@
             </p>
 
             <p class="schedule-item" data-id="302">
-                <strong class="schedule-item-title">Rafiki: Machine Learning as an Analytics Service System</strong>
+                <strong class="schedule-item-title" data-num="1.5">Rafiki: Machine Learning as an Analytics Service System</strong>
                 <span class="schedule-item-people">
                     <span class="author">Wei&nbsp;Wang</span>&nbsp;(National University of Singapore),
                     <span class="author">Jinyang&nbsp;Gao</span>&nbsp;(National University of Singapore),
@@ -104,7 +105,7 @@
             </div>
             
             <p class="schedule-item" data-id="381">
-                <strong class="schedule-item-title">A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</strong>
+                <strong class="schedule-item-title" data-num="2.1">A Study of Partitioning Policies for Graph Analytics on Large-scale Distributed Platforms</strong>
                 <span class="schedule-item-people">
                     <span class="author">Gurbinder&nbsp;S&nbsp;Gill</span>&nbsp;(The University of Texas at Austin),
                     <span class="author">Roshan&nbsp;Dathathri</span>&nbsp;(The University of Texas at Austin),
@@ -119,7 +120,7 @@
             </p>
 
             <p class="schedule-item" data-id="676">
-                <strong class="schedule-item-title">Dynamic Scaling for Parallel Graph Computations</strong>
+                <strong class="schedule-item-title" data-num="2.2">Dynamic Scaling for Parallel Graph Computations</strong>
                 <span class="schedule-item-people">
                     <span class="author">Wenfei&nbsp;Fan</span>&nbsp;(Univ. of Edinburgh & Beihang Univ.),
                     <span class="author">Chunming&nbsp;Hu</span>&nbsp;(Beihang Univ.),
@@ -136,7 +137,7 @@
             </p>
 
             <p class="schedule-item" data-id="683">
-                <strong class="schedule-item-title">Multi-Dimensional Balanced Graph Partitioning via Projected Gradient Descent</strong>
+                <strong class="schedule-item-title" data-num="2.3">Multi-Dimensional Balanced Graph Partitioning via Projected Gradient Descent</strong>
                 <span class="schedule-item-people">
                     <span class="author">Dmitrii&nbsp;Avdiukhin</span>&nbsp;(Indiana University, Bloomington),
                     <span class="author">Sergey&nbsp;Pupyrev</span>&nbsp;(Facebook), and
@@ -150,7 +151,7 @@
             </p>
 
             <p class="schedule-item" data-id="680">
-                <strong class="schedule-item-title">TopoX: Topology Refactorization for Efficient Graph Partitioning and Processing</strong>
+                <strong class="schedule-item-title" data-num="2.4">TopoX: Topology Refactorization for Efficient Graph Partitioning and Processing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Dongsheng&nbsp;Li</span>&nbsp;(National University of Defense Technology),
                     <span class="author">Yiming&nbsp;Zhang</span>&nbsp;(National University of Defense Technology),
@@ -165,7 +166,7 @@
             </p>
 
             <p class="schedule-item" data-id="304">
-                <strong class="schedule-item-title">Start Late or Finish Early: A Distributed Graph Processing System with Redundancy Reduction</strong>
+                <strong class="schedule-item-title" data-num="2.5">Start Late or Finish Early: A Distributed Graph Processing System with Redundancy Reduction</strong>
                 <span class="schedule-item-people">
                     <span class="author">Shuang&nbsp;Song</span>&nbsp;(The University of Texas at Austin),
                     <span class="author">Xu&nbsp;Liu</span>&nbsp;(College of William and Mary),
@@ -188,7 +189,7 @@
             </div>
             
             <p class="schedule-item" data-id="90">
-                <strong class="schedule-item-title">Interactive Checks for Coordination Avoidance</strong>
+                <strong class="schedule-item-title" data-num="3.1">Interactive Checks for Coordination Avoidance</strong>
                 <span class="schedule-item-people">
                     <span class="author">Michael&nbsp;J&nbsp;Whittaker</span>&nbsp;(UC Berkeley) and
                     <span class="author">Joseph&nbsp;M.&nbsp;Hellerstein</span>&nbsp;(UC Berkeley)
@@ -201,7 +202,7 @@
             </p>
 
             <p class="schedule-item" data-id="1146">
-                <strong class="schedule-item-title">Ocean Vista: Gossip-Based Visibility Control for Speedy Geo-Distributed Transactions</strong>
+                <strong class="schedule-item-title" data-num="3.2">Ocean Vista: Gossip-Based Visibility Control for Speedy Geo-Distributed Transactions</strong>
                 <span class="schedule-item-people">
                     <span class="author">Hua&nbsp;Fan</span>&nbsp;(Alibaba Group Inc.) and
                     <span class="author">Wojciech&nbsp;Golab</span>&nbsp;(University of Waterloo)
@@ -214,7 +215,7 @@
             </p>
 
             <p class="schedule-item" data-id="496">
-                <strong class="schedule-item-title">Snapshot Semantics for Temporal Multiset Relations</strong>
+                <strong class="schedule-item-title" data-num="3.3">Snapshot Semantics for Temporal Multiset Relations</strong>
                 <span class="schedule-item-people">
                     <span class="author">Anton&nbsp;Dignös</span>&nbsp;(Free University of Bozen-Bolzano),
                     <span class="author">Boris&nbsp;Glavic</span>&nbsp;(Illinois Institute of Technology),
@@ -230,7 +231,7 @@
             </p>
 
             <p class="schedule-item" data-id="1154">
-                <strong class="schedule-item-title">SLOG: Serializable, LOwlatency, Georeplicated Transactions</strong>
+                <strong class="schedule-item-title" data-num="3.4">SLOG: Serializable, LOwlatency, Georeplicated Transactions</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kun&nbsp;Ren</span>&nbsp;(eBay),
                     <span class="author">Dennis&nbsp;Li</span>&nbsp;(UMD), and
@@ -244,7 +245,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1204">
-                <strong class="schedule-item-title">FineLine: Log-structured Transactional Storage and Recovery</strong>
+                <strong class="schedule-item-title" data-num="3.5">FineLine: Log-structured Transactional Storage and Recovery</strong>
                 <span class="schedule-item-people">
                     <span class="author">Caetano&nbsp;Sauer</span>&nbsp;(TU Kaiserslautern),
                     <span class="author">Goetz&nbsp;Graefe</span>&nbsp;(Google), and
@@ -259,7 +260,7 @@
             </div>
             
             <p class="schedule-item" data-id="351">
-                <strong class="schedule-item-title">On Obtaining Stable Rankings</strong>
+                <strong class="schedule-item-title" data-num="4.1">On Obtaining Stable Rankings</strong>
                 <span class="schedule-item-people">
                     <span class="author">Abolfazl&nbsp;Asudeh</span>&nbsp;(University of Michigan),
                     <span class="author">H.&nbsp;V.&nbsp;Jagadish</span>&nbsp;(University of Michigan),
@@ -274,7 +275,7 @@
             </p>
 
             <p class="schedule-item" data-id="1142">
-                <strong class="schedule-item-title">Intermittent Query Processing</strong>
+                <strong class="schedule-item-title" data-num="4.2">Intermittent Query Processing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Dixin&nbsp;Tang</span>&nbsp;(University of Chicago),
                     <span class="author">Zechao&nbsp;Shang</span>&nbsp;(University of Chicago),
@@ -290,7 +291,7 @@
             </p>
 
             <p class="schedule-item" data-id="1130">
-                <strong class="schedule-item-title">Automated Verification of Query Equivalence Using Satisfiability Modulo Theories</strong>
+                <strong class="schedule-item-title" data-num="4.3">Automated Verification of Query Equivalence Using Satisfiability Modulo Theories</strong>
                 <span class="schedule-item-people">
                     <span class="author">Qi&nbsp;Zhou</span>&nbsp;(Georgia Institute of Technology),
                     <span class="author">Joy&nbsp;Arulraj</span>&nbsp;(Georgia Institute of Technology),
@@ -306,7 +307,7 @@
             </p>
 
             <p class="schedule-item" data-id="974">
-                <strong class="schedule-item-title">Progressive Top-k Subarray Query Processing in Array Databases</strong>
+                <strong class="schedule-item-title" data-num="4.4">Progressive Top-k Subarray Query Processing in Array Databases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Dalsu&nbsp;Choi</span>&nbsp;(Korea University),
                     <span class="author">Chang-Sup&nbsp;Park</span>&nbsp;(Dongduk Women's University), and
@@ -320,7 +321,7 @@
             </p>
 
             <p class="schedule-item" data-id="357">
-                <strong class="schedule-item-title">Chasing similarity: distribution-aware aggregation scheduling</strong>
+                <strong class="schedule-item-title" data-num="4.5">Chasing similarity: distribution-aware aggregation scheduling</strong>
                 <span class="schedule-item-people">
                     <span class="author">Feilong&nbsp;Liu</span>&nbsp;(The Ohio State University),
                     <span class="author">Ario&nbsp;Salmasi</span>&nbsp;(The Ohio State University),
@@ -341,7 +342,7 @@
             </div>
             
             <p class="schedule-item" data-id="495">
-                <strong class="schedule-item-title">Autoscaling Tiered Cloud Storage in Anna</strong>
+                <strong class="schedule-item-title" data-num="5.1">Autoscaling Tiered Cloud Storage in Anna</strong>
                 <span class="schedule-item-people">
                     <span class="author">Chenggang&nbsp;Wu</span>&nbsp;(UC Berkeley),
                     <span class="author">Vikram&nbsp;Sreekanti</span>&nbsp;(UC Berkeley), and
@@ -355,7 +356,7 @@
             </p>
 
             <p class="schedule-item" data-id="1126">
-                <strong class="schedule-item-title">iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases</strong>
+                <strong class="schedule-item-title" data-num="5.2">iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Jian&nbsp;Tan</span>&nbsp;(Alibaba),
                     <span class="author">Tieying&nbsp;Zhang</span>&nbsp;(Alibaba Group),
@@ -376,7 +377,7 @@
             </p>
 
             <p class="schedule-item" data-id="435">
-                <strong class="schedule-item-title">Unifying Consensus and Atomic Commitment for Effective Cloud Data Management</strong>
+                <strong class="schedule-item-title" data-num="5.3">Unifying Consensus and Atomic Commitment for Effective Cloud Data Management</strong>
                 <span class="schedule-item-people">
                     <span class="author">Sujaya&nbsp;A&nbsp;Maiyya</span>&nbsp;(University Of California, Santa Barbara),
                     <span class="author">Faisal&nbsp;Nawab</span>&nbsp;(UC Santa Cruz),
@@ -391,7 +392,7 @@
             </p>
 
             <p class="schedule-item" data-id="504">
-                <strong class="schedule-item-title">Pangea: Monolithic Distributed Storage for Data Analytics</strong>
+                <strong class="schedule-item-title" data-num="5.4">Pangea: Monolithic Distributed Storage for Data Analytics</strong>
                 <span class="schedule-item-people">
                     <span class="author">Jia&nbsp;Zou</span>&nbsp;(Rice University),
                     <span class="author">Arun&nbsp;Iyengar</span>&nbsp;(IBM T.J. Watson Research Center), and
@@ -405,7 +406,7 @@
             </p>
 
             <p class="schedule-item" data-id="1147">
-                <strong class="schedule-item-title">An IDEA: An Ingestion Framework for Data Enrichment in AsterixDB</strong>
+                <strong class="schedule-item-title" data-num="5.5">An IDEA: An Ingestion Framework for Data Enrichment in AsterixDB</strong>
                 <span class="schedule-item-people">
                     <span class="author">Xikui&nbsp;Wang</span>&nbsp;(University of California, Irvine) and
                     <span class="author">Michael&nbsp;Carey</span>&nbsp;(University of California, Irvine)
@@ -424,7 +425,7 @@
             </div>
             
             <p class="schedule-item" data-id="1099">
-                <strong class="schedule-item-title">Distributed Subgraph Matching on Timely Dataflow</strong>
+                <strong class="schedule-item-title" data-num="6.1">Distributed Subgraph Matching on Timely Dataflow</strong>
                 <span class="schedule-item-people">
                     <span class="author">Longbin&nbsp;Lai</span>&nbsp;(UNSW),
                     <span class="author">Zhu&nbsp;Qing</span>&nbsp;(East China Normal University),
@@ -448,7 +449,7 @@
             </p>
 
             <p class="schedule-item" data-id="200">
-                <strong class="schedule-item-title">Local Algorithms for Hierarchical Dense Subgraph Discovery</strong>
+                <strong class="schedule-item-title" data-num="6.2">Local Algorithms for Hierarchical Dense Subgraph Discovery</strong>
                 <span class="schedule-item-people">
                     <span class="author">A.&nbsp;Erdem&nbsp;Sariyuce</span>&nbsp;(University at Buffalo, US),
                     <span class="author">Seshadhri&nbsp;C.</span>&nbsp;(UCSC), and
@@ -462,7 +463,7 @@
             </p>
 
             <p class="schedule-item" data-id="1135">
-                <strong class="schedule-item-title">Fast and Robust Distributed Subgraph Enumeration</strong>
+                <strong class="schedule-item-title" data-num="6.3">Fast and Robust Distributed Subgraph Enumeration</strong>
                 <span class="schedule-item-people">
                     <span class="author">Xuguang&nbsp;Ren</span>&nbsp;(Griffith University),
                     <span class="author">Junhu&nbsp;Wang</span>&nbsp;(Griffith University),
@@ -477,7 +478,7 @@
             </p>
 
             <p class="schedule-item" data-id="1093">
-                <strong class="schedule-item-title">Finding Theme Communities from Database Networks</strong>
+                <strong class="schedule-item-title" data-num="6.4">Finding Theme Communities from Database Networks</strong>
                 <span class="schedule-item-people">
                     <span class="author">Lingyang&nbsp;Chu</span>&nbsp;(Simon Fraser University),
                     <span class="author">Zhefeng&nbsp;Wang</span>&nbsp;(Huawei Technologies),
@@ -494,7 +495,7 @@
             </p>
 
             <p class="schedule-item" data-id="1104">
-                <strong class="schedule-item-title">Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks</strong>
+                <strong class="schedule-item-title" data-num="6.5">Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kai&nbsp;Wang</span>&nbsp;(University of New South Wales),
                     <span class="author">Xuemin&nbsp;Lin</span>&nbsp;(University of New South Wales),
@@ -516,7 +517,7 @@
             </div>
             
             <p class="schedule-item" data-id="1131">
-                <strong class="schedule-item-title">Towards a Unified Framework for String Similarity Joins</strong>
+                <strong class="schedule-item-title" data-num="7.1">Towards a Unified Framework for String Similarity Joins</strong>
                 <span class="schedule-item-people">
                     <span class="author">Pengfei&nbsp;Xu</span>&nbsp;(University of Helsinki) and
                     <span class="author">Jiaheng&nbsp;Lu</span>&nbsp;(University of Helsinki)
@@ -529,7 +530,7 @@
             </p>
 
             <p class="schedule-item" data-id="173">
-                <strong class="schedule-item-title">Pigeonring: A Principle for Faster Thresholded Similarity Search</strong>
+                <strong class="schedule-item-title" data-num="7.2">Pigeonring: A Principle for Faster Thresholded Similarity Search</strong>
                 <span class="schedule-item-people">
                     <span class="author">Jianbin&nbsp;Qin</span>&nbsp;(The University of Edinburgh) and
                     <span class="author">Chuan&nbsp;Xiao</span>&nbsp;(Nagoya University)
@@ -542,7 +543,7 @@
             </p>
 
             <p class="schedule-item" data-id="301">
-                <strong class="schedule-item-title">The Lernaean Hydra of Data Series Similarity Search: An Experimental Evaluation of the State of the Art</strong>
+                <strong class="schedule-item-title" data-num="7.3">The Lernaean Hydra of Data Series Similarity Search: An Experimental Evaluation of the State of the Art</strong>
                 <span class="schedule-item-people">
                     <span class="author">Karima&nbsp;Echihabi</span>&nbsp;(ENSIAS, Université Mohammed V de Rabat),
                     <span class="author">Kostas&nbsp;Zoumpatianos</span>&nbsp;(Harvard University),
@@ -557,7 +558,7 @@
             </p>
 
             <p class="schedule-item" data-id="776">
-                <strong class="schedule-item-title">Balance-Aware Distributed String Similarity-Based Query Processing System</strong>
+                <strong class="schedule-item-title" data-num="7.4">Balance-Aware Distributed String Similarity-Based Query Processing System</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ji&nbsp;Sun</span>&nbsp;(Tsinghua University),
                     <span class="author">Zeyuan&nbsp;Shang</span>&nbsp;(MIT),
@@ -573,7 +574,7 @@
             </p>
 
             <p class="schedule-item" data-id="1127">
-                <strong class="schedule-item-title">Online Template Induction for Machine-Generated Emails</strong>
+                <strong class="schedule-item-title" data-num="7.5">Online Template Induction for Machine-Generated Emails</strong>
                 <span class="schedule-item-people">
                     <span class="author">Michael&nbsp;J&nbsp;Whittaker</span>&nbsp;(UC Berkeley),
                     <span class="author">Nick&nbsp;Edmonds</span>&nbsp;(Google),
@@ -591,11 +592,11 @@
 
             <div class="schedule-head" id="Research_Session_8">
                 <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Research Session 8: Hardware and Machine Learning</strong>
-                <span class="schedule-chair">Chaired by <em>Berthold Reinwald</em> (IBM Research-Almaden, USA)</span>
+                <span class="schedule-chair">Chaired by <em>Berthold Reinwald</em> (IBM Research - Almaden, USA)</span>
             </div>
             
             <p class="schedule-item" data-id="428">
-                <strong class="schedule-item-title">HetExchange: Encapsulating heterogeneous CPU-GPU parallelism in JIT compiled engines</strong>
+                <strong class="schedule-item-title" data-num="8.1">HetExchange: Encapsulating heterogeneous CPU-GPU parallelism in JIT compiled engines</strong>
                 <span class="schedule-item-people">
                     <span class="author">Periklis&nbsp;Chrysogelos</span>&nbsp;(EPFL),
                     <span class="author">Manos&nbsp;Karpathiotakis</span>&nbsp;(Facebook),
@@ -610,7 +611,7 @@
             </p>
 
             <p class="schedule-item" data-id="425">
-                <strong class="schedule-item-title">Analyzing Efficient Stream Processing on Modern Hardware</strong>
+                <strong class="schedule-item-title" data-num="8.2">Analyzing Efficient Stream Processing on Modern Hardware</strong>
                 <span class="schedule-item-people">
                     <span class="author">Steffen&nbsp;Zeuch</span>&nbsp;(DFKI GmbH),
                     <span class="author">Bonaventura&nbsp;Del&nbsp;Monte</span>&nbsp;(DFKI GmbH),
@@ -630,7 +631,7 @@
             </p>
 
             <p class="schedule-item" data-id="574">
-                <strong class="schedule-item-title">Accelerating Generalized Linear Models with MLWeaving: A One-Size-Fits-All System for Any-precision Learning</strong>
+                <strong class="schedule-item-title" data-num="8.3">Accelerating Generalized Linear Models with MLWeaving: A One-Size-Fits-All System for Any-precision Learning</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zeke&nbsp;Wang</span>&nbsp;(ETH Zurich),
                     <span class="author">Kaan&nbsp;Kara</span>&nbsp;(ETH Zurich),
@@ -647,7 +648,7 @@
             </p>
 
             <p class="schedule-item" data-id="1140">
-                <strong class="schedule-item-title">Crossbow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers</strong>
+                <strong class="schedule-item-title" data-num="8.4">Crossbow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers</strong>
                 <span class="schedule-item-people">
                     <span class="author">Alexandros&nbsp;Koliousis</span>&nbsp;(Imperial College London),
                     <span class="author">Pijika&nbsp;Watcharapichat</span>&nbsp;(Microsoft Research),
@@ -664,7 +665,7 @@
             </p>
 
             <p class="schedule-item" data-id="383">
-                <strong class="schedule-item-title">ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation</strong>
+                <strong class="schedule-item-title" data-num="8.5">ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kaan&nbsp;Kara</span>&nbsp;(ETH Zurich),
                     <span class="author">Ken&nbsp;Eguro</span>&nbsp;(Microsoft),
@@ -695,7 +696,7 @@
             </div>
             
             <p class="schedule-item" data-id="1143">
-                <strong class="schedule-item-title">Hillview: A trillion-cell spreadsheet for big data</strong>
+                <strong class="schedule-item-title" data-num="9.1">Hillview: A trillion-cell spreadsheet for big data</strong>
                 <span class="schedule-item-people">
                     <span class="author">Mihai&nbsp;Budiu</span>&nbsp;(VMware Research),
                     <span class="author">Parikshit&nbsp;Gopalan</span>&nbsp;(VMware Research),
@@ -712,7 +713,7 @@
             </p>
 
             <p class="schedule-item" data-id="703">
-                <strong class="schedule-item-title">Yugong: Geo-Distributed Data and Job Placement at Scale</strong>
+                <strong class="schedule-item-title" data-num="9.2">Yugong: Geo-Distributed Data and Job Placement at Scale</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yuzhen&nbsp;Huang</span>&nbsp;(The Chinese University of Hong Kong),
                     <span class="author">Yingjie&nbsp;Shi</span>&nbsp;(Alibaba Group),
@@ -733,7 +734,7 @@
             </p>
 
             <p class="schedule-item" data-id="1100">
-                <strong class="schedule-item-title">Hyper Dimension Shuffle: Efficient Data Repartition at Petabyte Scale in Scope</strong>
+                <strong class="schedule-item-title" data-num="9.3">Hyper Dimension Shuffle: Efficient Data Repartition at Petabyte Scale in Scope</strong>
                 <span class="schedule-item-people">
                     <span class="author">Shi&nbsp;Qiao</span>&nbsp;(Microsoft),
                     <span class="author">Adrian&nbsp;Nicoara</span>&nbsp;(Microsoft),
@@ -750,7 +751,7 @@
             </p>
 
             <p class="schedule-item" data-id="575">
-                <strong class="schedule-item-title">Declarative Recursive Computation on an RDBMS, or, Why You Should Use a Database For Distributed Machine Learning</strong>
+                <strong class="schedule-item-title" data-num="9.4">Declarative Recursive Computation on an RDBMS, or, Why You Should Use a Database For Distributed Machine Learning</strong>
                 <span class="schedule-item-people">
                     <span class="author">Dimitrije&nbsp;Jankov</span>&nbsp;(Rice University),
                     <span class="author">Shangyu&nbsp;Luo</span>&nbsp;(Rice University),
@@ -768,7 +769,7 @@
             </p>
 
             <p class="schedule-item" data-id="665">
-                <strong class="schedule-item-title">Procella: Unifying serving and analytical data at YouTube</strong>
+                <strong class="schedule-item-title" data-num="9.5">Procella: Unifying serving and analytical data at YouTube</strong>
                 <span class="schedule-item-people">
                     <span class="author">Biswapesh&nbsp;Chattopadhyay</span>&nbsp;(Google),
                     <span class="author">Priyam&nbsp;Dutta</span>&nbsp;(Google),
@@ -807,7 +808,7 @@
             </div>
             
             <p class="schedule-item" data-id="568">
-                <strong class="schedule-item-title">Deducing Certain Fixes to Graphs</strong>
+                <strong class="schedule-item-title" data-num="10.1">Deducing Certain Fixes to Graphs</strong>
                 <span class="schedule-item-people">
                     <span class="author">Wenfei&nbsp;Fan</span>&nbsp;(Univ. of Edinburgh & Beihang Univ.),
                     <span class="author">Ping&nbsp;Lu</span>&nbsp;(Beihang Univ.),
@@ -822,7 +823,7 @@
             </p>
 
             <p class="schedule-item" data-id="497">
-                <strong class="schedule-item-title">Certus: An Effective Entity Resolution Approach with Graph Differential Dependencies (GDDs)</strong>
+                <strong class="schedule-item-title" data-num="10.2">Certus: An Effective Entity Resolution Approach with Graph Differential Dependencies (GDDs)</strong>
                 <span class="schedule-item-people">
                     <span class="author">Selasi&nbsp;Kwashie</span>&nbsp;(University of South Australia),
                     <span class="author">Jixue&nbsp;Liu</span>&nbsp;(University of South Australia),
@@ -839,9 +840,9 @@
             </p>
 
             <p class="schedule-item" data-id="1166">
-                <strong class="schedule-item-title">Efficient Algorithms for Densest Subgraph Discovery</strong>
+                <strong class="schedule-item-title" data-num="10.3">Efficient Algorithms for Densest Subgraph Discovery</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Yixiang&nbsp;Fang</span>&nbsp;(University of New South Wales),
+                    <span class="author">Yixiang&nbsp;Fang</span>&nbsp;(Guangzhou University),
                     <span class="author">Kaiqiang&nbsp;Yu</span>&nbsp;(The University of Hong Kong),
                     <span class="author">Reynold&nbsp;Cheng</span>&nbsp;(The University of Hong Kong),
                     <span class="author">Laks&nbsp;V.S.&nbsp;Lakshmanan</span>&nbsp;(The University of British Columbia), and
@@ -855,7 +856,7 @@
             </p>
 
             <p class="schedule-item" data-id="386">
-                <strong class="schedule-item-title">Beyond Macrobenchmarks: Microbenchmark-based Graph Database Evaluation</strong>
+                <strong class="schedule-item-title" data-num="10.4">Beyond Macrobenchmarks: Microbenchmark-based Graph Database Evaluation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Matteo&nbsp;Lissandrini</span>&nbsp;(Aalborg University),
                     <span class="author">Martin&nbsp;MB&nbsp;Brugnara</span>&nbsp;(University of Trento), and
@@ -869,7 +870,7 @@
             </p>
 
             <p class="schedule-item" data-id="382">
-                <strong class="schedule-item-title">Utility-Driven Graph Summarization</strong>
+                <strong class="schedule-item-title" data-num="10.5">Utility-Driven Graph Summarization</strong>
                 <span class="schedule-item-people">
                     <span class="author">K.&nbsp;Ashwin&nbsp;Kumar</span>&nbsp;(Symantec Research Labs) and
                     <span class="author">Petros&nbsp;Efstathopoulos</span>&nbsp;(Symantec Research Labs)
@@ -888,7 +889,7 @@
             </div>
             
             <p class="schedule-item" data-id="389">
-                <strong class="schedule-item-title">Stream Frequency Over Interval Queries</strong>
+                <strong class="schedule-item-title" data-num="11.1">Stream Frequency Over Interval Queries</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ran&nbsp;Ben&nbsp;Basat</span>&nbsp;(Harvard University),
                     <span class="author">Roy&nbsp;Friedman</span>&nbsp;(Technion), and
@@ -902,7 +903,7 @@
             </p>
 
             <p class="schedule-item" data-id="354">
-                <strong class="schedule-item-title">SWIFT: Mining Representative Patterns from Large Event Streams</strong>
+                <strong class="schedule-item-title" data-num="11.2">SWIFT: Mining Representative Patterns from Large Event Streams</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yizhou&nbsp;Yan</span>&nbsp;(Worcester Polytechnic Institute),
                     <span class="author">Lei&nbsp;Cao</span>&nbsp;(MIT),
@@ -917,7 +918,7 @@
             </p>
 
             <p class="schedule-item" data-id="1112">
-                <strong class="schedule-item-title">Optimal and General Out-of-Order Sliding-Window Aggregation</strong>
+                <strong class="schedule-item-title" data-num="11.3">Optimal and General Out-of-Order Sliding-Window Aggregation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kanat&nbsp;Tangwongsan</span>&nbsp;(Mahidol University International College),
                     <span class="author">Martin&nbsp;Hirzel</span>&nbsp;(IBM Research), and
@@ -931,7 +932,7 @@
             </p>
 
             <p class="schedule-item" data-id="1048">
-                <strong class="schedule-item-title">From Anomaly Detection to Rumour Detection using Data Streams of Social Platforms</strong>
+                <strong class="schedule-item-title" data-num="11.4">From Anomaly Detection to Rumour Detection using Data Streams of Social Platforms</strong>
                 <span class="schedule-item-people">
                     <span class="author">Thanh&nbsp;Tam&nbsp;Nguyen</span>&nbsp;(Ecole Polytechnique Federale de Lausanne),
                     <span class="author">Matthias&nbsp;Weidlich</span>&nbsp;(Humboldt-Universität zu Berlin),
@@ -948,7 +949,7 @@
             </p>
 
             <p class="schedule-item" data-id="1124">
-                <strong class="schedule-item-title">Real-time Distributed Co-Movement Pattern Detection on Streaming Trajectories</strong>
+                <strong class="schedule-item-title" data-num="11.5">Real-time Distributed Co-Movement Pattern Detection on Streaming Trajectories</strong>
                 <span class="schedule-item-people">
                     <span class="author">Lu&nbsp;Chen</span>&nbsp;(Aalborg University, Denmark),
                     <span class="author">Yunjun&nbsp;Gao</span>&nbsp;(Zhejiang University),
@@ -971,7 +972,7 @@
             </div>
             
             <p class="schedule-item" data-id="1149">
-                <strong class="schedule-item-title">Generating Application-specific Data Layouts for In-memory Databases</strong>
+                <strong class="schedule-item-title" data-num="12.1">Generating Application-specific Data Layouts for In-memory Databases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Cong&nbsp;Yan</span>&nbsp;(University of Washington) and
                     <span class="author">Alvin&nbsp;Cheung</span>&nbsp;(UC Berkeley)
@@ -984,7 +985,7 @@
             </p>
 
             <p class="schedule-item" data-id="1148">
-                <strong class="schedule-item-title">DimmStore: Memory Power Optimization for Database Systems</strong>
+                <strong class="schedule-item-title" data-num="12.2">DimmStore: Memory Power Optimization for Database Systems</strong>
                 <span class="schedule-item-people">
                     <span class="author">Alexey&nbsp;Karyakin</span>&nbsp;(University of Waterloo) and
                     <span class="author">Kenneth&nbsp;Salem</span>&nbsp;(University of Waterloo)
@@ -997,7 +998,7 @@
             </p>
 
             <p class="schedule-item" data-id="1155">
-                <strong class="schedule-item-title">Accelerating Raw Data Analysis with the ACCORDA Software and Hardware Architecture</strong>
+                <strong class="schedule-item-title" data-num="12.3">Accelerating Raw Data Analysis with the ACCORDA Software and Hardware Architecture</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yuanwei&nbsp;Fang</span>&nbsp;(University of Chicago),
                     <span class="author">Chen&nbsp;Zou</span>&nbsp;(University of Chicago), and
@@ -1011,7 +1012,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1200">
-                <strong class="schedule-item-title">Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask</strong>
+                <strong class="schedule-item-title" data-num="12.4">Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask</strong>
                 <span class="schedule-item-people">
                     <span class="author">Timo&nbsp;Kersten</span>&nbsp;(TU Munich),
                     <span class="author">Viktor&nbsp;Leis</span>&nbsp;(TU Munich),
@@ -1023,7 +1024,7 @@
             </p>
 
             <p class="schedule-item" data-id="1160">
-                <strong class="schedule-item-title">Rethinking Database High Availability with RDMA Networks</strong>
+                <strong class="schedule-item-title" data-num="12.5">Rethinking Database High Availability with RDMA Networks</strong>
                 <span class="schedule-item-people">
                     <span class="author">Erfan&nbsp;Zamanian</span>&nbsp;(Brown University),
                     <span class="author">Xiangyao&nbsp;Yu</span>&nbsp;(MIT),
@@ -1044,7 +1045,7 @@
             </div>
             
             <p class="schedule-item" data-id="346">
-                <strong class="schedule-item-title">Towards a Learning Optimizer for Shared Clouds</strong>
+                <strong class="schedule-item-title" data-num="13.1">Towards a Learning Optimizer for Shared Clouds</strong>
                 <span class="schedule-item-people">
                     <span class="author">Chenggang&nbsp;Wu</span>&nbsp;(UC Berkeley),
                     <span class="author">Alekh&nbsp;Jindal</span>&nbsp;(Microsoft),
@@ -1062,7 +1063,7 @@
             </p>
 
             <p class="schedule-item" data-id="1153">
-                <strong class="schedule-item-title">Plan-Structured Deep Neural Network Models for Query Performance Prediction</strong>
+                <strong class="schedule-item-title" data-num="13.2">Plan-Structured Deep Neural Network Models for Query Performance Prediction</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ryan&nbsp;C&nbsp;Marcus</span>&nbsp;(Brandeis University) and
                     <span class="author">Olga&nbsp;Papaemmanouil</span>&nbsp;(Brandeis University)
@@ -1075,7 +1076,7 @@
             </p>
 
             <p class="schedule-item" data-id="1165">
-                <strong class="schedule-item-title">Neo: A Learned Query Optimizer</strong>
+                <strong class="schedule-item-title" data-num="13.3">Neo: A Learned Query Optimizer</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ryan&nbsp;C&nbsp;Marcus</span>&nbsp;(Brandeis University),
                     <span class="author">Parimarjan&nbsp;Negi</span>&nbsp;(MIT),
@@ -1094,7 +1095,7 @@
             </p>
 
             <p class="schedule-item" data-id="1156">
-                <strong class="schedule-item-title">Comparing Synopsis Techniques for Approximate Spatial Data Analysis</strong>
+                <strong class="schedule-item-title" data-num="13.4">Comparing Synopsis Techniques for Approximate Spatial Data Analysis</strong>
                 <span class="schedule-item-people">
                     <span class="author">A.&nbsp;B.&nbsp;Siddique</span>&nbsp;(University of California, Riverside),
                     <span class="author">Ahmed&nbsp;Eldawy</span>&nbsp;(University of California, Riverside), and
@@ -1114,7 +1115,7 @@
             </div>
             
             <p class="schedule-item" data-id="429">
-                <strong class="schedule-item-title">Meta-Mappings for Schema Mapping Reuse</strong>
+                <strong class="schedule-item-title" data-num="14.1">Meta-Mappings for Schema Mapping Reuse</strong>
                 <span class="schedule-item-people">
                     <span class="author">Paolo&nbsp;Atzeni</span>&nbsp;(Roma Tre University),
                     <span class="author">Luigi&nbsp;Bellomarini</span>&nbsp;(Banca d'Italia),
@@ -1129,7 +1130,7 @@
             </p>
 
             <p class="schedule-item" data-id="384">
-                <strong class="schedule-item-title">Cost-efficient Data Acquisition on Online Data Marketplaces for Correlation Analysis</strong>
+                <strong class="schedule-item-title" data-num="14.2">Cost-efficient Data Acquisition on Online Data Marketplaces for Correlation Analysis</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yanying&nbsp;Li</span>&nbsp;(Stevens Institute of Technology),
                     <span class="author">Haipei&nbsp;Sun</span>&nbsp;(Stevens Institute of Technology),
@@ -1144,7 +1145,7 @@
             </p>
 
             <p class="schedule-item" data-id="356">
-                <strong class="schedule-item-title">Smurf: Self-Service String Matching Using Random Forests</strong>
+                <strong class="schedule-item-title" data-num="14.3">Smurf: Self-Service String Matching Using Random Forests</strong>
                 <span class="schedule-item-people">
                     <span class="author">Paul&nbsp;Suganthan&nbsp;G&nbsp;C</span>&nbsp;(University of Wisconsin-Madison),
                     <span class="author">Adel&nbsp;Ardalan</span>&nbsp;(University of Wisconsin-Madison),
@@ -1159,7 +1160,7 @@
             </p>
 
             <p class="schedule-item" data-id="226">
-                <strong class="schedule-item-title">Cost-Effective Data Annotation using Game-Based Crowdsourcing</strong>
+                <strong class="schedule-item-title" data-num="14.4">Cost-Effective Data Annotation using Game-Based Crowdsourcing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Jingru&nbsp;Yang</span>&nbsp;(Renmin University of China),
                     <span class="author">Ju&nbsp;Fan</span>&nbsp;(Renmin University of China),
@@ -1176,7 +1177,7 @@
             </p>
 
             <p class="schedule-item" data-id="385">
-                <strong class="schedule-item-title">Cleaning Crowdsourced Labels Using Oracles For Statistical Classification</strong>
+                <strong class="schedule-item-title" data-num="14.5">Cleaning Crowdsourced Labels Using Oracles For Statistical Classification</strong>
                 <span class="schedule-item-people">
                     <span class="author">Mohamad&nbsp;Dolatshah</span>&nbsp;(Simon Fraser University),
                     <span class="author">Mathew&nbsp;Teoh</span>&nbsp;(Simon Fraser University),
@@ -1193,11 +1194,11 @@
 
             <div class="schedule-head" id="Research_Session_15">
                 <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Research Session 15: New Architectures and Caching</strong>
-                <span class="schedule-chair">Chaired by <em>Mohamed Eltabakh</em> (Teradata, USA)</span>
+                <span class="schedule-chair">Chaired by <em>Mohamed Eltabakh</em> (WPI, USA)</span>
             </div>
             
             <p class="schedule-item" data-id="427">
-                <strong class="schedule-item-title">Efficient Data Ingestion and Query Processing for LSM-Based Storage Systems</strong>
+                <strong class="schedule-item-title" data-num="15.1">Efficient Data Ingestion and Query Processing for LSM-Based Storage Systems</strong>
                 <span class="schedule-item-people">
                     <span class="author">Chen&nbsp;Luo</span>&nbsp;(University of California, Irvine) and
                     <span class="author">Michael&nbsp;Carey</span>&nbsp;(University of California, Irvine)
@@ -1210,7 +1211,7 @@
             </p>
 
             <p class="schedule-item" data-id="573">
-                <strong class="schedule-item-title">DASH: Database Shadowing for Mobile DBMS</strong>
+                <strong class="schedule-item-title" data-num="15.2">DASH: Database Shadowing for Mobile DBMS</strong>
                 <span class="schedule-item-people">
                     <span class="author">Youjip&nbsp;Won</span>&nbsp;(KAIST),
                     <span class="author">Sundoo&nbsp;Kim</span>&nbsp;(Hanyang University),
@@ -1226,7 +1227,7 @@
             </p>
 
             <p class="schedule-item" data-id="1109">
-                <strong class="schedule-item-title">Block as a Value for SQL over NoSQL</strong>
+                <strong class="schedule-item-title" data-num="15.3">Block as a Value for SQL over NoSQL</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yang&nbsp;Cao</span>&nbsp;(University of Edinburgh),
                     <span class="author">Wenfei&nbsp;Fan</span>&nbsp;(Univ. of Edinburgh & Beihang Univ.), and
@@ -1240,7 +1241,7 @@
             </p>
 
             <p class="schedule-item" data-id="506">
-                <strong class="schedule-item-title">Cache-aware load balancing of data center applications</strong>
+                <strong class="schedule-item-title" data-num="15.4">Cache-aware load balancing of data center applications</strong>
                 <span class="schedule-item-people">
                     <span class="author">Aaron&nbsp;Archer</span>&nbsp;(Google),
                     <span class="author">Kevin&nbsp;Aydin</span>&nbsp;(Google),
@@ -1258,7 +1259,7 @@
             </p>
 
             <p class="schedule-item" data-id="494">
-                <strong class="schedule-item-title">Design, Implementation, and Evaluation of Write-Back Policy with Cache Augmented Data Stores</strong>
+                <strong class="schedule-item-title" data-num="15.5">Design, Implementation, and Evaluation of Write-Back Policy with Cache Augmented Data Stores</strong>
                 <span class="schedule-item-people">
                     <span class="author">Shahram&nbsp;Ghandeharizadeh</span>&nbsp;(University of Southern California) and
                     <span class="author">Hieu&nbsp;T&nbsp;Nguyen</span>&nbsp;(University of Southern California)
@@ -1277,7 +1278,7 @@
             </div>
             
             <p class="schedule-item" data-id="227">
-                <strong class="schedule-item-title">Optimization for Active Learning-based Interactive Database Exploration</strong>
+                <strong class="schedule-item-title" data-num="16.1">Optimization for Active Learning-based Interactive Database Exploration</strong>
                 <span class="schedule-item-people">
                     <span class="author">Enhui&nbsp;Huang</span>&nbsp;(Ecole Polytechnique),
                     <span class="author">Liping&nbsp;Peng</span>&nbsp;(University of Massachusetts Amherst),
@@ -1294,7 +1295,7 @@
             </p>
 
             <p class="schedule-item" data-id="388">
-                <strong class="schedule-item-title">DIFF: A Relational Interface for Large-Scale Data Explanation</strong>
+                <strong class="schedule-item-title" data-num="16.2">DIFF: A Relational Interface for Large-Scale Data Explanation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Firas&nbsp;Abuzaid</span>&nbsp;(Stanford University),
                     <span class="author">Peter&nbsp;Kraft</span>&nbsp;(Stanford University),
@@ -1318,7 +1319,7 @@
             </p>
 
             <p class="schedule-item" data-id="572">
-                <strong class="schedule-item-title">Explain3D: Explaining Disagreements in Disjoint Datasets</strong>
+                <strong class="schedule-item-title" data-num="16.3">Explain3D: Explaining Disagreements in Disjoint Datasets</strong>
                 <span class="schedule-item-people">
                     <span class="author">Xiaolan&nbsp;Wang</span>&nbsp;(University of Massachusetts Amherst) and
                     <span class="author">Alexandra&nbsp;Meliou</span>&nbsp;(University of Massachusetts Amherst)
@@ -1331,7 +1332,7 @@
             </p>
 
             <p class="schedule-item" data-id="251">
-                <strong class="schedule-item-title">Exploring Change - A New Dimension of Data Analytics</strong>
+                <strong class="schedule-item-title" data-num="16.4">Exploring Change - A New Dimension of Data Analytics</strong>
                 <span class="schedule-item-people">
                     <span class="author">Tobias&nbsp;Bleifuß</span>&nbsp;(Hasso Plattner Institute),
                     <span class="author">Leon&nbsp;Bornemann</span>&nbsp;(Hasso Plattner Institute),
@@ -1348,7 +1349,7 @@
             </p>
 
             <p class="schedule-item" data-id="567">
-                <strong class="schedule-item-title">ProvCite: Provenance-based Data Citation</strong>
+                <strong class="schedule-item-title" data-num="16.5">ProvCite: Provenance-based Data Citation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yinjun&nbsp;Wu</span>&nbsp;(University of Pennsylvania),
                     <span class="author">Abdussalam&nbsp;Alawini</span>&nbsp;(University of Illinois at Urbana-Champaign),
@@ -1380,7 +1381,7 @@
             </div>
             
             <p class="schedule-item" data-id="1028">
-                <strong class="schedule-item-title">Megaphone: Latency-conscious state migration for distributed streaming dataflows</strong>
+                <strong class="schedule-item-title" data-num="17.1">Megaphone: Latency-conscious state migration for distributed streaming dataflows</strong>
                 <span class="schedule-item-people">
                     <span class="author">Moritz&nbsp;Hoffmann</span>&nbsp;(ETH Zurich),
                     <span class="author">Andrea&nbsp;Lattuada</span>&nbsp;(ETH Zurich),
@@ -1397,7 +1398,7 @@
             </p>
 
             <p class="schedule-item" data-id="426">
-                <strong class="schedule-item-title">Minimizing Cost by Reducing Scaling Operations in Distributed Stream Processing</strong>
+                <strong class="schedule-item-title" data-num="17.2">Minimizing Cost by Reducing Scaling Operations in Distributed Stream Processing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Michael&nbsp;Borkowski</span>&nbsp;(TU Wien),
                     <span class="author">Christoph&nbsp;Hochreiner</span>&nbsp;(TU Wien), and
@@ -1411,7 +1412,7 @@
             </p>
 
             <p class="schedule-item" data-id="424">
-                <strong class="schedule-item-title">Performance-Optimal Filtering: Bloom Overtakes Cuckoo at High Throughput</strong>
+                <strong class="schedule-item-title" data-num="17.3">Performance-Optimal Filtering: Bloom Overtakes Cuckoo at High Throughput</strong>
                 <span class="schedule-item-people">
                     <span class="author">Harald&nbsp;Lang</span>&nbsp;(TU Munich),
                     <span class="author">Thomas&nbsp;Neumann</span>&nbsp;(TU Munich),
@@ -1426,7 +1427,7 @@
             </p>
 
             <p class="schedule-item" data-id="505">
-                <strong class="schedule-item-title">Scaling-Up In-Memory Datalog Processing: Observations and Techniques</strong>
+                <strong class="schedule-item-title" data-num="17.4">Scaling-Up In-Memory Datalog Processing: Observations and Techniques</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zhiwei&nbsp;Fan</span>&nbsp;(University of Wisconsin-Madison),
                     <span class="author">Jianqiao&nbsp;Zhu</span>&nbsp;(University of Wisconsin-Madison),
@@ -1443,7 +1444,7 @@
             </p>
 
             <p class="schedule-item" data-id="1071">
-                <strong class="schedule-item-title">Selectivity Estimation for Range Predicates using Lightweight Models</strong>
+                <strong class="schedule-item-title" data-num="17.5">Selectivity Estimation for Range Predicates using Lightweight Models</strong>
                 <span class="schedule-item-people">
                     <span class="author">Anshuman&nbsp;Dutt</span>&nbsp;(Microsoft Research),
                     <span class="author">Chi&nbsp;Wang</span>&nbsp;(Microsoft Research),
@@ -1466,7 +1467,7 @@
             </div>
             
             <p class="schedule-item" data-id="303">
-                <strong class="schedule-item-title">Automatic Index Selection for Large-Scale Datalog Computation</strong>
+                <strong class="schedule-item-title" data-num="19.1">Automatic Index Selection for Large-Scale Datalog Computation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Pavle&nbsp;Subotic</span>&nbsp;(UCL),
                     <span class="author">Herbert&nbsp;Jordan</span>&nbsp;(University of Innsbruck),
@@ -1482,10 +1483,10 @@
             </p>
 
             <p class="schedule-item" data-id="38">
-                <strong class="schedule-item-title">List Intersection for Web Search: Algorithms, Cost Models, and Optimizations</strong>
+                <strong class="schedule-item-title" data-num="19.2">List Intersection for Web Search: Algorithms, Cost Models, and Optimizations</strong>
                 <span class="schedule-item-people">
                     <span class="author">Sunghwan&nbsp;Kim</span>&nbsp;(POSTECH),
-                    <span class="author">Taesung&nbsp;Lee</span>&nbsp;(IBM Research AI),
+                    <span class="author">Taesung&nbsp;Lee</span>&nbsp;(IBM Research),
                     <span class="author">Seungwon&nbsp;Hwang</span>&nbsp;(Yonsei University), and
                     <span class="author">Sameh&nbsp;Elnikety</span>&nbsp;(Microsoft Research)
                 </span>
@@ -1497,7 +1498,7 @@
             </p>
 
             <p class="schedule-item" data-id="418">
-                <strong class="schedule-item-title">Document Reordering for Faster Intersection</strong>
+                <strong class="schedule-item-title" data-num="19.3">Document Reordering for Faster Intersection</strong>
                 <span class="schedule-item-people">
                     <span class="author">Qi&nbsp;Wang</span>&nbsp;(New York University) and
                     <span class="author">Torsten&nbsp;Suel</span>&nbsp;(New York University)
@@ -1510,7 +1511,7 @@
             </p>
 
             <p class="schedule-item" data-id="364">
-                <strong class="schedule-item-title">Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph</strong>
+                <strong class="schedule-item-title" data-num="19.4">Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph</strong>
                 <span class="schedule-item-people">
                     <span class="author">Cong&nbsp;Fu</span>&nbsp;(Zhejiang University),
                     <span class="author">Chao&nbsp;Xiang</span>&nbsp;(Zhejiang University),
@@ -1525,7 +1526,7 @@
             </p>
 
             <p class="schedule-item" data-id="352">
-                <strong class="schedule-item-title">PS-Tree-Based Efficient Boolean Expression Matching for High Dimensional and Dense Workloads</strong>
+                <strong class="schedule-item-title" data-num="19.5">PS-Tree-Based Efficient Boolean Expression Matching for High Dimensional and Dense Workloads</strong>
                 <span class="schedule-item-people">
                     <span class="author">Shuping&nbsp;Ji</span>&nbsp;(Technical University of Munich) and
                     <span class="author">Hans-Arno&nbsp;Jacobsen</span>&nbsp;(University of Toronto)
@@ -1544,7 +1545,7 @@
             </div>
             
             <p class="schedule-item" data-id="502">
-                <strong class="schedule-item-title">User Guidance for Efficient Fact Checking</strong>
+                <strong class="schedule-item-title" data-num="20.1">User Guidance for Efficient Fact Checking</strong>
                 <span class="schedule-item-people">
                     <span class="author">Thanh&nbsp;Tam&nbsp;Nguyen</span>&nbsp;(EPFL),
                     <span class="author">Matthias&nbsp;Weidlich</span>&nbsp;(Humboldt-Universität zu Berlin),
@@ -1561,7 +1562,7 @@
             </p>
 
             <p class="schedule-item" data-id="344">
-                <strong class="schedule-item-title">Query Log Compression for Workload Analytics</strong>
+                <strong class="schedule-item-title" data-num="20.2">Query Log Compression for Workload Analytics</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ting&nbsp;Xie</span>&nbsp;(University at Buffalo, SUNY),
                     <span class="author">Varun&nbsp;Chandola</span>&nbsp;(University at Buffalo, SUNY), and
@@ -1575,7 +1576,7 @@
             </p>
 
             <p class="schedule-item" data-id="1134">
-                <strong class="schedule-item-title">Subjective Databases</strong>
+                <strong class="schedule-item-title" data-num="20.3">Subjective Databases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yuliang&nbsp;Li</span>&nbsp;(Megagon Labs),
                     <span class="author">Aaron&nbsp;Feng</span>&nbsp;(Megagon Labs),
@@ -1593,7 +1594,7 @@
             </p>
 
             <p class="schedule-item" data-id="1129">
-                <strong class="schedule-item-title">Example-Driven Query Intent Discovery: Abductive Reasoning using Semantic Similarity</strong>
+                <strong class="schedule-item-title" data-num="20.4">Example-Driven Query Intent Discovery: Abductive Reasoning using Semantic Similarity</strong>
                 <span class="schedule-item-people">
                     <span class="author">Anna&nbsp;Fariha</span>&nbsp;(University of Massachusetts Amherst) and
                     <span class="author">Alexandra&nbsp;Meliou</span>&nbsp;(University of Massachusetts Amherst)
@@ -1612,7 +1613,7 @@
             </div>
             
             <p class="schedule-item" data-id="1092">
-                <strong class="schedule-item-title">Constrained Shortest Path Query in a Large Time-Dependent Graph</strong>
+                <strong class="schedule-item-title" data-num="18.1">Constrained Shortest Path Query in a Large Time-Dependent Graph</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ye&nbsp;Yuan</span>&nbsp;(Beijing Institute of Technology),
                     <span class="author">Xiang&nbsp;Lian</span>&nbsp;(Kent State University),
@@ -1628,7 +1629,7 @@
             </p>
 
             <p class="schedule-item" data-id="423">
-                <strong class="schedule-item-title">Correlation Constraint Shortest Path over Large Multi-Relation Graphs</strong>
+                <strong class="schedule-item-title" data-num="18.2">Correlation Constraint Shortest Path over Large Multi-Relation Graphs</strong>
                 <span class="schedule-item-people">
                     <span class="author">Xiaofei&nbsp;Zhang</span>&nbsp;(University of Memphis) and
                     <span class="author">Tamer&nbsp;Özsu</span>&nbsp;(University of Waterloo)
@@ -1641,7 +1642,7 @@
             </p>
 
             <p class="schedule-item" data-id="666">
-                <strong class="schedule-item-title">An In-Depth Comparison of s-t Reliability Algorithms over Uncertain Graphs</strong>
+                <strong class="schedule-item-title" data-num="18.3">An In-Depth Comparison of s-t Reliability Algorithms over Uncertain Graphs</strong>
                 <span class="schedule-item-people">
                     <span class="author">Xiangyu&nbsp;Ke</span>&nbsp;(Nanyang Technological University),
                     <span class="author">Arijit&nbsp;Khan</span>&nbsp;(Nanyang Technological University), and
@@ -1655,7 +1656,7 @@
             </p>
 
             <p class="schedule-item" data-id="1161">
-                <strong class="schedule-item-title">Motivo: Fast Motif Counting via Succinct Color Coding and Adaptive Sampling</strong>
+                <strong class="schedule-item-title" data-num="18.4">Motivo: Fast Motif Counting via Succinct Color Coding and Adaptive Sampling</strong>
                 <span class="schedule-item-people">
                     <span class="author">Marco&nbsp;Bressan</span>&nbsp;(Sapienza University of Rome),
                     <span class="author">Stefano&nbsp;Leucci</span>&nbsp;(MPI-INF), and
@@ -1669,7 +1670,7 @@
             </p>
 
             <p class="schedule-item" data-id="1128">
-                <strong class="schedule-item-title">Querying Shortest Paths on Time Dependent Road Networks</strong>
+                <strong class="schedule-item-title" data-num="18.5">Querying Shortest Paths on Time Dependent Road Networks</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yong&nbsp;Wang</span>&nbsp;(Tsinghua University),
                     <span class="author">Guoliang&nbsp;Li</span>&nbsp;(Tsinghua University), and
@@ -1689,7 +1690,7 @@
             </div>
             
             <p class="schedule-item" data-id="685">
-                <strong class="schedule-item-title">A Comparative Evaluation of Order-Revealing Encryption Schemes and Secure Range-Query Protocols</strong>
+                <strong class="schedule-item-title" data-num="21.1">A Comparative Evaluation of Order-Revealing Encryption Schemes and Secure Range-Query Protocols</strong>
                 <span class="schedule-item-people">
                     <span class="author">Dmytro&nbsp;Bogatov</span>&nbsp;(Boston University),
                     <span class="author">George&nbsp;Kollios</span>&nbsp;(Boston University), and
@@ -1703,7 +1704,7 @@
             </p>
 
             <p class="schedule-item" data-id="1068">
-                <strong class="schedule-item-title">Obscure: Information-Theoretic Oblivious and Verifiable Aggregation Queries</strong>
+                <strong class="schedule-item-title" data-num="21.2">Obscure: Information-Theoretic Oblivious and Verifiable Aggregation Queries</strong>
                 <span class="schedule-item-people">
                     <span class="author">Peeyush&nbsp;Gupta</span>&nbsp;(UC Irvine),
                     <span class="author">Yin&nbsp;Li</span>&nbsp;(Xinyang Normal University),
@@ -1720,7 +1721,7 @@
             </p>
 
             <p class="schedule-item" data-id="1101">
-                <strong class="schedule-item-title">Answering Range Queries Under Local Differential Privacy</strong>
+                <strong class="schedule-item-title" data-num="21.3">Answering Range Queries Under Local Differential Privacy</strong>
                 <span class="schedule-item-people">
                     <span class="author">Graham&nbsp;Cormode</span>&nbsp;(University of Warwick),
                     <span class="author">Tejas&nbsp;Kulkarni</span>&nbsp;(University Of Warwick), and
@@ -1734,7 +1735,7 @@
             </p>
 
             <p class="schedule-item" data-id="1137">
-                <strong class="schedule-item-title">PrivateSQL: A Differentially Private SQL Query Engine</strong>
+                <strong class="schedule-item-title" data-num="21.4">PrivateSQL: A Differentially Private SQL Query Engine</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ios&nbsp;Kotsogiannis</span>&nbsp;(Duke University),
                     <span class="author">Yuchao&nbsp;Tao</span>&nbsp;(Duke University),
@@ -1752,7 +1753,7 @@
             </p>
 
             <p class="schedule-item" data-id="1162">
-                <strong class="schedule-item-title">Arx: An Encrypted Database using Semantically Secure Encryption</strong>
+                <strong class="schedule-item-title" data-num="21.5">Arx: An Encrypted Database using Semantically Secure Encryption</strong>
                 <span class="schedule-item-people">
                     <span class="author">Rishabh&nbsp;Poddar</span>&nbsp;(UC Berkeley),
                     <span class="author">Tobias&nbsp;Boelter</span>&nbsp;(UC Berkeley), and
@@ -1768,11 +1769,11 @@
 
             <div class="schedule-head" id="Research_Session_22">
                 <span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Research Session 22: Clustering and Outlier Detection</strong>
-                <span class="schedule-chair">Chaired by <em>Ye Yuan</em> (Northeastern University, China)</span>
+                <span class="schedule-chair">Chaired by <em>Ye Yuan</em> (Beijing Institute of Technology, China)</span>
             </div>
             
             <p class="schedule-item" data-id="684">
-                <strong class="schedule-item-title">Efficient Discovery of Sequence Outlier Patterns</strong>
+                <strong class="schedule-item-title" data-num="22.1">Efficient Discovery of Sequence Outlier Patterns</strong>
                 <span class="schedule-item-people">
                     <span class="author">Lei&nbsp;Cao</span>&nbsp;(MIT),
                     <span class="author">Yizhou&nbsp;Yan</span>&nbsp;(Worcester Polytechnic Institute),
@@ -1788,7 +1789,7 @@
             </p>
 
             <p class="schedule-item" data-id="1132">
-                <strong class="schedule-item-title">NETS: Extremely Fast Outlier Detection from a Data Stream via Set-Based Processing</strong>
+                <strong class="schedule-item-title" data-num="22.2">NETS: Extremely Fast Outlier Detection from a Data Stream via Set-Based Processing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Susik&nbsp;Yoon</span>&nbsp;(KAIST),
                     <span class="author">Jae-Gil&nbsp;Lee</span>&nbsp;(KAIST), and
@@ -1802,7 +1803,7 @@
             </p>
 
             <p class="schedule-item" data-id="569">
-                <strong class="schedule-item-title">Solving k-center Clustering (with Outliers) in MapReduce and Streaming, almost as Accurately as Sequentially.</strong>
+                <strong class="schedule-item-title" data-num="22.3">Solving k-center Clustering (with Outliers) in MapReduce and Streaming, almost as Accurately as Sequentially.</strong>
                 <span class="schedule-item-people">
                     <span class="author">Matteo&nbsp;Ceccarello</span>&nbsp;(IT University of Copenhagen),
                     <span class="author">Andrea&nbsp;Pietracaprina</span>&nbsp;(University of Padova), and
@@ -1816,7 +1817,7 @@
             </p>
 
             <p class="schedule-item" data-id="501">
-                <strong class="schedule-item-title">Efficient and Effective Algorithms for Clustering Uncertain Graphs</strong>
+                <strong class="schedule-item-title" data-num="22.4">Efficient and Effective Algorithms for Clustering Uncertain Graphs</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kai&nbsp;Han</span>&nbsp;(University of Science and Technology of China),
                     <span class="author">Fei&nbsp;Gui</span>&nbsp;(University of Science and Technology of China),
@@ -1834,7 +1835,7 @@
             </p>
 
             <p class="schedule-item" data-id="775">
-                <strong class="schedule-item-title">k/2-hop: Fast Mining of Convoy Patterns With Effective Pruning</strong>
+                <strong class="schedule-item-title" data-num="22.5">k/2-hop: Fast Mining of Convoy Patterns With Effective Pruning</strong>
                 <span class="schedule-item-people">
                     <span class="author">Faisal&nbsp;Moeen&nbsp;Orakzai</span>&nbsp;(ULB),
                     <span class="author">Toon&nbsp;Calders</span>&nbsp;(Universiteit Antwerpen), and
@@ -1854,7 +1855,7 @@
             </div>
             
             <p class="schedule-item" data-id="1150">
-                <strong class="schedule-item-title">Rewriting of Plain SO Tgds into Nested Tgds</strong>
+                <strong class="schedule-item-title" data-num="23.1">Rewriting of Plain SO Tgds into Nested Tgds</strong>
                 <span class="schedule-item-people">
                     <span class="author">Rihan&nbsp;Hai</span>&nbsp;(RWTH Aachen University) and
                     <span class="author">Christoph&nbsp;Quix</span>&nbsp;(Hochschule Niederrhein & Fraunhofer FIT)
@@ -1867,7 +1868,7 @@
             </p>
 
             <p class="schedule-item" data-id="1144">
-                <strong class="schedule-item-title">Embedded Functional Dependencies and Data-completeness Tailored Database Design</strong>
+                <strong class="schedule-item-title" data-num="23.2">Embedded Functional Dependencies and Data-completeness Tailored Database Design</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ziheng&nbsp;Wei</span>&nbsp;(University of Auckland) and
                     <span class="author">Sebastian&nbsp;Link</span>&nbsp;(University of Auckland)
@@ -1880,7 +1881,7 @@
             </p>
 
             <p class="schedule-item" data-id="1159">
-                <strong class="schedule-item-title">Distributed Implementations of Dependency Discovery Algorithms</strong>
+                <strong class="schedule-item-title" data-num="23.3">Distributed Implementations of Dependency Discovery Algorithms</strong>
                 <span class="schedule-item-people">
                     <span class="author">Hemant&nbsp;Saxena</span>&nbsp;(University of Waterloo),
                     <span class="author">Lukasz&nbsp;Golab</span>&nbsp;(University of Waterloo), and
@@ -1894,7 +1895,7 @@
             </p>
 
             <p class="schedule-item" data-id="1163">
-                <strong class="schedule-item-title">Efficient Knowledge Graph Accuracy Evaluation</strong>
+                <strong class="schedule-item-title" data-num="23.4">Efficient Knowledge Graph Accuracy Evaluation</strong>
                 <span class="schedule-item-people">
                     <span class="author">Junyang&nbsp;Gao</span>&nbsp;(Duke University),
                     <span class="author">Xian&nbsp;Li</span>&nbsp;(Amazon),
@@ -1911,7 +1912,7 @@
             </p>
 
             <p class="schedule-item" data-id="1120">
-                <strong class="schedule-item-title">Ontology-based Entity Matching in Attributed Graphs</strong>
+                <strong class="schedule-item-title" data-num="23.5">Ontology-based Entity Matching in Attributed Graphs</strong>
                 <span class="schedule-item-people">
                     <span class="author">Hanchao&nbsp;Ma</span>&nbsp;(Washington State University),
                     <span class="author">Morteza&nbsp;Alipourlangouri</span>&nbsp;(McMaster University, Canada),
@@ -1933,7 +1934,7 @@
             </div>
             
             <p class="schedule-item" data-id="1139">
-                <strong class="schedule-item-title">CAPER: A Cross-Application Permissioned Blockchain</strong>
+                <strong class="schedule-item-title" data-num="24.1">CAPER: A Cross-Application Permissioned Blockchain</strong>
                 <span class="schedule-item-people">
                     <span class="author">Mohammad&nbsp;Javad&nbsp;Amiri</span>&nbsp;(University of California, Santa Barbara),
                     <span class="author">Divy&nbsp;Agrawal</span>&nbsp;(University of California, Santa Barbara), and
@@ -1947,7 +1948,7 @@
             </p>
 
             <p class="schedule-item" data-id="798">
-                <strong class="schedule-item-title">Fine-Grained, Secure and Efficient Data Provenance for Blockchain</strong>
+                <strong class="schedule-item-title" data-num="24.2">Fine-Grained, Secure and Efficient Data Provenance for Blockchain</strong>
                 <span class="schedule-item-people">
                     <span class="author">Pingcheng&nbsp;Ruan</span>&nbsp;(National University of Singapore),
                     <span class="author">Gang&nbsp;Chen</span>&nbsp;(Zhejiang University),
@@ -1964,7 +1965,7 @@
             </p>
 
             <p class="schedule-item" data-id="1151">
-                <strong class="schedule-item-title">Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database</strong>
+                <strong class="schedule-item-title" data-num="24.3">Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database</strong>
                 <span class="schedule-item-people">
                     <span class="author">Senthil&nbsp;Nathan</span>&nbsp;(IBM Research),
                     <span class="author">Chander&nbsp;Govindarajan</span>&nbsp;(IBM Research),
@@ -1980,7 +1981,7 @@
             </p>
 
             <p class="schedule-item" data-id="1157">
-                <strong class="schedule-item-title">BlockchainDB - A Shared Database on Blockchains</strong>
+                <strong class="schedule-item-title" data-num="24.4">BlockchainDB - A Shared Database on Blockchains</strong>
                 <span class="schedule-item-people">
                     <span class="author">Muhammad&nbsp;El-Hindi</span>&nbsp;(TU Darmstadt),
                     <span class="author">Carsten&nbsp;Binnig</span>&nbsp;(TU Darmstadt),
@@ -2002,7 +2003,7 @@
             </div>
             
             <p class="schedule-item" data-id="1141">
-                <strong class="schedule-item-title">Finding Attribute-Aware Similar Region for Data Analysis</strong>
+                <strong class="schedule-item-title" data-num="25.1">Finding Attribute-Aware Similar Region for Data Analysis</strong>
                 <span class="schedule-item-people">
                     <span class="author">Kaiyu&nbsp;Feng</span>&nbsp;(Nanyang Technological University),
                     <span class="author">Gao&nbsp;Cong</span>&nbsp;(Nanyang Technological University),
@@ -2017,7 +2018,7 @@
             </p>
 
             <p class="schedule-item" data-id="1098">
-                <strong class="schedule-item-title">Ridesharing: Simulator, Benchmark, and Evaluation</strong>
+                <strong class="schedule-item-title" data-num="25.2">Ridesharing: Simulator, Benchmark, and Evaluation</strong>
                 <span class="schedule-item-people">
                     <span class="author">James&nbsp;J&nbsp;Pan</span>&nbsp;(Tsinghua University),
                     <span class="author">Guoliang&nbsp;Li</span>&nbsp;(Tsinghua University), and
@@ -2031,7 +2032,7 @@
             </p>
 
             <p class="schedule-item" data-id="345">
-                <strong class="schedule-item-title">The Maximum Trajectory Coverage Query in Spatial Databases</strong>
+                <strong class="schedule-item-title" data-num="25.3">The Maximum Trajectory Coverage Query in Spatial Databases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Mohammed&nbsp;Eunus&nbsp;Ali</span>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
                     <span class="author">Shadman&nbsp;Saqib&nbsp;Eusuf</span>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
@@ -2048,7 +2049,7 @@
             </p>
 
             <p class="schedule-item" data-id="300">
-                <strong class="schedule-item-title">The Flexible Socio Spatial Group Queries</strong>
+                <strong class="schedule-item-title" data-num="25.4">The Flexible Socio Spatial Group Queries</strong>
                 <span class="schedule-item-people">
                     <span class="author">Bishwamittra&nbsp;Ghosh</span>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
                     <span class="author">Mohammed&nbsp;Eunus&nbsp;Ali</span>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
@@ -2065,7 +2066,7 @@
             </p>
 
             <p class="schedule-item" data-id="1114">
-                <strong class="schedule-item-title">Creating Top Ranking Options in the Continuous Option and Preference Space</strong>
+                <strong class="schedule-item-title" data-num="25.5">Creating Top Ranking Options in the Continuous Option and Preference Space</strong>
                 <span class="schedule-item-people">
                     <span class="author">Bo&nbsp;Tang</span>&nbsp;(Southern University of Science and Technology),
                     <span class="author">Kyriakos&nbsp;Mouratidis</span>&nbsp;(Singapore Management University),
@@ -2086,7 +2087,7 @@
             </div>
             
             <p class="schedule-item" data-id="387">
-                <strong class="schedule-item-title">IPA: Invariant-Preserving Applications for Weakly Consistent Replicated Databases</strong>
+                <strong class="schedule-item-title" data-num="26.1">IPA: Invariant-Preserving Applications for Weakly Consistent Replicated Databases</strong>
                 <span class="schedule-item-people">
                     <span class="author">Valter&nbsp;Balegas</span>&nbsp;(NOVA LINCS, FCT, Universidade NOVA de Lisboa),
                     <span class="author">Sérgio&nbsp;Duarte</span>&nbsp;(NOVA LINCS, FCT, Universidade NOVA de Lisboa),
@@ -2102,7 +2103,7 @@
             </p>
 
             <p class="schedule-item" data-id="433">
-                <strong class="schedule-item-title">MgCrab: Transaction Crabbing for Live Migration in Deterministic Database Systems</strong>
+                <strong class="schedule-item-title" data-num="26.2">MgCrab: Transaction Crabbing for Live Migration in Deterministic Database Systems</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yu-Shan&nbsp;Lin</span>&nbsp;(National Tsing Hua University),
                     <span class="author">Shao-Kan&nbsp;Pi</span>&nbsp;(National Tsing Hua University),
@@ -2119,7 +2120,7 @@
             </p>
 
             <p class="schedule-item" data-id="1133">
-                <strong class="schedule-item-title">STAR: Scaling Transactions through Asymmetric Replication</strong>
+                <strong class="schedule-item-title" data-num="26.3">STAR: Scaling Transactions through Asymmetric Replication</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yi&nbsp;Lu</span>&nbsp;(MIT),
                     <span class="author">Xiangyao&nbsp;Yu</span>&nbsp;(MIT), and
@@ -2133,7 +2134,7 @@
             </p>
 
             <p class="schedule-item" data-id="431">
-                <strong class="schedule-item-title">Adaptive Optimistic Concurrency Control for Heterogeneous Workloads</strong>
+                <strong class="schedule-item-title" data-num="26.4">Adaptive Optimistic Concurrency Control for Heterogeneous Workloads</strong>
                 <span class="schedule-item-people">
                     <span class="author">Jinwei&nbsp;Guo</span>&nbsp;(East China Normal University),
                     <span class="author">Peng&nbsp;Cai</span>&nbsp;(East China Normal University),
@@ -2149,7 +2150,7 @@
             </p>
 
             <p class="schedule-item" data-id="1209">
-                <strong class="schedule-item-title">Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering</strong>
+                <strong class="schedule-item-title" data-num="26.5">Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering</strong>
                 <span class="schedule-item-people">
                     <span class="author">Bailu&nbsp;Ding</span>&nbsp;(Microsoft Research),
                     <span class="author">Lucja&nbsp;Kot</span>&nbsp;(GrammaTech, Inc), and
@@ -2169,7 +2170,7 @@
             </div>
             
             <p class="schedule-item" data-id="1158">
-                <strong class="schedule-item-title">Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms</strong>
+                <strong class="schedule-item-title" data-num="27.1">Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ruoxi&nbsp;Jia</span>&nbsp;(UC Berkeley),
                     <span class="author">David&nbsp;Dao</span>&nbsp;(ETH Zurich),
@@ -2189,7 +2190,7 @@
             </p>
 
             <p class="schedule-item" data-id="430">
-                <strong class="schedule-item-title">An Experimental Evaluation of Garbage Collectors on Big Data Applications</strong>
+                <strong class="schedule-item-title" data-num="27.2">An Experimental Evaluation of Garbage Collectors on Big Data Applications</strong>
                 <span class="schedule-item-people">
                     <span class="author">Lijie&nbsp;Xu</span>&nbsp;(Chinese Academy of Sciences),
                     <span class="author">Tian&nbsp;Guo</span>&nbsp;(Worcester Polytechnic Institute),
@@ -2205,7 +2206,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1191">
-                <strong class="schedule-item-title">A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics</strong>
+                <strong class="schedule-item-title" data-num="27.3">A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics</strong>
                 <span class="schedule-item-people">
                     <span class="author">Anthony&nbsp;Thomas</span>&nbsp;(University of California, San Diego) and
                     <span class="author">Arun&nbsp;Kumar</span>&nbsp;(University of California, San Diego)
@@ -2213,7 +2214,7 @@
             </p>
 
             <p class="schedule-item" data-id="1169">
-                <strong class="schedule-item-title">GRAIL: Efficient Time-Series Representation Learning</strong>
+                <strong class="schedule-item-title" data-num="27.4">GRAIL: Efficient Time-Series Representation Learning</strong>
                 <span class="schedule-item-people">
                     <span class="author">John&nbsp;Paparrizos</span>&nbsp;(University of Chicago) and
                     <span class="author">Michael&nbsp;Franklin</span>&nbsp;(University of Chicago)
@@ -2226,7 +2227,7 @@
             </p>
 
             <p class="schedule-item" data-id="362">
-                <strong class="schedule-item-title">ShrinkWrap: Efficient SQL Query Processing in Differentially Private Data Federations</strong>
+                <strong class="schedule-item-title" data-num="27.5">ShrinkWrap: Efficient SQL Query Processing in Differentially Private Data Federations</strong>
                 <span class="schedule-item-people">
                     <span class="author">Johes&nbsp;Bater</span>&nbsp;(Northwestern University),
                     <span class="author">Xi&nbsp;He</span>&nbsp;(University of Waterloo),
@@ -2248,7 +2249,7 @@
             </div>
             
             <p class="schedule-item schedule-item-no-abstract" data-id="1198">
-                <strong class="schedule-item-title">A Concave Path to Low-overhead Robust Query Processing</strong>
+                <strong class="schedule-item-title" data-num="28.1">A Concave Path to Low-overhead Robust Query Processing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Srinivas&nbsp;Karthik&nbsp;Venkatesh</span>&nbsp;(Indian Institute of Science),
                     <span class="author">Jayant&nbsp;Haritsa</span>&nbsp;(Indian Institute of Science),
@@ -2258,7 +2259,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1199">
-                <strong class="schedule-item-title">Interactive Summarization and Exploration of Top Aggregate Query Answers</strong>
+                <strong class="schedule-item-title" data-num="28.2">Interactive Summarization and Exploration of Top Aggregate Query Answers</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yuhao&nbsp;Wen</span>&nbsp;(Duke University),
                     <span class="author">Xiaodan&nbsp;Zhu</span>&nbsp;(Duke University),
@@ -2268,7 +2269,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1202">
-                <strong class="schedule-item-title">Durable Top-k Queries on Temporal Data</strong>
+                <strong class="schedule-item-title" data-num="28.3">Durable Top-k Queries on Temporal Data</strong>
                 <span class="schedule-item-people">
                     <span class="author">Junyang&nbsp;Gao</span>&nbsp;(Duke University),
                     <span class="author">Pankaj&nbsp;Agarwal</span>&nbsp;(Duke University), and
@@ -2277,7 +2278,7 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1203">
-                <strong class="schedule-item-title">Scalable, Variable-Length Similarity Search in Data Series: The ULISSE Approach</strong>
+                <strong class="schedule-item-title" data-num="28.4">Scalable, Variable-Length Similarity Search in Data Series: The ULISSE Approach</strong>
                 <span class="schedule-item-people">
                     <span class="author">Michele&nbsp;Linardi</span>&nbsp;(University Paris Descartes) and
                     <span class="author">Themis&nbsp;Palpanas</span>&nbsp;(Paris Descartes University)
@@ -2285,7 +2286,7 @@
             </p>
 
             <p class="schedule-item" data-id="1164">
-                <strong class="schedule-item-title">Optimizing Subgraph Queries by Combining Binary and Worst-Case Optimal Joins</strong>
+                <strong class="schedule-item-title" data-num="28.5">Optimizing Subgraph Queries by Combining Binary and Worst-Case Optimal Joins</strong>
                 <span class="schedule-item-people">
                     <span class="author">Amine&nbsp;Mhedhbi</span>&nbsp;(University of Waterloo) and
                     <span class="author">Semih&nbsp;Salihoglu</span>&nbsp;(University of Waterloo)

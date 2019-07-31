@@ -377,6 +377,22 @@
     color: #777;
 }
 
+.schedule-item-title[data-num]::before {
+    content: attr(data-num);
+    width: 38px;
+    display: inline-block;
+    color: #aaa;
+    font-style: italic;
+}
+
+.papers-industrial .schedule-item-title[data-num]::before {
+    width: 30px;
+}
+
+.program-schedule-demonstrations .schedule-item-title[data-num]::before {
+    width: 25px;
+}
+
 @media screen and (max-width: 500px) {
     .schedule-item-has-photo .schedule-item-people:after {
         content: '';

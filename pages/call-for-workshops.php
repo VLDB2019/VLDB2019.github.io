@@ -44,7 +44,7 @@
     <h3>Workshop Program Chairs</h3>
     <p class="program-chairs">
         Sharad Mehrotra<small>, UCI</small><br />
-        Yuanyuan Tian<small>, IBM Research</small>
+        Yuanyuan Tian<small>, IBM Research - Almaden</small>
     </p>
 </section>
 <?php

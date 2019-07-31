@@ -138,14 +138,14 @@
         <li>The conference sessions, lunches, and coffee breaks (August 27<sup>th</sup> to August 29<sup>th</sup>).</li>
         <li>One reception ticket on Tuesday, August 27<sup>th</sup>.</li>
         <li>One banquet ticket on Wednesday, August 28<sup>th</sup>.</li>
-        <li>Conference proceedings.</li>
+        <li>Electronic proceedings.</li>
         <li><em class="notice">NO ACCESS to the workshops.</em></li>
     </ul>
 
     <p><strong>The registration fees to the workshops include access to:</strong></p>
     <ul>
         <li>The workshop sessions, lunches, and coffee breaks on both days (August 26<sup>th</sup> and August 30<sup>th</sup>)</li>
-        <li>Workshop proceedings.</li>
+        <li>Electronic proceedings.</li>
         <li><em class="notice">NO ACCESS to the main conference or the social events.</em></li>
     </ul>
 

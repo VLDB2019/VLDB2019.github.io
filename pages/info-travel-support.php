@@ -34,7 +34,7 @@
 
     <h3>SPEND Committee VLDB Endowment</h3>
     <p class="program-chairs">
-        Bin Cui<small>, Peiking University - China</small><br />
+        Bin Cui<small>, Peking University - China</small><br />
         Wolfgang Lehner<small>, TU Dresden</small><br />
         Sharad Mehrotra<small>, UCI</small><br />
         Felix Naumann<small>, Hasso Plattner Institute, University of Potsdam</small><br />

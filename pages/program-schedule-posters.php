@@ -1,8 +1,9 @@
 <section class="program-schedule-posters">
     <h1>Posters of VLDB Journal Papers from 6/16/2018 to 6/15/2019</h1>
+    <p>The number assigned to each VLDB journal paper identifies its poster stand. For example, with VLDB journal paper 1, look for the stand labeled VLDBJ:1.</p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0521-x"><strong>Accelerating Pairwise SimRank Estimation over Static and Dynamic Graphs</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0521-x"><strong data-num="1">Accelerating Pairwise SimRank Estimation over Static and Dynamic Graphs</strong></a>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="ywangby" data-at="connect.ust.hk">Yue Wang</a> (Hong Kong University of Science and Technology),
             <span class="author">Lei Chen</span> (Hong Kong University of Science and Technology),
@@ -16,7 +17,7 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0530-9"><strong>Building Self-Clustering RDF Databases Using Tunable-LSH</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0530-9"><strong data-num="2">Building Self-Clustering RDF Databases Using Tunable-LSH</strong></a>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="alucgunes" data-at="gmail.com">Güneş Aluç</a> (SAP SE),
             <span class="author">M. Tamer Özsu</span> (University of Waterloo), and
@@ -29,10 +30,10 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0500-2"><strong>Scaling Distributed Transaction Processing and Recovery based on Dependency Logging</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0500-2"><strong data-num="3">Scaling Distributed Transaction Processing and Recovery based on Dependency Logging</strong></a>
         <span class="accepted-authors">
             <span class="author">Chang Yao</span> (National University of Singapore),
-            <a href="mailto:" data-uz="meihui_zhang" data-at="bit.edu.cn">Meihui Zhang</a> (Beijing University of Technology),
+            <a href="mailto:" data-uz="meihui_zhang" data-at="bit.edu.cn">Meihui Zhang</a> (Beijing Institute of Technology),
             <span class="author">Qian Lin</span> (National University of Singapore),
             <span class="author">Beng Chin Ooi</span> (National University of Singapore), and
             <span class="author">Jiatao Xu</span> (Tencent Inc.)
@@ -44,7 +45,7 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0525-6"><strong>A Framework for Efficient Multi-Attribute Movement Data Analysis</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0525-6"><strong data-num="4">A Framework for Efficient Multi-Attribute Movement Data Analysis</strong></a>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="fabio.valdes" data-at="fernuni-hagen.de">Fabio Valdés</a> (FernUniversitat in Hagen) and
             <span class="author">Ralf Hartmut Güting</span> (FernUniversitat in Hagen)
@@ -56,7 +57,7 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0524-7"><strong>Real-time Context-aware Social Media Recommendation</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0524-7"><strong data-num="5">Real-time Context-aware Social Media Recommendation</strong></a>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="xiangmin.zhou" data-at="rmit.edu.au">Xiangmin Zhou</a> (RMIT University),
             <span class="author">Dong Qin</span> (RMIT University),
@@ -70,7 +71,7 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0514-9"><strong>A Survey of State Management in Big Data Processing Systems</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0514-9"><strong data-num="6">A Survey of State Management in Big Data Processing Systems</strong></a>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="quoc_cuong.to" data-at="dfki.de">Quoc-Cuong To</a> (German Research Center for Artificial Intelligence),
             <span class="author">Juan Soto</span> (DFKI & TU Berlin), and
@@ -83,7 +84,7 @@
     </p>
 
     <p>
-        <strong class="accepted-title">Event Modeling and Mining: A Long Journey Towards Explainable Events</strong>
+        <strong class="accepted-title" data-num="7">Event Modeling and Mining: A Long Journey Towards Explainable Events</strong>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="xinhchen2-c" data-at="my.cityu.edu.hk">Xinhong Chen</a> (City University of Hong Kong) and
             <span class="author">Qing Li</span> (Hong Kong Polytechnic University)
@@ -95,7 +96,7 @@
     </p>
 
     <p>
-        <strong class="accepted-title">Comparing heuristics for graph edit distance computation</strong>
+        <strong class="accepted-title" data-num="8">Comparing heuristics for graph edit distance computation</strong>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="david.b.blumenthal" data-at="gmail.com">David B. Blumenthal</a> (Free University of Bozen-Bolzano),
             <span class="author">Nicolas Boria</span> (Normandie Université),
@@ -110,7 +111,7 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0517-6"><strong>VBTree - Forward Secure Conjunctive Queries over Encrypted Data for Cloud Computing</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0517-6"><strong data-num="9">VBTree - Forward Secure Conjunctive Queries over Encrypted Data for Cloud Computing</strong></a>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="cxiaodiao" data-at="hnu.edu.cn">Zhiqiang Wu</a> (Hunan University) and
             <span class="author">Kenli Li</span> (Hunan University)
@@ -122,7 +123,7 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0531-8"><strong>Cascade-Aware Partitioning of Large Graph Databases</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0531-8"><strong data-num="10">Cascade-Aware Partitioning of Large Graph Databases</strong></a>
         <span class="accepted-authors">
             <span class="author">Gunduz Vehbi Demirci</span> (Bilkent Üniversitesi),
             <a href="mailto:" data-uz="hakan.f" data-at="warwick.ac.uk">Hakan Ferhatosmanoglu</a> (University of Warwick), and
@@ -135,7 +136,7 @@
     </p>
 
     <p>
-        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0528-3"><strong>Summarizing Semantic Graphs: A Survey</strong></a>
+        <a class="accepted-title" href="https://doi.org/10.1007/s00778-018-0528-3"><strong data-num="11">Summarizing Semantic Graphs: A Survey</strong></a>
         <span class="accepted-authors">
             <span class="author">Šejla Čebirić</span> (Inria and LIX),
             <span class="author">François Goasdoué</span> (Univ Rennes, Inria, CNRS, IRISA),
@@ -152,7 +153,7 @@
     </p>
 
     <p>
-        <strong class="accepted-title">Location Prediction in Large-Scale Social Networks: An In-depth Benchmarking Study</strong>
+        <strong class="accepted-title" data-num="12">Location Prediction in Large-Scale Social Networks: An In-depth Benchmarking Study</strong>
         <span class="accepted-authors">
             <span class="author">Nur Al Hasan Haldar</span> (The University of Western Australia),
             <a href="mailto:" data-uz="jianxin.li" data-at="uwa.edu.au">Jianxin Li</a> (The University of Western Australia),
@@ -167,9 +168,9 @@
     </p>
 
     <p>
-        <strong class="accepted-title">A Survey of Community Search Over Big Graphs</strong>
+        <strong class="accepted-title" data-num="13">A Survey of Community Search Over Big Graphs</strong>
         <span class="accepted-authors">
-            <a href="mailto:" data-uz="yixiang.fang" data-at="unsw.edu.au">Yixiang Fang</a> (University of New South Wales),
+            <a href="mailto:" data-uz="yixiang.fang" data-at="unsw.edu.au">Yixiang Fang</a> (Guangzhou University),
             <span class="author">Xin Huang</span> (Hong Kong Baptist University),
             <span class="author">Lu Qin</span> (University of Technology Sydney),
             <span class="author">Ying Zhang</span> (University of Technology Sydney),
@@ -184,7 +185,7 @@
     </p>
 
     <p>
-        <strong class="accepted-title">Microblogs Data Management: A Survey</strong>
+        <strong class="accepted-title" data-num="14">Microblogs Data Management: A Survey</strong>
         <span class="accepted-authors">
             <a href="mailto:" data-uz="amr" data-at="cs.ucr.edu">Amr Magdy</a> (University of California Riverside),
             <span class="author">Laila Abdelhafeez</span> (University of California, Riverside),

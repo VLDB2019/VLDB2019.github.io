@@ -1,5 +1,6 @@
 <section class="papers-industrial">
     <h1>VLDB 2019: Industrial Track Papers</h1>
+    <p>The number assigned to each industrial track paper identifies its poster stand. For example, with industrial track paper 1.1, look for the stand labeled Ind:1.1.</p>
 
     <div class="schedule-wrap">
         <div>
@@ -16,7 +17,7 @@
             </div>
             
             <p class="schedule-item" data-id="694">
-                <strong class="schedule-item-title">QTune: A Query-Aware Database Tuning System with Deep Reinforcement Learning</strong>
+                <strong class="schedule-item-title" data-num="1.1">QTune: A Query-Aware Database Tuning System with Deep Reinforcement Learning</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="liguoliang" data-at="tsinghua.edu.cn">Guoliang&nbsp;Li</a>&nbsp;(Tsinghua University),
                     <a class="author" href="mailto:" data-uz="zhouxuanhe" data-at="bupt.edu.cn">Xuanhe&nbsp;Zhou</a>&nbsp;(Tsinghua University),
@@ -31,7 +32,7 @@
             </p>
 
             <p class="schedule-item" data-id="734">
-                <strong class="schedule-item-title">Smile: A System to Support Machine Learning on EEG Data at Scale</strong>
+                <strong class="schedule-item-title" data-num="1.2">Smile: A System to Support Machine Learning on EEG Data at Scale</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="lcao" data-at="csail.mit.edu">Lei&nbsp;Cao</a>&nbsp;(MIT),
                     <a class="author" href="mailto:" data-uz="wenbo" data-at="mit.edu">Wenbo&nbsp;Tao</a>&nbsp;(MIT),
@@ -56,7 +57,7 @@
             </p>
 
             <p class="schedule-item" data-id="664">
-                <strong class="schedule-item-title">Guided automated learning for query workload re-optimization</strong>
+                <strong class="schedule-item-title" data-num="1.3">Guided automated learning for query workload re-optimization</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="guilherme.fetterdamasio" data-at="uoit.ca">Guilherme&nbsp;Damasio</a>&nbsp;(University of Ontario Institute of Technology),
                     <a class="author" href="mailto:" data-uz="vcorvine" data-at="ca.ibm.com">Vincent&nbsp;Corvinelli</a>&nbsp;(IBM),
@@ -74,7 +75,7 @@
             </p>
 
             <p class="schedule-item" data-id="689">
-                <strong class="schedule-item-title">AliGraph: A Comprehensive Graph Neural Network Platform</strong>
+                <strong class="schedule-item-title" data-num="1.4">AliGraph: A Comprehensive Graph Neural Network Platform</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="red.zr" data-at="alibaba-inc.com">Rong&nbsp;Zhu</a>&nbsp;(Alibaba Group),
                     <a class="author" href="mailto:" data-uz="kun.zhao" data-at="alibaba-inc.com">Kun&nbsp;Zhao</a>&nbsp;(Alibaba Group),
@@ -93,7 +94,7 @@
             </p>
 
             <p class="schedule-item" data-id="735">
-                <strong class="schedule-item-title">Updating Graph Databases with Cypher</strong>
+                <strong class="schedule-item-title" data-num="1.5">Updating Graph Databases with Cypher</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="alastair.green" data-at="neo4j.com">Alastair&nbsp;Green</a>&nbsp;(Neo4j),
                     <a class="author" href="mailto:" data-uz="paolo.guagliardo" data-at="ed.ac.uk">Paolo&nbsp;Guagliardo</a>&nbsp;(University of Edinburgh),
@@ -129,7 +130,7 @@
             </div>
             
             <p class="schedule-item" data-id="668">
-                <strong class="schedule-item-title">A Lightweight and Efficient Temporal Database Management System in TDSQL</strong>
+                <strong class="schedule-item-title" data-num="2.1">A Lightweight and Efficient Temporal Database Management System in TDSQL</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="lu-wei" data-at="ruc.edu.cn">Wei&nbsp;Lu</a>&nbsp;(Renmin University of China),
                     <a class="author" href="mailto:" data-uz="zhanhaozhao" data-at="ruc.edu.cn">Zhanhao&nbsp;Zhao</a>&nbsp;(Renmin University of China),
@@ -149,7 +150,7 @@
             </p>
 
             <p class="schedule-item" data-id="687">
-                <strong class="schedule-item-title">TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial</strong>
+                <strong class="schedule-item-title" data-num="2.2">TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="shelsoncao" data-at="gmail.com">Shaosheng&nbsp;Cao</a>&nbsp;(Ant Financial Services Group),
                     <a class="author" href="mailto:" data-uz="xinxing.yangxx" data-at="antfin.com">Xinxing&nbsp;Yang</a>&nbsp;(Ant Financial Services Group),
@@ -166,7 +167,7 @@
             </p>
 
             <p class="schedule-item" data-id="721">
-                <strong class="schedule-item-title">A Distributed System for Large-scale n-gram Language Models at Tencent</strong>
+                <strong class="schedule-item-title" data-num="2.3">A Distributed System for Large-scale n-gram Language Models at Tencent</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="ecalezlong" data-at="tencent.com">Qiang&nbsp;Long</a>&nbsp;(Tencent),
                     <a class="author" href="mailto:" data-uz="wangwei" data-at="comp.nus.edu.sg">Wei&nbsp;Wang</a>&nbsp;(NUS),
@@ -184,7 +185,7 @@
             </p>
 
             <p class="schedule-item" data-id="675">
-                <strong class="schedule-item-title">AnalyticDB: Real-time OLAP Database System at Alibaba Cloud</strong>
+                <strong class="schedule-item-title" data-num="2.4">AnalyticDB: Real-time OLAP Database System at Alibaba Cloud</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="lizhe.zcq" data-at="alibaba-inc.com">Chaoqun&nbsp;Zhan</a>&nbsp;(Alibaba),
                     <a class="author" href="mailto:" data-uz="maomeng.smm" data-at="alibaba-inc.com">Maomeng&nbsp;Su</a>&nbsp;(Alibaba),
@@ -206,7 +207,7 @@
             </p>
 
             <p class="schedule-item" data-id="700">
-                <strong class="schedule-item-title">Constant Time Recovery in Azure SQL Database</strong>
+                <strong class="schedule-item-title" data-num="2.5">Constant Time Recovery in Azure SQL Database</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="panant" data-at="microsoft.com">Panagiotis&nbsp;Antonopoulos</a>&nbsp;(Microsoft),
                     <a class="author" href="mailto:" data-uz="peterbyr" data-at="microsoft.com">Peter&nbsp;Byrne</a>&nbsp;(Microsoft),
@@ -243,7 +244,7 @@
             </div>
             
             <p class="schedule-item" data-id="715">
-                <strong class="schedule-item-title">S3: A Scalable In-memory Skip-List Index for Key-Value Store</strong>
+                <strong class="schedule-item-title" data-num="3.1">S3: A Scalable In-memory Skip-List Index for Key-Value Store</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="11421015" data-at="zju.edu.cn">Jingtian&nbsp;Zhang</a>&nbsp;(Zhejiang University),
                     <a class="author" href="mailto:" data-uz="wusai" data-at="zju.edu.cn">Sai&nbsp;Wu</a>&nbsp;(Zhejiang University),
@@ -262,7 +263,7 @@
             </p>
 
             <p class="schedule-item" data-id="674">
-                <strong class="schedule-item-title">Native Store Extension for SAP HANA</strong>
+                <strong class="schedule-item-title" data-num="3.2">Native Store Extension for SAP HANA</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="reza.sherkat" data-at="sap.com">Reza&nbsp;Sherkat</a>&nbsp;(SAP SE),
                     <a class="author" href="mailto:" data-uz="cflorendo" data-at="gmail.com">Colin&nbsp;Florendo</a>&nbsp;(SAP),
@@ -294,7 +295,7 @@
             </p>
 
             <p class="schedule-item" data-id="704">
-                <strong class="schedule-item-title">Choosing A Cloud DBMS: Architectures and Tradeoffs</strong>
+                <strong class="schedule-item-title" data-num="3.3">Choosing A Cloud DBMS: Architectures and Tradeoffs</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="jjtan" data-at="alum.mit.edu">Junjay&nbsp;Tan</a>&nbsp;(Brown University),
                     <a class="author" href="mailto:" data-uz="thanaa.ghanem" data-at="metrostate.edu">Thanaa&nbsp;Ghanem</a>&nbsp;(Metropolitan State University, USA),
@@ -314,7 +315,7 @@
             </p>
 
             <p class="schedule-item" data-id="741">
-                <strong class="schedule-item-title">Adapting TPC-C Benchmark to Measure Performance of Multi-Document Transactions in MongoDB</strong>
+                <strong class="schedule-item-title" data-num="3.4">Adapting TPC-C Benchmark to Measure Performance of Multi-Document Transactions in MongoDB</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="asya" data-at="mongodb.com">Asya&nbsp;Kamsky</a>&nbsp;(MongoDB, Inc)
                 </span>
@@ -326,7 +327,7 @@
             </p>
 
             <p class="schedule-item" data-id="728">
-                <strong class="schedule-item-title">A Morsel-Driven Query Execution Engine for Heterogeneous Multi-Cores</strong>
+                <strong class="schedule-item-title" data-num="3.5">A Morsel-Driven Query Execution Engine for Heterogeneous Multi-Cores</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="kayhan" data-at="cs.brown.edu">Kayhan&nbsp;Dursun</a>&nbsp;(Brown University),
                     <a class="author" href="mailto:" data-uz="carsten.binnig" data-at="cs.tu-darmstadt.de">Carsten&nbsp;Binnig</a>&nbsp;(TU Darmstadt),
@@ -348,7 +349,7 @@
             </div>
             
             <p class="schedule-item" data-id="720">
-                <strong class="schedule-item-title">DDSketch: A Fast and Fully-Mergeable Quantile Sketch with Relative-Error Guarantees</strong>
+                <strong class="schedule-item-title" data-num="4.1">DDSketch: A Fast and Fully-Mergeable Quantile Sketch with Relative-Error Guarantees</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="charles.masson" data-at="datadoghq.com">Charles&nbsp;Masson</a>&nbsp;(Datadog),
                     <a class="author" href="mailto:" data-uz="jee.rim" data-at="datadoghq.com">Jee&nbsp;Rim</a>&nbsp;(Datadog), and
@@ -362,7 +363,7 @@
             </p>
 
             <p class="schedule-item" data-id="698">
-                <strong class="schedule-item-title">Experiences with Approximating Queries in Microsoft's Production Big-Data Clusters</strong>
+                <strong class="schedule-item-title" data-num="4.2">Experiences with Approximating Queries in Microsoft's Production Big-Data Clusters</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="srikanth" data-at="microsoft.com">Srikanth&nbsp;Kandula</a>&nbsp;(Microsoft Research),
                     <a class="author" href="mailto:" data-uz="kulee" data-at="microsoft.com">Kukjin&nbsp;Lee</a>&nbsp;(Microsoft),
@@ -377,7 +378,7 @@
             </p>
 
             <p class="schedule-item" data-id="660">
-                <strong class="schedule-item-title">SAP HANA goes private - From Privacy Research to Privacy Aware Enterprise Analytics</strong>
+                <strong class="schedule-item-title" data-num="4.3">SAP HANA goes private - From Privacy Research to Privacy Aware Enterprise Analytics</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="stephan.kessler" data-at="sap.com">Stephan&nbsp;Kessler</a>&nbsp;(SAP),
                     <a class="author" href="mailto:" data-uz="jens.hoff" data-at="sap.com">Jens&nbsp;Hoff</a>&nbsp;(SAP), and
@@ -391,7 +392,7 @@
             </p>
 
             <p class="schedule-item" data-id="682">
-                <strong class="schedule-item-title">Tunable Consistency in MongoDB</strong>
+                <strong class="schedule-item-title" data-num="4.4">Tunable Consistency in MongoDB</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="william.schultz" data-at="mongodb.com">William&nbsp;Schultz</a>&nbsp;(MongoDB),
                     <a class="author" href="mailto:" data-uz="tess.avitabile" data-at="mongodb.com">Therese&nbsp;M&nbsp;Avitabile</a>&nbsp;(MongoDB), and
@@ -405,7 +406,7 @@
             </p>
 
             <p class="schedule-item" data-id="690">
-                <strong class="schedule-item-title">Customizable and Scalable Fuzzy Join for Big Data</strong>
+                <strong class="schedule-item-title" data-num="4.5">Customizable and Scalable Fuzzy Join for Big Data</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="zmchen" data-at="microsoft.com">Zhimin&nbsp;Chen</a>&nbsp;(Microsoft Research),
                     <a class="author" href="mailto:" data-uz="wanyue" data-at="microsoft.com">Yue&nbsp;Wang</a>&nbsp;(Microsoft Research),

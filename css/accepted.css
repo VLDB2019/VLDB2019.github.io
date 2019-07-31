@@ -4,6 +4,15 @@
     margin-right: 2px;
 }
 
+.accepted-title[data-num]:before,
+.accepted-title > strong[data-num]:before {
+    content: attr(data-num);
+    width: 25px;
+    display: inline-block;
+    color: #aaa;
+    font-style: italic;
+}
+
 .accepted-authors {
     display: block;
     font-size: 12px;

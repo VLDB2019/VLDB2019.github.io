@@ -73,7 +73,7 @@
             <td>Workshop Proposals</td>
             <td>
                 Sharad Mehrotra<small>UCI</small>
-                Yuanyuan Tian<small>IBM Research</small>
+                Yuanyuan Tian<small>IBM Research - Almaden</small>
             </td>
             <td>N/A</td>
             <td><em class="extended-date">6 January 2019</em><br>11 January 2019<br>11:59 p.m. PST</td>

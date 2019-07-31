@@ -1368,3 +1368,71 @@ div.workshop-title:first-child {
     color: #999;
     font-style: normal;
 }
+
+.members {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+    margin-left: -20px;
+}
+
+.officers > div,
+.members > div {
+    color: #777;
+    font-size: 12px;
+    width: 30%;
+    min-width: 330px;
+    padding-left: 20px;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+.officers > div {
+    padding: 0;
+    width: auto;
+    min-width: unset;
+}
+
+.officers > div > strong,
+.members > div > strong {
+    color: #444;
+    font-size: 14px;
+}
+
+/*
+.poster-presenters-img-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-left: -20px;
+    align-items: stretch;
+    width: 100%;
+}
+
+.poster-presenters-img-wrapper>div {
+    flex-shrink: 1;
+    flex-grow: 1;
+    margin-left: 20px;
+    width: 958px;
+}
+
+.poster-presenters-img-wrapper>div:last-child {
+    width: 697px;
+}
+
+.poster-presenters-img-wrapper>div>img {
+    width: 100%;
+}
+ */
+
+.poster-presenters-img-wrapper {
+    width: 100%;
+}
+
+.poster-presenters-img-wrapper>div {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.poster-presenters-img-wrapper>div>img {
+    width: 100%;
+}
