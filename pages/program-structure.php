@@ -74,13 +74,13 @@
         </tr>
         <tr>
             <th>Time</th>
-            <th>Sacramento / San&nbsp;Francisco</th>
+            <th>Santa Anita</th>
             <th>San Jose</th>
             <th>San Diego</th>
             <th>Emerald Bay</th>
             <th>Hollywood Ballroom</th>
             <th>Avalon</th>
-            <th>Santa Anita</th>
+            <th>Sacramento / San&nbsp;Francisco</th>
         </tr>
         </thead>
         <tbody>
@@ -150,13 +150,13 @@
         </tr>
         <tr>
             <th>Time</th>
-            <th>Sacramento / San&nbsp;Francisco</th>
+            <th>Santa Anita</th>
             <th>San Jose</th>
             <th>San Diego</th>
             <th>Emerald Bay</th>
             <th>Hollywood Ballroom</th>
             <th>Avalon</th>
-            <th>Santa Anita</th>
+            <th>Sacramento / San&nbsp;Francisco</th>
         </tr>
         </thead>
         <tbody>
@@ -218,13 +218,13 @@
         </tr>
         <tr>
             <th>Time</th>
-            <th>Sacramento / San&nbsp;Francisco</th>
+            <th>Santa Anita</th>
             <th>San Jose</th>
             <th>San Diego</th>
             <th>Emerald Bay</th>
             <th>Hollywood Ballroom</th>
             <th>Avalon</th>
-            <th>Santa Anita</th>
+            <th>Sacramento / San&nbsp;Francisco</th>
         </tr>
         </thead>
         <tbody>
@@ -281,8 +281,8 @@
             <th>San Jose</th>
             <th>San Diego</th>
             <th>Santa Anita</th>
-            <th>Emerald Bay</th>
-            <th>Avalon + Santa&nbsp;Monica</th>
+            <th>Avalon</th>
+            <th>Emerald Bay + Santa&nbsp;Monica</th>
         </tr>
         </thead>
         <tbody>

@@ -153,6 +153,10 @@ header > nav > div {
     transition: .5s font-size, .5s margin;
 }
 
+header > nav > div:last-child {
+    padding-right: 25px;
+}
+
 body.static header > nav > div {
     padding: 20px;
 }
@@ -469,6 +473,10 @@ section > h2 {
         padding: 10px 15px;
     }
 
+    header > nav > div:last-child {
+        padding-right: 15px;
+    }
+
     header > nav > div.no-sub:hover {
         padding-bottom: 9px;
     }
@@ -506,6 +514,10 @@ section > h2 {
     body.static header > nav > div,
     header > nav > div {
         padding: 10px 10px;
+    }
+
+    header > nav > div:last-child {
+        padding-right: 28px;
     }
 
     header > nav > div::after {

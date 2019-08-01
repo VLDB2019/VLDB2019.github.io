@@ -70,7 +70,7 @@
         <div><strong>Ioana Manolescu</strong>, INRIA</div>
         <div><strong>Ismail Sengor Altingovde</strong>, METU - Turkey</div>
         <div><strong>James Cheng</strong>, Chinese University of Hong Kong</div>
-        <div><strong>Jens Dittrich</strong>, University of Saarland - Germany</div>
+        <div><strong>Jens Dittrich</strong>, Saarland University - Germany</div>
         <div><strong>Jens Teubner</strong>, TU Dortmund</div>
         <div><strong>Jianliang Xu</strong>, HKBU</div>
         <div><strong>Jignesh Patel</strong>, University of Wisconsin - Madison</div>

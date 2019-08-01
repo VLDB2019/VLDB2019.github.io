@@ -68,6 +68,7 @@
 
             <h4>Bronze Sponsors</h4>
             <div class="sponsor-logos sponsor-5">
+                <a href="http://www.sequoiadb.com/" class="no-ext-icon" title="SequoiaDB - Bronze Sponsor"><img src="https://vldb2019.github.io/img/sponsor/SequoiaDB.png"></a>
                 <a href="https://www.tpc.org/" class="no-ext-icon" title="TPC - Bronze Sponsor"><img src="https://vldb2019.github.io/img/sponsor/TPC.png"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>

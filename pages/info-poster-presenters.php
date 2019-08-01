@@ -1,7 +1,7 @@
 <section class="info-poster-presenters">
     <h1>VLDB 2019: Information for Poster Presenters</h1>
 
-    <p>Dimensions of poster stands is depicted below with a sample picture of what to expect during the conference. Each poster is assigned a number, which is used to identify its poster stand. The number can be found both on the conference booklet and the website: see the pages for <a href="./?papers-research">research track</a>, <a href="./?papers-industrial">industrial track</a>, and <a href="./?program-schedule-posters">VLDB Journal</a> papers. Dimensions of the posters are 4 feet (121 cm) in height and 8 feet (240 cm) in width; these are double-sided stands. There will be two presenters per stand: one presenter on each side. Note that the poster stands are different than the easels used for <a href="./?info-demo-presenters">the demos</a>.</p>
+    <p>Dimensions of poster stands is depicted below with a sample picture of what to expect during the conference. Each poster is assigned a number, which is used to identify its poster stand. The number can be found both on the conference booklet and the website: see the pages for <a href="./?papers-research">research track</a>, <a href="./?papers-industrial">industrial track</a>, and <a href="./?program-schedule-posters">VLDB Journal</a> papers. Dimensions of the posters are 4 feet (121 cm) in height and 8 feet (240 cm) in width. These are double-sided stands with one presenter on each side. Note that the poster stands are different than the easels used for <a href="./?info-demo-presenters">the demos</a>.</p>
     <p>Each poster presenter is responsible for printing and bringing their own poster.</p>
 
     <div class="poster-presenters-img-wrapper">

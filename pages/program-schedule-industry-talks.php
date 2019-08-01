@@ -11,7 +11,7 @@
 
         <div>
             <div class="schedule-head" id="Invited_Industry_Talks_1">
-                <span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Industry Invited Talks 1: Data Standing Tall in the Clouds</strong>
+                <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Invited Industry Talks 1: Data Standing Tall in the Clouds</strong>
                 <span class="schedule-chair">Chaired by <em>Beng Chin Ooi</em> (NUS, Singapore)</span>
             </div>
             
@@ -87,7 +87,7 @@
 
         <div>
             <div class="schedule-head" id="Invited_Industry_Talks_2">
-                <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Industry Invited Talks 2: Data through the Looking Glass: Performance, In-Mem, & AI</strong>
+                <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Invited Industry Talks 2: Data through the Looking Glass: Performance, In-Mem, & AI</strong>
                 <span class="schedule-chair">Chaired by <em>Pat Helland</em> (Salesforce, USA)</span>
             </div>
             

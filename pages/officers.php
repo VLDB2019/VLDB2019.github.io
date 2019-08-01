@@ -51,7 +51,7 @@
     <div><strong>Xin Luna Dong</strong>, Amazon</div>
 
     <h4>Industrial Chairs</h4>
-    <div><strong>Beng Chin Ooi</strong>, NU - Singapore</div>
+    <div><strong>Beng Chin Ooi</strong>, NUS - Singapore</div>
     <div><strong>Pat Helland</strong>, Salesforce</div>
     <div><strong>Wolfgang Lehner</strong>, TU Dresden</div>
 
