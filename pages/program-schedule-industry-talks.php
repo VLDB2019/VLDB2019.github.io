@@ -12,7 +12,7 @@
         <div>
             <div class="schedule-head" id="Invited_Industry_Talks_1">
                 <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Invited Industry Talks 1: Data Standing Tall in the Clouds</strong>
-                <span class="schedule-chair">Chaired by <em>Beng Chin Ooi</em> (NUS, Singapore)</span>
+                <span class="schedule-chair">Chaired by <em>Beng Chin Ooi</em> (NUS, Singapore) at <em>Sacramento / San Francisco</em> room</span> 
             </div>
             
             <p class="schedule-item schedule-item-has-photo">
@@ -37,7 +37,7 @@
 
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/DharmaShukla.jpg">
-                <strong class="schedule-item-title">Azure Cosmos DB: Microsoft’s Globally Distributed Database Service</strong>
+                <strong class="schedule-item-title">Azure Cosmos DB: Microsoft's Globally Distributed Database Service</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="dharmas" data-at="microsoft.com ">Dharma&nbsp;Shukla</a>&nbsp;(Microsoft)
                 </span>
@@ -88,7 +88,7 @@
         <div>
             <div class="schedule-head" id="Invited_Industry_Talks_2">
                 <span class="schedule-time">16:00 &ndash; 17:30</span><strong class="main-title">Invited Industry Talks 2: Data through the Looking Glass: Performance, In-Mem, & AI</strong>
-                <span class="schedule-chair">Chaired by <em>Pat Helland</em> (Salesforce, USA)</span>
+                <span class="schedule-chair">Chaired by <em>Pat Helland</em> (Salesforce, USA) at <em>Sacramento / San Francisco</em> room</span> 
             </div>
             
             <p class="schedule-item schedule-item-has-photo">
@@ -113,7 +113,7 @@
 
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/AlexBoehm.jpg">
-                <strong class="schedule-item-title">In-Memory for the Masses</strong>
+                <strong class="schedule-item-title">In-memory for the Masses: Enabling Cost-efficient Deployments of In-memory Data Management Platforms for Business Applications</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="alexander.boehm" data-at="sap.com">Alex&nbsp;Boehm</a>&nbsp;(SAP SE)
                 </span>
@@ -133,7 +133,7 @@
 
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/HaixunWang.jpg">
-                <strong class="schedule-item-title">Innovation around Data and AI for the Physical World</strong>
+                <strong class="schedule-item-title">Innovation Around Data and AI for the Physical World</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="haixun.wang" data-at="wework.com ">Haixun&nbsp;Wang</a>&nbsp;(WeWork)
                 </span>

@@ -10,7 +10,10 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Keynote_1"><span class="schedule-time">9:00 &ndash; 10:30</span></div>
+            <div class="schedule-head" id="Keynote_1">
+                <span class="schedule-time">9:00 &ndash; 10:30</span><strong class="main-title">Keynote 1</strong>
+                <span class="schedule-chair">Chaired by <em>Lei Chen</em> (HKUST, Hong Kong) at <em>Sacramento / San Francisco</em> room</span>
+            </div>
 
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/MTamerOzsu.jpg">
@@ -31,7 +34,10 @@
                 </span>
             </p>
 
-            <div class="schedule-head" id="Keynote_2"><span class="schedule-time">14:00 &ndash; 15:30</span></div>
+            <div class="schedule-head" id="Keynote_2">
+                <span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Keynote 2</strong>
+                <span class="schedule-chair">Chaired by <em>Divesh Srivastava</em> (AT&T Labs-Research, USA) at <em>Sacramento / San Francisco</em> room</span>
+            </div>
 
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/TovaMilo.jpg">
@@ -63,7 +69,10 @@
         </div>
 
         <div>
-            <div class="schedule-head" id="Keynote_3"><span class="schedule-time">9:00 &ndash; 10:30</span></div>
+            <div class="schedule-head" id="Keynote_3">
+                <span class="schedule-time">9:00 &ndash; 10:30</span><strong class="main-title">Keynote 3</strong>
+                <span class="schedule-chair">Chaired by <em>Fatma Özcan</em> (IBM Research-Almaden, USA) at <em>Sacramento / San Francisco</em> room</span>
+            </div>
 
             <p class="schedule-item schedule-item-has-photo">
                 <img class="schedule-photo" src="./img/people/EricIverson.jpg">

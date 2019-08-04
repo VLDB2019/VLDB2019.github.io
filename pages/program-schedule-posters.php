@@ -198,6 +198,20 @@
             Microblogs data is the micro-length user-generated data that is posted on the web, e.g., tweets, online reviews, comments on news and social media. It has gained considerable attention in recent years due to its widespread popularity, rich content, and value in several societal applications. Nowadays, microblogs applications span a wide spectrum of interests including targeted advertising, market reports, news delivery, political campaigns, rescue services, and public health. Consequently, major research efforts have been spent to manage, analyze, and visualize microblogs to support different applications. This paper gives a comprehensive review of major research and system work in microblogs data management. The paper reviews core components that enable large-scale querying and indexing for microblogs data. A dedicated part gives particular focus for discussing system-level issues and on-going effort on supporting microblogs through the rising wave of big data systems. In addition, we review the major research topics that exploit these core data management components to provide innovative and effective analysis and visualization for microblogs, such as event detection, recommendations, automatic geotagging, and user queries. Throughout the different parts, we highlight the challenges, innovations, and future opportunities in microblogs data research.
         </span>
     </p>
+
+    <p>
+        <strong class="accepted-title" data-num="15">Prescriptive Analytics: A Survey of Emerging Trends And Technologies</strong>
+        <span class="accepted-authors">
+            <span class="author">Davide Frazzetto</span> (Aalborg Universitet),
+            <span class="author">Thomas Dyhre Nielsen</span> (Aalborg Universitet),
+            <span class="author">Torben Bach Pedersen</span> (Aalborg Universitet), and
+            <span class="author">Laurynas Siksnys</span> (Aalborg Universitet)
+        </span>
+        <span class="accepted-abstract">
+            <a class="accepted-abstract-action"></a>
+            This paper provides a survey of the state-of-the-art and future directions of one of the most important emerging technologies within Business Analytics (BA), namely Prescriptive Analytics (PSA). BA focuses on data-driven decision making and consists of three phases: Descriptive, Predictive, and Prescriptive Analytics. While Descriptive and Predictive Analytics allow us to analyze past and predict future events, respectively, these activities do not provide any direct support for decision making. Here, PSA fills the gap between data and decisions. We have observed an increasing interest for in-DBMS PSA systems in both research and industry. Thus, this paper aims to provide a foundation for PSA as a separate field of study. To do this, we first describe the different phases of BA. We then survey classical analytics systems and identify their main limitations for supporting PSA, based on which we introduce the criteria and methodology used in our analysis. We next survey, categorize, and discuss the state-of-the-art within emerging, so-called PSA+, systems, followed by a presentation of the main challenges and opportunities for next generation PSA systems. Finally, the main findings are discussed and directions for future research are outlined.
+        </span>
+    </p>
 </section>
 <?php
 define('PageTitle', "Program Schedule - Posters of VLDB Journal Papers from 6/16/2018 to 6/15/2019");

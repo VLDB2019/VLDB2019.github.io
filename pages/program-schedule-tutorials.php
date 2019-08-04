@@ -18,7 +18,7 @@
                     <a class="author" href="mailto:" data-uz="fnargesian" data-at="cs.toronto.edu">Fatemeh&nbsp;Nargesian</a>&nbsp;(University of Toronto),
                     <a class="author" href="mailto:" data-uz="ekzhu" data-at="cs.toronto.edu">Erkang&nbsp;Zhu</a>&nbsp;(University of Toronto),
                     <a class="author" href="mailto:" data-uz="miller" data-at="northeastern.edu">Renée&nbsp;J.&nbsp;Miller</a>&nbsp;(Northeastern University),
-                    <a class="author" href="mailto:" data-uz="ken.pu" data-at="uoit.ca">Ken&nbsp;Q&nbsp;Pu</a>&nbsp;(University of Ontario Inst. of Technology), and
+                    <a class="author" href="mailto:" data-uz="ken.pu" data-at="uoit.ca">Ken&nbsp;Q.&nbsp;Pu</a>&nbsp;(University of Ontario Inst. of Technology), and
                     <a class="author" href="mailto:" data-uz="prg" data-at="cs.toronto.edu">Patricia&nbsp;Arocena</a>&nbsp;(TD Bank Group)
                 </span>
                 <span class="schedule-item-abstract">
@@ -35,7 +35,7 @@
                 <strong class="schedule-item-title">Combating Fake News: A Data Management and Mining Perspective</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="laks" data-at="cs.ubc.ca">Laks&nbsp;V.S.&nbsp;Lakshmanan</a>&nbsp;(The University of British Columbia),
-                    <a class="author" href="mailto:" data-uz="simpsonm" data-at="uvic.ca">Michael&nbsp;E&nbsp;Simpson</a>&nbsp;(University of Victoria), and
+                    <a class="author" href="mailto:" data-uz="simpsonm" data-at="uvic.ca">Michael&nbsp;Simpson</a>&nbsp;(The University of British Columbia), and
                     <a class="author" href="mailto:" data-uz="sthirumuruganathan" data-at="hbku.edu.qa">Saravanan&nbsp;Thirumuruganathan</a>&nbsp;(QCRI)
                 </span>
                 <span class="schedule-item-abstract">
@@ -105,7 +105,7 @@
             <p class="schedule-item" data-id="962">
                 <strong class="schedule-item-title">Machine Learning Meets Big Spatial Data</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="sabek" data-at="cs.umn.edu">Ibrahim&nbsp;Sabek</a>&nbsp;(University of Minnesota, Twin Cities) and
+                    <a class="author" href="mailto:" data-uz="sabek" data-at="cs.umn.edu">Ibrahim&nbsp;Sabek</a>&nbsp;(University of Minnesota) and
                     <a class="author" href="mailto:" data-uz="mokbel" data-at="umn.edu">Mohamed&nbsp;Mokbel</a>&nbsp;(Qatar Computing Research Institute)
                 </span>
                 <span class="schedule-item-abstract">

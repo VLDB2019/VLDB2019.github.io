@@ -133,13 +133,13 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1012">
-                <strong class="schedule-item-title" data-num="10">ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous Data Release</strong>
+                <strong class="schedule-item-title" data-num="10">PriSTE: Protecting Spatiotemporal Event Privacy in Continuous Location-Based Services</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Yang&nbsp;Cao</span>&nbsp;(Emory University),
+                    <span class="author">Yang&nbsp;Cao</span>&nbsp;(Kyoto University),
+                    <span class="author">Yonghui&nbsp;Xiao</span>&nbsp;(Google),
                     <span class="author">Li&nbsp;Xiong</span>&nbsp;(Emory University),
-                    <span class="author">Masatoshi&nbsp;Yoshikawa</span>&nbsp;(Kyoto University),
-                    <span class="author">Yonghui&nbsp;Xiao</span>&nbsp;(Google), and
-                    <span class="author">Si&nbsp;Zhang</span>&nbsp;(University of Calgary)
+                    <span class="author">Liquan&nbsp;Bai</span>&nbsp;(Emory University), and
+                    <span class="author">Masatoshi&nbsp;Yoshikawa</span>&nbsp;(Kyoto University)
                 </span>
             </p>
 

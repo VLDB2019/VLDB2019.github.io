@@ -13,7 +13,7 @@
         <div>
             <div class="schedule-head" id="Industry_Session_1">
                 <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 1: Deep Learning and Graph DBs</strong>
-                <span class="schedule-chair">Chaired by <em>Feifei Li</em> (Alibaba Group, China)</span>
+                <span class="schedule-chair">Chaired by <em>Feifei Li</em> (Alibaba Group, China) at <em>Sacramento / San Francisco</em> room</span> 
             </div>
             
             <p class="schedule-item" data-id="694">
@@ -126,7 +126,7 @@
         <div>
             <div class="schedule-head" id="Industry_Session_2">
                 <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 2: High Performance DBs: Both General Purpose and Specialized</strong>
-                <span class="schedule-chair">Chaired by <em>Alex Boehm</em> (SAP SE)</span>
+                <span class="schedule-chair">Chaired by <em>Alex Boehm</em> (SAP SE) at <em>Sacramento / San Francisco</em> room</span> 
             </div>
             
             <p class="schedule-item" data-id="668">
@@ -240,7 +240,7 @@
         <div>
             <div class="schedule-head" id="Industry_Session_3">
                 <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Industry Session 3: Implementing and Measuring High Performance Databases</strong>
-                <span class="schedule-chair">Chaired by <em>Jingren Zhou</em> (Alibaba Group, China)</span>
+                <span class="schedule-chair">Chaired by <em>Jingren Zhou</em> (Alibaba Group, China) at <em>Sacramento / San Francisco</em> room</span> 
             </div>
             
             <p class="schedule-item" data-id="715">
@@ -345,7 +345,7 @@
 
             <div class="schedule-head" id="Industry_Session_4">
                 <span class="schedule-time">14:00 &ndash; 15:30</span><strong class="main-title">Industry Session 4: Pretty Good Answers and Pretty Darned Fast!</strong>
-                <span class="schedule-chair">Chaired by <em>Yuanyuan Tian</em> (IBM Research-Almaden, USA)</span>
+                <span class="schedule-chair">Chaired by <em>Yuanyuan Tian</em> (IBM Research-Almaden, USA) at <em>Sacramento / San Francisco</em> room</span> 
             </div>
             
             <p class="schedule-item" data-id="720">
@@ -365,10 +365,10 @@
             <p class="schedule-item" data-id="698">
                 <strong class="schedule-item-title" data-num="4.2">Experiences with Approximating Queries in Microsoft's Production Big-Data Clusters</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="srikanth" data-at="microsoft.com">Srikanth&nbsp;Kandula</a>&nbsp;(Microsoft Research),
+                    <a class="author" href="mailto:" data-uz="srikanth" data-at="microsoft.com">Srikanth&nbsp;Kandula</a>&nbsp;(Microsoft),
                     <a class="author" href="mailto:" data-uz="kulee" data-at="microsoft.com">Kukjin&nbsp;Lee</a>&nbsp;(Microsoft),
-                    <a class="author" href="mailto:" data-uz="surajitc" data-at="microsoft.com">Surajit&nbsp;Chaudhuri</a>&nbsp;(Microsoft Research), and
-                    <a class="author" href="mailto:" data-uz="marcfr" data-at="microsoft.com">Marc&nbsp;T&nbsp;Friedman</a>&nbsp;(Microsoft)
+                    <a class="author" href="mailto:" data-uz="surajitc" data-at="microsoft.com">Surajit&nbsp;Chaudhuri</a>&nbsp;(Microsoft), and
+                    <a class="author" href="mailto:" data-uz="marcfr" data-at="microsoft.com">Marc&nbsp;T.&nbsp;Friedman</a>&nbsp;(Microsoft)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -395,7 +395,7 @@
                 <strong class="schedule-item-title" data-num="4.4">Tunable Consistency in MongoDB</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="william.schultz" data-at="mongodb.com">William&nbsp;Schultz</a>&nbsp;(MongoDB),
-                    <a class="author" href="mailto:" data-uz="tess.avitabile" data-at="mongodb.com">Therese&nbsp;M&nbsp;Avitabile</a>&nbsp;(MongoDB), and
+                    <a class="author" href="mailto:" data-uz="tess.avitabile" data-at="mongodb.com">Tess&nbsp;Avitabile</a>&nbsp;(MongoDB), and
                     <a class="author" href="mailto:" data-uz="alyson.cabral" data-at="mongodb.com">Alyson&nbsp;Cabral</a>&nbsp;(MongoDB)
                 </span>
                 <span class="schedule-item-abstract">

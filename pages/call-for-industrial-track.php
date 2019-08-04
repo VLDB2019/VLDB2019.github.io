@@ -56,7 +56,7 @@
 
     <h3>Industrial Track PC Members</h3>
     <p class="program-chairs">
-        Divy Agrawal<small>, University of California, Santa Barbara</small><br />
+        Divyakant Agrawal<small>, University of California, Santa Barbara</small><br />
         Pedro Bizarro<small>, Feedzai</small><br />
         Alexander Boehm<small>, SAP SE</small><br />
         Ben Busjaeger<small>, Salesforce</small><br />
