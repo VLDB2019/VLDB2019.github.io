@@ -393,6 +393,19 @@
     width: 25px;
 }
 
+.schedule-item.winning-paper .schedule-item-title:before {
+    width: 50px;
+    background-image: url("../img/cup.svg");
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: right center;
+    margin-right: 5px;
+}
+
+p + .schedule-wrap {
+    margin-top: 25px;
+}
+
 @media screen and (max-width: 500px) {
     .schedule-item-has-photo .schedule-item-people:after {
         content: '';

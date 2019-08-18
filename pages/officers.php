@@ -10,7 +10,7 @@
 
     <h4>Associate Editors</h4>
     <div><strong>Azza Abouzied</strong>, NYU Abu Dhabi, UAE</div>
-    <div><strong>Selcuk Candan</strong>, Arizona State University, USA </div>
+    <div><strong>K. Selçuk Candan</strong>, Arizona State University, USA </div>
     <div><strong>Surajit Chaudhuri</strong>, Microsoft Research, USA</div>
     <div><strong>Amol Desphande</strong>, University of Maryland, USA</div>
     <div><strong>Johann-Christoph Freytag</strong>, Humboldt-Universität zu Berlin, Germany</div>
@@ -28,7 +28,7 @@
     <div><strong>Meihui Zhang</strong>, Beijing Institute of Technology, China</div>
 
     <h4>Treasury Chair</h4>
-    <div><strong>A. Selçuk Candan</strong>, ASU</div>
+    <div><strong>K. Selçuk Candan</strong>, ASU</div>
 
     <h4>Liaison for Industrial Sponsors</h4>
     <div><strong>Chen Li</strong>, UC - Irvine</div>
@@ -75,14 +75,14 @@
     <div><strong>Abdul Quamar</strong>, IBM Research - Almaden</div>
     <div><strong>Yongxin Tong</strong>, Beihang University</div>
 
-    <h4>Website</h4>
+    <h4>Web / Information Chair</h4>
     <div><strong>Mehran Barahmand</strong>, Amazon</div>
 
     <h4>Local Arrangements Chairs</h4>
     <div><strong>Tyson Condie</strong>, Microsoft</div>
     <div><strong>Beth Trushkowsky</strong>, HMC</div>
 
-    <h4>Registration Chair</h4>
+    <h4>Registration Chairs</h4>
     <div><strong>Ahmed Eldawy</strong>, UCR</div>
     <div><strong>Faisal Nawab</strong>, UC Santa Cruz</div>
 

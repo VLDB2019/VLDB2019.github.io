@@ -36,7 +36,7 @@
     <h3>PhD Workshop PC Members</h3>
     <p class="program-chairs">
         Sourav S. Bhowmick<small>, Nanyang Technological University</small><br />
-        A. Selçuk Candan<small>, ASU</small><br />
+        K. Selçuk Candan<small>, ASU</small><br />
         Reynold Cheng<small>, University of Hong Kong</small><br />
         Guoliang Li<small>, Tsinghua University</small><br />
         Faisal Nawab<small>, UC Santa Cruz</small><br />

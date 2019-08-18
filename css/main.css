@@ -153,12 +153,13 @@ header > nav > div {
     transition: .5s font-size, .5s margin;
 }
 
-header > nav > div:last-child {
-    padding-right: 25px;
-}
-
 body.static header > nav > div {
     padding: 20px;
+}
+
+body.static header > nav > div:last-child,
+header > nav > div:last-child {
+    padding-right: 25px;
 }
 
 header > nav > figure + div {
@@ -473,6 +474,7 @@ section > h2 {
         padding: 10px 15px;
     }
 
+    body.static header > nav > div:last-child,
     header > nav > div:last-child {
         padding-right: 15px;
     }
@@ -516,6 +518,7 @@ section > h2 {
         padding: 10px 10px;
     }
 
+    body.static header > nav > div:last-child,
     header > nav > div:last-child {
         padding-right: 28px;
     }
@@ -1393,7 +1396,7 @@ div.workshop-title:first-child {
     color: #777;
     font-size: 12px;
     width: 30%;
-    min-width: 330px;
+    min-width: 338px;
     padding-left: 20px;
     flex-shrink: 1;
     flex-grow: 1;

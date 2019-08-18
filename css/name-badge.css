@@ -1,0 +1,160 @@
+html {
+    height: 100%;
+}
+
+html, body {
+    font: 14px/1.5 'Cooper Hewitt';
+    color: #444;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-flow: column nowrap;
+    background-image: url("../img/new-logo-2.png"), linear-gradient(to bottom, #fefefe, #eee);
+    background-position: bottom right, top left;
+    background-repeat: no-repeat;
+    background-size: auto 100px, 100% 100%;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+h1 {
+    position: relative;
+    height: 40vh;
+    font-weight: bold;
+    margin: 2vh 7vw 0;
+}
+
+h1 > span {
+    visibility: hidden;
+    font-size: 25em;
+    line-height: 1em;
+    position: absolute;
+    display: inline-block;
+    text-align: left;
+    bottom: 0;
+    width: -moz-min-content;
+    width: -webkit-min-content;
+    width: min-content;
+}
+
+h2 {
+    text-align: left;
+    margin: 0 8vw;
+    color: #666;
+    font-weight: 500;
+}
+
+h2 > span {
+    visibility: hidden;
+    font-size: 8em;
+    line-height: 1em;
+    display: inline-block;
+    margin: .3em 0 .2em;
+    white-space: nowrap;
+}
+
+h2 > span.multiline {
+    white-space: normal;
+}
+
+h3 {
+    text-align: left;
+    margin: 0 8vw;
+    color: #999;
+    font-weight: 200;
+}
+
+h3 > span {
+    visibility: hidden;
+    font-size: 5em;
+    line-height: 1em;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+div {
+    text-align: center;
+    margin: 50px 0 0 0;
+    font-size: 0;
+}
+
+button {
+    font-family: 'Cooper Hewitt';
+    margin: 0;
+    padding: .3em 1em;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: normal;
+    outline: none;
+    user-select: none;
+    border-radius: 5px;
+    background-color: #6200ee;
+    border-width: 0;
+    visibility: hidden;
+}
+
+body:not(.desktop) button {
+    padding: .35em .8em .1em;
+}
+
+@media (min-width: 400px) {
+    html {
+        background: #222;
+    }
+
+    body.desktop {
+        width: 400px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    body.desktop h1 {
+        margin: 0 28px;
+    }
+
+    body.desktop h2 {
+        margin: 0 32px;
+    }
+
+    body.desktop h3 {
+        margin: 0 32px;
+    }
+}
+
+@media (orientation: landscape) {
+    body:not(.desktop) h1 {
+        height: 30vh;
+        margin-top: 5vh;
+    }
+
+    body:not(.desktop) h1 > span {
+        white-space: nowrap;
+    }
+
+    body:not(.desktop) h2,
+    body:not(.desktop) h3 {
+        margin: 0 7.4vw;
+    }
+
+    body:not(.desktop) h2 > span {
+        margin: .2em 0 0 0;
+    }
+
+    body:not(.desktop) div {
+        text-align: left;
+        margin: 20px 0 0 7.5vw;
+    }
+}

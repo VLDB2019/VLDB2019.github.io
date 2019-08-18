@@ -133,7 +133,7 @@
             <td><a href="./?program-schedule-industry-talks#Invited_Industry_Talks_1">Invited Industry Talks 1: <small>Data Standing Tall in the Clouds</small></a></td>
         </tr>
         <tr>
-            <td>18:00 – 18:30</td>
+            <td>17:45 – 18:30</td>
             <td colspan="7" class="hl-row">Departure for the Reception, California Science Center</td>
         </tr>
         <tr>
@@ -250,7 +250,7 @@
             <td><a href="./?papers-research#Research_Session_21">Research Session 21: <small>Privacy and Security</small></a></td>
             <td><a href="./?papers-research#Research_Session_22">Research Session 22: <small>Clustering and Outlier Deterction</small></a></td>
             <td><a href="./?papers-research#Research_Session_23">Research Session 23: <small>Data Integration</small></a></td>
-            <td><a href="./?papers-research#Research_Session_24">Research Session 24: <small>Blockchain</small></a></td>
+            <td><a href="./?papers-research#Research_Session_24">Research Session 24: <small>Blockchain</small></a><br><small><em>(Best Paper)</em></small></td>
             <td><a href="./?program-schedule-demonstrations#Demo_Group_B">Demo Group B</a></td>
             <td><a href="./?program-schedule-tutorials#Tutorial_6">Tutorial 6: <small>TextCube – Automated Construction and Multidimensional Exploration</small></a></td>
             <td><a href="./?papers-industrial#Industry_Session_4">Industry Session 4: <small>Pretty Good Answers and Pretty Darned Fast!</small></a></td>

@@ -132,7 +132,7 @@ $content = ob_get_clean();
             <div class="menu">
                 <a href="./?info-poster-presenters" itemprop="url"><span itemprop="name">Poster presenters</span></a>
                 <a href="./?info-demo-presenters" itemprop="url"><span itemprop="name">Demo presenters</span></a>
-                <a href="./?info-demo-presenters" itemprop="url"><span itemprop="name">Research &amp; industry presenters</span></a>
+                <a href="./?info-paper-presenters" itemprop="url"><span itemprop="name">Research &amp; industry presenters</span></a>
                 <hr/>
                 <a href="./?info-reception" itemprop="url"><span itemprop="name">Reception</span></a>
                 <a href="./?info-registration" itemprop="url"><span itemprop="name">Registration</span></a>

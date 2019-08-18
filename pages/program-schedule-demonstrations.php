@@ -39,9 +39,9 @@
                 <span class="schedule-item-people">
                     <span class="author">Yuanyuan&nbsp;Tian</span>&nbsp;(IBM Research),
                     <span class="author">Sui&nbsp;Jun&nbsp;Tong</span>&nbsp;(IBM Research),
-                    <span class="author">Hamid&nbsp;Pirahesh</span>&nbsp;(IBM Research),
+                    <span class="author">Mir&nbsp;Hamid&nbsp;Pirahesh</span>&nbsp;(IBM Research),
                     <span class="author">Wen&nbsp;Sun</span>&nbsp;(IBM Research),
-                    <span class="author">Enliang&nbsp;Xu</span>&nbsp;(IBM Research), and
+                    <span class="author">En&nbsp;Liang&nbsp;Xu</span>&nbsp;(IBM Research), and
                     <span class="author">Wei&nbsp;Zhao</span>&nbsp;(IBM Research)
                 </span>
             </p>
@@ -52,7 +52,7 @@
                     <span class="author">Yipeng&nbsp;Zhang</span>&nbsp;(RMIT University),
                     <span class="author">Zhifeng&nbsp;Bao</span>&nbsp;(RMIT University),
                     <span class="author">Songsong&nbsp;Mo</span>&nbsp;(Wuhan University),
-                    <span class="author">Yuchen&nbsp;Li</span>&nbsp;(Singapore Management University), and
+                    <span class="author">Yuchen&nbsp;Li</span>&nbsp;(SMU), and
                     <span class="author">Yanghao&nbsp;Zhou</span>&nbsp;(RMIT University)
                 </span>
             </p>
@@ -60,20 +60,20 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="957">
                 <strong class="schedule-item-title" data-num="3">Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Viet-Phi&nbsp;Huynh</span>&nbsp;(EURECOM) and
-                    <span class="author">Paolo&nbsp;Papotti</span>&nbsp;(EURECOM)
+                    <span class="author">Viet-Phi&nbsp;Huynh</span>&nbsp;(Eurecom) and
+                    <span class="author">Paolo&nbsp;Papotti</span>&nbsp;(Eurecom)
                 </span>
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="965">
                 <strong class="schedule-item-title" data-num="4">A Query System for Efficiently Investigating Complex Attack Behaviors for Enterprise Security</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Peng&nbsp;Gao</span>&nbsp;(University of California, Berkeley),
+                    <span class="author">Peng&nbsp;Gao</span>&nbsp;(UC Berkeley),
                     <span class="author">Xusheng&nbsp;Xiao</span>&nbsp;(Case Western Reserve University),
-                    <span class="author">Zhichun&nbsp;Li</span>&nbsp;(NEC Labs),
-                    <span class="author">Kangkook&nbsp;Jee</span>&nbsp;(University of Texas, Dallas),
+                    <span class="author">Zhichun&nbsp;Li</span>&nbsp;(NEC Labs America),
+                    <span class="author">Kangkook&nbsp;Jee</span>&nbsp;(UT Dallas),
                     <span class="author">Fengyuan&nbsp;Xu</span>&nbsp;(Nanjing University),
-                    <span class="author">Sanjeev&nbsp;Kulkarni</span>&nbsp;(Princeton University), and
+                    <span class="author">Sanjeev&nbsp;R.&nbsp;Kulkarni</span>&nbsp;(Princeton University), and
                     <span class="author">Prateek&nbsp;Mittal</span>&nbsp;(Princeton University)
                 </span>
             </p>
@@ -84,7 +84,7 @@
                     <span class="author">Lukas&nbsp;Berg</span>&nbsp;(TU Darmstadt),
                     <span class="author">Tobias&nbsp;Ziegler</span>&nbsp;(TU Darmstadt),
                     <span class="author">Carsten&nbsp;Binnig</span>&nbsp;(TU Darmstadt), and
-                    <span class="author">Uwe&nbsp;Roehm</span>&nbsp;(The University of Sydney)
+                    <span class="author">Uwe&nbsp;Röhm</span>&nbsp;(University of Sydney)
                 </span>
             </p>
 
@@ -102,7 +102,7 @@
                 <strong class="schedule-item-title" data-num="7">NashDB: Fragmentation, Replication, and Provisioning using Economic Methods</strong>
                 <span class="schedule-item-people">
                     <span class="author">Ryan&nbsp;Marcus</span>&nbsp;(Brandeis University),
-                    <span class="author">Chi&nbsp;Zhang</span>&nbsp;(Brandeis university),
+                    <span class="author">Chi&nbsp;Zhang</span>&nbsp;(Brandeis University),
                     <span class="author">Shuai&nbsp;Yu</span>&nbsp;(Brandeis University),
                     <span class="author">Geoffrey&nbsp;Kao</span>&nbsp;(Brandeis University), and
                     <span class="author">Olga&nbsp;Papaemmanouil</span>&nbsp;(Brandeis University)
@@ -124,11 +124,11 @@
                 <strong class="schedule-item-title" data-num="9">SHOAL: Large-scale Hierarchical Taxonomy via Graph-based Query Coalition in E-commerce</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zhao&nbsp;Li</span>&nbsp;(Alibaba Group),
-                    <span class="author">Xia&nbsp;Chen</span>&nbsp;(Alibaba Group),
+                    <span class="author">Xia&nbsp;Chen</span>&nbsp;(Alibaba Group, Southwest University),
                     <span class="author">Xuming&nbsp;Pan</span>&nbsp;(Alibaba Group),
                     <span class="author">Pengcheng&nbsp;Zou</span>&nbsp;(Alibaba Group),
                     <span class="author">Yuchen&nbsp;Li</span>&nbsp;(Singapore Management University), and
-                    <span class="author">Guoxian&nbsp;Yu</span>&nbsp;(Southwest University, China)
+                    <span class="author">Guoxian&nbsp;Yu</span>&nbsp;(Southwest University)
                 </span>
             </p>
 
@@ -136,7 +136,7 @@
                 <strong class="schedule-item-title" data-num="10">PriSTE: Protecting Spatiotemporal Event Privacy in Continuous Location-Based Services</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yang&nbsp;Cao</span>&nbsp;(Kyoto University),
-                    <span class="author">Yonghui&nbsp;Xiao</span>&nbsp;(Google),
+                    <span class="author">Yonghui&nbsp;Xiao</span>&nbsp;(Google Inc.),
                     <span class="author">Li&nbsp;Xiong</span>&nbsp;(Emory University),
                     <span class="author">Liquan&nbsp;Bai</span>&nbsp;(Emory University), and
                     <span class="author">Masatoshi&nbsp;Yoshikawa</span>&nbsp;(Kyoto University)
@@ -146,20 +146,20 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1026">
                 <strong class="schedule-item-title" data-num="11">HERMIT in Action: Succinct Secondary Indexing Mechanism via Correlation Exploration</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Yingjun&nbsp;Wu</span>&nbsp;(IBM Research),
+                    <span class="author">Yingjun&nbsp;Wu</span>&nbsp;(IBM Research - Almaden),
                     <span class="author">Jia&nbsp;Yu</span>&nbsp;(Arizona State University),
-                    <span class="author">Yuanyuan&nbsp;Tian</span>&nbsp;(IBM Research),
-                    <span class="author">Richard&nbsp;Sidle</span>&nbsp;(IBM Research), and
-                    <span class="author">Ronald&nbsp;Barber</span>&nbsp;(IBM Research)
+                    <span class="author">Yuanyuan&nbsp;Tian</span>&nbsp;(IBM Research - Almaden),
+                    <span class="author">Richard&nbsp;Sidle</span>&nbsp;(IBM), and
+                    <span class="author">Ronald&nbsp;Barber</span>&nbsp;(IBM Research - Almaden)
                 </span>
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1030">
                 <strong class="schedule-item-title" data-num="12">DISPERS: Securing Highly Distributed Queries on Personal Data Management Systems</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Julien&nbsp;Loudet</span>&nbsp;(INRIA),
-                    <span class="author">Iulian&nbsp;Sandu&nbsp;Popa</span>&nbsp;(INRIA & David Lab., University of Versailles Saint-Quentin, France), and
-                    <span class="author">Luc&nbsp;Bouganim</span>&nbsp;(INRIA)
+                    <span class="author">Julien&nbsp;Loudet</span>&nbsp;(Cozy Cloud, INRIA Saclay, University of Versailles),
+                    <span class="author">Iulian&nbsp;Sandu-Popa</span>&nbsp;(University of Versailles, INRIA Saclay), and
+                    <span class="author">Luc&nbsp;Bouganim</span>&nbsp;(INRIA Saclay, University of Versailles)
                 </span>
             </p>
 
@@ -176,17 +176,17 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1053">
                 <strong class="schedule-item-title" data-num="14">Spade: A Modular Framework for Analytical Exploration of RDF Graphs</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(Ecole Polytechnique and University of Massachusetts Amherst),
-                    <span class="author">Pawel&nbsp;Guzewicz</span>&nbsp;(INRIA),
-                    <span class="author">Ioana&nbsp;Manolescu</span>&nbsp;(INRIA), and
-                    <span class="author">Mirjana&nbsp;Mazuran</span>&nbsp;(INRIA)
+                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(LIX (UMR 7161, CNRS and Ecole polytechnique), University of Massachusetts Amherst),
+                    <span class="author">Pawel&nbsp;Guzewicz</span>&nbsp;(LIX (UMR 7161, CNRS and Ecole polytechnique), INRIA),
+                    <span class="author">Ioana&nbsp;Manolescu</span>&nbsp;(LIX (UMR 7161, CNRS and Ecole polytechnique), INRIA), and
+                    <span class="author">Mirjana&nbsp;Mazuran</span>&nbsp;(LIX (UMR 7161, CNRS and Ecole polytechnique), INRIA)
                 </span>
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1056">
                 <strong class="schedule-item-title" data-num="15">Making an RDBMS Data Scientist Friendly: Advanced In-database Interactive Analytics with Visualization Support</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Joseph&nbsp;D'silva</span>&nbsp;(McGill University),
+                    <span class="author">Joseph&nbsp;Vinish&nbsp;D’silva</span>&nbsp;(McGill University),
                     <span class="author">Florestan&nbsp;De&nbsp;Moor</span>&nbsp;(McGill University), and
                     <span class="author">Bettina&nbsp;Kemme</span>&nbsp;(McGill University)
                 </span>
@@ -199,7 +199,7 @@
                     <span class="author">Fei&nbsp;Song</span>&nbsp;(Ecole Polytechnique),
                     <span class="author">Chenghao&nbsp;Lyu</span>&nbsp;(University of Massachusetts Amherst),
                     <span class="author">Arnab&nbsp;Sinha</span>&nbsp;(Ecole Polytechnique),
-                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(Ecole Polytechnique and University of Massachusetts Amherst), and
+                    <span class="author">Yanlei&nbsp;Diao</span>&nbsp;(Ecole Polytechnique, University of Massachusetts Amherst), and
                     <span class="author">Prashant&nbsp;Shenoy</span>&nbsp;(University of Massachusetts Amherst)
                 </span>
             </p>
@@ -207,10 +207,10 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1063">
                 <strong class="schedule-item-title" data-num="17">Dietcoin: Hardening Bitcoin Transaction Verification Process For Mobile Devices</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Davide&nbsp;Frey</span>&nbsp;(University of Rennes),
-                    <span class="author">Marc&nbsp;Makkes</span>&nbsp;(Vrije Universiteit),
-                    <span class="author">Pierre-Louis&nbsp;Roman</span>&nbsp;(University of Rennes, Inria, CNRS, IRISA),
-                    <span class="author">François&nbsp;Taïani</span>&nbsp;(University of Rennes, CNRS, Inria, IRISA), and
+                    <span class="author">Davide&nbsp;Frey</span>&nbsp;(Univ Rennes, Inria, CNRS, IRISA),
+                    <span class="author">Marc&nbsp;X.&nbsp;Makkes</span>&nbsp;(Vrije Universiteit),
+                    <span class="author">Pierre-Louis&nbsp;Roman</span>&nbsp;(Univ Rennes, Inria, CNRS, IRISA),
+                    <span class="author">François&nbsp;Taïani</span>&nbsp;(Univ Rennes, CNRS, Inria, IRISA), and
                     <span class="author">Spyros&nbsp;Voulgaris</span>&nbsp;(Athens University of Economics and Business)
                 </span>
             </p>
@@ -218,13 +218,13 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="981">
                 <strong class="schedule-item-title" data-num="18">COVIZ: A System for Visual Formation and Exploration of Patient Cohorts</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Cìcero&nbsp;A.&nbsp;L.&nbsp;Pahins</span>&nbsp;(UFRGS),
-                    <span class="author">Behrooz&nbsp;Omidvar-Tehrani</span>&nbsp;(LIG),
-                    <span class="author">Sihem&nbsp;Amer-Yahia</span>&nbsp;(CNRS),
-                    <span class="author">Valérie&nbsp;Siroux</span>&nbsp;(Institute for Advanced Biosciences and Inserm),
-                    <span class="author">Jean-Louis&nbsp;Pépin</span>&nbsp;(Grenoble University Hospital),
+                    <span class="author">Cícero&nbsp;A.&nbsp;L.&nbsp;Pahins</span>&nbsp;(UFRGS),
+                    <span class="author">Behrooz&nbsp;Omidvar-Tehrani</span>&nbsp;(Univ. Grenoble Alpes, CNRS, LIG),
+                    <span class="author">Sihem&nbsp;Amer-Yahia</span>&nbsp;(Univ. Grenoble Alpes, CNRS, LIG),
+                    <span class="author">Valérie&nbsp;Siroux</span>&nbsp;(Univ. Grenoble Alpes, CNRS, LIG, Institute for Advanced Biosciences and Inserm),
+                    <span class="author">Jean-Louis&nbsp;Pepin</span>&nbsp;(Univ. Grenoble Alpes, CNRS, LIG, Grenoble University Hospital),
                     <span class="author">Jean-Christian&nbsp;Borel</span>&nbsp;(AGIR-à-Dom), and
-                    <span class="author">Joao&nbsp;Comba</span>&nbsp;(UFRGS)
+                    <span class="author">João&nbsp;Comba</span>&nbsp;(UFRGS)
                 </span>
             </p>
 
@@ -260,18 +260,18 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1064">
                 <strong class="schedule-item-title" data-num="22">Raptor: Large Scale Analysis of Big Raster and Vector Data</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Samriddhi&nbsp;Singla</span>&nbsp;(University of California, Riverside),
-                    <span class="author">Ahmed&nbsp;Eldawy</span>&nbsp;(University of California, Riverside),
+                    <span class="author">Samriddhi&nbsp;Singla</span>&nbsp;(UC Riverside),
+                    <span class="author">Ahmed&nbsp;Eldawy</span>&nbsp;(UC Riverside),
                     <span class="author">Rami&nbsp;Alghamdi</span>&nbsp;(University of Minnesota, Twin Cities), and
-                    <span class="author">Muhammad&nbsp;Mokbel</span>&nbsp;(Qatar Computing Research Institute)
+                    <span class="author">Mohamed&nbsp;F.&nbsp;Mokbel</span>&nbsp;(Qatar Computing Research Institute)
                 </span>
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1081">
                 <strong class="schedule-item-title" data-num="23">Tuplex: Robust, Efficient Analytics When Python Rules</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Leonhard&nbsp;Spiegelberg</span>&nbsp;(Brown University) and
-                    <span class="author">Tim&nbsp;Kraska</span>&nbsp;(MIT)
+                    <span class="author">Leonhard&nbsp;F.&nbsp;Spiegelberg</span>&nbsp;(Brown University) and
+                    <span class="author">Tim&nbsp;Kraska</span>&nbsp;(Massachusetts Institute of Technology)
                 </span>
             </p>
 
@@ -282,7 +282,7 @@
                     <span class="author">Frances&nbsp;Ann&nbsp;Hubis</span>&nbsp;(ETH Zurich),
                     <span class="author">Bojan&nbsp;Karlaš</span>&nbsp;(ETH Zurich),
                     <span class="author">Kevin&nbsp;Schawinski</span>&nbsp;(Modulos AG),
-                    <span class="author">Wentao&nbsp;Wu</span>&nbsp;(Microsoft Research), and
+                    <span class="author">Wentao&nbsp;Wu</span>&nbsp;(Microsoft Research, Redmond), and
                     <span class="author">Ce&nbsp;Zhang</span>&nbsp;(ETH Zurich)
                 </span>
             </p>
@@ -331,15 +331,15 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1080">
                 <strong class="schedule-item-title" data-num="2">Data Civilizer 2.0: A Holistic Framework for Data Preparation and Analytics</strong>
                 <span class="schedule-item-people">
-                    <span class="author">El&nbsp;Kindi&nbsp;Rezig</span>&nbsp;(MIT),
-                    <span class="author">Lei&nbsp;Cao</span>&nbsp;(MIT),
-                    <span class="author">Michael&nbsp;Stonebraker</span>&nbsp;(MIT),
-                    <span class="author">Giovanni&nbsp;Simonini</span>&nbsp;(MIT),
-                    <span class="author">Wenbo&nbsp;Tao</span>&nbsp;(MIT),
-                    <span class="author">Samuel&nbsp;Madden</span>&nbsp;(MIT),
+                    <span class="author">El&nbsp;Kindi&nbsp;Rezig</span>&nbsp;(MIT CSAIL),
+                    <span class="author">Lei&nbsp;Cao</span>&nbsp;(MIT CSAIL),
+                    <span class="author">Michael&nbsp;Stonebraker</span>&nbsp;(MIT CSAIL),
+                    <span class="author">Giovanni&nbsp;Simonini</span>&nbsp;(MIT CSAIL),
+                    <span class="author">Wenbo&nbsp;Tao</span>&nbsp;(MIT CSAIL),
+                    <span class="author">Samuel&nbsp;Madden</span>&nbsp;(MIT CSAIL),
                     <span class="author">Mourad&nbsp;Ouzzani</span>&nbsp;(Qatar Computing Research Institute, HBKU),
                     <span class="author">Nan&nbsp;Tang</span>&nbsp;(Qatar Computing Research Institute, HBKU), and
-                    <span class="author">Ahmed&nbsp;Elmagarmid</span>&nbsp;(Qatar Computing Research Institute, HBKU)
+                    <span class="author">Ahmed&nbsp;K.&nbsp;Elmagarmid</span>&nbsp;(Qatar Computing Research Institute, HBKU)
                 </span>
             </p>
 
@@ -357,21 +357,21 @@
                 <strong class="schedule-item-title" data-num="4">Stateful Functions as a Service in Action</strong>
                 <span class="schedule-item-people">
                     <span class="author">Adil&nbsp;Akhter</span>&nbsp;(ING),
-                    <span class="author">Marios&nbsp;Fragkoulis</span>&nbsp;(TU Delft), and
-                    <span class="author">Asterios&nbsp;Katsifodimos</span>&nbsp;(TU Delft)
+                    <span class="author">Marios&nbsp;Fragkoulis</span>&nbsp;(Delft University of Technology), and
+                    <span class="author">Asterios&nbsp;Katsifodimos</span>&nbsp;(Delft University of Technology)
                 </span>
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="880">
                 <strong class="schedule-item-title" data-num="5">GALO: Guided Automated Learning for re-Optimization</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Guilherme&nbsp;Damasio</span>&nbsp;(University of Ontario Institute of Technology),
-                    <span class="author">Spencer&nbsp;Bryson</span>&nbsp;(University of Ontario Institute of Technology),
-                    <span class="author">Vincent&nbsp;Corvinelli</span>&nbsp;(IBM),
-                    <span class="author">Parke&nbsp;Godfrey</span>&nbsp;(York University),
-                    <span class="author">Piotr&nbsp;Mierzejewski</span>&nbsp;(IBM),
-                    <span class="author">Jaroslaw&nbsp;Szlichta</span>&nbsp;(University of Ontario Institute of Technology and IBM), and
-                    <span class="author">Calisto&nbsp;Zuzarte</span>&nbsp;(IBM)
+                    <span class="author">Guilherme&nbsp;Damasio</span>&nbsp;(Ontario Tech University, IBM Centre for Advanced Studies),
+                    <span class="author">Spencer&nbsp;Bryson</span>&nbsp;(Ontario Tech University, IBM Centre for Advanced Studies),
+                    <span class="author">Vincent&nbsp;Corvinelli</span>&nbsp;(IBM Ltd),
+                    <span class="author">Parke&nbsp;Godfrey</span>&nbsp;(York University, IBM Centre for Advanced Studies),
+                    <span class="author">Piotr&nbsp;Mierzejewski</span>&nbsp;(IBM Ltd),
+                    <span class="author">Jaroslaw&nbsp;Szlichta</span>&nbsp;(Ontario Tech University, IBM Centre for Advanced Studies), and
+                    <span class="author">Calisto&nbsp;Zuzarte</span>&nbsp;(IBM Ltd)
                 </span>
             </p>
 
@@ -379,10 +379,10 @@
                 <strong class="schedule-item-title" data-num="6">CAPE: Explaining Outliers by Counterbalancing</strong>
                 <span class="schedule-item-people">
                     <span class="author">Zhengjie&nbsp;Miao</span>&nbsp;(Duke University),
-                    <span class="author">Qitian&nbsp;Zeng</span>&nbsp;(Illinois Institute of Technology),
-                    <span class="author">Chenjie&nbsp;Li</span>&nbsp;(Illinois Institute of Technology),
-                    <span class="author">Boris&nbsp;Glavic</span>&nbsp;(Illinois Institute of Technology),
-                    <span class="author">Oliver&nbsp;Kennedy</span>&nbsp;(University at Buffalo, SUNY), and
+                    <span class="author">Qitian&nbsp;Zeng</span>&nbsp;(IIT),
+                    <span class="author">Chenjie&nbsp;Li</span>&nbsp;(IIT),
+                    <span class="author">Boris&nbsp;Glavic</span>&nbsp;(IIT),
+                    <span class="author">Oliver&nbsp;Kennedy</span>&nbsp;(SUNY Buffalo), and
                     <span class="author">Sudeepa&nbsp;Roy</span>&nbsp;(Duke University)
                 </span>
             </p>
@@ -409,11 +409,11 @@
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="988">
-                <strong class="schedule-item-title" data-num="9">PRIMAT - A Toolbox for Fast Privacy-preserving Matching</strong>
+                <strong class="schedule-item-title" data-num="9">PRIMAT: A Toolbox for Fast Privacy-preserving Matching</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Martin&nbsp;Franke</span>&nbsp;(University of Leipzig),
-                    <span class="author">Ziad&nbsp;Sehili</span>&nbsp;(University of Leipzig), and
-                    <span class="author">Erhard&nbsp;Rahm</span>&nbsp;(University of Leipzig)
+                    <span class="author">Martin&nbsp;Franke</span>&nbsp;(Leipzig University & ScaDS Dresden/Leipzig),
+                    <span class="author">Ziad&nbsp;Sehili</span>&nbsp;(Leipzig University & ScaDS Dresden/Leipzig), and
+                    <span class="author">Erhard&nbsp;Rahm</span>&nbsp;(Leipzig University & ScaDS Dresden/Leipzig)
                 </span>
             </p>
 
@@ -422,15 +422,15 @@
                 <span class="schedule-item-people">
                     <span class="author">Ibrahim&nbsp;Sabek</span>&nbsp;(University of Minnesota),
                     <span class="author">Mashaal&nbsp;Musleh</span>&nbsp;(University of Minnesota), and
-                    <span class="author">Mohamed&nbsp;Mokbel</span>&nbsp;(Qatar Computing Research Institute)
+                    <span class="author">Mohamed&nbsp;F.&nbsp;Mokbel</span>&nbsp;(Qatar Comp. Research Inst., HBKU)
                 </span>
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="991">
                 <strong class="schedule-item-title" data-num="11">I Can't Believe It's Not (Only) Software! Bionic Distributed Storage for Parquet Files</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Lucas&nbsp;Kuhring</span>&nbsp;(IMDEA Software) and
-                    <span class="author">Zsolt&nbsp;István</span>&nbsp;(IMDEA Software)
+                    <span class="author">Lucas&nbsp;Kuhring</span>&nbsp;(IMDEA Software Institute) and
+                    <span class="author">Zsolt&nbsp;István</span>&nbsp;(IMDEA Software Institute)
                 </span>
             </p>
 
@@ -462,10 +462,10 @@
                 <strong class="schedule-item-title" data-num="14">IHCS: An Integrated Hybrid Cleaning System</strong>
                 <span class="schedule-item-people">
                     <span class="author">Congcong&nbsp;Ge</span>&nbsp;(Zhejiang University),
-                    <span class="author">Yunjun&nbsp;Gao</span>&nbsp;(Zhejiang University),
+                    <span class="author">Yunjun&nbsp;Gao</span>&nbsp;(Zhejiang University, Alibaba–Zhejiang University Joint Institute of Frontier Technologies),
                     <span class="author">Xiaoye&nbsp;Miao</span>&nbsp;(Zhejiang University),
                     <span class="author">Lu&nbsp;Chen</span>&nbsp;(Aalborg University),
-                    <span class="author">Christian&nbsp;Jensen</span>&nbsp;(Aalborg University), and
+                    <span class="author">Christian&nbsp;S.&nbsp;Jensen</span>&nbsp;(Aalborg University), and
                     <span class="author">Ziyuan&nbsp;Zhu</span>&nbsp;(Zhejiang University)
                 </span>
             </p>
@@ -475,7 +475,7 @@
                 <span class="schedule-item-people">
                     <span class="author">Constantinos&nbsp;Costa</span>&nbsp;(University of Pittsburgh),
                     <span class="author">Xiaoyu&nbsp;Ge</span>&nbsp;(University of Pittsburgh), and
-                    <span class="author">Panos&nbsp;Chrysanthis</span>&nbsp;(University of Pittsburgh)
+                    <span class="author">Panos&nbsp;K.&nbsp;Chrysanthis</span>&nbsp;(University of Pittsburgh)
                 </span>
             </p>
 
@@ -492,7 +492,7 @@
                 <strong class="schedule-item-title" data-num="17">Juneau: Data Lake Management for Jupyter</strong>
                 <span class="schedule-item-people">
                     <span class="author">Yi&nbsp;Zhang</span>&nbsp;(University of Pennsylvania) and
-                    <span class="author">Zack&nbsp;Ives</span>&nbsp;(University of Pennsylvania)
+                    <span class="author">Zachary&nbsp;G.&nbsp;Ives</span>&nbsp;(University of Pennsylvania)
                 </span>
             </p>
 
@@ -502,8 +502,8 @@
                     <span class="author">Sona&nbsp;Hasani</span>&nbsp;(University of Texas at Arlington),
                     <span class="author">Faezeh&nbsp;Ghaderi</span>&nbsp;(University of Texas at Arlington),
                     <span class="author">Shohedul&nbsp;Hasan</span>&nbsp;(University of Texas at Arlington),
-                    <span class="author">Saravanan&nbsp;Thirumuruganathan</span>&nbsp;(QCRI),
-                    <span class="author">Abolfazl&nbsp;Asudeh</span>&nbsp;(University of Michigan),
+                    <span class="author">Saravanan&nbsp;Thirumuruganathan</span>&nbsp;(QCRI, HBKU),
+                    <span class="author">Abolfazl&nbsp;Asudeh</span>&nbsp;(University of Illinois at Chicago),
                     <span class="author">Nick&nbsp;Koudas</span>&nbsp;(University of Toronto), and
                     <span class="author">Gautam&nbsp;Das</span>&nbsp;(University of Texas at Arlington)
                 </span>
@@ -512,8 +512,8 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1045">
                 <strong class="schedule-item-title" data-num="19">Flare & Lantern: Efficiently Swapping Horses Midstream</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Gregory&nbsp;Essertel</span>&nbsp;(Purdue University),
-                    <span class="author">Ruby&nbsp;Tahboub</span>&nbsp;(Purdue University),
+                    <span class="author">Grégory&nbsp;Essertel</span>&nbsp;(Purdue University),
+                    <span class="author">Ruby&nbsp;Y.&nbsp;Tahboub</span>&nbsp;(Purdue University),
                     <span class="author">Fei&nbsp;Wang</span>&nbsp;(Purdue University),
                     <span class="author">James&nbsp;Decker</span>&nbsp;(Purdue University), and
                     <span class="author">Tiark&nbsp;Rompf</span>&nbsp;(Purdue University)
@@ -523,7 +523,7 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1046">
                 <strong class="schedule-item-title" data-num="20">Trinity: An Extensible Synthesis Framework for Data Science</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Ruben&nbsp;Martins</span>&nbsp;(CMU),
+                    <span class="author">Ruben&nbsp;Martins</span>&nbsp;(Canergie Mellon University),
                     <span class="author">Jia&nbsp;Chen</span>&nbsp;(UT Austin),
                     <span class="author">Yanju&nbsp;Chen</span>&nbsp;(UCSB),
                     <span class="author">Yu&nbsp;Feng</span>&nbsp;(UCSB), and
@@ -534,10 +534,10 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1047">
                 <strong class="schedule-item-title" data-num="21">PSynDB: Accurate and Accessible Private Data Generation</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Zhiqi&nbsp;Huang</span>&nbsp;(University of Massachusetts Amherst),
-                    <span class="author">Ryan&nbsp;McKenna</span>&nbsp;(University of Massachusetts Amherst),
-                    <span class="author">George&nbsp;Bissias</span>&nbsp;(University of Massachusetts Amherst),
-                    <span class="author">Gerome&nbsp;Miklau</span>&nbsp;(University of Massachusetts Amherst),
+                    <span class="author">Zhiqi&nbsp;Huang</span>&nbsp;(Univ. of Massachusetts, Amherst),
+                    <span class="author">Ryan&nbsp;McKenna</span>&nbsp;(Univ. of Massachusetts, Amherst),
+                    <span class="author">George&nbsp;Bissias</span>&nbsp;(Univ. of Massachusetts, Amherst),
+                    <span class="author">Gerome&nbsp;Miklau</span>&nbsp;(Univ. of Massachusetts, Amherst),
                     <span class="author">Michael&nbsp;Hay</span>&nbsp;(Colgate University), and
                     <span class="author">Ashwin&nbsp;Machanavajjhala</span>&nbsp;(Duke University)
                 </span>
@@ -549,8 +549,8 @@
                     <span class="author">Saehan&nbsp;Jo</span>&nbsp;(Cornell University),
                     <span class="author">Immanuel&nbsp;Trummer</span>&nbsp;(Cornell University),
                     <span class="author">Weicheng&nbsp;Yu</span>&nbsp;(Cornell University),
-                    <span class="author">Xuezhi&nbsp;Wang</span>&nbsp;(Google),
-                    <span class="author">Cong&nbsp;Yu</span>&nbsp;(Google),
+                    <span class="author">Xuezhi&nbsp;Wang</span>&nbsp;(Google Research),
+                    <span class="author">Cong&nbsp;Yu</span>&nbsp;(Google Research),
                     <span class="author">Daniel&nbsp;Liu</span>&nbsp;(Cornell University), and
                     <span class="author">Niyati&nbsp;Mehta</span>&nbsp;(Cornell University)
                 </span>
@@ -559,18 +559,18 @@
             <p class="schedule-item schedule-item-no-abstract" data-id="1062">
                 <strong class="schedule-item-title" data-num="23">GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data Platform</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Hanzhang&nbsp;Wang</span>&nbsp;(eBay),
-                    <span class="author">Phuong&nbsp;Nguyen</span>&nbsp;(eBay),
-                    <span class="author">Jun&nbsp;Li</span>&nbsp;(eBay),
-                    <span class="author">Selcuk&nbsp;Kopru</span>&nbsp;(eBay),
-                    <span class="author">Gene&nbsp;Zhang</span>&nbsp;(eBay),
-                    <span class="author">Sanjeev&nbsp;Katariya</span>&nbsp;(eBay), and
-                    <span class="author">Sami&nbsp;Ben-Romdhane</span>&nbsp;(eBay)
+                    <span class="author">Hanzhang&nbsp;Wang</span>&nbsp;(eBay Inc.),
+                    <span class="author">Phuong&nbsp;Nguyen</span>&nbsp;(eBay Inc.),
+                    <span class="author">Jun&nbsp;Li</span>&nbsp;(eBay Inc.),
+                    <span class="author">Selcuk&nbsp;Kopru</span>&nbsp;(eBay Inc.),
+                    <span class="author">Gene&nbsp;Zhang</span>&nbsp;(eBay Inc.),
+                    <span class="author">Sanjeev&nbsp;Katariya</span>&nbsp;(eBay Inc.), and
+                    <span class="author">Sami&nbsp;Ben-Romdhane</span>&nbsp;(eBay Inc.)
                 </span>
             </p>
 
             <p class="schedule-item schedule-item-no-abstract" data-id="1087">
-                <strong class="schedule-item-title" data-num="24">PivotE: Revealing and Visualizing the Underlying EntityStructures for Exploration</strong>
+                <strong class="schedule-item-title" data-num="24">PivotE: Revealing and Visualizing the Underlying Entity Structures for Exploration</strong>
                 <span class="schedule-item-people">
                     <span class="author">Han&nbsp;Xueran</span>&nbsp;(Renmin University of China),
                     <span class="author">Jun&nbsp;Chen</span>&nbsp;(Renmin University of China),

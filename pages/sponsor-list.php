@@ -27,6 +27,7 @@
                 <a href="https://www.research.ibm.com/artificial-intelligence/" class="no-ext-icon" title="IBM Research AI - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/IBMResearchAI.png"></a>
                 <a href="https://www.linkedin.com" class="no-ext-icon" title="LinkedIn - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/LinkedIn.png"></a>
                 <a href="https://www.microsoft.com/research" class="no-ext-icon" title="Microsoft - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Microsoft.png"></a>
+                <a href="https://www.mongodb.com/" class="no-ext-icon" title="MongoDB - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/MongoDB.png"></a>
                 <a href="https://www.scylladb.com/" class="no-ext-icon" title="Scylla - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Scylla.png"></a>
                 <a href="https://www.snowflake.com/" class="no-ext-icon" title="Snowflake - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Snowflake.png"></a>
                 <a href="https://www.tableau.com/" class="no-ext-icon" title="Tableau Software - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Tableau.png"></a>
@@ -44,7 +45,6 @@
                 <a href="https://www.cisco.com/" class="no-ext-icon" title="Cisco - Gold Sponsor" style="transform: scale(.8)"><img src="https://vldb2019.github.io/img/sponsor/Cisco.png"></a>
                 <a href="https://www.ebay.com/" class="no-ext-icon" title="eBay - Gold Sponsor" style="transform: scale(.75)"><img src="https://vldb2019.github.io/img/sponsor/eBay.png"></a>
                 <a href="https://www.megagon.ai/" class="no-ext-icon" title="Megagon - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Megagon.png"></a>
-                <a href="https://www.mongodb.com/" class="no-ext-icon" title="MongoDB - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/MongoDB.png"></a>
                 <a href="https://www.persistent.com/" class="no-ext-icon" title="Persistent Systems - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Persistent.png"></a>
                 <a href="https://www.sap.com/" class="no-ext-icon" title="SAP - Gold Sponsor" style="transform: scale(.8)"><img src="https://vldb2019.github.io/img/sponsor/SAP.png"></a>
                 <a class="sponsor-spacer"></a>
@@ -57,6 +57,7 @@
             <h4>Silver Sponsors</h4>
             <div class="sponsor-logos sponsor-4">
                 <a href="https://www.intel.com/" class="no-ext-icon" title="Intel - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Intel.png"></a>
+                <a href="https://www.sigmacomputing.com/" class="no-ext-icon" title="Sigma Computing - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Sigma.png"></a>
                 <a href="https://www.thoughtspot.com/" class="no-ext-icon" title="Thoughtspot - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Thoughtspot.png"></a>
                 <a class="sponsor-spacer"></a>
                 <a class="sponsor-spacer"></a>

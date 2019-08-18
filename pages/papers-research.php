@@ -122,7 +122,7 @@
             <p class="schedule-item" data-id="676">
                 <strong class="schedule-item-title" data-num="2.2">Dynamic Scaling for Parallel Graph Computations</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Wenfei&nbsp;Fan</span>&nbsp;(Univ. of Edinburgh & Beihang Univ.),
+                    <span class="author">Wenfei&nbsp;Fan</span>&nbsp;(University of Edinburgh, Beihang University, Shenzhen University),
                     <span class="author">Chunming&nbsp;Hu</span>&nbsp;(Beihang Univ.),
                     <span class="author">Muyang&nbsp;Liu</span>&nbsp;(University of Edinburgh),
                     <span class="author">Ping&nbsp;Lu</span>&nbsp;(Beihang Univ.),
@@ -233,9 +233,9 @@
             <p class="schedule-item" data-id="1154">
                 <strong class="schedule-item-title" data-num="3.4">SLOG: Serializable, Low-latency, Geo-replicated Transactions</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Kun&nbsp;Ren</span>&nbsp;(eBay),
+                    <span class="author">Kun&nbsp;Ren</span>&nbsp;(eBay Inc),
                     <span class="author">Dennis&nbsp;Li</span>&nbsp;(UMD College Park), and
-                    <span class="author">Daniel&nbsp;J&nbsp;Abadi</span>&nbsp;(UMD College Park)
+                    <span class="author">Daniel&nbsp;J.&nbsp;Abadi</span>&nbsp;(UMD College Park)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -247,9 +247,9 @@
             <p class="schedule-item" data-id="1204">
                 <strong class="schedule-item-title" data-num="3.5">FineLine: Log-structured Transactional Storage and Recovery</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Caetano&nbsp;Sauer</span>&nbsp;(TU Kaiserslautern),
-                    <span class="author">Goetz&nbsp;Graefe</span>&nbsp;(Google), and
-                    <span class="author">Theo&nbsp;Härder</span>&nbsp;(University of Kaiserslautern)
+                    <span class="author">Caetano&nbsp;Sauer</span>&nbsp;(Tableau Software),
+                    <span class="author">Goetz&nbsp;Graefe</span>&nbsp;(Google Inc.), and
+                    <span class="author">Theo&nbsp;Härder</span>&nbsp;(TU Kaiserslautern)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -290,7 +290,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Many applications ingest data in an intermittent, yet largely predictable, pattern. Existing systems tend to ignore how data arrives when making decisions about how to update (or refresh) an ongoing query. To address this shortcoming we propose a new query processing paradigm, Intermittent Query Processing (IQP), that bridges query execution and policies, to determine when to update results and how much resources to allocate for ensuring fast query updates. Here, for a query the system provides an initial result that is to be refreshed when policy dictates, such as after a defined number of new records arrive or a time interval elapses. In between intermittent data arrivals, IQP inactivates query execution by selectively releasing some resources occupied in normal execution that will be least helpful (for future refreshes) according to the arrival patterns for new records. We present an IQP prototype based on PostgreSQL that selectively persists the state associated with query operators to allow for fast query updates while constraining resource consumption. Our experiments show that for several application scenarios IQP greatly lowers query processing latency compared to batch systems, and largely reduces memory consumption with comparable latency compared to a state-of-theart incremental view maintenance technique.
+                    Many applications ingest data in an intermittent, yet largely predictable, pattern. Existing systems tend to ignore how data arrives when making decisions about how to update (or refresh) an ongoing query. To address this shortcoming we propose a new query processing paradigm, Intermittent Query Processing (IQP), that bridges query execution and policies, to determine when to update results and how much resources to allocate for ensuring fast query updates. Here, for a query the system provides an initial result that is to be refreshed when policy dictates, such as after a defined number of new records arrive or a time interval elapses. In between intermittent data arrivals, IQP inactivates query execution by selectively releasing some resources occupied in normal execution that will be least helpful (for future refreshes) according to the arrival patterns for new records. We present an IQP prototype based on PostgreSQL that selectively persists the state associated with query operators to allow for fast query updates while constraining resource consumption. Our experiments show that for several application scenarios IQP greatly lowers query processing latency compared to batch systems, and largely reduces memory consumption with comparable latency compared to a state-of-the-art incremental view maintenance technique.
                 </span>
 
             </p>
@@ -391,7 +391,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Data storage in the Cloud needs to be scalable and fault-tolerant. Atomic commitment protocols such as Two Phase Commit (2PC) provide ACID guarantees for transactional access to sharded data and help in achieving scalability. Whereas consensus protocols such as Paxos consistently replicate data across different servers and provide fault-tolerance. Cloud based datacenters today typically treat the problems of scalability and fault-tolerance disjointly. In this work, we propose a unification of these two different paradigms into one framework called Consensus and Commitment (C&C) framework. The C&C framework can model existing and well known data management protocols as well as propose new ones. We demonstrate the advantages of the C&C framework by developing a new atomic commitment protocol, Paxos Atomic Commit (PAC), which integrates commitment with recovery in a Paxos-like manner. We also instantiate commit protocols from the C&C framework catered to different Cloud data management techniques. In particular, we propose a novel protocol, Generalized PAC (G-PAC) that integrates atomic commitment and fault tolerance in a cloud paradigm involving both sharding and replication of data. We compare the performance of G-PAC with a Spanner-like protocol, where 2PC is used at the logical data level and Paxos is used for consistent replication of logical data. The experimental results highlight the benefits of combining consensus along with commitment into a single integrated protocol.
+                    Data storage in the Cloud needs to be scalable and fault-tolerant. Atomic commitment protocols such as Two Phase Commit (2PC) provide ACID guarantees for transactional access to sharded data and help in achieving scalability. Whereas consensus protocols such as Paxos consistently replicate data across different servers and provide fault-tolerance. Cloud based datacenters today typically treat the problems of scalability and fault-tolerance disjointedly. In this work, we propose a unification of these two different paradigms into one framework called Consensus and Commitment (C&C) framework. The C&C framework can model existing and well known data management protocols as well as propose new ones. We demonstrate the advantages of the C&C framework by developing a new atomic commitment protocol, Paxos Atomic Commit (PAC), which integrates commitment with recovery in a Paxos-like manner. We also instantiate commit protocols from the C&C framework catered to different Cloud data management techniques. In particular, we propose a novel protocol, Generalized PAC (G-PAC) that integrates atomic commitment and fault tolerance in a cloud paradigm involving both sharding and replication of data. We compare the performance of G-PAC with a Spanner-like protocol, where 2PC is used at the logical data level and Paxos is used for consistent replication of logical data. The experimental results highlight the benefits of combining consensus along with commitment into a single integrated protocol.
                 </span>
 
             </p>
@@ -589,7 +589,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    In emails, information abounds. Whether it be a bill reminder, a hotel confirmation, or a shipping notification, our emails contain useful bits of information that enable a number of applications. Most of this email traffic is machinegenerated, sent from a business to a human. These businessto-consumer emails are typically instantiated from a set of email templates, and discovering these templates is a key step in enabling a variety of intelligent experiences. Existing email information extraction systems typically separate information extraction into two steps: an offline template discovery process (called template induction) that is periodically run on a sample of emails, and an online email annotation process that applies discovered templates to emails as they arrive. Since information extraction requires an email's template to be known, any delay in discovering a newly created template causes missed extractions, lowering the overall extraction coverage. In this paper, we present a novel system called Crusher that discovers templates completely online, reducing template discovery delay from a week (for the existing MapReduce-based batch system) to minutes. Furthermore, Crusher has a resource consumption footprint that is significantly smaller than the existing batch system. We also report on the surprising lesson we learned that conventional stream processing systems do not present a good framework on which to build Crusher. Crusher delivers an order of magnitude more throughput than a prototype built using a stream processing engine. We hope that these lessons help designers of stream processing systems accommodate a broader range of applications like online template induction in the future.
+                    In emails, information abounds. Whether it be a bill reminder, a hotel confirmation, or a shipping notification, our emails contain useful bits of information that enable a number of applications. Most of this email traffic is machine-generated, sent from a business to a human. These business-to-consumer emails are typically instantiated from a set of email templates, and discovering these templates is a key step in enabling a variety of intelligent experiences. Existing email information extraction systems typically separate information extraction into two steps: an offline template discovery process (called template induction) that is periodically run on a sample of emails, and an online email annotation process that applies discovered templates to emails as they arrive. Since information extraction requires an email's template to be known, any delay in discovering a newly created template causes missed extractions, lowering the overall extraction coverage. In this paper, we present a novel system called Crusher that discovers templates completely online, reducing template discovery delay from a week (for the existing MapReduce-based batch system) to minutes. Furthermore, Crusher has a resource consumption footprint that is significantly smaller than the existing batch system. We also report on the surprising lesson we learned that conventional stream processing systems do not present a good framework on which to build Crusher. Crusher delivers an order of magnitude more throughput than a prototype built using a stream processing engine. We hope that these lessons help designers of stream processing systems accommodate a broader range of applications like online template induction in the future.
                 </span>
 
             </p>
@@ -720,9 +720,9 @@
             <p class="schedule-item" data-id="703">
                 <strong class="schedule-item-title" data-num="9.2">Yugong: Geo-Distributed Data and Job Placement at Scale</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Yuzhen&nbsp;Huang</span>&nbsp;(The Chinese University of Hong Kong),
+                    <span class="author">Yuzhen&nbsp;Huang</span>&nbsp;(The Chinese University of Hong Kong, Alibaba Group),
                     <span class="author">Yingjie&nbsp;Shi</span>&nbsp;(Alibaba Group),
-                    <span class="author">Zheng&nbsp;Zhong</span>&nbsp;(The Chinese University of Hong Kong),
+                    <span class="author">Zheng&nbsp;Zhong</span>&nbsp;(The Chinese University of Hong Kong, Alibaba Group),
                     <span class="author">Yihui&nbsp;Feng</span>&nbsp;(Alibaba Group),
                     <span class="author">James&nbsp;Cheng</span>&nbsp;(The Chinese University of Hong Kong),
                     <span class="author">Jiwei&nbsp;Li</span>&nbsp;(Alibaba Group),
@@ -733,7 +733,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Companies like Alibaba operate tens of data centers (DCs) across geographically distributed locations. These DCs collectively provide the storage space and computing power for the entire company, storing EBs of data and serving millions of batch analytics jobs every day. In Alibaba, as our business grows, there are more and more cross-DC dependencies caused by jobs reading data from remote DCs. Consequently, the precious wide area network bandwidth becomes a major bottleneck for operating geo-distributed DCs at such scale. In this paper, we present Yugong --- a system that manages data placement and job placement in Alibaba's geo-distributed DCs, with the objective to minimize cross-DC bandwidth usage. Yugong uses three methods, namely project placement, table replication, and job outsourcing, to address the main issues of high bandwidth consumption across the DCs. We give the details of Yugong's design and implementation for the three methods, and how it cooperates with other systems (e.g., Alibaba's big data analytics platform and cluster scheduler) to improve the productivity of the DCs. We also report extensive performance evaluation results that validate the significant improvements made by Yugong in cross-DC bandwidth usage (76% of the total cost reduction).
+                    Companies like Alibaba operate tens of data centers (DCs) across geographically distributed locations. These DCs collectively provide the storage space and computing power for the company, storing EBs of data and serving millions of batch analytics jobs every day. In Alibaba, as our businesses grow, there are more and more cross-DC dependencies caused by jobs reading data from remote DCs. Consequently, the precious wide area network bandwidth becomes a major bottleneck for operating geo-distributed DCs at scale. In this paper, we present Yugong --- a system that manages data placement and job placement in Alibaba's geo-distributed DCs, with the objective to minimize cross-DC bandwidth usage. Yugong uses three methods, namely project placement, table replication, and job outsourcing, to address the issues of high bandwidth consumption across the DCs. We give the details of Yugong's design and implementation for the three methods, and describe how it cooperates with other systems (e.g., Alibaba's big data analytics platform and cluster scheduler) to improve the productivity of the DCs. We also report comprehensive performance evaluation results, which validate the design of Yugong and show that significant reduction in cross-DC bandwidth usage has been achieved.
                 </span>
 
             </p>
@@ -776,28 +776,28 @@
             <p class="schedule-item" data-id="665">
                 <strong class="schedule-item-title" data-num="9.5">Procella: Unifying serving and analytical data at YouTube</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Biswapesh&nbsp;Chattopadhyay</span>&nbsp;(Google),
-                    <span class="author">Priyam&nbsp;Dutta</span>&nbsp;(Google),
-                    <span class="author">Weiran&nbsp;Liu</span>&nbsp;(Google),
-                    <span class="author">Ott&nbsp;Tinn</span>&nbsp;(Google),
-                    <span class="author">Andrew&nbsp;McCormick</span>&nbsp;(Google),
-                    <span class="author">Aniket&nbsp;Mokashi</span>&nbsp;(Google),
-                    <span class="author">Paul&nbsp;Harvey</span>&nbsp;(Google),
-                    <span class="author">Hector&nbsp;Gonzalez</span>&nbsp;(Google),
-                    <span class="author">David&nbsp;Lomax</span>&nbsp;(Google),
-                    <span class="author">Sagar&nbsp;Mittal</span>&nbsp;(Google),
-                    <span class="author">Roee&nbsp;Ebenstein</span>&nbsp;(Google),
-                    <span class="author">Nikita&nbsp;Mikhaylin</span>&nbsp;(Google),
-                    <span class="author">Hung-ching&nbsp;Lee</span>&nbsp;(Google),
-                    <span class="author">Xiaoyan&nbsp;Zhao</span>&nbsp;(Google),
-                    <span class="author">Tony&nbsp;Xu</span>&nbsp;(Google),
-                    <span class="author">Luis&nbsp;Perez</span>&nbsp;(Google),
-                    <span class="author">Farhad&nbsp;Shahmohammadi</span>&nbsp;(Google),
-                    <span class="author">Tran&nbsp;Bui</span>&nbsp;(Google),
-                    <span class="author">Neil&nbsp;McKay</span>&nbsp;(Google),
-                    <span class="author">Selcuk&nbsp;Aya</span>&nbsp;(Google),
-                    <span class="author">Vera&nbsp;Lychagina</span>&nbsp;(Google), and
-                    <span class="author">Brett&nbsp;Elliott</span>&nbsp;(Google)
+                    <span class="author">Biswapesh&nbsp;Chattopadhyay</span>&nbsp;(Google LLC),
+                    <span class="author">Priyam&nbsp;Dutta</span>&nbsp;(Google LLC),
+                    <span class="author">Weiran&nbsp;Liu</span>&nbsp;(Google LLC),
+                    <span class="author">Ott&nbsp;Tinn</span>&nbsp;(Google LLC),
+                    <span class="author">Andrew&nbsp;Mccormick</span>&nbsp;(Google LLC),
+                    <span class="author">Aniket&nbsp;Mokashi</span>&nbsp;(Google LLC),
+                    <span class="author">Paul&nbsp;Harvey</span>&nbsp;(Google LLC),
+                    <span class="author">Hector&nbsp;Gonzalez</span>&nbsp;(Google LLC),
+                    <span class="author">David&nbsp;Lomax</span>&nbsp;(Google LLC),
+                    <span class="author">Sagar&nbsp;Mittal</span>&nbsp;(Google LLC),
+                    <span class="author">Roee&nbsp;Ebenstein</span>&nbsp;(Google LLC),
+                    <span class="author">Nikita&nbsp;Mikhaylin</span>&nbsp;(Google LLC),
+                    <span class="author">Hung-ching&nbsp;Lee</span>&nbsp;(Google LLC),
+                    <span class="author">Xiaoyan&nbsp;Zhao</span>&nbsp;(Google LLC),
+                    <span class="author">Tony&nbsp;Xu</span>&nbsp;(Google LLC),
+                    <span class="author">Luis&nbsp;Perez</span>&nbsp;(Google LLC),
+                    <span class="author">Farhad&nbsp;Shahmohammadi</span>&nbsp;(Google LLC),
+                    <span class="author">Tran&nbsp;Bui</span>&nbsp;(Google LLC),
+                    <span class="author">Neil&nbsp;McKay</span>&nbsp;(Google LLC),
+                    <span class="author">Selcuk&nbsp;Aya</span>&nbsp;(Google LLC),
+                    <span class="author">Vera&nbsp;Lychagina</span>&nbsp;(Google LLC), and
+                    <span class="author">Brett&nbsp;Elliott</span>&nbsp;(Google LLC)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -815,14 +815,14 @@
             <p class="schedule-item" data-id="568">
                 <strong class="schedule-item-title" data-num="10.1">Deducing Certain Fixes to Graphs</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Wenfei&nbsp;Fan</span>&nbsp;(Univ. of Edinburgh & Beihang Univ.),
+                    <span class="author">Wenfei&nbsp;Fan</span>&nbsp;(University of Edinburgh, Beihang University, Shenzhen University),
                     <span class="author">Ping&nbsp;Lu</span>&nbsp;(Beihang Univ.),
                     <span class="author">Chao&nbsp;Tian</span>&nbsp;(Alibaba Group), and
                     <span class="author">Jingren&nbsp;Zhou</span>&nbsp;(Alibaba Group)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    This paper proposes to deduce certain fixes to graphs G based on data quality rules Σ and ground truth Γ (i.e. validated attribute values and entity matches). We fix errors detected by Σ in G such that the fixes are assured correct as long as Σ and Γ are correct. We deduce certain fixes in two paradigms. (a) We interact with users and "incrementally" fix errors online. Whenever users pick a small set V_0 of nodes in G, we fix all errors pertaining to V_0 and accumulate ground truth in the process. (b) Based on accumulated Γ, we repair the entire graph G offline; while this may not correct all errors in G, all fixes are guaranteed certain. We develop techniques for deducing certain fixes. (1) We define data quality rules to support conditional functional dependencies, recursively defined keys and negative rules on graphs, such that we can deduce fixes by combining data repairing and object identification. (2) We show that deducing certain fixes is Church-Rosser, i.e. the deduction converges at the same fixes regardless of the order of rules applied. (3) We establish the complexity of three fundamental problems associated with certain fixes. (4) We provide (parallel) algorithms for deducing certain fixes online and offline, and guarantee to reduce running time when given more processors. Using real-life and synthetic data, we experimentally verify the effectiveness and scalability of our methods.
+                    This paper proposes to deduce certain fixes to graphs G based on data quality rules Σ and ground truth Γ (i.e., validated attribute values and entity matches). We fix errors detected by Σ in G such that the fixes are assured correct as long as Σ and Γ are correct. We deduce certain fixes in two paradigms. (a) We interact with users and "incrementally" fix errors online. Whenever users pick a small set V_0 of nodes in G, we fix all errors pertaining to V_0 and accumulate ground truth in the process. (b) Based on accumulated Γ, we repair the entire graph G offline; while this may not correct all errors in G, all fixes are guaranteed certain. We develop techniques for deducing certain fixes. (1) We define data quality rules to support conditional functional dependencies, recursively defined keys and negative rules on graphs, such that we can deduce fixes by combining data repairing and object identification. (2) We show that deducing certain fixes is Church-Rosser, i.e. the deduction converges at the same fixes regardless of the order of rules applied. (3) We establish the complexity of three fundamental problems associated with certain fixes. (4) We provide (parallel) algorithms for deducing certain fixes online and offline, and guarantee to reduce running time when given more processors. Using real-life and synthetic data, we experimentally verify the effectiveness and scalability of our methods.
                 </span>
 
             </p>
@@ -855,7 +855,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Densest subgraph discovery (DSD) is a fundamental problem in graphmining. It has been studied for decades, and is widely used in various areas, including network science, biological analysis, and graphdatabases. Given a graph G, DSD aims to find a subgraph D of G with the highest density (e.g., the number of edges over the number of vertices in D). Because DSD is difficult to solve, we propose a new solution paradigm in this paper. Our main observation is that the densest subgraph can be accurately found through a k-core (a kind of dense subgraph of G), with theoretical guarantees. Based on this intuition, we develop efficient exact and approximation solutions for DSD.Moreover, our solutions are able to find the densest subgraphs for a wide range of graph density definitions, including clique-based- and general pattern-based density. We have performed extensive experimental evaluation on both real and synthetic datasets. Our results show that our algorithms are up to four orders of magnitude faster than existing approaches.
+                    Densest subgraph discovery (DSD) is a fundamental problem in graph mining. It has been studied for decades, and is widely used in various areas, including network science, biological analysis, and graph databases. Given a graph G, DSD aims to find a subgraph D of G with the highest density (e.g., the number of edges over the number of vertices in D). Because DSD is difficult to solve, we propose a new solution paradigm in this paper. Our main observation is that the densest subgraph can be accurately found through a k-core (a kind of dense subgraph of G), with theoretical guarantees. Based on this intuition, we develop efficient exact and approximation solutions for DSD. Moreover, our solutions are able to find the densest subgraphs for a wide range of graph density definitions, including clique-based- and general pattern-based density. We have performed extensive experimental evaluation on both real and synthetic datasets. Our results show that our algorithms are up to four orders of magnitude faster than existing approaches.
                 </span>
 
             </p>
@@ -902,7 +902,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Stream frequency measurements are fundamental in many data stream applications such as financial data trackers, intrusion-detection systems and network monitoring. Typically, recent data items are more relevant than old ones, a notion we can capture through a sliding window abstraction. This paper considers a generalized sliding window model that supports stream frequency queries over an interval given at query time. This enables drill-down queries, in which we can examine the behavior of the system in finer and finer granularities. For this model, we asymptotically improve the space bounds of existing work, reduce the update and query time to a constant, and provide deterministic solutions. When evaluated over real Internet packet traces, our fastest algorithm processes items 90-250 times faster, serves queries at least 730 times quicker and consumes at least 40% less space than the best known method.
+                    Stream frequency measurements are fundamental in many data stream applications such as financial data trackers, intrusion-detection systems, and network monitoring. Typically, recent data items are more relevant than old ones, a notion we can capture through a sliding window abstraction. This paper considers a generalized sliding window model that supports stream frequency queries over an interval given at query time. This enables drill-down queries, in which we can examine the behavior of the system in finer and finer granularities. For this model, we asymptotically improve the space bounds of existing work, reduce the update and query time to a constant, and provide deterministic solutions. When evaluated over real Internet packet traces, our fastest algorithm processes items 90-250 times faster, serves queries at least 730 times quicker and consumes at least 40% less space than the best known method.
                 </span>
 
             </p>
@@ -1019,12 +1019,12 @@
             <p class="schedule-item" data-id="1200">
                 <strong class="schedule-item-title" data-num="12.4">Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Timo&nbsp;Kersten</span>&nbsp;(TU Munich),
-                    <span class="author">Viktor&nbsp;Leis</span>&nbsp;(TU Munich),
-                    <span class="author">Alfons&nbsp;Kemper</span>&nbsp;(TU Munich),
-                    <span class="author">Thomas&nbsp;Neumann</span>&nbsp;(TU Munich),
+                    <span class="author">Timo&nbsp;Kersten</span>&nbsp;(Technische Universitfät München),
+                    <span class="author">Viktor&nbsp;Leis</span>&nbsp;(Technische Universitfät München),
+                    <span class="author">Alfons&nbsp;Kemper</span>&nbsp;(Technische Universitfät München),
+                    <span class="author">Thomas&nbsp;Neumann</span>&nbsp;(Technische Universitfät München),
                     <span class="author">Andrew&nbsp;Pavlo</span>&nbsp;(Carnegie Mellon University), and
-                    <span class="author">Peter&nbsp;Boncz</span>&nbsp;(CWI)
+                    <span class="author">Peter&nbsp;Boncz</span>&nbsp;(Centrum Wiskunde & Informatica)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1145,7 +1145,7 @@
                     <span class="author">Yanying&nbsp;Li</span>&nbsp;(Stevens Institute of Technology),
                     <span class="author">Haipei&nbsp;Sun</span>&nbsp;(Stevens Institute of Technology),
                     <span class="author">Boxiang&nbsp;Dong</span>&nbsp;(Montclair State University), and
-                    <span class="author">Hui</span>&nbsp;(Wendy) Wang (Stevens Institute of Technology)
+                    <span class="author">Hui&nbsp;(Wendy)&nbsp;Wang</span>&nbsp;(Stevens Institute of Technology)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1192,7 +1192,7 @@
                     <span class="author">Mohamad&nbsp;Dolatshah</span>&nbsp;(Simon Fraser University),
                     <span class="author">Mathew&nbsp;Teoh</span>&nbsp;(Simon Fraser University),
                     <span class="author">Jiannan&nbsp;Wang</span>&nbsp;(Simon Fraser University), and
-                    <span class="author">Jian&nbsp;Pei</span>&nbsp;(JD.com)
+                    <span class="author">Jian&nbsp;Pei</span>&nbsp;(JD.com, Simon Fraser University)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -1245,7 +1245,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    This paper presents Zidian, a middleware for key-value (KV) stores to speed up SQL query evaluation over NoSQL. As opposed to common practice that takes a tuple id or primary key as key and the entire tuple as value, Zidian proposes a block-as-a-value model BaaV. BaaV represents a relation as keyed blocks (k, B), where k is a key of a block (a set) B of partial tuples. We extend relational algebra to BaaV. We show that under BaaV, Zidian substantially reduces data access and communication cost. We provide characterizations (sufficient and necessary conditions) for (a) result-preserving queries, i.e., queries covered by available BaaV stores, (b) scan-free queries, i.e., queries that can be evaluated without scanning any table, and (c) bounded queries, i.e., queries that can be answered by accessing a bounded amount of data. We show that in parallel processing, Zidian guarantees (a) no scans for scan-free queries, (b) bounded communication cost for bounded queries; and (c) parallel scalability, i.e., speed up when adding processors. Moreover, Zidian can be plugged into existing SQL-over-NoSQL systems and retains horizontal scalability. Using benchmark and real-life data, we empirically verify that Zidian improves existing SQL-overNoSQL systems by 2 orders of magnitude on average.
+                    This paper presents Zidian, a middleware for key-value (KV) stores to speed up SQL query evaluation over NoSQL. As opposed to common practice that takes a tuple id or primary key as key and the entire tuple as value, Zidian proposes a block-as-a-value model BaaV. BaaV represents a relation as keyed blocks (k, B), where k is a key of a block (a set) B of partial tuples. We extend relational algebra to BaaV. We show that under BaaV, Zidian substantially reduces data access and communication cost. We provide characterizations (sufficient and necessary conditions) for (a) result-preserving queries, i.e., queries covered by available BaaV stores, (b) scan-free queries, i.e., queries that can be evaluated without scanning any table, and (c) bounded queries, i.e., queries that can be answered by accessing a bounded amount of data. We show that in parallel processing, Zidian guarantees (a) no scans for scan-free queries, (b) bounded communication cost for bounded queries; and (c) parallel scalability, i.e., speed up when adding processors. Moreover, Zidian can be plugged into existing SQL-over-NoSQL systems and retains horizontal scalability. Using benchmark and real-life data, we empirically verify that Zidian improves existing SQL-over-NoSQL systems by 2 orders of magnitude on average.
                 </span>
 
             </p>
@@ -1336,7 +1336,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Data plays an important role in applications, analytic processes, and many aspects of human activity. As data grows in size and complexity, we are met with an imperative need for tools that promote understanding and explanations over data-related operations. Data management research on explanations has focused on the assumption that data resides in a single dataset, under one common schema. But the reality of today's data is that it is frequently un-integrated, coming from different sources with different schemas. When different datasets provide different answers to semantically similar questions, understanding the reasons for the discrepancies is challenging and cannot be handled by the existing single-dataset solutions. In this paper, we propose Explain3D, a framework for explaining the Disagreements across Disjoint Datasets (3D). Explain3D focuses on identifying the reasons for the differences in the results of two semantically similar queries operating on two datasets with potentially different schemas. Our framework leverages the queries to perform a semantic mapping across the relevant parts of their provenance; discrepancies in this mapping point to causes of the queries' differences. Exploiting the queries gives Explain3D an edge over traditional schema matching and record linkage techniques, which are query-agnostic. Our work makes the following contributions: (1) We formalize the problem of deriving optimal explanations for the differences of the results of semantically similar queries over disjoint datasets. Our optimization problem considers two types of explanations, provenance-based and value-based, defined over an evidence mapping, which makes our solution interpretable. (2) We design a 3-stage framework for solving the optimal explanation problem. (3) We develop a smart-partitioning optimizer that improves the efficiency of the framework by orders of magnitude. (4) We experiment with real-world and synthetic data to demonstrate that Explain3D can derive precise explanations efficiently, and is superior to alternative methods based on integration techniques and single-dataset explanation frameworks.
+                    Data plays an important role in applications, analytic processes, and many aspects of human activity. As data grows in size and complexity, we are met with an imperative need for tools that promote understanding and explanations over data-related operations. Data management research on explanations has focused on the assumption that data resides in a single dataset, under one common schema. But the reality of today's data is that it is frequently unintegrated, coming from different sources with different schemas. When different datasets provide different answers to semantically similar questions, understanding the reasons for the discrepancies is challenging and cannot be handled by the existing single-dataset solutions. In this paper, we propose Explain3D, a framework for explaining the Disagreements across Disjoint Datasets (3D). Explain3D focuses on identifying the reasons for the differences in the results of two semantically similar queries operating on two datasets with potentially different schemas. Our framework leverages the queries to perform a semantic mapping across the relevant parts of their provenance; discrepancies in this mapping point to causes of the queries' differences. Exploiting the queries gives Explain3D an edge over traditional schema matching and record linkage techniques, which are query-agnostic. Our work makes the following contributions: (1) We formalize the problem of deriving optimal explanations for the differences of the results of semantically similar queries over disjoint datasets. Our optimization problem considers two types of explanations, provenance-based and value-based, defined over an evidence mapping, which makes our solution interpretable. (2) We design a 3-stage framework for solving the optimal explanation problem. (3) We develop a smart-partitioning optimizer that improves the efficiency of the framework by orders of magnitude. (4) We experiment with real-world and synthetic data to demonstrate that Explain3D can derive precise explanations efficiently, and is superior to alternative methods based on integration techniques and single-dataset explanation frameworks.
                 </span>
 
             </p>
@@ -1543,7 +1543,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Boolean expression matching is an important function for many applications. However, existing solutions still suffer from limitations when applied to high-dimensional and dense workloads. To overcome these limitations, in this paper, we design a data structure called PS-Tree, that can efficiently index subscriptions in one dimension. By dividing predicates into disjoint predicate spaces, PS-Tree achieves high matching performance and good expressiveness. Based on PS-Tree, we first propose a Boolean expression matching algorithm PSTBloom. By efficiently filtering out a large proportion of unmatching subscriptions, PSTBloom achieves high matching performance, especially for high-dimensional workloads. PSTBloom also achieves fast index construction and a small memory footprint. Compared with state-of-theart methods, comprehensive experiments show that PSTBloom reduces matching time, index construction time and memory usage by up to 84%, 78% and 94%, respectively. Although PSTBloom is effective for many workload distributions, dense workloads represent new challenges to PSTBloom and other algorithms. To effectively handle dense workloads, we further propose the PSTHash algorithm, which divides subscriptions into disjoint multidimensional predicate spaces. This organization prunes partially matching subscriptions efficiently. Comprehensive experiments on both synthetic and real-world datasets show that PSTHash improves the matching performance by up to 92% for dense workloads.
+                    Boolean expression matching is an important function for many applications. However, existing solutions still suffer from limitations when applied to high-dimensional and dense workloads. To overcome these limitations, in this paper, we design a data structure called PS-Tree, that can efficiently index subscriptions in one dimension. By dividing predicates into disjoint predicate spaces, PS-Tree achieves high matching performance and good expressiveness. Based on PS-Tree, we first propose a Boolean expression matching algorithm PSTBloom. By efficiently filtering out a large proportion of unmatching subscriptions, PSTBloom achieves high matching performance, especially for high-dimensional workloads. PSTBloom also achieves fast index construction and a small memory footprint. Compared with state-of-the-art methods, comprehensive experiments show that PSTBloom reduces matching time, index construction time and memory usage by up to 84%, 78% and 94%, respectively. Although PSTBloom is effective for many workload distributions, dense workloads represent new challenges to PSTBloom and other algorithms. To effectively handle dense workloads, we further propose the PSTHash algorithm, which divides subscriptions into disjoint multidimensional predicate spaces. This organization prunes partially matching subscriptions efficiently. Comprehensive experiments on both synthetic and real-world datasets show that PSTHash improves the matching performance by up to 92% for dense workloads.
                 </span>
 
             </p>
@@ -1580,7 +1580,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Analyzing database access logs is a key part of performance tuning, intrusion detection, benchmark development, and many other database administration tasks. Unfortunately, it is common for production databases to deal with millions or more queries each day, so these logs must be summarized before they can be used. Designing an appropriate summary encoding requires trading off between conciseness and information content. For example: Simple workload sampling may miss rare, but high impact queries. In this paper, we present LogR, a lossy log compression scheme suitable for use in many automated log analytics tools, as well as for human inspection. We formalize and analyze the space/fidelity trade-off in the context of a broader family of "pattern" and "pattern mixture" log encodings to which LogR belongs. We show through a series of experiments that LogR compressed encodings can be created efficiently, come with provable information-theoretic bounds on their accuracy, and outperform state-of-art log summarization strategies.
+                    Analyzing database access logs is a key part of performance tuning, intrusion detection, benchmark development, and many other database administration tasks. Unfortunately, it is common for production databases to deal with millions or more queries each day, so these logs must be summarized before they can be used. Designing an appropriate summary encoding requires trading off between conciseness and information content. For example: simple workload sampling may miss rare, but high impact queries. In this paper, we present LogR, a lossy log compression scheme suitable for use in many automated log analytics tools, as well as for human inspection. We formalize and analyze the space/fidelity trade-off in the context of a broader family of "pattern" and "pattern mixture" log encodings to which LogR belongs. We show through a series of experiments that LogR compressed encodings can be created efficiently, come with provable information-theoretic bounds on their accuracy, and outperform state-of-art log summarization strategies.
                 </span>
 
             </p>
@@ -1674,7 +1674,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    The randomized technique of color coding is behind state-ofthe-art algorithms for estimating graph motif counts. Those algorithms, however, are not yet capable of scaling well to very large graphs with billions of edges. In this paper we develop novel tools for the "motif counting via color coding" framework. As a result, our new algorithm, motivo, scales to much larger graphs while at the same time providing more accurate motif counts than ever before. This is achieved thanks to two types of improvements. First, we design new succinct data structures for fast color coding operations, and a biased coloring trick that trades accuracy versus resource usage. These optimizations drastically reduce the resource requirements of color coding. Second, we develop an adaptive motif sampling strategy, based on a fractional set cover problem, that breaks the additive approximation barrier of standard sampling. This gives multiplicative approximations for all motifs at once, allowing us to count not only the most frequent motifs but also extremely rare ones. To give an idea of the improvements, in 40 minutes motivo counts 7-nodes motifs on a graph with 65M nodes and 1.8B edges; this is 30 and 500 times larger than the state of the art, respectively in terms of nodes and edges. On the accuracy side, in one hour motivo produces accurate counts of ≈10.000 distinct 8-node motifs on graphs where state-of-the-art algorithms fail even to find the second most frequent motif. Our method requires just a high-end desktop machine. These results show how color coding can bring motif mining to the realm of truly massive graphs using only ordinary hardware.
+                    The randomized technique of color coding is behind state-of-the-art algorithms for estimating graph motif counts. Those algorithms, however, are not yet capable of scaling well to very large graphs with billions of edges. In this paper we develop novel tools for the "motif counting via color coding" framework. As a result, our new algorithm, motivo, scales to much larger graphs while at the same time providing more accurate motif counts than ever before. This is achieved thanks to two types of improvements. First, we design new succinct data structures for fast color coding operations, and a biased coloring trick that trades accuracy versus resource usage. These optimizations drastically reduce the resource requirements of color coding. Second, we develop an adaptive motif sampling strategy, based on a fractional set cover problem, that breaks the additive approximation barrier of standard sampling. This gives multiplicative approximations for all motifs at once, allowing us to count not only the most frequent motifs but also extremely rare ones. To give an idea of the improvements, in 40 minutes motivo counts 7-nodes motifs on a graph with 65M nodes and 1.8B edges; this is 30 and 500 times larger than the state of the art, respectively in terms of nodes and edges. On the accuracy side, in one hour motivo produces accurate counts of ≈10.000 distinct 8-node motifs on graphs where state-of-the-art algorithms fail even to find the second most frequent motif. Our method requires just a high-end desktop machine. These results show how color coding can bring motif mining to the realm of truly massive graphs using only ordinary hardware.
                 </span>
 
             </p>
@@ -1688,7 +1688,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    For real-world time dependent road networks (TDRNs), answering shortest path-based route queries and plans in realtime is highly desirable by many industrial applications. Unfortunately, traditional (Dijkstra- or A -like) algorithms are computationally expensive for such tasks on TDRNs. Naturally, indexes are needed to meet the real-time constraint required by real applications. In this paper, we propose a novel height-balanced tree-structured index, called TD-G-tree, which supports fast route queries over TDRNs. The key idea is to use hierarchical graph partitioning to split a road network into hierarchical partitions. This will produce a balanced tree, where each tree node corresponds to a partition and each parent-child relationship corresponds to a partition and its sub-partition. We then compute and index time dependent shortest paths (TDSPs) only for borders (i.e., vertices whose edges are cut by a partition). Based on TD-G-tree, we devise efficient algorithms to support TDSP queries, as well as time-interval based route planning, for computing optimal solutions through dynamic programming and chronological divide-and-conquer. Extensive experiments on real-world datasets show that our method signficantly outperforms existing approaches.
+                    For real-world time dependent road networks (TDRNs), answering shortest path-based route queries and plans in real-time is highly desirable by many industrial applications. Unfortunately, traditional (Dijkstra- or A*-like) algorithms are computationally expensive for such tasks on TDRNs. Naturally, indexes are needed to meet the real-time constraint required by real applications. In this paper, we propose a novel height-balanced tree-structured index, called TD-G-tree, which supports fast route queries over TDRNs. The key idea is to use hierarchical graph partitioning to split a road network into hierarchical partitions. This will produce a balanced tree, where each tree node corresponds to a partition and each parent-child relationship corresponds to a partition and its sub-partition. We then compute and index time dependent shortest paths (TDSPs) only for borders (i.e., vertices whose edges are cut by a partition). Based on TD-G-tree, we devise efficient algorithms to support TDSP queries, as well as time-interval based route planning, for computing optimal solutions through dynamic programming and chronological divide-and-conquer. Extensive experiments on real-world datasets show that our method significantly outperforms existing approaches.
                 </span>
 
             </p>
@@ -1739,7 +1739,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Counting the fraction of a population having an input within a specified interval i.e. a range query, is a fundamental data analysis primitive. Range queries can also be used to compute other core statistics such as quantiles, and to build prediction models. However, frequently the data is subject to privacy concerns when it is drawn from individuals, and relates for example to their financial, health, religious or political status. In this paper, we introduce and analyze methods to support range queries under the local variant of differential privacy [23], an emerging standard for privacy-preserving data analysis. The local model requires that each user releases a noisy view of her private data under a privacy guarantee. While many works address the problem of range queries in the trusted aggregator setting, this problem has not been addressed specifically under untrusted aggregation (local DP) model even though many primitives have been developed recently for estimating a discrete distribution. We describe and analyze two classes of approaches for range queries, based on hierarchical histograms and the Haar wavelet transform.We show that both have strong theoretical accuracy guarantees on variance. In practice, both methods are fast and require minimal computation and communication resources. Our experiments show that the wavelet approach is most accurate in high privacy settings, while the hierarchical approach dominates for weaker privacy requirements.
+                    Counting the fraction of a population having an input within a specified interval i.e. a range query, is a fundamental data analysis primitive. Range queries can also be used to compute other core statistics such as quantiles, and to build prediction models. However, frequently the data is subject to privacy concerns when it is drawn from individuals, and relates for example to their financial, health, religious or political status. In this paper, we introduce and analyze methods to support range queries under the local variant of differential privacy [23], an emerging standard for privacy-preserving data analysis. The local model requires that each user releases a noisy view of her private data under a privacy guarantee. While many works address the problem of range queries in the trusted aggregator setting, this problem has not been addressed specifically under untrusted aggregation (local DP) model even though many primitives have been developed recently for estimating a discrete distribution. We describe and analyze two classes of approaches for range queries, based on hierarchical histograms and the Haar wavelet transform. We show that both have strong theoretical accuracy guarantees on variance. In practice, both methods are fast and require minimal computation and communication resources. Our experiments show that the wavelet approach is most accurate in high privacy settings, while the hierarchical approach dominates for weaker privacy requirements.
                 </span>
 
             </p>
@@ -1793,7 +1793,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Modern Internet of Things (IoT) applications generate massive amounts of time-stamped data, much of it in the form of discrete, symbolic sequences. In this work, we present a new system called TOP that detects outlier patterns from these sequences. To solve the fundamental limitation of existing pattern mining semantics that miss outlier patterns hidden inside of larger frequent patterns, TOP offers new pattern semantics based on contextual patterns that distinguish the independent occurrence of a pattern from its occurrence as part of its super-pattern. We present efficient algorithms for the mining of this new class of contextual patterns. In particular, in contrast to the bottom-up strategy for state-of-the-art pattern mining techniques, our top-down Reduce strategy piggy backs pattern detection with the detection of the context in which a pattern occurs. Our approach achieves linear time complexity in the length of the input sequence. Effective optimization techniques such as context-driven search space pruning and inverted index-based outlier pattern detection are also proposed to further speed up contextual pattern mining. Our experimental evaluation demonstrates the effectiveness of TOP at capturing meaningful outlier patterns in several real-world IoT use cases. We also demonstrate the efficiency of TOP, showing it to be up to 2 orders of magnitude faster than adapting state-of-the-art mining to produce this new class of contextual outlier patterns, allowing us to scale outlier pattern mining to large sequence datasets.
+                    Modern Internet of Things (IoT) applications generate massive amounts of time-stamped data, much of it in the form of discrete, symbolic sequences. In this work, we present a new system called TOP that deTects Outlier Patterns from these sequences. To solve the fundamental limitation of existing pattern mining semantics that miss outlier patterns hidden inside of larger frequent patterns, TOP offers new pattern semantics based on contextual patterns that distinguish the independent occurrence of a pattern from its occurrence as part of its super-pattern. We present efficient algorithms for the mining of this new class of contextual patterns. In particular, in contrast to the bottom-up strategy for state-of-the-art pattern mining techniques, our top-down Reduce strategy piggy backs pattern detection with the detection of the context in which a pattern occurs. Our approach achieves linear time complexity in the length of the input sequence. Effective optimization techniques such as context-driven search space pruning and inverted index-based outlier pattern detection are also proposed to further speed up contextual pattern mining. Our experimental evaluation demonstrates the effectiveness of TOP at capturing meaningful outlier patterns in several real-world IoT use cases. We also demonstrate the efficiency of TOP, showing it to be up to 2 orders of magnitude faster than adapting state-of-the-art mining to produce this new class of contextual outlier patterns, allowing us to scale outlier pattern mining to large sequence datasets.
                 </span>
 
             </p>
@@ -1872,7 +1872,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Schema mappings express the relationships between sources in data interoperability scenarios and can be expressed in various formalisms. Source-to-target tuple-generating dependencies (s-t tgds) can be easily used for data transformation or query rewriting tasks. Second-order tgds (SO tgds) are more expressive as they can also represent the composition and inversion of s-t tgds. Yet, the expressive power of SO tgds comes with the problem of undecidability for some reasoning tasks. Nested tgds and plain SO tgds are mapping languages that are between s-t tgds and SO tgds in terms of expressivity, and their properties have been studied in the recent years. Nested tgds are less expressive than plain SO tgds, but the logical equivalence problem for nested tgds is decidable. However, a detailed characterization of plain SO tgds that have an equivalent nested tgd is missing. In this paper, we present an algorithmic solution for translating plain SO tgds into nested tgds. The algorithm computes one or more nested tgds, if a given plain SO tgd is rewritable. Furthermore, we are able to give a detailed characterization of those plain SO tgds for which an equivalent nested tgd exists, based on the structural properties of the source predicates and Skolem functions in the plain SO tgd. In the evaluation, we show that our algorithms covers a larger subset of plain SO tgds than previous approaches and that a rewriting can be computed efficiently although the algorithm has exponential complexity.
+                    Schema mappings express the relationships between sources in data interoperability scenarios and can be expressed in various formalisms. Source-to-target tuple-generating dependencies (s-t tgds) can be easily used for data transformation or query rewriting tasks. Second-order tgds (SO tgds) are more expressive as they can also represent the composition and inversion of s-t tgds. Yet, the expressive power of SO tgds comes with the problem of undecidability for some reasoning tasks. Nested tgds and plain SO tgds are mapping languages that are between s-t tgds and SO tgds in terms of expressivity, and their properties have been studied in the recent years. Nested tgds are less expressive than plain SO tgds, but the logical equivalence problem for nested tgds is decidable. However, a detailed characterization of plain SO tgds that have an equivalent nested tgd is missing. In this paper, we present an algorithmic solution for translating plain SO tgds into nested tgds. The algorithm computes one or more nested tgds, if a given plain SO tgd is rewritable. Furthermore, we are able to give a detailed characterization of those plain SO tgds for which an equivalent nested tgd exists, based on the structural properties of the source predicates and Skolem functions in the plain SO tgd. In the evaluation, we show that our algorithm covers a larger subset of plain SO tgds than previous approaches and that a rewriting can be computed efficiently although the algorithm has the exponential complexity.
                 </span>
 
             </p>
@@ -1957,14 +1957,14 @@
 
             </p>
 
-            <p class="schedule-item" data-id="798">
-                <strong class="schedule-item-title" data-num="24.2">Fine-Grained, Secure and Efficient Data Provenance for Blockchain Systems</strong>
+            <p class="schedule-item winning-paper" data-id="798">
+                <strong class="schedule-item-title" title="Awarded Best Paper" data-num="24.2">Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems</strong>
                 <span class="schedule-item-people">
                     <span class="author">Pingcheng&nbsp;Ruan</span>&nbsp;(National University of Singapore),
                     <span class="author">Gang&nbsp;Chen</span>&nbsp;(Zhejiang University),
-                    <span class="author">Anh&nbsp;T.T&nbsp;Dinh</span>&nbsp;(National University of Singapore),
+                    <span class="author">Tien&nbsp;Tuan&nbsp;Anh&nbsp;Dinh</span>&nbsp;(National University of Singapore),
                     <span class="author">Qian&nbsp;Lin</span>&nbsp;(National University of Singapore),
-                    <span class="author">Beng&nbsp;Chin&nbsp;Ooi</span>&nbsp;(NUS), and
+                    <span class="author">Beng&nbsp;Chin&nbsp;Ooi</span>&nbsp;(National University of Singapore), and
                     <span class="author">Meihui&nbsp;Zhang</span>&nbsp;(Beijing Institute of Technology)
                 </span>
                 <span class="schedule-item-abstract">
@@ -2053,7 +2053,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    With the widespread use of GPS-enabled mobile devices, an unprecedented amount of trajectory data has become available from various sources such as Bikely, GPS-wayPoints, and Uber. The rise of smart transportation services and recent break-throughs in autonomous vehicles increase our reliance on trajectory data in a wide variety of applications. Supporting these services in emerging platforms requires more efficient query processing in trajectory databases. In this paper, we propose two new coverage queries for trajectory databases: (i) k Best Facility Trajectory Search (kBFT); and (ii) k Best Coverage Facility Trajectory Search (kBCovFT). We propose a novel index structure, the Trajectory Quadtree (TQtree) that utilizes a quadtree to hierarchically organize trajectories into different nodes, and then applies a z-ordering to further organize the trajectories by spatial locality inside each node. This structure is highly effective in pruning the trajectory search space, which is of independent interest. By exploiting the TQ-tree, we develop a divide-and-conquer approach to efficiently process a kBFT query. To solve the kBCovFT, which is a non-submodular NP-hard problem, we propose a greedy approximation. We evaluate our algorithms through an extensive experimental study on several real datasets, and demonstrate that our algorithms outperform baselines by two to three orders of magnitude.
+                    With the widespread use of GPS-enabled mobile devices, an unprecedented amount of trajectory data has become available from various sources such as Bikely, GPS-wayPoints, and Uber. The rise of smart transportation services and recent break-throughs in autonomous vehicles increase our reliance on trajectory data in a wide variety of applications. Supporting these services in emerging platforms requires more efficient query processing in trajectory databases. In this paper, we propose two new coverage queries for trajectory databases: (i) k Best Facility Trajectory Search (kBFT); and (ii) k Best Coverage Facility Trajectory Search (kBCovFT). We propose a novel index structure, the Trajectory Quadtree (TQ-tree) that utilizes a quadtree to hierarchically organize trajectories into different nodes, and then applies a z-ordering to further organize the trajectories by spatial locality inside each node. This structure is highly effective in pruning the trajectory search space, which is of independent interest. By exploiting the TQ-tree, we develop a divide-and-conquer approach to efficiently process a kBFT query. To solve the kBCovFT, which is a non-submodular NP-hard problem, we propose a greedy approximation. We evaluate our algorithms through an extensive experimental study on several real datasets, and demonstrate that our algorithms outperform baselines by two to three orders of magnitude.
                 </span>
 
             </p>
@@ -2063,7 +2063,7 @@
                 <span class="schedule-item-people">
                     <span class="author">Bishwamittra&nbsp;Ghosh</span>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
                     <span class="author">Mohammed&nbsp;Eunus&nbsp;Ali</span>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
-                    <span class="author">Farhana&nbsp;M&nbsp;Choudhury</span>&nbsp;(RMIT University),
+                    <span class="author">Farhana&nbsp;M.&nbsp;Choudhury</span>&nbsp;(RMIT University and University of Melbourne),
                     <span class="author">Sajid&nbsp;Hasan</span>&nbsp;(Bangladesh University of Engineering and Technology (BUET)),
                     <span class="author">Timos&nbsp;Sellis</span>&nbsp;(Swinburne University of Technology), and
                     <span class="author">Jianxin&nbsp;Li</span>&nbsp;(The University of Western Australia)
@@ -2252,7 +2252,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    A private data federation is a set of autonomous databases that share a unified query interface offering in-situ evaluation of SQL queries over the union of the sensitive data of its members. Owing to privacy concerns, these systems do not have a trusted data collector that can see all their data and their member databases cannot learn about individual records of other engines. Federations currently achieve this goal by evaluating queries obliviously using secure multiparty computation. This hides the intermediate result cardinality of each query operator by exhaustively padding it. With cascades of such operators, this padding accumulates to a blow-up in the output size of each operator and a proportional loss in query performance. Hence, existing private data federations do not scale well to complex SQL queries over large datasets. We introduce Shrinkwrap, a private data federation that offers data owners a differentially private view of the data held by others to improve their performance over oblivious query processing. Shrinkwrap uses computational differential privacy to minimize the padding of intermediate query results, achieving up to a 35X performance improvement over oblivious query processing. When the query needs differentially private output, Shrinkwrap provides a trade-off between result accuracy and query evaluation performance.
+                    A private data federation is a set of autonomous databases that share a unified query interface offering in-situ evaluation of SQL queries over the union of the sensitive data of its members. Owing to privacy concerns, these systems do not have a trusted data collector that can see all their data and their member databases cannot learn about individual records of other engines. Federations currently achieve this goal by evaluating queries obliviously using secure multi-party computation. This hides the intermediate result cardinality of each query operator by exhaustively padding it. With cascades of such operators, this padding accumulates to a blow-up in the output size of each operator and a proportional loss in query performance. Hence, existing private data federations do not scale well to complex SQL queries over large datasets. We introduce Shrinkwrap, a private data federation that offers data owners a differentially private view of the data held by others to improve their performance over oblivious query processing. Shrinkwrap uses computational differential privacy to minimize the padding of intermediate query results, achieving up to a 35X performance improvement over oblivious query processing. When the query needs differentially private output, Shrinkwrap provides a trade-off between result accuracy and query evaluation performance.
                 </span>
 
             </p>
@@ -2266,8 +2266,8 @@
             <p class="schedule-item" data-id="1198">
                 <strong class="schedule-item-title" data-num="28.1">A Concave Path to Low-overhead Robust Query Processing</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Srinivas&nbsp;Karthik&nbsp;Venkatesh</span>&nbsp;(Indian Institute of Science),
-                    <span class="author">Jayant&nbsp;Haritsa</span>&nbsp;(Indian Institute of Science),
+                    <span class="author">Srinivas&nbsp;Karthik</span>&nbsp;(Indian Institute of Science),
+                    <span class="author">Jayant&nbsp;R.&nbsp;Haritsa</span>&nbsp;(Indian Institute of Science),
                     <span class="author">Sreyash&nbsp;Kenkre</span>&nbsp;(IBM Research), and
                     <span class="author">Vinayaka&nbsp;Pandit</span>&nbsp;(IBM Research)
                 </span>
@@ -2297,7 +2297,7 @@
                 <strong class="schedule-item-title" data-num="28.3">Durable Top-k Queries on Temporal Data</strong>
                 <span class="schedule-item-people">
                     <span class="author">Junyang&nbsp;Gao</span>&nbsp;(Duke University),
-                    <span class="author">Pankaj&nbsp;Agarwal</span>&nbsp;(Duke University), and
+                    <span class="author">Pankaj&nbsp;K.&nbsp;Agarwal</span>&nbsp;(Duke University), and
                     <span class="author">Jun&nbsp;Yang</span>&nbsp;(Duke University)
                 </span>
                 <span class="schedule-item-abstract">
@@ -2310,7 +2310,7 @@
             <p class="schedule-item" data-id="1203">
                 <strong class="schedule-item-title" data-num="28.4">Scalable, Variable-Length Similarity Search in Data Series: The ULISSE Approach</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Michele&nbsp;Linardi</span>&nbsp;(University Paris Descartes) and
+                    <span class="author">Michele&nbsp;Linardi</span>&nbsp;(Paris Descartes University) and
                     <span class="author">Themis&nbsp;Palpanas</span>&nbsp;(Paris Descartes University)
                 </span>
                 <span class="schedule-item-abstract">

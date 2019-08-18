@@ -1,5 +1,6 @@
 <section class="program-schedule-phd-workshop">
     <h1>VLDB 2019: PhD Workshop</h1>
+    <p>Proceedings available at <a href="http://ceur-ws.org/Vol-2399">CEUR-WS</a>.</p>
 
     <div class="schedule-wrap">
         <div>
@@ -63,7 +64,7 @@
             <p class="schedule-item" data-id="1115">
                 <strong class="schedule-item-title">Developing Big Data Analytics Architecture for Spatial Data</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Purnima&nbsp;Shah</span>&nbsp;(School of Engineering and Applied Scinece, Ahmedabad univerisity, Gujarat)
+                    <span class="author">Purnima&nbsp;Shah</span>&nbsp;(School of Engineering and Applied Science, Ahmedabad University, India)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -164,7 +165,7 @@
             <p class="schedule-item" data-id="1096">
                 <strong class="schedule-item-title">Make Informed Decisions: Understanding Query Results from Incomplete Databases</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Poonam&nbsp;Kumari</span>&nbsp;(Buffalo)
+                    <span class="author">Poonam&nbsp;Kumari</span>&nbsp;(State University of New York at Buffalo)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -225,7 +226,7 @@
             </p>
 
             <p class="schedule-item" data-id="939">
-                <strong class="schedule-item-title">A Cross-domain Natural Language Interface to Databases using Adversarial Text Method</strong>
+                <strong class="schedule-item-title">A cross-domain natural language interface to databases using adversarial text method</strong>
                 <span class="schedule-item-people">
                     <span class="author">Wenlu&nbsp;Wang</span>&nbsp;(Auburn University)
                 </span>
@@ -237,9 +238,9 @@
             </p>
 
             <p class="schedule-item" data-id="1118">
-                <strong class="schedule-item-title">Computational Aspects Around Preference Queries</strong>
+                <strong class="schedule-item-title">Computational aspects around preference queries</strong>
                 <span class="schedule-item-people">
-                    <span class="author">Karim&nbsp;Alami</span>&nbsp;(labri, university of Bordeaux)
+                    <span class="author">Karim&nbsp;Alami</span>&nbsp;(University of Bordeaux, CNRS, LaBRI, UMR 5800)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>

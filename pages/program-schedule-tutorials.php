@@ -18,8 +18,8 @@
                     <a class="author" href="mailto:" data-uz="fnargesian" data-at="cs.toronto.edu">Fatemeh&nbsp;Nargesian</a>&nbsp;(University of Toronto),
                     <a class="author" href="mailto:" data-uz="ekzhu" data-at="cs.toronto.edu">Erkang&nbsp;Zhu</a>&nbsp;(University of Toronto),
                     <a class="author" href="mailto:" data-uz="miller" data-at="northeastern.edu">Renée&nbsp;J.&nbsp;Miller</a>&nbsp;(Northeastern University),
-                    <a class="author" href="mailto:" data-uz="ken.pu" data-at="uoit.ca">Ken&nbsp;Q.&nbsp;Pu</a>&nbsp;(University of Ontario Inst. of Technology), and
-                    <a class="author" href="mailto:" data-uz="prg" data-at="cs.toronto.edu">Patricia&nbsp;Arocena</a>&nbsp;(TD Bank Group)
+                    <a class="author" href="mailto:" data-uz="ken.pu" data-at="uoit.ca">Ken&nbsp;Pu</a>&nbsp;(UOIT), and
+                    <a class="author" href="mailto:" data-uz="prg" data-at="cs.toronto.edu">Patricia&nbsp;C.&nbsp;Arocena</a>&nbsp;(TD Bank Group)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -36,11 +36,11 @@
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="laks" data-at="cs.ubc.ca">Laks&nbsp;V.S.&nbsp;Lakshmanan</a>&nbsp;(The University of British Columbia),
                     <a class="author" href="mailto:" data-uz="simpsonm" data-at="uvic.ca">Michael&nbsp;Simpson</a>&nbsp;(The University of British Columbia), and
-                    <a class="author" href="mailto:" data-uz="sthirumuruganathan" data-at="hbku.edu.qa">Saravanan&nbsp;Thirumuruganathan</a>&nbsp;(QCRI)
+                    <a class="author" href="mailto:" data-uz="sthirumuruganathan" data-at="hbku.edu.qa">Saravanan&nbsp;Thirumuruganathan</a>&nbsp;(QCRI, HBKU)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Fake news is a major threat to global democracy resulting in diminished trust in government, journalism and civil society. The public popularity of social media and social networks has caused a contagion of fake news where conspiracy theories, disinformation and extreme views flourish. Detection and mitigation of fake news is one of the fundamental problems of our times and has attracted widespread attention. While fact checking websites such as snopes, politifact and major companies such as Google, Facebook, and Twitter have taken preliminary steps towards addressing fake news, much more remains to be done. As an interdisciplinary topic, various facets of fake news have been studied by communities as diverse as machine learning, databases, journalism, political science and many more. The objective of this tutorial is two-fold. First, we wish to familiarize the database community about the efforts by other communities on combating fake news. We provide a panoramic view of the state-of-the-art of research on various aspects including detection, propagation, mitigation, and intervention of fake news. Next, we provide a concise and intuitive summary of prior research by the database community and how it could be used to counteract fake news. The tutorial covers research from areas such as data integration, truth discovery and fusion, probabilistic databases, knowledge graphs and crowdsourcing from the lens of fake news. Effective tools for addressing fake news could only be built by leveraging the synergistic relationship between database and other research communities. We hope that our tutorial provides an impetus towards such synthesis of ideas and the creation of new ones.
+                    Fake news is a major threat to global democracy resulting in diminished trust in government, journalism and civil society. The public popularity of social media and social networks has caused a contagion of fake news where conspiracy theories, disinformation and extreme views flourish. Detection and mitigation of fake news is one of the fundamental problems of our times and has attracted widespread attention. While fact checking websites such as snopes, politifact and major companies such as Google, Facebook, and Twitter have taken preliminary steps towards addressing fake news, much more remains to be done. As an interdisciplinary topic, various facets of fake news have been studied by communities as diverse as machine learning, databases, journalism, political science and many more. The objective of this tutorial is two-fold. First, we wish to familiarize the database community with the efforts by other communities on combating fake news. We provide a panoramic view of the state-of-the-art of research on various aspects including detection, propagation, mitigation, and intervention of fake news. Next, we provide a concise and intuitive summary of prior research by the database community and discuss how it could be used to counteract fake news. The tutorial covers research from areas such as data integration, truth discovery and fusion, probabilistic databases, knowledge graphs and crowdsourcing from the lens of fake news. Effective tools for addressing fake news could only be built by leveraging the synergistic relationship between database and other research communities. We hope that our tutorial provides an impetus towards such synthesis of ideas and the creation of new ones.
                 </span>
 
             </p>
@@ -68,7 +68,7 @@
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    Database and big data analytics systems such as Hadoop and Spark have a large number of configuration parameters that control memory distribution, I/O optimization, parallelism, and compression. Improper parameter settings can cause significant performance degradation and stability issues. However, regular users and even expert administrators struggle to understand and tune them to achieve good performance. In this tutorial, we review existing approaches on automatic parameter tuning for databases, Hadoop, and Spark, which we classify into six categories: rule-based, cost modeling, simulation-based, experiment-driven, machine learning, and adaptive tuning. We describe the foundations of different automatic parameter tuning algorithms and present pros and cons of each approach. We also highlight real-world applications and systems and identify research challenges for handling cloud services, resource heterogeneity, and real-time analytics.
+                    Database and big data analytics systems such as Hadoop and Spark have a large number of configuration parameters that control memory distribution, I/O optimization, parallelism, and compression. Improper parameter settings can cause significant performance degradation and stability issues. However, regular users and even expert administrators struggle to understand and tune them to achieve good performance. In this tutorial, we review existing approaches on automatic parameter tuning for databases, Hadoop, and Spark, which we classify into six categories: rule-based, cost modeling, simulation-based, experiment-driven, machine learning, and adaptive tuning. We describe the foundations of different automatic parameter tuning algorithms and present pros and cons of each approach. We also highlight real-world applications and systems, and identify research challenges for handling cloud services, resource heterogeneity, and real-time analytics.
                 </span>
 
             </p>
@@ -79,12 +79,12 @@
             <p class="schedule-item" data-id="955">
                 <strong class="schedule-item-title">The Ever Evolving Online Labor Market: Overview, Challenges and Opportunities</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="sihem.amer-yahia" data-at="imag.fr">Sihem&nbsp;Amer-Yahia</a>&nbsp;(CNRS, University of Grenoble) and
-                    <a class="author" href="mailto:" data-uz="senjutib" data-at="gmail.com">Senjuti&nbsp;Basu&nbsp;Roy</a>&nbsp;(New Jersey Institute of Technology)
+                    <a class="author" href="mailto:" data-uz="sihem.amer-yahia" data-at="imag.fr">Sihem&nbsp;Amer-Yahia</a>&nbsp;(CNRS, Univ. Grenoble Alpes) and
+                    <a class="author" href="mailto:" data-uz="senjutib" data-at="gmail.com">Senjuti&nbsp;Basu&nbsp;Roy</a>&nbsp;(NJIT)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
-                    The goal of this tutorial is to make the audience aware of various discipline-specific research activities that could be characterized to be part of online labor markets and advocate for a unified framework that is interdisciplinary in nature and requires convergence of different research disciplines. We will discuss how such a framework could bring transformative effect on the nexus of humans, technology, and the future of work. This 1.5 hour tutorial has three parts: we will first describe different applications that rely on free-lancing and online labor markets. Then, we will re-visit seminal and prominent works that came out from different research communities (social science, machine learning, data management, psychology and organizational research, and economics) on the topic of online labor markets, describe their approaches and summarize their impact on science, society and industry. Finally, we will outline the requirements of a unified framework that has the potential to combine the best of all these worlds and present modeling, data management and algorithmic challenges to conceptualize such a framework.
+                    The goal of this tutorial is to make the audience aware of various discipline-specific research activities that could be characterized to be part of online labor markets and advocate for a unified framework that is interdisciplinary in nature and requires convergence of different research disciplines. We will discuss how such a framework could bring transformative effect on the nexus of humans, technology, and the future of work.
                 </span>
 
             </p>
@@ -106,7 +106,7 @@
                 <strong class="schedule-item-title">Machine Learning Meets Big Spatial Data</strong>
                 <span class="schedule-item-people">
                     <a class="author" href="mailto:" data-uz="sabek" data-at="cs.umn.edu">Ibrahim&nbsp;Sabek</a>&nbsp;(University of Minnesota) and
-                    <a class="author" href="mailto:" data-uz="mokbel" data-at="umn.edu">Mohamed&nbsp;Mokbel</a>&nbsp;(Qatar Computing Research Institute)
+                    <a class="author" href="mailto:" data-uz="mokbel" data-at="umn.edu">Mohamed&nbsp;F.&nbsp;Mokbel</a>&nbsp;(Qatar Computing Research Institute, Hamad bin Khalifa University)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
@@ -139,11 +139,11 @@
             <p class="schedule-item" data-id="970">
                 <strong class="schedule-item-title">Personal Database Security and Trusted Execution Environments: A Tutorial at the Crossroads</strong>
                 <span class="schedule-item-people">
-                    <a class="author" href="mailto:" data-uz="nicolas.anciaux" data-at="inria.fr">Nicolas&nbsp;Anciaux</a>&nbsp;(INRIA),
-                    <a class="author" href="mailto:" data-uz="luc.bouganim" data-at="inria.fr">Luc&nbsp;Bouganim</a>&nbsp;(INRIA),
-                    <a class="author" href="mailto:" data-uz="philippe.pucheral" data-at="inria.fr">Philippe&nbsp;Pucheral</a>&nbsp;(USVQ/INRIA),
-                    <a class="author" href="mailto:" data-uz="iulian.sandu-popa" data-at="uvsq.fr">Iulian&nbsp;Sandu&nbsp;Popa</a>&nbsp;(INRIA & David Lab.,Univ. of Versailles Saint-Quentin, France), and
-                    <a class="author" href="mailto:" data-uz="guillaume.scerri" data-at="uvsq.fr">Guillaume&nbsp;Scerri</a>&nbsp;(UVSQ)
+                    <a class="author" href="mailto:" data-uz="nicolas.anciaux" data-at="inria.fr">Nicolas&nbsp;Anciaux</a>&nbsp;(Inria Saclay, U. Versailles SaintQuentin, Université Paris-Saclay),
+                    <a class="author" href="mailto:" data-uz="luc.bouganim" data-at="inria.fr">Luc&nbsp;Bouganim</a>&nbsp;(Inria Saclay, U. Versailles SaintQuentin, Université Paris-Saclay),
+                    <a class="author" href="mailto:" data-uz="philippe.pucheral" data-at="inria.fr">Philippe&nbsp;Pucheral</a>&nbsp;(U. Versailles Saint-Quentin, Inria Saclay, Université Paris-Saclay),
+                    <a class="author" href="mailto:" data-uz="iulian.sandu-popa" data-at="uvsq.fr">Iulian&nbsp;Sandu&nbsp;Popa</a>&nbsp;(U. Versailles Saint-Quentin, Inria Saclay,  Université Paris-Saclay), and
+                    <a class="author" href="mailto:" data-uz="guillaume.scerri" data-at="uvsq.fr">Guillaume&nbsp;Scerri</a>&nbsp;(U. Versailles Saint-Quentin, Inria Saclay,  Université Paris-Saclay)
                 </span>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>

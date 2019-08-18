@@ -191,7 +191,7 @@
             <span class="author">Laila Abdelhafeez</span> (University of California, Riverside),
             <span class="author">Yunfan Kang</span> (University of California Riverside),
             <span class="author">Eric Ong</span> (University of California Riverside), and
-            <span class="author">Mohamed Mokbel</span> (University of Minnesota)
+            <span class="author">Mohamed F. Mokbel</span> (University of Minnesota)
         </span>
         <span class="accepted-abstract">
             <a class="accepted-abstract-action"></a>
