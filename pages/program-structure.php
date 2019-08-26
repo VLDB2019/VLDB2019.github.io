@@ -1,5 +1,6 @@
 <section class="program-structure">
     <h1>VLDB 2019: Program Structure</h1>
+    <p><a href="./?schedule">Click here</a> for the mobile-friendly schedule of the day.</p>
 
     <table class="structure" cols="6">
         <thead>
@@ -16,6 +17,10 @@
         </tr>
         </thead>
         <tbody>
+        <tr>
+            <td>8:00</td>
+            <td colspan="5" class="hl-row">Morning Coffee &mdash;&nbsp;Room:&nbsp;California Foyer</td>
+        </tr>
         <tr>
             <td>9:00 – 10:30</td>
             <td><a href="./?program-schedule-workshops#Workshop_AIDB">AIDB</a></td>
@@ -232,7 +237,13 @@
             <td>8:00</td>
             <td colspan="7" class="hl-row">Morning Coffee &mdash;&nbsp;Room:&nbsp;California Foyer</td>
         </tr>
-        <tr><td>9:00 – 10:30</td><td colspan="7"><a href="./?2019-vldb-endowment-awards">Conference Awards: <small>VLDB Endowment Awards, VLDB 10-year Best Paper Award Talk, VLDB Women in Databases Award Talk, and VLDB Early Career Research Contribution Award Talk</small></a> &mdash;&nbsp;Room:&nbsp;Sacramento / San Francisco</td></tr>
+        <tr>
+            <td>9:00 – 10:30</td><td colspan="7">
+                <a href="./?conference-awards">Conference Awards: <small>Best Paper, Best Demo, and Distinguished Reviewers</small></a><br />
+                <a href="./?2019-vldb-endowment-awards">Endowment Awards: <small>VLDB Test of Time Award Talks, VLDB Women in Database Research Award Talk, and VLDB Early Career Research Contribution&nbsp;Award&nbsp;Talk</small></a><br />
+                &mdash; Room: Sacramento / San Francisco
+            </td>
+        </tr>
         <tr><td>10:30 – 11:00</td><td colspan="7" class="hl-row">Coffee Break (30 min) &mdash;&nbsp;Room:&nbsp;California Foyer</td></tr>
         <tr>
             <td>11:00 – 12:30</td>

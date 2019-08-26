@@ -1367,6 +1367,7 @@ div.workshop-title:first-child {
     color: #444;
     font-size: 14px;
     margin-right: 2px;
+    font-weight: 600;
 }
 
 .award-items {

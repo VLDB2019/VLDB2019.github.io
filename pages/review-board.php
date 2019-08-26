@@ -84,7 +84,7 @@
         <div><strong>Ashwin Machanavajjhala</strong>, Duke University</div>
         <div><strong>Stefan Manegold</strong>, CWI Amsterdam</div>
         <div><strong>Ioana Manolescu</strong>, INRIA</div>
-        <div><strong>Essam M. Mansour</strong>, QCRI</div>
+        <div><strong>Essam M. Mansour</strong>, Concordia University – Canada</div>
         <div><strong>Michael Mathioudakis</strong>, University of Helsinki</div>
         <div><strong>Umar Farooq Minhas</strong>, Microsoft Research</div>
         <div><strong>Mohamed F. Mokbel</strong>, Qatar Computing Research Institute</div>

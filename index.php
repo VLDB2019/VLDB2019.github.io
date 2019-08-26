@@ -83,6 +83,7 @@ $content = ob_get_clean();
             Conference Program
             <div class="menu">
                 <a href="./?program-structure" itemprop="url"><span itemprop="name">Program structure</span></a>
+                <a href="./VLDB2019-Booklet.pdf" itemprop="url" target="_blank"><span itemprop="name">Conference booklet</span></a>
                 <hr/>
                 <a href="./?program-schedule-keynote-speakers" itemprop="url"><span itemprop="name">Keynote speakers</span></a>
                 <a href="./?program-schedule-tutorials" itemprop="url"><span itemprop="name">Tutorials</span></a>
@@ -93,6 +94,7 @@ $content = ob_get_clean();
                 <a href="./?papers-industrial" itemprop="url"><span itemprop="name">Industrial track papers</span></a>
                 <a href="./?program-schedule-industry-talks" itemprop="url"><span itemprop="name">Invited industry talks</span></a>
                 <a href="./?program-schedule-panel" itemprop="url"><span itemprop="name">Panel</span></a>
+                <a href="./?conference-awards" itemprop="url"><span itemprop="name">Conference Awards</span></a>
                 <hr/>
                 <a href="./?program-schedule-posters" itemprop="url"><span itemprop="name">Posters of VLDBJ papers</span></a>
                 <a href="./?2019-vldb-endowment-awards" itemprop="url"><span itemprop="name">VLDB Endowment Awards</span></a>
@@ -141,8 +143,9 @@ $content = ob_get_clean();
                 <a href="./?info-travel-support" itemprop="url"><span itemprop="name">Travel support</span></a>
                 <a href="./?info-visa" itemprop="url"><span itemprop="name">Visa information</span></a>
                 <a href="./?info-airports-guide" itemprop="url"><span itemprop="name">Airports guide</span></a>
-                <a href="./?info-public-transport" itemprop="url"><span itemprop="name">Public transport</span></a>
+                <a href="./?info-conference-venue#public-transport" itemprop="url"><span itemprop="name">Public transport</span></a>
                 <a href="./?info-local-attractions" itemprop="url"><span itemprop="name">Local attractions</span></a>
+                <a href="./?info-camp-vldb" itemprop="url"><span itemprop="name">Camp VLDB 2019</span></a>
                 <a href="./?info-public-safety" itemprop="url"><span itemprop="name">Public safety</span></a>
             </div>
         </div>
@@ -183,8 +186,8 @@ $content = ob_get_clean();
     <script src="./js/talks.js"></script>
     <script src="./js/program-schedule.js"></script>
 <?php } else { ?>
-    <link rel="stylesheet" href="./css/prod-7.min.css">
-    <script async src="./js/prod-7.min.js"></script>
+    <link rel="stylesheet" href="./css/prod-8.min.css">
+    <script async src="./js/prod-8.min.js"></script>
 <?php } ?>
 
 <script async src="https://platform.twitter.com/widgets.js"></script>

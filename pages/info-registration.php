@@ -1,6 +1,6 @@
 <section class="info-registration">
     <h1>VLDB 2019: Registration</h1>
-    <p>Online registrations for the VLDB 2019 are open now and will close on 21 August 2019 at 11:59 p.m. PST. <a href="https://www.eventsquid.com/event.cfm?event_id=6012">Register online now</a>.</p>
+    <p>Online registrations for the VLDB 2019 are closed.</p>
 
     <div class="registration-fees-wide">
         <table>
@@ -42,13 +42,13 @@
                 <tr><td>Additional Reception Ticket <span>(Aug 27)</span></td><td colspan="2">120.00 USD</td></tr>
                 <tr><td>Additional Banquet Ticket <span>(Aug 28)</span></td><td colspan="2">120.00 USD</td></tr>
             </tbody>
-            -->
             <thead>
                 <tr><th colspan="3">Online Registration</th></tr>
             </thead>
             <tbody>
                 <tr><td>Registration Link</td><td><a href="https://www.eventsquid.com/register/6012?profileName=Regular%2FProfessional">Regular/Professional</a></td><td><a href="https://www.eventsquid.com/register/6012?profileName=Student">Student</a></td></tr>
             </tbody>
+            -->
         </table>
     </div>
 

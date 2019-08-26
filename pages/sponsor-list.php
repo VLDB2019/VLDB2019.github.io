@@ -57,6 +57,7 @@
             <h4>Silver Sponsors</h4>
             <div class="sponsor-logos sponsor-4">
                 <a href="https://www.intel.com/" class="no-ext-icon" title="Intel - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Intel.png"></a>
+                <a href="https://www.lenovo.com/" class="no-ext-icon" title="Lenovo - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Lenovo.png"></a>
                 <a href="https://www.sigmacomputing.com/" class="no-ext-icon" title="Sigma Computing - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Sigma.png"></a>
                 <a href="https://www.thoughtspot.com/" class="no-ext-icon" title="Thoughtspot - Silver Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Thoughtspot.png"></a>
                 <a class="sponsor-spacer"></a>

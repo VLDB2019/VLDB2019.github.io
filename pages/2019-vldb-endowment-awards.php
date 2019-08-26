@@ -48,16 +48,16 @@
 
 </section>
 <?php
-define('PageTitle', "2019 VLDB Endowment Awards");
-define('PageDescription', "2019 VLDB Early Career Research Contribution Award, Women in Database Research Award, and VLDB Test of Time Awards.");
+define('PageTitle', "Endowment Awards");
+define('PageDescription', "VLDB Early Career Research Contribution Award, Women in Database Research Award, and VLDB Test of Time Awards.");
 ?>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "name": "2019 VLDB Endowment Awards",
+  "name": "Endowment Awards",
   "url": "https://vldb.org/2019/?2019-vldb-endowment-awards",
-  "description": "2019 VLDB Early Career Research Contribution Award, Women in Database Research Award, and VLDB Test of Time Awards.",
+  "description": "VLDB Early Career Research Contribution Award, Women in Database Research Award, and VLDB Test of Time Awards.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [{
@@ -93,7 +93,7 @@ define('PageDescription', "2019 VLDB Early Career Research Contribution Award, W
       "position": 5,
       "item": {
         "@id": "https://vldb.org/2019/?2019-vldb-endowment-awards",
-        "name": "Tutorials"
+        "name": "VLDB Endowment Awards"
       }
     }]
   }

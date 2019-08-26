@@ -40,6 +40,14 @@
         <li>On-site parking, fee: 15 USD hourly, 49 USD daily</li>
         <li>Valet parking, fee: 49 USD daily</li>
         <li>Parking for vehicles up to 6 feet tall. For oversized vehicles, contact the hotel for parking alternatives</li>
+        <li>There are apps that help find inexpensive parking alternatives around Bonaventure and at Bonaventure itself; here are a few:
+            <ul>
+                <li><a href="https://spothero.com/search?latitude=34.05223429999999&longitude=-118.25631820000001&search_string=Bonaventure%20Hotel%20Parking%2C%20South%20Figueroa%20Street%2C%20Los%20Angeles%2C%20CA%2C%20USA">SpotHero</a></li>
+                <li><a href="https://www.bestparking.com/los-angeles-ca-parking/destinations/the-westin-bonaventure-parking/?daily=1">BestParking</a></li>
+                <li><a href="https://www.parkme.com/los-angeles-parking">ParkMe</a></li>
+            </ul>
+            Reviews of these apps and others are available <a href="https://www.borowitzclark.com/los-angeles-parking-apps/">here</a>, courtesy of Borowitz & Clark, LLP.
+        </li>
     </ul>
 
     <div id="public-transport" style="margin-top: -114px; padding-top: 100px"></div>

@@ -1471,6 +1471,83 @@
             </p>
 
 
+            <div class="schedule-head" id="Research_Session_18">
+                <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Research Session 18: Graph Analytics II</strong>
+                <span class="schedule-chair">Chaired by <em>Xiangmin Zhou</em> (RMIT University, Australia) at <em>San Jose</em> room</span> 
+            </div>
+            
+            <p class="schedule-item" data-id="1092">
+                <strong class="schedule-item-title" data-num="18.1">Constrained Shortest Path Query in a Large Time-Dependent Graph</strong>
+                <span class="schedule-item-people">
+                    <span class="author">Ye&nbsp;Yuan</span>&nbsp;(Beijing Institute of Technology),
+                    <span class="author">Xiang&nbsp;Lian</span>&nbsp;(Kent State University),
+                    <span class="author">Guoren&nbsp;Wang</span>&nbsp;(Beijing Institute of Technology),
+                    <span class="author">Yuliang&nbsp;Ma</span>&nbsp;(Northeastern University), and
+                    <span class="author">Yishu&nbsp;Wang</span>&nbsp;(Northeastern University)
+                </span>
+                <span class="schedule-item-abstract">
+                    <a class="schedule-item-action"></a>
+                    The constrained shortest path (CSP) query over static graphs has been extensively studied, since it has wide applications in transportation networks, telecommunication networks and etc. Such networks are dynamic and evolve over time, being modeled as time-dependent graphs. Therefore, in this paper, we study the CSP query over a large time-dependent graph. Specifically, we study the point CSP (PCSP) query and interval CSP (ICSP) query. We formally prove that it is NP-complete to process a PCSP query and at least EXPSPACE to answer an ICSP query. We propose approximate sequential algorithms to answer the PCSP and ICSP queries efficiently. We also develop parallel algorithms for the queries that guarantee to scale with big time-dependent graphs. Using real-life graphs, we experimentally verify the efficiency and scalability of our algorithms.
+                </span>
+
+            </p>
+
+            <p class="schedule-item" data-id="423">
+                <strong class="schedule-item-title" data-num="18.2">Correlation Constraint Shortest Path over Large Multi-Relation Graphs</strong>
+                <span class="schedule-item-people">
+                    <span class="author">Xiaofei&nbsp;Zhang</span>&nbsp;(University of Memphis) and
+                    <span class="author">Tamer&nbsp;Özsu</span>&nbsp;(University of Waterloo)
+                </span>
+                <span class="schedule-item-abstract">
+                    <a class="schedule-item-action"></a>
+                    Multi-relation graphs intuitively capture the heterogeneous correlations among real-world entities by allowing multiple types of relationships to be represented as entity-connecting edges, i.e., two entities could be correlated with more than one type of relationship. This is important in various applications such as social network analysis, ecology, and bio-informatics. Existing studies on these graphs usually consider an edge label constraint perspective, where each edge contains only one label and each edge is considered independently. For example, there are lines of research focusing on reachability between two vertices under a set of edge label constraints, or finding paths whose consecutive edge labels satisfy a user-specified logical expression. This is too restricted in real graphs, and in this work, we define a generic correlation constraint on multi-relation graphs from the perspective of vertex correlations, where a correlation can be defined recursively. Specifically, we formalize and investigate the shortest path problem over large multi-relation graphs in the presence of both necessity and denial constraints, which have various real applications. We show that it is nontrivial to apply conventional graph traversal algorithms (e.g., BFS or DFS) to address the challenge. To effectively reduce the search space, we propose a Hybrid Relation Encoding method, a.k.a. HyRE, to encode both topological and relation information in a compact way. We conduct extensive experiments over large real-world graphs to validate the effectiveness and efficiency of the proposed solution.
+                </span>
+
+            </p>
+
+            <p class="schedule-item" data-id="666">
+                <strong class="schedule-item-title" data-num="18.3">An In-Depth Comparison of s-t Reliability Algorithms over Uncertain Graphs</strong>
+                <span class="schedule-item-people">
+                    <span class="author">Xiangyu&nbsp;Ke</span>&nbsp;(Nanyang Technological University),
+                    <span class="author">Arijit&nbsp;Khan</span>&nbsp;(Nanyang Technological University), and
+                    <span class="author">Leroy&nbsp;Lim</span>&nbsp;(Nanyang Technological University)
+                </span>
+                <span class="schedule-item-abstract">
+                    <a class="schedule-item-action"></a>
+                    Uncertain, or probabilistic, graphs have been increasingly used to represent noisy linked data in many emerging applications, and have recently attracted the attention of the database research community. A fundamental problem on uncertain graphs is the s-t reliability, which measures the probability that a target node t is reachable from a source node s in a probabilistic (or uncertain) graph, i.e., a graph where every edge is assigned a probability of existence. Due to the inherent complexity of the s-t reliability estimation problem(#P-hard), various sampling and indexing based efficient algorithms were proposed in the literature. However, since they have not been thoroughly compared with each other, it is not clear whether the later algorithm outperforms the earlier ones. More importantly, the comparison framework, datasets, and metrics were often not consistent (e.g., different convergence criteria were employed to find the optimal number of samples) across these works. We address this serious concern by re-implementing six state-of-the-art s-t reliability estimation methods in a common system and code base, using several medium and large-scale, real-world graph datasets, identical evaluation metrics, and query workloads. Through our systematic and in-depth analysis of experimental results, we report surprising findings, such as many follow-up algorithms can actually be several orders of magnitude inefficient, less accurate, and more memory intensive compared to the ones that were proposed earlier. We conclude by discussing our recommendations on the road ahead.
+                </span>
+
+            </p>
+
+            <p class="schedule-item" data-id="1161">
+                <strong class="schedule-item-title" data-num="18.4">Motivo: Fast Motif Counting via Succinct Color Coding and Adaptive Sampling</strong>
+                <span class="schedule-item-people">
+                    <span class="author">Marco&nbsp;Bressan</span>&nbsp;(Sapienza University of Rome),
+                    <span class="author">Stefano&nbsp;Leucci</span>&nbsp;(MPI-INF), and
+                    <span class="author">Alessandro&nbsp;Panconesi</span>&nbsp;(Sapienza University of Rome)
+                </span>
+                <span class="schedule-item-abstract">
+                    <a class="schedule-item-action"></a>
+                    The randomized technique of color coding is behind state-of-the-art algorithms for estimating graph motif counts. Those algorithms, however, are not yet capable of scaling well to very large graphs with billions of edges. In this paper we develop novel tools for the "motif counting via color coding" framework. As a result, our new algorithm, motivo, scales to much larger graphs while at the same time providing more accurate motif counts than ever before. This is achieved thanks to two types of improvements. First, we design new succinct data structures for fast color coding operations, and a biased coloring trick that trades accuracy versus resource usage. These optimizations drastically reduce the resource requirements of color coding. Second, we develop an adaptive motif sampling strategy, based on a fractional set cover problem, that breaks the additive approximation barrier of standard sampling. This gives multiplicative approximations for all motifs at once, allowing us to count not only the most frequent motifs but also extremely rare ones. To give an idea of the improvements, in 40 minutes motivo counts 7-nodes motifs on a graph with 65M nodes and 1.8B edges; this is 30 and 500 times larger than the state of the art, respectively in terms of nodes and edges. On the accuracy side, in one hour motivo produces accurate counts of ≈10.000 distinct 8-node motifs on graphs where state-of-the-art algorithms fail even to find the second most frequent motif. Our method requires just a high-end desktop machine. These results show how color coding can bring motif mining to the realm of truly massive graphs using only ordinary hardware.
+                </span>
+
+            </p>
+
+            <p class="schedule-item" data-id="1128">
+                <strong class="schedule-item-title" data-num="18.5">Querying Shortest Paths on Time Dependent Road Networks</strong>
+                <span class="schedule-item-people">
+                    <span class="author">Yong&nbsp;Wang</span>&nbsp;(Tsinghua University),
+                    <span class="author">Guoliang&nbsp;Li</span>&nbsp;(Tsinghua University), and
+                    <span class="author">Nan&nbsp;Tang</span>&nbsp;(Qatar Computing Research Institute, HBKU)
+                </span>
+                <span class="schedule-item-abstract">
+                    <a class="schedule-item-action"></a>
+                    For real-world time dependent road networks (TDRNs), answering shortest path-based route queries and plans in real-time is highly desirable by many industrial applications. Unfortunately, traditional (Dijkstra- or A*-like) algorithms are computationally expensive for such tasks on TDRNs. Naturally, indexes are needed to meet the real-time constraint required by real applications. In this paper, we propose a novel height-balanced tree-structured index, called TD-G-tree, which supports fast route queries over TDRNs. The key idea is to use hierarchical graph partitioning to split a road network into hierarchical partitions. This will produce a balanced tree, where each tree node corresponds to a partition and each parent-child relationship corresponds to a partition and its sub-partition. We then compute and index time dependent shortest paths (TDSPs) only for borders (i.e., vertices whose edges are cut by a partition). Based on TD-G-tree, we devise efficient algorithms to support TDSP queries, as well as time-interval based route planning, for computing optimal solutions through dynamic programming and chronological divide-and-conquer. Extensive experiments on real-world datasets show that our method significantly outperforms existing approaches.
+                </span>
+
+            </p>
+
+
             <div class="schedule-head" id="Research_Session_19">
                 <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Research Session 19: Indexing and Search</strong>
                 <span class="schedule-chair">Chaired by <em>Bolin Ding</em> (Alibaba Group, China) at <em>San Diego</em> room</span> 
@@ -1612,83 +1689,6 @@
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
                     Traditional relational data interfaces require precise structured queries over potentially complex schemas. These rigid data retrieval mechanisms pose hurdles for non-expert users, who typically lack language expertise and are unfamiliar with the details of the schema. Query by Example (QBE) methods offer an alternative mechanism: users provide examples of their intended query output and the QBE system needs to infer the intended query. However, these approaches focus on the structural similarity of the examples and ignore the richer context present in the data. As a result, they typically produce queries that are too general, and fail to capture the user's intent effectively. In this paper, we present SQuID, a system that performs semantic similarity-aware query intent discovery. Our work makes the following contributions: (1) We design an end-to-end system that automatically formulates select-project-join queries in an open-world setting, with optional group-by aggregation and intersection operators; a much larger class than prior QBE techniques. (2) We express the problem of query intent discovery using a probabilistic abduction model, that infers a query as the most likely explanation of the provided examples. (3) We introduce the notion of an abduction-ready database, which precomputes semantic properties and related statistics, allowing SQuID to achieve real-time performance. (4) We present an extensive empirical evaluation on three real-world datasets, including user-intent case studies, demonstrating that SQuID is efficient and effective, and outperforms machine learning methods, as well as the state-of-the-art in the related query reverse engineering problem.
-                </span>
-
-            </p>
-
-
-            <div class="schedule-head" id="Research_Session_18">
-                <span class="schedule-time">11:00 &ndash; 12:30</span><strong class="main-title">Research Session 18: Graph Analytics II</strong>
-                <span class="schedule-chair">Chaired by <em>Xiangmin Zhou</em> (RMIT University, Australia) at <em>San Jose</em> room</span> 
-            </div>
-            
-            <p class="schedule-item" data-id="1092">
-                <strong class="schedule-item-title" data-num="18.1">Constrained Shortest Path Query in a Large Time-Dependent Graph</strong>
-                <span class="schedule-item-people">
-                    <span class="author">Ye&nbsp;Yuan</span>&nbsp;(Beijing Institute of Technology),
-                    <span class="author">Xiang&nbsp;Lian</span>&nbsp;(Kent State University),
-                    <span class="author">Guoren&nbsp;Wang</span>&nbsp;(Beijing Institute of Technology),
-                    <span class="author">Yuliang&nbsp;Ma</span>&nbsp;(Northeastern University), and
-                    <span class="author">Yishu&nbsp;Wang</span>&nbsp;(Northeastern University)
-                </span>
-                <span class="schedule-item-abstract">
-                    <a class="schedule-item-action"></a>
-                    The constrained shortest path (CSP) query over static graphs has been extensively studied, since it has wide applications in transportation networks, telecommunication networks and etc. Such networks are dynamic and evolve over time, being modeled as time-dependent graphs. Therefore, in this paper, we study the CSP query over a large time-dependent graph. Specifically, we study the point CSP (PCSP) query and interval CSP (ICSP) query. We formally prove that it is NP-complete to process a PCSP query and at least EXPSPACE to answer an ICSP query. We propose approximate sequential algorithms to answer the PCSP and ICSP queries efficiently. We also develop parallel algorithms for the queries that guarantee to scale with big time-dependent graphs. Using real-life graphs, we experimentally verify the efficiency and scalability of our algorithms.
-                </span>
-
-            </p>
-
-            <p class="schedule-item" data-id="423">
-                <strong class="schedule-item-title" data-num="18.2">Correlation Constraint Shortest Path over Large Multi-Relation Graphs</strong>
-                <span class="schedule-item-people">
-                    <span class="author">Xiaofei&nbsp;Zhang</span>&nbsp;(University of Memphis) and
-                    <span class="author">Tamer&nbsp;Özsu</span>&nbsp;(University of Waterloo)
-                </span>
-                <span class="schedule-item-abstract">
-                    <a class="schedule-item-action"></a>
-                    Multi-relation graphs intuitively capture the heterogeneous correlations among real-world entities by allowing multiple types of relationships to be represented as entity-connecting edges, i.e., two entities could be correlated with more than one type of relationship. This is important in various applications such as social network analysis, ecology, and bio-informatics. Existing studies on these graphs usually consider an edge label constraint perspective, where each edge contains only one label and each edge is considered independently. For example, there are lines of research focusing on reachability between two vertices under a set of edge label constraints, or finding paths whose consecutive edge labels satisfy a user-specified logical expression. This is too restricted in real graphs, and in this work, we define a generic correlation constraint on multi-relation graphs from the perspective of vertex correlations, where a correlation can be defined recursively. Specifically, we formalize and investigate the shortest path problem over large multi-relation graphs in the presence of both necessity and denial constraints, which have various real applications. We show that it is nontrivial to apply conventional graph traversal algorithms (e.g., BFS or DFS) to address the challenge. To effectively reduce the search space, we propose a Hybrid Relation Encoding method, a.k.a. HyRE, to encode both topological and relation information in a compact way. We conduct extensive experiments over large real-world graphs to validate the effectiveness and efficiency of the proposed solution.
-                </span>
-
-            </p>
-
-            <p class="schedule-item" data-id="666">
-                <strong class="schedule-item-title" data-num="18.3">An In-Depth Comparison of s-t Reliability Algorithms over Uncertain Graphs</strong>
-                <span class="schedule-item-people">
-                    <span class="author">Xiangyu&nbsp;Ke</span>&nbsp;(Nanyang Technological University),
-                    <span class="author">Arijit&nbsp;Khan</span>&nbsp;(Nanyang Technological University), and
-                    <span class="author">Leroy&nbsp;Lim</span>&nbsp;(Nanyang Technological University)
-                </span>
-                <span class="schedule-item-abstract">
-                    <a class="schedule-item-action"></a>
-                    Uncertain, or probabilistic, graphs have been increasingly used to represent noisy linked data in many emerging applications, and have recently attracted the attention of the database research community. A fundamental problem on uncertain graphs is the s-t reliability, which measures the probability that a target node t is reachable from a source node s in a probabilistic (or uncertain) graph, i.e., a graph where every edge is assigned a probability of existence. Due to the inherent complexity of the s-t reliability estimation problem(#P-hard), various sampling and indexing based efficient algorithms were proposed in the literature. However, since they have not been thoroughly compared with each other, it is not clear whether the later algorithm outperforms the earlier ones. More importantly, the comparison framework, datasets, and metrics were often not consistent (e.g., different convergence criteria were employed to find the optimal number of samples) across these works. We address this serious concern by re-implementing six state-of-the-art s-t reliability estimation methods in a common system and code base, using several medium and large-scale, real-world graph datasets, identical evaluation metrics, and query workloads. Through our systematic and in-depth analysis of experimental results, we report surprising findings, such as many follow-up algorithms can actually be several orders of magnitude inefficient, less accurate, and more memory intensive compared to the ones that were proposed earlier. We conclude by discussing our recommendations on the road ahead.
-                </span>
-
-            </p>
-
-            <p class="schedule-item" data-id="1161">
-                <strong class="schedule-item-title" data-num="18.4">Motivo: Fast Motif Counting via Succinct Color Coding and Adaptive Sampling</strong>
-                <span class="schedule-item-people">
-                    <span class="author">Marco&nbsp;Bressan</span>&nbsp;(Sapienza University of Rome),
-                    <span class="author">Stefano&nbsp;Leucci</span>&nbsp;(MPI-INF), and
-                    <span class="author">Alessandro&nbsp;Panconesi</span>&nbsp;(Sapienza University of Rome)
-                </span>
-                <span class="schedule-item-abstract">
-                    <a class="schedule-item-action"></a>
-                    The randomized technique of color coding is behind state-of-the-art algorithms for estimating graph motif counts. Those algorithms, however, are not yet capable of scaling well to very large graphs with billions of edges. In this paper we develop novel tools for the "motif counting via color coding" framework. As a result, our new algorithm, motivo, scales to much larger graphs while at the same time providing more accurate motif counts than ever before. This is achieved thanks to two types of improvements. First, we design new succinct data structures for fast color coding operations, and a biased coloring trick that trades accuracy versus resource usage. These optimizations drastically reduce the resource requirements of color coding. Second, we develop an adaptive motif sampling strategy, based on a fractional set cover problem, that breaks the additive approximation barrier of standard sampling. This gives multiplicative approximations for all motifs at once, allowing us to count not only the most frequent motifs but also extremely rare ones. To give an idea of the improvements, in 40 minutes motivo counts 7-nodes motifs on a graph with 65M nodes and 1.8B edges; this is 30 and 500 times larger than the state of the art, respectively in terms of nodes and edges. On the accuracy side, in one hour motivo produces accurate counts of ≈10.000 distinct 8-node motifs on graphs where state-of-the-art algorithms fail even to find the second most frequent motif. Our method requires just a high-end desktop machine. These results show how color coding can bring motif mining to the realm of truly massive graphs using only ordinary hardware.
-                </span>
-
-            </p>
-
-            <p class="schedule-item" data-id="1128">
-                <strong class="schedule-item-title" data-num="18.5">Querying Shortest Paths on Time Dependent Road Networks</strong>
-                <span class="schedule-item-people">
-                    <span class="author">Yong&nbsp;Wang</span>&nbsp;(Tsinghua University),
-                    <span class="author">Guoliang&nbsp;Li</span>&nbsp;(Tsinghua University), and
-                    <span class="author">Nan&nbsp;Tang</span>&nbsp;(Qatar Computing Research Institute, HBKU)
-                </span>
-                <span class="schedule-item-abstract">
-                    <a class="schedule-item-action"></a>
-                    For real-world time dependent road networks (TDRNs), answering shortest path-based route queries and plans in real-time is highly desirable by many industrial applications. Unfortunately, traditional (Dijkstra- or A*-like) algorithms are computationally expensive for such tasks on TDRNs. Naturally, indexes are needed to meet the real-time constraint required by real applications. In this paper, we propose a novel height-balanced tree-structured index, called TD-G-tree, which supports fast route queries over TDRNs. The key idea is to use hierarchical graph partitioning to split a road network into hierarchical partitions. This will produce a balanced tree, where each tree node corresponds to a partition and each parent-child relationship corresponds to a partition and its sub-partition. We then compute and index time dependent shortest paths (TDSPs) only for borders (i.e., vertices whose edges are cut by a partition). Based on TD-G-tree, we devise efficient algorithms to support TDSP queries, as well as time-interval based route planning, for computing optimal solutions through dynamic programming and chronological divide-and-conquer. Extensive experiments on real-world datasets show that our method significantly outperforms existing approaches.
                 </span>
 
             </p>
