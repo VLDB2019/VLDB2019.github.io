@@ -21,7 +21,7 @@
                 <span class="schedule-item-people">
                     <span class="author">M. Tamer Özsu</span> (University of Waterloo)
                 </span>
-                <a href="./files/VLDB19-keynote-1-slides.pdf" target="_blank" class="slides">Slides</a>
+                <a href="https://vldb2019.github.io/files/VLDB19-keynote-1-slides.pdf" class="slides">Slides</a>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
                     <strong class="schedule-part-label">Abstract:</strong>
@@ -46,6 +46,7 @@
                 <span class="schedule-item-people">
                     <span class="author">Tova Milo</span> (Tel Aviv University, Israel)
                 </span>
+                <a href="https://vldb2019.github.io/files/VLDB19-keynote-2-slides.pdf" class="slides">Slides</a>
                 <span class="schedule-item-abstract">
                     <a class="schedule-item-action"></a>
                     <strong class="schedule-part-label">Abstract:</strong>

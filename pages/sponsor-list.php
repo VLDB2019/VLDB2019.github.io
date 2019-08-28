@@ -21,6 +21,7 @@
                 <a href="https://www.apple.com/" class="no-ext-icon" title="Apple - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Apple.png"></a>
                 <a href="https://www.couchbase.com/" class="no-ext-icon" title="Couchbase - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Couchbase.png"></a>
                 <a href="https://databricks.com/" class="no-ext-icon" title="Databricks - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Databricks.png"></a>
+                <a href="https://www.ebay.com/" class="no-ext-icon" title="eBay - Platinum Sponsor" style="transform: scale(.75)"><img src="https://vldb2019.github.io/img/sponsor/eBay.png"></a>
                 <a href="https://www.facebook.com/" class="no-ext-icon" title="Facebook - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Facebook.png"></a>
                 <a href="https://www.google.com/" class="no-ext-icon" title="Google - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Google.png"></a>
                 <a href="https://www.huawei.com/" class="no-ext-icon" title="Huawei - Platinum Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Huawei.png"></a>
@@ -43,7 +44,6 @@
             <div class="sponsor-logos sponsor-3">
                 <a href="https://www.baidu.com/" class="no-ext-icon" title="Baidu - Gold Sponsor" style="transform: scale(.9)"><img src="https://vldb2019.github.io/img/sponsor/Baidu.png"></a>
                 <a href="https://www.cisco.com/" class="no-ext-icon" title="Cisco - Gold Sponsor" style="transform: scale(.8)"><img src="https://vldb2019.github.io/img/sponsor/Cisco.png"></a>
-                <a href="https://www.ebay.com/" class="no-ext-icon" title="eBay - Gold Sponsor" style="transform: scale(.75)"><img src="https://vldb2019.github.io/img/sponsor/eBay.png"></a>
                 <a href="https://www.megagon.ai/" class="no-ext-icon" title="Megagon - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Megagon.png"></a>
                 <a href="https://www.persistent.com/" class="no-ext-icon" title="Persistent Systems - Gold Sponsor"><img src="https://vldb2019.github.io/img/sponsor/Persistent.png"></a>
                 <a href="https://www.sap.com/" class="no-ext-icon" title="SAP - Gold Sponsor" style="transform: scale(.8)"><img src="https://vldb2019.github.io/img/sponsor/SAP.png"></a>
