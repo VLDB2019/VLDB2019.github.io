@@ -8,10 +8,14 @@
         </div>
         <a class="schedule-next" disabled="disabled" href="./?schedule-day-6"></a>
     </div>
-    
+
+    <div class="schedule-session">
+        <div class="schedule-time">8:00</div>
+        <p>California Foyer | <span>Morning Coffee</span></p>
+    </div>
     <div class="schedule-session">
         <div class="schedule-time">9:00 &ndash; 10:30</div>
-        <p>Sacramento / San Francisco | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
+        <p>Mt. Washington | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
         <p>San Jose | <a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></p>
         <p>San Diego | <a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></p>
         <p>Santa Anita | <a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></p>
@@ -24,7 +28,7 @@
     </div>
     <div class="schedule-session">
         <div class="schedule-time">11:00 &ndash; 12:30</div>
-        <p>Sacramento / San Francisco | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
+        <p>Mt. Washington | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
         <p>San Jose | <a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></p>
         <p>San Diego | <a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></p>
         <p>Santa Anita | <a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></p>
@@ -33,11 +37,11 @@
     </div>
     <div class="schedule-session">
         <div class="schedule-time">12:30 &ndash; 14:00</div>
-        <p>Plaza Deck | <span>Lunch Break <small>(90 min)</small></span></p>
+        <p>Pasadena | <span>Lunch Break <small>(90 min)</small></span></p>
     </div>
     <div class="schedule-session">
         <div class="schedule-time">14:00 &ndash; 15:30</div>
-        <p>Sacramento / San Francisco | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
+        <p>Mt. Washington | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
         <p>San Jose | <a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></p>
         <p>San Diego | <a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></p>
         <p>Santa Anita | <a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></p>
@@ -50,7 +54,7 @@
     </div>
     <div class="schedule-session">
         <div class="schedule-time">16:00 &ndash; 17:30</div>
-        <p>Sacramento / San Francisco | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
+        <p>Mt. Washington | <a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></p>
         <p>San Jose | <a href="./?program-schedule-workshops#Workshop_DMAH">DMAH</a></p>
         <p>San Diego | <a href="./?program-schedule-workshops#Workshop_Poly">Poly</a></p>
         <p>Santa Anita | <a href="./?program-schedule-workshops#Workshop_BCDL">BCDL</a></p>

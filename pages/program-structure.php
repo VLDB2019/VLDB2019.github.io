@@ -211,7 +211,7 @@
 
         <tr>
             <td>19:30 – 23:45</td>
-            <td colspan="7">VLDB Conference Banquet at the Westin Bonaventure</td>
+            <td colspan="7"><a href="./?info-banquet">VLDB Conference Banquet at the Westin Bonaventure</a> &mdash;&nbsp;Room:&nbsp;Pasadena</td>
         </tr>
         </tbody>
     </table>
@@ -288,7 +288,7 @@
         </tr>
         <tr>
             <th>Time</th>
-            <th>Sacramento / San Francisco</th>
+            <th>Mt. Washington</th>
             <th>San Jose</th>
             <th>San Diego</th>
             <th>Santa Anita</th>
@@ -297,6 +297,10 @@
         </tr>
         </thead>
         <tbody>
+        <tr>
+            <td>8:00</td>
+            <td colspan="6" class="hl-row">Morning Coffee &mdash;&nbsp;Room:&nbsp;California Foyer</td>
+        </tr>
         <tr>
             <td>9:00 – 10:30</td>
             <td><a href="./?program-schedule-workshops#Workshop_CAST">CAST</a></td>
@@ -321,7 +325,7 @@
         </tr>
         <tr>
             <td>12:30 – 14:00</td>
-            <td colspan="6" class="hl-row">Lunch Break (90 min) &mdash;&nbsp;Room:&nbsp;Plaza Deck</td>
+            <td colspan="6" class="hl-row">Lunch Break (90 min) &mdash;&nbsp;Room:&nbsp;Pasadena</td>
         </tr>
         <tr>
             <td>14:00 – 15:30</td>

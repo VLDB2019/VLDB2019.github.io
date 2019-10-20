@@ -76,6 +76,8 @@ $content = ob_get_clean();
                 <a href="./" itemprop="url"><span itemprop="name">Conference overview</span></a>
                 <a href="./?officers" itemprop="url"><span itemprop="name">Conference officers</span></a>
                 <a href="./?review-board" itemprop="url"><span itemprop="name">PVLDB review board</span></a>
+                <a href="./?external-reviewers" itemprop="url"><span itemprop="name">External Reviewers</span></a>
+                <a href="./?student-volunteers" itemprop="url"><span itemprop="name">Student volunteers</span></a>
                 <a href="./?contacts" itemprop="url"><span itemprop="name">Contacts</span></a>
             </div>
         </div>
@@ -137,6 +139,7 @@ $content = ob_get_clean();
                 <a href="./?info-paper-presenters" itemprop="url"><span itemprop="name">Research &amp; industry presenters</span></a>
                 <hr/>
                 <a href="./?info-reception" itemprop="url"><span itemprop="name">Reception</span></a>
+                <a href="./?info-banquet" itemprop="url"><span itemprop="name">Banquet</span></a>
                 <a href="./?info-registration" itemprop="url"><span itemprop="name">Registration</span></a>
                 <a href="./?info-conference-venue" itemprop="url"><span itemprop="name">Conference venue</span></a>
                 <a href="./?info-lodging" itemprop="url"><span itemprop="name">Lodging</span></a>
@@ -146,7 +149,7 @@ $content = ob_get_clean();
                 <a href="./?info-conference-venue#public-transport" itemprop="url"><span itemprop="name">Public transport</span></a>
                 <a href="./?info-local-attractions" itemprop="url"><span itemprop="name">Local attractions</span></a>
                 <a href="./?info-camp-vldb" itemprop="url"><span itemprop="name">Camp VLDB 2019</span></a>
-                <a href="./?info-public-safety" itemprop="url"><span itemprop="name">Public safety</span></a>
+                <a href="https://twitter.com/notifyla" class="no-ext-icon" itemprop="url"><span itemprop="name">Public safety</span></a>
             </div>
         </div>
     </nav>

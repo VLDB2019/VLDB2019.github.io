@@ -63,7 +63,7 @@
     </div>
     <div class="schedule-session">
         <div class="schedule-time">19:30 &ndash; 23:45</div>
-        <p><span>VLDB Conference Banquet at the Westin Bonaventure</span></p>
+        <p>Pasadena | <a href="./?info-banquet">VLDB Conference Banquet at the Westin Bonaventure</a></p>
     </div>
 
 </section>
